@@ -1,0 +1,1287 @@
+[
+  {
+    "slug": "sewing-needle",
+    "name": "Sewing needle",
+    "category": "Clothing, accessories & sewing",
+    "invention": {
+      "display": "c. 50,000 years ago",
+      "year": -48000,
+      "approximate": true,
+      "era": "Prehistoric"
+    },
+    "place_of_invention": {
+      "region": "Altai Mountains, Siberia",
+      "modern_country": "Russia",
+      "notes": "The oldest known eyed needle, made of bird bone, comes from Denisova Cave; whether Denisovans or modern humans made it is debated, and eyed bone needles later appear across Eurasia."
+    },
+    "inventor": null,
+    "short_description": "A slender pointed shaft with an eye at one end that pulls thread through fabric.",
+    "description": "Eyed needles carved from bone allowed Ice Age people to stitch fitted clothing from hides, a major advantage in cold climates. Later needles were made of bronze, then iron and steel, but the shape stayed the same. Today sewing needles come in many sizes for hand sewing, embroidery, quilting and leatherwork.",
+    "why_unchanged": "A sharp point to pierce and an eye to carry thread is the simplest possible way to stitch, so nothing has needed to be added.",
+    "materials": [
+      "bone",
+      "bronze",
+      "steel"
+    ],
+    "faqs": [
+      {
+        "question": "How old is the sewing needle?",
+        "answer": "The oldest known eyed needle, from Denisova Cave in Siberia, is roughly 50,000 years old. Bone needles became common across Europe and Asia during the last Ice Age."
+      },
+      {
+        "question": "What do the numbers on needle packets mean?",
+        "answer": "For most hand-sewing needles, a higher number means a thinner, shorter needle. Fine fabrics call for higher numbers, while heavy fabrics need lower numbers."
+      },
+      {
+        "question": "Why were needles so valuable in the past?",
+        "answer": "Before industrial production, each needle was made by hand and steel ones were costly, so people kept them carefully in needle cases. Losing a needle could be a real household setback."
+      }
+    ],
+    "image": {
+      "search_query": "assorted steel sewing needles close up",
+      "wikimedia_commons_category": "Sewing needles",
+      "alt": "Several steel sewing needles of different sizes"
+    },
+    "tags": [
+      "sewing",
+      "prehistoric",
+      "tools",
+      "bone"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "straight-pin",
+    "name": "Straight pin",
+    "category": "Clothing, accessories & sewing",
+    "invention": {
+      "display": "c. 3000 BCE (metal pins)",
+      "year": -3000,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Mesopotamia and Egypt",
+      "modern_country": "Iraq",
+      "notes": "Pins of bone and thorn are far older; copper and bronze pins appear in the Near East and Egypt by the 3rd millennium BCE."
+    },
+    "inventor": null,
+    "short_description": "A short, sharp metal shaft with a head, used to hold fabric together temporarily.",
+    "description": "Simple pins of thorn, bone and wood were used to fasten garments long before metalworking. Metal pins became common in the Bronze Age, and by the early modern period pin-making was a large industry. Sewists today use straight pins to hold pattern pieces and seams in place before stitching.",
+    "why_unchanged": "A point and a head are all a pin needs to pierce and hold fabric, so only the material and manufacturing have improved.",
+    "materials": [
+      "bone",
+      "bronze",
+      "steel",
+      "brass"
+    ],
+    "faqs": [
+      {
+        "question": "What are straight pins used for in sewing?",
+        "answer": "They hold layers of fabric or paper patterns together before cutting or stitching. They are removed as the seam is sewn."
+      },
+      {
+        "question": "What is the famous pin factory in economics?",
+        "answer": "Adam Smith used pin-making in The Wealth of Nations (1776) to explain how dividing work into specialized steps multiplies output."
+      },
+      {
+        "question": "Why do some pins have glass or plastic heads?",
+        "answer": "Larger colored heads are easier to see, grip and find if dropped. Glass heads also tolerate the heat of an iron better than plastic ones."
+      }
+    ],
+    "image": {
+      "search_query": "dressmaker straight pins in fabric",
+      "wikimedia_commons_category": "Pins",
+      "alt": "Straight pins with round heads stuck in fabric"
+    },
+    "tags": [
+      "sewing",
+      "fastener",
+      "ancient",
+      "metal"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "safety-pin",
+    "name": "Safety pin",
+    "category": "Clothing, accessories & sewing",
+    "invention": {
+      "display": "1849",
+      "year": 1849,
+      "approximate": false,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "New York City",
+      "modern_country": "United States",
+      "notes": "Patented by Walter Hunt (US Patent 6,281, April 10, 1849); ancient fibula brooches used a similar spring-and-clasp principle."
+    },
+    "inventor": "Walter Hunt",
+    "short_description": "A pin bent into a spring with a clasp that covers its point.",
+    "description": "Walter Hunt reportedly designed the safety pin while twisting a piece of wire to pay off a debt, and sold the patent rights soon after. His design coiled the wire into a spring at one end and added a clasp to shield the point. It is still used for diapers, clothing repairs, race numbers and quick fixes.",
+    "why_unchanged": "The coiled spring and protective clasp solved both holding and safety in one piece of wire, leaving nothing to improve.",
+    "materials": [
+      "steel",
+      "brass"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the safety pin?",
+        "answer": "Walter Hunt of New York patented it in 1849. He sold the rights for a small sum, reportedly 400 dollars."
+      },
+      {
+        "question": "Did anything like it exist earlier?",
+        "answer": "Yes, ancient fibula brooches from the Bronze Age used a similar spring and catch to fasten cloaks. Hunt's version added a covering clasp for the point."
+      },
+      {
+        "question": "Why does the safety pin have a coil?",
+        "answer": "The coil acts as a spring that keeps tension on the point inside the clasp. It also prevents fabric from slipping into the gap at the base."
+      }
+    ],
+    "image": {
+      "search_query": "metal safety pins close up",
+      "wikimedia_commons_category": "Safety pins",
+      "alt": "A group of closed silver safety pins"
+    },
+    "tags": [
+      "fastener",
+      "patent",
+      "19th-century",
+      "metal"
+    ],
+    "confidence": "high"
+  },
+  {
+    "slug": "thimble",
+    "name": "Thimble",
+    "category": "Clothing, accessories & sewing",
+    "invention": {
+      "display": "1st century CE",
+      "year": 79,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Roman Empire",
+      "modern_country": "Italy",
+      "notes": "Bronze thimbles have been found at Pompeii, buried in 79 CE; ring-style thimbles may be older in Han dynasty China, and sources differ."
+    },
+    "inventor": null,
+    "short_description": "A small hard cap worn on the fingertip to push a needle through fabric.",
+    "description": "Thimbles protect the finger that pushes the needle, especially through thick cloth or leather. Roman examples in bronze closely resemble modern ones, with dimpled surfaces to catch the needle's end. They have been made in leather, brass, silver, porcelain and plastic, and are popular collectibles.",
+    "why_unchanged": "A dimpled cap that fits the finger already does its one job perfectly.",
+    "materials": [
+      "bronze",
+      "brass",
+      "silver",
+      "leather",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "Which finger do you wear a thimble on?",
+        "answer": "Most people wear it on the middle finger of the sewing hand, using its side or top to push the needle."
+      },
+      {
+        "question": "Why do thimbles have dimples?",
+        "answer": "The small pits catch the eye end of the needle so it does not slip while being pushed through fabric."
+      },
+      {
+        "question": "Are thimbles collectible?",
+        "answer": "Yes, collecting thimbles is a long-standing hobby, and decorated silver or porcelain thimbles were popular souvenirs and gifts."
+      }
+    ],
+    "image": {
+      "search_query": "metal sewing thimble on finger",
+      "wikimedia_commons_category": "Thimbles",
+      "alt": "A dimpled metal thimble beside a needle and thread"
+    },
+    "tags": [
+      "sewing",
+      "ancient",
+      "roman",
+      "tools"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "scissors",
+    "name": "Scissors",
+    "category": "Clothing, accessories & sewing",
+    "invention": {
+      "display": "c. 100 CE (pivoted scissors)",
+      "year": 100,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Roman Empire",
+      "modern_country": "Italy",
+      "notes": "Cross-bladed scissors with a central pivot are credited to the Romans around 100 CE; earlier spring-type shears existed in Mesopotamia and Egypt."
+    },
+    "inventor": null,
+    "short_description": "A cutting tool with two blades joined at a pivot, operated by finger loops.",
+    "description": "Romans made cross-bladed scissors of bronze or iron with a pivot between handles and blades. The design spread across Europe and Asia and was mass-produced in steel from the 18th century, notably in Sheffield. Scissors remain essential for cutting fabric, thread, paper and much more.",
+    "why_unchanged": "Two blades sliding past each other on a pivot give precise cutting with simple leverage, so only materials and handle comfort have changed.",
+    "materials": [
+      "bronze",
+      "iron",
+      "steel",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "When were scissors invented?",
+        "answer": "Pivoted scissors were in use in the Roman Empire by around 100 CE. Simpler spring shears are older still."
+      },
+      {
+        "question": "What is the difference between scissors and shears?",
+        "answer": "In everyday use, shears usually have longer blades and handles of different sizes for heavy cutting, while scissors are smaller with symmetrical handles."
+      },
+      {
+        "question": "Why should fabric scissors not cut paper?",
+        "answer": "Paper contains abrasive fibers and fillers that dull the blades quickly. Dedicated fabric scissors stay sharp much longer."
+      }
+    ],
+    "image": {
+      "search_query": "pair of steel scissors on table",
+      "wikimedia_commons_category": "Scissors",
+      "alt": "An open pair of metal scissors"
+    },
+    "tags": [
+      "sewing",
+      "cutting",
+      "roman",
+      "tools"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "spring-shears",
+    "name": "Spring shears",
+    "category": "Clothing, accessories & sewing",
+    "invention": {
+      "display": "c. 1500 BCE",
+      "year": -1500,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Mesopotamia and Egypt",
+      "modern_country": "Iraq",
+      "notes": "Spring-type shears made of a single bent strip of metal are thought to date to the 2nd millennium BCE in the Near East; dating varies between sources."
+    },
+    "inventor": null,
+    "short_description": "Shears made from two blades joined by a U-shaped spring that reopens them after each cut.",
+    "description": "Before the pivot was adopted, shears were formed from one strip of metal bent so that two blades met when squeezed. This design was used for cutting cloth, hair and wool. It survives in sheep-shearing blades and in small thread snips used by sewists and embroiderers.",
+    "why_unchanged": "The springy bow opens the blades automatically, which makes them fast and comfortable for repeated snipping.",
+    "materials": [
+      "bronze",
+      "iron",
+      "steel"
+    ],
+    "faqs": [
+      {
+        "question": "How do spring shears work?",
+        "answer": "Squeezing the blades together cuts, and the bent spring at the back pushes them open again. No pivot or screw is needed."
+      },
+      {
+        "question": "Are spring shears still used?",
+        "answer": "Yes, they are still used for hand-shearing sheep and as thread snips, including traditional Japanese nigiri-basami."
+      },
+      {
+        "question": "Are spring shears older than scissors?",
+        "answer": "Yes, spring shears predate the pivoted scissors that the Romans popularized."
+      }
+    ],
+    "image": {
+      "search_query": "spring thread snips sewing",
+      "wikimedia_commons_category": "Shears",
+      "alt": "Small spring-handled thread snips"
+    },
+    "tags": [
+      "cutting",
+      "ancient",
+      "tools",
+      "sewing"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "pinking-shears",
+    "name": "Pinking shears",
+    "category": "Clothing, accessories & sewing",
+    "invention": {
+      "display": "1893",
+      "year": 1893,
+      "approximate": false,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "United States",
+      "modern_country": "United States",
+      "notes": "Louise Austin received a US patent for a pinking shears design in 1893; Samuel Briskman's 1931 patent is often cited for the modern form."
+    },
+    "inventor": null,
+    "short_description": "Scissors with sawtooth blades that cut fabric in a zigzag edge.",
+    "description": "Pinking shears cut a zigzag line that limits fraying in woven fabric, making them handy for seam allowances. Before them, sewists used pinking irons, struck with a mallet, to cut decorative edges. The zigzag-bladed scissor form has stayed the same since the late 19th and early 20th century.",
+    "why_unchanged": "The zigzag edge works by geometry alone, so nothing about the blades needed redesigning.",
+    "materials": [
+      "steel",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "Why do pinking shears cut in a zigzag?",
+        "answer": "A zigzag edge has many short bias cuts, which fray much less than a straight cut along the grain."
+      },
+      {
+        "question": "Can pinking shears replace seam finishing?",
+        "answer": "They are a quick finish for stable fabrics that do not fray much, but loose weaves still benefit from overlocking or binding."
+      },
+      {
+        "question": "Where does the word pinking come from?",
+        "answer": "To pink once meant to pierce or decorate cloth with small holes or notches, a sense that predates the color pink."
+      }
+    ],
+    "image": {
+      "search_query": "pinking shears zigzag fabric",
+      "wikimedia_commons_category": "Pinking shears",
+      "alt": "Pinking shears beside fabric with a zigzag edge"
+    },
+    "tags": [
+      "sewing",
+      "cutting",
+      "patent",
+      "19th-century"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "drop-spindle",
+    "name": "Drop spindle",
+    "category": "Clothing, accessories & sewing",
+    "invention": {
+      "display": "Neolithic, c. 8000–6000 BCE",
+      "year": -7000,
+      "approximate": true,
+      "era": "Prehistoric"
+    },
+    "place_of_invention": {
+      "region": "Near East",
+      "modern_country": "Turkey",
+      "notes": "Spindle whorls appear at Neolithic sites in the Near East; hand-twisted thread is much older and exact dating is debated."
+    },
+    "inventor": null,
+    "short_description": "A weighted stick spun by hand to twist fiber into yarn.",
+    "description": "A drop spindle is a shaft fitted with a weight, called a whorl, that keeps it spinning as fiber is drawn out and twisted. It made it possible to produce long, even thread for weaving and sewing. Hand spinners around the world still use drop spindles for wool, cotton and other fibers.",
+    "why_unchanged": "A stick and a weight provide all the momentum spinning needs, and they remain portable and cheap.",
+    "materials": [
+      "wood",
+      "stone",
+      "clay",
+      "bone"
+    ],
+    "faqs": [
+      {
+        "question": "What does the whorl on a spindle do?",
+        "answer": "The whorl adds weight and acts like a flywheel, keeping the spindle turning longer so it twists more fiber."
+      },
+      {
+        "question": "Why is it called a drop spindle?",
+        "answer": "The spinner lets it hang and drop from the forming yarn while it spins, rather than supporting it in a bowl or on the thigh."
+      },
+      {
+        "question": "Is a drop spindle hard to learn?",
+        "answer": "Most beginners can make usable yarn within a few hours of practice, which is why spindles are a common entry point to hand spinning."
+      }
+    ],
+    "image": {
+      "search_query": "wooden drop spindle with wool yarn",
+      "wikimedia_commons_category": "Drop spindles",
+      "alt": "A wooden drop spindle with freshly spun wool"
+    },
+    "tags": [
+      "spinning",
+      "textile",
+      "prehistoric",
+      "tools"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "distaff",
+    "name": "Distaff",
+    "category": "Clothing, accessories & sewing",
+    "invention": {
+      "display": "Antiquity (by 1st millennium BCE)",
+      "year": -1000,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Eastern Mediterranean",
+      "modern_country": "Greece",
+      "notes": "The distaff is depicted in ancient Greek art and texts and is probably older; no single place of origin is known."
+    },
+    "inventor": null,
+    "short_description": "A staff that holds unspun fiber so a spinner can draw it out easily.",
+    "description": "The distaff keeps a mass of wool or flax tidy while the spinner feeds fibers to a spindle or wheel. It was so closely tied to women's work that 'distaff side' came to mean the female line of a family. Distaffs are still made for hand spinning, especially of flax.",
+    "why_unchanged": "Holding fiber on a stick is as simple as it gets, so the tool still works exactly as before.",
+    "materials": [
+      "wood",
+      "bone"
+    ],
+    "faqs": [
+      {
+        "question": "What is a distaff used for?",
+        "answer": "It holds prepared fiber, especially flax, so it does not tangle while the spinner draws it out into thread."
+      },
+      {
+        "question": "What does 'distaff side' mean?",
+        "answer": "It refers to the female side of a family, because spinning with a distaff was traditionally women's work."
+      },
+      {
+        "question": "Is a distaff needed for spinning wool?",
+        "answer": "Not always; many spinners hold short wool fibers in the hand, but a distaff is very helpful for long fibers such as flax."
+      }
+    ],
+    "image": {
+      "search_query": "distaff with flax for spinning",
+      "wikimedia_commons_category": "Distaffs",
+      "alt": "A wooden distaff dressed with flax fiber"
+    },
+    "tags": [
+      "spinning",
+      "textile",
+      "ancient",
+      "tools"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "spinning-wheel",
+    "name": "Spinning wheel",
+    "category": "Clothing, accessories & sewing",
+    "invention": {
+      "display": "c. 500–1000 CE",
+      "year": 750,
+      "approximate": true,
+      "era": "Medieval"
+    },
+    "place_of_invention": {
+      "region": "Indian subcontinent",
+      "modern_country": "India",
+      "notes": "Most historians place the origin in India in the 1st millennium CE, though some argue for China; it reached Europe via the Islamic world by the 13th century."
+    },
+    "inventor": null,
+    "short_description": "A hand- or foot-driven wheel that turns a spindle to twist fiber into yarn.",
+    "description": "The spinning wheel uses a large wheel and a drive band to spin a spindle far faster than by hand. It spread from Asia through the Middle East to Europe in the Middle Ages, where foot treadles and flyers were later added. Hand spinners still use wheels whose basic layout would be familiar to a medieval weaver.",
+    "why_unchanged": "A wheel driving a spindle by a band is an efficient, repairable mechanism that needs no power source.",
+    "materials": [
+      "wood",
+      "leather",
+      "iron"
+    ],
+    "faqs": [
+      {
+        "question": "Where was the spinning wheel invented?",
+        "answer": "It most likely originated in India between 500 and 1000 CE, though some historians argue for China. It reached Europe by the 13th century."
+      },
+      {
+        "question": "Why is the spinning wheel a symbol in India?",
+        "answer": "Mahatma Gandhi promoted the charkha spinning wheel as a symbol of self-reliance, and it appeared on early versions of the Indian national flag."
+      },
+      {
+        "question": "Are spinning wheels still used?",
+        "answer": "Yes, hobby and craft spinners worldwide use wooden spinning wheels to make yarn by hand."
+      }
+    ],
+    "image": {
+      "search_query": "wooden spinning wheel with wool",
+      "wikimedia_commons_category": "Spinning wheels",
+      "alt": "A traditional wooden spinning wheel"
+    },
+    "tags": [
+      "spinning",
+      "textile",
+      "medieval",
+      "wood"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "warp-weighted-loom",
+    "name": "Warp-weighted loom",
+    "category": "Clothing, accessories & sewing",
+    "invention": {
+      "display": "c. 6000 BCE",
+      "year": -6000,
+      "approximate": true,
+      "era": "Prehistoric"
+    },
+    "place_of_invention": {
+      "region": "Anatolia and Central Europe",
+      "modern_country": "Turkey",
+      "notes": "Clay loom weights are found at Neolithic sites in Anatolia and Central Europe; the earliest dates are debated."
+    },
+    "inventor": null,
+    "short_description": "An upright loom whose vertical warp threads are kept taut by hanging weights.",
+    "description": "The warp-weighted loom hangs warp threads from a top beam, tensioned by stone or clay weights tied in bundles. Weavers work standing and beat the weft upward. It was used across Europe for thousands of years and survived in Scandinavia into the 20th century; reconstructions are woven on today.",
+    "why_unchanged": "Gravity provides warp tension for free, so the loom needs only a frame, a beam and weights.",
+    "materials": [
+      "wood",
+      "clay",
+      "stone",
+      "wool"
+    ],
+    "faqs": [
+      {
+        "question": "How do archaeologists know these looms existed?",
+        "answer": "Rows of clay or stone loom weights found on house floors show where the looms stood, even after the wooden frames rotted away."
+      },
+      {
+        "question": "Why do weavers beat the weft upward?",
+        "answer": "On this loom the cloth is woven from the top beam down, so each new weft row is pushed up against the finished fabric."
+      },
+      {
+        "question": "Is the warp-weighted loom still used?",
+        "answer": "It was used in rural Norway and Iceland into the 20th century, and today historical weavers and museums still use it."
+      }
+    ],
+    "image": {
+      "search_query": "warp weighted loom with loom weights",
+      "wikimedia_commons_category": "Warp-weighted looms",
+      "alt": "An upright loom with stone weights hanging from the warp"
+    },
+    "tags": [
+      "weaving",
+      "textile",
+      "prehistoric",
+      "loom"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "weaving-shuttle",
+    "name": "Weaving shuttle",
+    "category": "Clothing, accessories & sewing",
+    "invention": {
+      "display": "Antiquity (date unknown)",
+      "year": -2000,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Eurasia",
+      "modern_country": "Unknown",
+      "notes": "Weft carriers developed with weaving itself; no specific origin is known. John Kay's 1733 flying shuttle is a later mechanized variant."
+    },
+    "inventor": null,
+    "short_description": "A boat-shaped tool that carries weft thread across a loom.",
+    "description": "The shuttle holds a bobbin or wound weft and is passed through the opening between warp threads. Its pointed, boat-like shape lets it glide quickly from one side to the other. Hand weavers still use wooden boat and stick shuttles of the same form.",
+    "why_unchanged": "A smooth, pointed holder is the most efficient way to pass weft through the shed by hand.",
+    "materials": [
+      "wood",
+      "bone"
+    ],
+    "faqs": [
+      {
+        "question": "What is the shed in weaving?",
+        "answer": "It is the opening created when some warp threads are raised and others lowered, through which the shuttle passes."
+      },
+      {
+        "question": "What was the flying shuttle?",
+        "answer": "Patented by John Kay in 1733, it was knocked across the loom by a mechanism, letting one weaver make much wider cloth faster."
+      },
+      {
+        "question": "Why is the shuttle boat-shaped?",
+        "answer": "The tapered ends slip easily between warp threads and the hollow center holds a bobbin of weft."
+      }
+    ],
+    "image": {
+      "search_query": "wooden weaving boat shuttle",
+      "wikimedia_commons_category": "Shuttles (weaving)",
+      "alt": "A wooden boat shuttle with a bobbin of yarn"
+    },
+    "tags": [
+      "weaving",
+      "textile",
+      "ancient",
+      "tools"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "tablet-weaving-card",
+    "name": "Tablet weaving card",
+    "category": "Clothing, accessories & sewing",
+    "invention": {
+      "display": "c. 6th century BCE",
+      "year": -550,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Central Europe",
+      "modern_country": "Germany",
+      "notes": "The earliest secure evidence comes from Hallstatt-period burials such as Hochdorf; claims of older Egyptian examples are disputed."
+    },
+    "inventor": null,
+    "short_description": "A small square card with a hole in each corner, turned in packs to weave narrow patterned bands.",
+    "description": "In tablet weaving, warp threads pass through holes in a pack of cards, which are rotated to create sheds and twist the threads. It produces strong, decorative bands for belts, straps and trim. Weavers today use the same square cards, now often made of cardboard or plastic.",
+    "why_unchanged": "Turning simple holed cards produces endless patterns with almost no equipment.",
+    "materials": [
+      "bone",
+      "wood",
+      "leather",
+      "cardboard"
+    ],
+    "faqs": [
+      {
+        "question": "What can you make with tablet weaving?",
+        "answer": "It creates narrow, very strong bands used for belts, straps, guitar straps, trims and decorative borders."
+      },
+      {
+        "question": "How old is tablet weaving?",
+        "answer": "Secure evidence dates to around the 6th century BCE in Central Europe, though some suggest it is older."
+      },
+      {
+        "question": "Do you need a loom for tablet weaving?",
+        "answer": "Not necessarily; the warp can be stretched between a belt at the waist and a fixed point, though small looms are also used."
+      }
+    ],
+    "image": {
+      "search_query": "tablet weaving cards band",
+      "wikimedia_commons_category": "Tablet weaving",
+      "alt": "Square weaving cards threaded with a colorful band"
+    },
+    "tags": [
+      "weaving",
+      "textile",
+      "ancient",
+      "band"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "knitting-needles",
+    "name": "Knitting needles",
+    "category": "Clothing, accessories & sewing",
+    "invention": {
+      "display": "c. 11th century CE",
+      "year": 1100,
+      "approximate": true,
+      "era": "Medieval"
+    },
+    "place_of_invention": {
+      "region": "Egypt",
+      "modern_country": "Egypt",
+      "notes": "The earliest true knitted items are cotton socks from Islamic-era Egypt; older 'knitted' socks are actually nalbinding."
+    },
+    "inventor": null,
+    "short_description": "Pairs of smooth pointed rods used to form yarn into interlocking loops.",
+    "description": "Knitting builds fabric from rows of loops passed between two or more needles. It appears in Egypt around the 11th century and spread to Europe through the Mediterranean. Straight, double-pointed and circular needles are still the basic knitting tools.",
+    "why_unchanged": "Two smooth pointed sticks are all that is needed to form and hold loops, so the tool remains unchanged.",
+    "materials": [
+      "wood",
+      "bone",
+      "steel",
+      "bamboo",
+      "aluminium"
+    ],
+    "faqs": [
+      {
+        "question": "How old is knitting?",
+        "answer": "The oldest true knitted textiles come from Egypt, around the 11th century CE. Earlier socks once thought to be knitted were made by nalbinding."
+      },
+      {
+        "question": "What are double-pointed needles for?",
+        "answer": "They let knitters work in the round on small tubes such as socks, sleeves and glove fingers."
+      },
+      {
+        "question": "Does needle size matter?",
+        "answer": "Yes, thicker needles make larger stitches and looser fabric, while thin needles produce fine, dense fabric."
+      }
+    ],
+    "image": {
+      "search_query": "knitting needles with wool yarn",
+      "wikimedia_commons_category": "Knitting needles",
+      "alt": "Two knitting needles holding a partly knitted piece"
+    },
+    "tags": [
+      "knitting",
+      "textile",
+      "medieval",
+      "tools"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "crochet-hook",
+    "name": "Crochet hook",
+    "category": "Clothing, accessories & sewing",
+    "invention": {
+      "display": "Early 19th century",
+      "year": 1820,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Western Europe",
+      "modern_country": "Netherlands",
+      "notes": "Crochet patterns first appear in European print around the 1820s; earlier origins are debated and poorly documented."
+    },
+    "inventor": null,
+    "short_description": "A rod with a hooked tip used to pull loops of yarn through other loops.",
+    "description": "Crochet makes fabric from chains of loops worked with a single hook. It became popular in 19th-century Europe and helped sustain Irish families during the famine through 'Irish crochet' lace. Hooks today come in steel, aluminium, wood and plastic, with the same hooked tip.",
+    "why_unchanged": "One hook can make every stitch, so there has been nothing to add.",
+    "materials": [
+      "steel",
+      "aluminium",
+      "wood",
+      "bone",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "What is the difference between crochet and knitting?",
+        "answer": "Crochet uses one hook and works one active loop at a time, while knitting uses two needles holding many live loops."
+      },
+      {
+        "question": "What is Irish crochet?",
+        "answer": "A lace-like style made in Ireland in the 19th century, which provided income for many families during and after the Great Famine."
+      },
+      {
+        "question": "Can a crochet hook fix knitting?",
+        "answer": "Yes, knitters often use a crochet hook to pick up dropped stitches and ladder them back into place."
+      }
+    ],
+    "image": {
+      "search_query": "crochet hook with yarn",
+      "wikimedia_commons_category": "Crochet hooks",
+      "alt": "A crochet hook pulling a loop of yarn"
+    },
+    "tags": [
+      "crochet",
+      "textile",
+      "19th-century",
+      "tools"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "thread-spool",
+    "name": "Thread spool",
+    "category": "Clothing, accessories & sewing",
+    "invention": {
+      "display": "c. 1820s",
+      "year": 1820,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Paisley, Scotland",
+      "modern_country": "United Kingdom",
+      "notes": "Winding sewing thread on wooden spools is often credited to the Clark thread makers of Paisley in the early 19th century; earlier bobbins existed for weaving."
+    },
+    "inventor": null,
+    "short_description": "A flanged cylinder that holds wound sewing thread.",
+    "description": "Before spools, thread was sold in skeins that tangled easily. Winding it onto small flanged cylinders made it tidy to store, sell and use, and the spool fit naturally on sewing machines. Spools are now mostly plastic but keep the same shape.",
+    "why_unchanged": "A cylinder with flanges holds thread neatly and unwinds it smoothly, which is all a thread holder must do.",
+    "materials": [
+      "wood",
+      "plastic",
+      "cardboard"
+    ],
+    "faqs": [
+      {
+        "question": "Why was thread put on spools?",
+        "answer": "Spools stopped thread from tangling, made it easy to measure and sell, and fit onto sewing machines."
+      },
+      {
+        "question": "What is the difference between a spool and a bobbin?",
+        "answer": "A spool holds the main supply of thread, while a bobbin is a smaller reel that supplies the lower thread inside a sewing machine."
+      },
+      {
+        "question": "Why were wooden spools reused?",
+        "answer": "Empty wooden spools were popular for making toys, knitting tools and craft items, and some makers once offered refunds on returned spools."
+      }
+    ],
+    "image": {
+      "search_query": "wooden spools of sewing thread",
+      "wikimedia_commons_category": "Spools",
+      "alt": "Colorful spools of sewing thread"
+    },
+    "tags": [
+      "sewing",
+      "thread",
+      "19th-century",
+      "storage"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "pincushion",
+    "name": "Pincushion",
+    "category": "Clothing, accessories & sewing",
+    "invention": {
+      "display": "c. 16th century",
+      "year": 1550,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Europe",
+      "modern_country": "United Kingdom",
+      "notes": "Pin cushions, often called pin pillows, appear in 16th-century European inventories; earlier pin holders likely existed."
+    },
+    "inventor": null,
+    "short_description": "A small stuffed cushion for storing pins and needles.",
+    "description": "As metal pins became more affordable, sewists needed a way to keep them handy and safe. Stuffed pin cushions, from simple pads to decorated gifts, became common in early modern Europe. The classic tomato shape with a small strawberry emery filled with abrasive is still sold today.",
+    "why_unchanged": "A firm stuffed pad holds pins securely and visibly, so it has never needed redesigning.",
+    "materials": [
+      "fabric",
+      "wool",
+      "sawdust",
+      "emery"
+    ],
+    "faqs": [
+      {
+        "question": "Why are many pincushions shaped like tomatoes?",
+        "answer": "A Victorian-era tradition held that a tomato on the mantel brought good fortune, and the tomato shape carried over to pincushions."
+      },
+      {
+        "question": "What is the little strawberry on a tomato pincushion?",
+        "answer": "It is filled with emery, a gritty abrasive that cleans and sharpens needles when pushed through it."
+      },
+      {
+        "question": "What is a wrist pincushion?",
+        "answer": "A small cushion on a band worn on the wrist, so tailors and dressmakers can grab pins while fitting garments."
+      }
+    ],
+    "image": {
+      "search_query": "tomato pincushion with pins",
+      "wikimedia_commons_category": "Pincushions",
+      "alt": "A red tomato-shaped pincushion full of pins"
+    },
+    "tags": [
+      "sewing",
+      "storage",
+      "early-modern",
+      "textile"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "bodkin",
+    "name": "Bodkin",
+    "category": "Clothing, accessories & sewing",
+    "invention": {
+      "display": "Antiquity",
+      "year": -100,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Mediterranean world",
+      "modern_country": "Italy",
+      "notes": "Large blunt needles of bone and bronze were used in antiquity; the name 'bodkin' is medieval English."
+    },
+    "inventor": null,
+    "short_description": "A large blunt needle with a big eye, used to thread cord or elastic through a channel.",
+    "description": "A bodkin is used to thread ribbon, cord or elastic through casings, eyelets and lacing holes. Ancient examples in bone and bronze resemble modern ones closely. Today flat bodkins and clip-ended versions are standard in sewing kits.",
+    "why_unchanged": "A blunt tip and a large eye glide through casings without snagging, so the form is still ideal.",
+    "materials": [
+      "bone",
+      "bronze",
+      "steel",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "What is a bodkin used for?",
+        "answer": "It pulls elastic, drawstrings or ribbon through casings and lacing holes in garments."
+      },
+      {
+        "question": "Is a bodkin sharp?",
+        "answer": "No, it has a blunt tip so it slides through fabric channels without piercing the cloth."
+      },
+      {
+        "question": "Did bodkins have other uses?",
+        "answer": "Historically the word also meant a hairpin or a small dagger, which is why it appears in Shakespeare's Hamlet."
+      }
+    ],
+    "image": {
+      "search_query": "sewing bodkin threading elastic",
+      "wikimedia_commons_category": "Bodkins",
+      "alt": "A flat metal bodkin threading elastic through a waistband"
+    },
+    "tags": [
+      "sewing",
+      "tools",
+      "ancient",
+      "needle"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "embroidery-hoop",
+    "name": "Embroidery hoop",
+    "category": "Clothing, accessories & sewing",
+    "invention": {
+      "display": "18th century (in Europe)",
+      "year": 1760,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Asia, spread to Europe",
+      "modern_country": "India",
+      "notes": "Round tambour frames came to Europe in the 18th century with tambour embroidery from Asia; their earlier origin is uncertain."
+    },
+    "inventor": null,
+    "short_description": "Two nested rings that clamp fabric taut for embroidery.",
+    "description": "The embroidery hoop holds cloth tight like a drum so stitches lie evenly. Its European name 'tambour' means drum, and it arrived along with tambour embroidery from Asia. Modern hoops in wood or plastic still use an inner ring and an outer ring tightened with a screw.",
+    "why_unchanged": "Two concentric rings provide even tension with almost no parts, which is hard to improve.",
+    "materials": [
+      "wood",
+      "bamboo",
+      "plastic",
+      "metal"
+    ],
+    "faqs": [
+      {
+        "question": "Why use an embroidery hoop?",
+        "answer": "It keeps fabric evenly taut so stitches are regular and the cloth does not pucker."
+      },
+      {
+        "question": "Why is it also called a tambour?",
+        "answer": "Tambour is French for drum, because the stretched fabric resembles a drumhead."
+      },
+      {
+        "question": "Can a hoop be used to display finished work?",
+        "answer": "Yes, many embroiderers frame and hang their finished pieces in the hoop itself."
+      }
+    ],
+    "image": {
+      "search_query": "wooden embroidery hoop with stitching",
+      "wikimedia_commons_category": "Embroidery hoops",
+      "alt": "A wooden embroidery hoop holding stitched fabric"
+    },
+    "tags": [
+      "embroidery",
+      "sewing",
+      "early-modern",
+      "tools"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "lace-bobbin",
+    "name": "Lace bobbin",
+    "category": "Clothing, accessories & sewing",
+    "invention": {
+      "display": "Mid-16th century",
+      "year": 1550,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Flanders and Venice",
+      "modern_country": "Belgium",
+      "notes": "Bobbin lace emerged in the 16th century; Flanders and Italy both claim its origin, and a Venetian pattern book was printed in 1557."
+    },
+    "inventor": null,
+    "short_description": "A small spindle-shaped stick on which thread is wound for making bobbin lace.",
+    "description": "Bobbin lace is made by crossing and twisting many threads, each wound on its own bobbin, over a pattern pinned to a pillow. The craft flourished in Flanders, Italy, France and England. Lacemakers still use turned wooden or bone bobbins of the same design.",
+    "why_unchanged": "A weighted, easy-to-handle thread holder is all the craft needs, so bobbins stayed the same.",
+    "materials": [
+      "wood",
+      "bone",
+      "glass beads"
+    ],
+    "faqs": [
+      {
+        "question": "How many bobbins does lace need?",
+        "answer": "Simple patterns may use a dozen bobbins, while elaborate lace can use hundreds at once."
+      },
+      {
+        "question": "Why do some bobbins have beads?",
+        "answer": "English Midlands bobbins often have a ring of beads called a spangle, adding weight to keep the threads taut."
+      },
+      {
+        "question": "Is bobbin lace still made by hand?",
+        "answer": "Yes, it remains a living craft with clubs and schools, especially in Belgium, England and Spain."
+      }
+    ],
+    "image": {
+      "search_query": "lace bobbins on lace pillow",
+      "wikimedia_commons_category": "Bobbin lace",
+      "alt": "Wooden lace bobbins on a pillow with pinned lace"
+    },
+    "tags": [
+      "lace",
+      "textile",
+      "early-modern",
+      "tools"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "hand-carders",
+    "name": "Hand carders",
+    "category": "Clothing, accessories & sewing",
+    "invention": {
+      "display": "c. 13th century",
+      "year": 1250,
+      "approximate": true,
+      "era": "Medieval"
+    },
+    "place_of_invention": {
+      "region": "Europe",
+      "modern_country": "Italy",
+      "notes": "Wire-toothed hand cards appear in Europe in the Middle Ages; teasel heads were used before them, and the exact origin is uncertain."
+    },
+    "inventor": null,
+    "short_description": "Paired paddles covered in fine wire teeth that brush fiber straight for spinning.",
+    "description": "Carding untangles and aligns wool or cotton fibers into a soft roll ready for spinning. Hand cards are brushed against each other to transfer and open the fibers. Hand spinners still use pairs of wooden paddles with wire teeth.",
+    "why_unchanged": "Two toothed paddles open fiber efficiently by hand, so the design has never needed to change.",
+    "materials": [
+      "wood",
+      "steel wire",
+      "leather"
+    ],
+    "faqs": [
+      {
+        "question": "What does carding do?",
+        "answer": "It separates and aligns fibers and removes small bits of debris so they can be spun evenly."
+      },
+      {
+        "question": "What is a rolag?",
+        "answer": "A loose roll of fiber taken off hand cards, which is ideal for spinning airy woolen yarn."
+      },
+      {
+        "question": "What were used before wire cards?",
+        "answer": "Dried teasel heads, with their hooked bracts, were used to tease and raise wool fibers."
+      }
+    ],
+    "image": {
+      "search_query": "wool hand carders wooden paddles",
+      "wikimedia_commons_category": "Hand cards",
+      "alt": "A pair of wooden hand carders with wool"
+    },
+    "tags": [
+      "spinning",
+      "textile",
+      "medieval",
+      "tools"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "netting-needle",
+    "name": "Netting needle",
+    "category": "Clothing, accessories & sewing",
+    "invention": {
+      "display": "Prehistoric (date unknown)",
+      "year": -5000,
+      "approximate": true,
+      "era": "Prehistoric"
+    },
+    "place_of_invention": {
+      "region": "Unknown",
+      "modern_country": "Unknown",
+      "notes": "Netting is far older than any surviving tool; no specific origin can be identified."
+    },
+    "inventor": null,
+    "short_description": "A flat, elongated shuttle with a central tongue, used to make knotted nets.",
+    "description": "The netting needle holds a length of twine and passes it through each mesh as knots are tied. Fishermen, hunters and craftspeople have made nets this way for millennia. The same flat shuttle is still used to mend fishing nets and make hammocks and bags.",
+    "why_unchanged": "Holding twine on a flat tongue lets the knotter pass long lengths through tight meshes easily.",
+    "materials": [
+      "wood",
+      "bone",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "What is a netting needle used for?",
+        "answer": "It carries twine through each loop when tying or repairing nets, hammocks and string bags."
+      },
+      {
+        "question": "How is a netting needle loaded?",
+        "answer": "Twine is wound lengthwise around the central tongue and the notch at the end, alternating sides."
+      },
+      {
+        "question": "Is it the same as a mesh gauge?",
+        "answer": "No, the gauge is a separate flat stick that sets the size of each mesh, while the needle carries the twine."
+      }
+    ],
+    "image": {
+      "search_query": "netting needle shuttle mending fishing net",
+      "wikimedia_commons_category": "Netting needles",
+      "alt": "A plastic netting needle wound with twine"
+    },
+    "tags": [
+      "netting",
+      "textile",
+      "prehistoric",
+      "tools"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "tatting-shuttle",
+    "name": "Tatting shuttle",
+    "category": "Clothing, accessories & sewing",
+    "invention": {
+      "display": "Early 19th century",
+      "year": 1800,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Europe",
+      "modern_country": "Unknown",
+      "notes": "Tatting grew out of 18th-century knotting with larger shuttles; its exact origin is unclear."
+    },
+    "inventor": null,
+    "short_description": "A small pointed oval shuttle used to tie the knots of tatted lace.",
+    "description": "Tatting creates lace from rings and chains of double knots made over a core thread. The tatting shuttle holds the thread between two pointed oval plates joined in the middle. It is still the standard tool for this craft.",
+    "why_unchanged": "A tiny enclosed thread holder fits the fast hand motions of tatting perfectly.",
+    "materials": [
+      "bone",
+      "ivory",
+      "metal",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "What is tatting?",
+        "answer": "A lace-making technique that ties rings and chains of double half-hitch knots, often for edgings and doilies."
+      },
+      {
+        "question": "Why is the shuttle so small?",
+        "answer": "It must pass through a loop of thread with every knot, so it needs to be compact and smooth."
+      },
+      {
+        "question": "Can tatting be done without a shuttle?",
+        "answer": "Yes, needle tatting uses a long blunt needle instead, but shuttle tatting is the traditional method."
+      }
+    ],
+    "image": {
+      "search_query": "tatting shuttle with lace",
+      "wikimedia_commons_category": "Tatting",
+      "alt": "A small oval tatting shuttle beside a piece of tatted lace"
+    },
+    "tags": [
+      "lace",
+      "textile",
+      "19th-century",
+      "tools"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "darning-mushroom",
+    "name": "Darning mushroom",
+    "category": "Clothing, accessories & sewing",
+    "invention": {
+      "display": "19th century",
+      "year": 1850,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Europe",
+      "modern_country": "Unknown",
+      "notes": "Darning eggs and mushrooms were common household tools in the 19th century; no inventor or exact origin is recorded."
+    },
+    "inventor": null,
+    "short_description": "A smooth mushroom-shaped form placed inside a sock to support a darn.",
+    "description": "Darning reweaves threads over a hole, and the mushroom holds the fabric smooth and firm while you stitch. A darning egg, sometimes a smooth stone or gourd, does the same job. With renewed interest in mending, darning mushrooms are popular again.",
+    "why_unchanged": "A smooth domed surface held from below is all darning requires.",
+    "materials": [
+      "wood",
+      "stone",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "How do you use a darning mushroom?",
+        "answer": "Place the dome inside the sock under the hole, gather the fabric around the stem, then weave thread over the hole."
+      },
+      {
+        "question": "What is visible mending?",
+        "answer": "A trend of repairing clothes with contrasting threads so the darn becomes decorative instead of hidden."
+      },
+      {
+        "question": "What was used before darning mushrooms?",
+        "answer": "People used darning eggs, smooth stones, gourds or even light bulbs to support the fabric."
+      }
+    ],
+    "image": {
+      "search_query": "wooden darning mushroom sock",
+      "wikimedia_commons_category": "Darning",
+      "alt": "A wooden darning mushroom inside a wool sock"
+    },
+    "tags": [
+      "mending",
+      "sewing",
+      "19th-century",
+      "wood"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "niddy-noddy",
+    "name": "Niddy-noddy",
+    "category": "Clothing, accessories & sewing",
+    "invention": {
+      "display": "c. 16th century or earlier",
+      "year": 1500,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Europe",
+      "modern_country": "United Kingdom",
+      "notes": "Hand reels for skeining yarn appear in medieval and early modern Europe; dating is uncertain."
+    },
+    "inventor": null,
+    "short_description": "A hand reel shaped like an I with offset crossbars, used to wind yarn into skeins.",
+    "description": "After spinning, yarn is wound around a niddy-noddy to form a skein of known length for washing, dyeing and measuring. Its offset crossbars let the spinner wind in a smooth rocking motion. Hand spinners still use wooden or PVC niddy-noddies.",
+    "why_unchanged": "Three sticks set at right angles measure and wind yarn reliably, with nothing left to improve.",
+    "materials": [
+      "wood",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "What is a niddy-noddy for?",
+        "answer": "It winds freshly spun yarn into skeins and helps measure yardage, since each wrap is a known length."
+      },
+      {
+        "question": "Where does the name come from?",
+        "answer": "The name likely imitates the nodding motion of the reel as the spinner rocks it back and forth."
+      },
+      {
+        "question": "Why do spinners make skeins?",
+        "answer": "Skeins let yarn be washed to set the twist, dried evenly and dyed."
+      }
+    ],
+    "image": {
+      "search_query": "wooden niddy noddy with yarn skein",
+      "wikimedia_commons_category": "Niddy-noddies",
+      "alt": "A wooden niddy-noddy wound with handspun yarn"
+    },
+    "tags": [
+      "spinning",
+      "textile",
+      "early-modern",
+      "tools"
+    ],
+    "confidence": "low"
+  }
+]

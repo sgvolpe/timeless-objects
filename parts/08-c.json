@@ -1,0 +1,1290 @@
+[
+  {
+    "slug": "parallel-bars",
+    "name": "Parallel bars",
+    "category": "Toys, games & sports",
+    "invention": {
+      "display": "c. 1812",
+      "year": 1812,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Berlin (Hasenheide)",
+      "modern_country": "Germany",
+      "notes": "Friedrich Ludwig Jahn introduced parallel bars at his open-air gymnasium in Berlin around 1811–1812."
+    },
+    "inventor": "Friedrich Ludwig Jahn",
+    "short_description": "Two parallel horizontal rails on uprights used for gymnastic swings and supports.",
+    "description": "German educator Friedrich Ludwig Jahn, the father of the Turnen gymnastics movement, introduced parallel bars at his Hasenheide training ground in Berlin in the early 19th century. The apparatus became a core part of men's artistic gymnastics. Modern bars use fiberglass-reinforced wooden rails, but the layout of two raised parallel rails is the same.",
+    "why_unchanged": "Two rails at shoulder width are exactly what support and swinging exercises require.",
+    "materials": [
+      "wood",
+      "steel",
+      "fiberglass"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the parallel bars?",
+        "answer": "Friedrich Ludwig Jahn introduced them in Berlin in the early 1800s."
+      },
+      {
+        "question": "Are parallel bars an Olympic event?",
+        "answer": "Yes. Parallel bars are one of the six apparatus in men's artistic gymnastics."
+      },
+      {
+        "question": "How high are competition parallel bars?",
+        "answer": "The rails are set roughly 2 metres above the floor, and the distance between them can be adjusted for each gymnast."
+      }
+    ],
+    "image": {
+      "search_query": "gymnastics parallel bars",
+      "wikimedia_commons_category": "Parallel bars",
+      "alt": "Wooden gymnastics parallel bars in a gym"
+    },
+    "tags": [
+      "sports",
+      "gymnastics",
+      "industrial",
+      "apparatus"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "pinwheel",
+    "name": "Pinwheel",
+    "category": "Toys, games & sports",
+    "invention": {
+      "display": "16th century",
+      "year": 1550,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Europe",
+      "modern_country": "Netherlands",
+      "notes": "Pinwheels appear in European art from at least the 16th–17th centuries; Chinese windmill toys (fengche) also have a long history. The origin is unknown."
+    },
+    "inventor": null,
+    "short_description": "A wheel of curled vanes on a stick that spins when blown or held in the wind.",
+    "description": "The pinwheel, or paper windmill, has been a children's toy for centuries, appearing in early modern European paintings of children at play. Similar toys have long been sold at festivals in China. It is made by cutting a square into folded vanes and pinning the centre to a stick so that wind turns it.",
+    "why_unchanged": "Folded vanes on a free axle are the simplest wind turbine, and the toy has never needed more.",
+    "materials": [
+      "paper",
+      "wood",
+      "plastic",
+      "foil"
+    ],
+    "faqs": [
+      {
+        "question": "How do you make a pinwheel?",
+        "answer": "Cut a square from the corners toward the centre, fold every other point to the middle and pin it loosely to a stick."
+      },
+      {
+        "question": "Why does a pinwheel spin?",
+        "answer": "Wind pushes against the angled vanes, creating a turning force around the pin."
+      },
+      {
+        "question": "Is a pinwheel related to a windmill?",
+        "answer": "Yes. It works on the same principle as a windmill or wind turbine, in miniature."
+      }
+    ],
+    "image": {
+      "search_query": "colorful paper pinwheel",
+      "wikimedia_commons_category": "Pinwheels (toy)",
+      "alt": "A colourful pinwheel spinning on a stick"
+    },
+    "tags": [
+      "toys",
+      "wind",
+      "children",
+      "early modern"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "jack-in-the-box",
+    "name": "Jack-in-the-box",
+    "category": "Toys, games & sports",
+    "invention": {
+      "display": "16th century",
+      "year": 1550,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Europe",
+      "modern_country": "Germany",
+      "notes": "Spring-loaded surprise boxes are recorded in 16th-century Europe; a legend links the toy to the medieval English priest John Schorne, but this is folklore."
+    },
+    "inventor": null,
+    "short_description": "A box from which a figure on a spring pops up when the lid opens.",
+    "description": "The jack-in-the-box, a figure that springs out of a box when the lid is released, has been a European toy since at least the 16th century. Later versions added a crank that plays a tune, such as 'Pop Goes the Weasel', before the lid flies open. The surprise of the pop-up figure has kept the design unchanged.",
+    "why_unchanged": "Its entire appeal is the sudden spring-loaded surprise, which needs no improvement.",
+    "materials": [
+      "wood",
+      "metal",
+      "cloth",
+      "paper"
+    ],
+    "faqs": [
+      {
+        "question": "How does a jack-in-the-box work?",
+        "answer": "A coiled spring under the figure is held down by the lid; when the latch releases, the spring pushes the figure out."
+      },
+      {
+        "question": "What tune do they usually play?",
+        "answer": "Many crank-operated versions play 'Pop Goes the Weasel', with the figure popping out on the 'pop'."
+      },
+      {
+        "question": "How old is the toy?",
+        "answer": "Jack-in-the-boxes have been made in Europe since at least the 1500s."
+      }
+    ],
+    "image": {
+      "search_query": "jack in the box toy",
+      "wikimedia_commons_category": "Jack-in-the-boxes",
+      "alt": "A jack-in-the-box with a clown figure popping out"
+    },
+    "tags": [
+      "toys",
+      "children",
+      "springs",
+      "early modern"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "matryoshka-doll",
+    "name": "Matryoshka doll",
+    "category": "Toys, games & sports",
+    "invention": {
+      "display": "1890",
+      "year": 1890,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Abramtsevo workshop / Moscow region",
+      "modern_country": "Russia",
+      "notes": "The first set was carved by Vasily Zvyozdochkin and painted by Sergey Malyutin around 1890–1892, reportedly inspired by a Japanese nesting doll."
+    },
+    "inventor": "Vasily Zvyozdochkin and Sergey Malyutin",
+    "short_description": "A set of hollow wooden dolls of decreasing size that nest inside each other.",
+    "description": "The matryoshka was created in Russia in the early 1890s by woodturner Vasily Zvyozdochkin and painter Sergey Malyutin, probably inspired by a Japanese nesting figure. The first set, a girl in a headscarf holding a rooster, had eight dolls and won a medal at the 1900 Paris Exposition. Matryoshkas are still turned from linden wood and hand-painted.",
+    "why_unchanged": "The nested shells are the whole idea, so the shape cannot change without losing it.",
+    "materials": [
+      "linden wood",
+      "birch",
+      "paint",
+      "lacquer"
+    ],
+    "faqs": [
+      {
+        "question": "What does matryoshka mean?",
+        "answer": "It comes from the Russian name Matryona, a traditional name associated with a mother figure."
+      },
+      {
+        "question": "How many dolls are in a set?",
+        "answer": "Typical sets have five to ten pieces, but some record sets contain dozens."
+      },
+      {
+        "question": "Who made the first matryoshka?",
+        "answer": "Vasily Zvyozdochkin carved and Sergey Malyutin painted the first set in the early 1890s."
+      }
+    ],
+    "image": {
+      "search_query": "russian matryoshka nesting dolls",
+      "wikimedia_commons_category": "Matryoshka dolls",
+      "alt": "A set of painted Russian nesting dolls in a row"
+    },
+    "tags": [
+      "toys",
+      "russia",
+      "folk art",
+      "industrial"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "toy-soldier",
+    "name": "Toy soldier",
+    "category": "Toys, games & sports",
+    "invention": {
+      "display": "c. 1760",
+      "year": 1760,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Nuremberg",
+      "modern_country": "Germany",
+      "notes": "Flat tin figures were mass-produced in Nuremberg from the 18th century (notably by the Hilpert family); William Britain introduced hollow-cast lead soldiers in London in 1893. Military figurines are much older."
+    },
+    "inventor": null,
+    "short_description": "A small figure of a soldier, made of tin, lead or plastic, used for play and collecting.",
+    "description": "Military figurines are known from ancient Egypt, but mass-produced tin soldiers began in 18th-century Germany, especially Nuremberg. In 1893 William Britain introduced hollow-cast lead soldiers, which made them cheaper and hugely popular. Plastic figures largely replaced metal ones after World War II, but the small standing soldier is the same toy.",
+    "why_unchanged": "A small figure that can be lined up into armies is all imaginative war play requires.",
+    "materials": [
+      "tin",
+      "lead",
+      "plastic",
+      "paint"
+    ],
+    "faqs": [
+      {
+        "question": "Where were toy soldiers first mass-produced?",
+        "answer": "Tin soldiers were mass-produced in Nuremberg, Germany, from the 18th century."
+      },
+      {
+        "question": "Why did metal soldiers disappear?",
+        "answer": "Lead was found to be toxic, and cheaper plastic figures took over after the 1950s."
+      },
+      {
+        "question": "What is The Steadfast Tin Soldier?",
+        "answer": "It is a fairy tale by Hans Christian Andersen, published in 1838, about a one-legged toy soldier."
+      }
+    ],
+    "image": {
+      "search_query": "vintage tin toy soldiers",
+      "wikimedia_commons_category": "Toy soldiers",
+      "alt": "A row of painted toy soldiers"
+    },
+    "tags": [
+      "toys",
+      "miniatures",
+      "early modern",
+      "metal"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "building-blocks",
+    "name": "Building blocks",
+    "category": "Toys, games & sports",
+    "invention": {
+      "display": "late 17th century",
+      "year": 1693,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "England",
+      "modern_country": "United Kingdom",
+      "notes": "John Locke recommended lettered dice or blocks for teaching children in 1693; Friedrich Froebel popularized geometric wooden block sets in Germany in the 1830s."
+    },
+    "inventor": null,
+    "short_description": "Simple wooden cubes and shapes that children stack and arrange.",
+    "description": "Wooden blocks have long been used as educational toys; philosopher John Locke suggested lettered blocks for teaching the alphabet in 1693. In the 1830s German educator Friedrich Froebel, founder of the kindergarten, made sets of geometric blocks a central part of early education. Plain wooden blocks are still among the most common toys for young children.",
+    "why_unchanged": "Plain geometric shapes encourage open-ended building, so they never needed to be redesigned.",
+    "materials": [
+      "wood",
+      "plastic",
+      "foam"
+    ],
+    "faqs": [
+      {
+        "question": "Why are blocks good for children?",
+        "answer": "Stacking blocks builds motor skills, spatial reasoning and early maths concepts."
+      },
+      {
+        "question": "Who popularized building blocks?",
+        "answer": "Friedrich Froebel, founder of the kindergarten, made block sets a key teaching tool in the 1830s."
+      },
+      {
+        "question": "What are unit blocks?",
+        "answer": "Unit blocks are hardwood blocks sized in exact proportions, developed by Caroline Pratt in the early 20th century."
+      }
+    ],
+    "image": {
+      "search_query": "wooden toy building blocks",
+      "wikimedia_commons_category": "Toy blocks",
+      "alt": "A stack of plain wooden building blocks"
+    },
+    "tags": [
+      "toys",
+      "children",
+      "education",
+      "wood"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "hobby-horse",
+    "name": "Hobby horse",
+    "category": "Toys, games & sports",
+    "invention": {
+      "display": "c. 400 BCE",
+      "year": -400,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Ancient Greece",
+      "modern_country": "Greece",
+      "notes": "Plutarch tells of the Spartan king Agesilaus riding a stick horse with his children; stick horses appear in many cultures and periods."
+    },
+    "inventor": null,
+    "short_description": "A stick with a horse's head at one end that a child 'rides' between the legs.",
+    "description": "Stick horses are among the oldest pretend toys, with ancient anecdotes describing adults playing with them alongside children. They appear in medieval and Renaissance paintings of children's games. The modern version, a stuffed or wooden horse head on a pole, is unchanged and has even inspired the hobbyhorsing sport in Finland.",
+    "why_unchanged": "A stick and a horse's head are all imaginative riding requires.",
+    "materials": [
+      "wood",
+      "cloth",
+      "yarn"
+    ],
+    "faqs": [
+      {
+        "question": "How old is the hobby horse?",
+        "answer": "Stick horses go back to antiquity; Plutarch tells of the Spartan king Agesilaus riding one with his children."
+      },
+      {
+        "question": "Where does 'hobby' come from?",
+        "answer": "The word 'hobby' originally meant a small horse, and riding a hobby horse came to mean pursuing a favourite pastime."
+      },
+      {
+        "question": "What is hobbyhorsing?",
+        "answer": "It is a modern Finnish sport in which riders perform dressage and jumping courses on hobby horses."
+      }
+    ],
+    "image": {
+      "search_query": "stick hobby horse toy",
+      "wikimedia_commons_category": "Hobby horses",
+      "alt": "A child riding a hobby horse with a stuffed head"
+    },
+    "tags": [
+      "toys",
+      "children",
+      "ancient",
+      "pretend play"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "hurley",
+    "name": "Hurley",
+    "category": "Toys, games & sports",
+    "invention": {
+      "display": "Early Middle Ages",
+      "year": 700,
+      "approximate": true,
+      "era": "Medieval"
+    },
+    "place_of_invention": {
+      "region": "Ireland",
+      "modern_country": "Ireland",
+      "notes": "Hurling is described in early Irish law and legend; claims that it is thousands of years old are traditional and hard to date precisely."
+    },
+    "inventor": null,
+    "short_description": "A curved ash stick with a flat blade used to play hurling and camogie.",
+    "description": "The hurley, or camán, is the stick used in hurling, an Irish field game mentioned in early medieval Irish law texts and legends. It is traditionally carved from a single piece of ash, with the grain following the curve of the blade. Its shape has barely changed, though metal bands and protective grips have been added.",
+    "why_unchanged": "Carving a curved blade from the root end of ash gives a strong, flexible stick that needs no redesign.",
+    "materials": [
+      "ash wood",
+      "steel band",
+      "tape"
+    ],
+    "faqs": [
+      {
+        "question": "What wood is a hurley made from?",
+        "answer": "Hurleys are traditionally made from ash, using the curve where the trunk meets the root."
+      },
+      {
+        "question": "What is the ball called?",
+        "answer": "The hurling ball is called a sliotar, a leather ball with raised stitching."
+      },
+      {
+        "question": "Is hurling fast?",
+        "answer": "Yes. It is often called one of the fastest field games, with the sliotar struck at well over 100 km/h."
+      }
+    ],
+    "image": {
+      "search_query": "hurley stick and sliotar",
+      "wikimedia_commons_category": "Hurleys",
+      "alt": "A wooden ash hurley with a sliotar ball"
+    },
+    "tags": [
+      "sports",
+      "ireland",
+      "medieval",
+      "wood"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "hand-puppet",
+    "name": "Hand puppet",
+    "category": "Toys, games & sports",
+    "invention": {
+      "display": "17th century",
+      "year": 1650,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Italy and wider Europe",
+      "modern_country": "Italy",
+      "notes": "Glove puppetry spread across Europe from the Italian Pulcinella tradition in the 17th century; Chinese glove puppetry is also centuries old."
+    },
+    "inventor": null,
+    "short_description": "A puppet worn on the hand, with fingers moving its head and arms.",
+    "description": "Glove puppets became popular street entertainment in 17th-century Europe, with characters such as Italy's Pulcinella and Britain's Mr Punch. In China, glove puppetry (budaixi) developed in Fujian and remains a traditional art. Hand puppets of cloth and felt are still widely used in children's play, theatre and television.",
+    "why_unchanged": "A hollow figure worn over the hand gives direct, expressive control, which needs no improvement.",
+    "materials": [
+      "cloth",
+      "felt",
+      "wood",
+      "papier-mâché"
+    ],
+    "faqs": [
+      {
+        "question": "How does a glove puppet work?",
+        "answer": "The puppeteer's index finger moves the head while the thumb and another finger move the arms."
+      },
+      {
+        "question": "Who is Mr Punch?",
+        "answer": "Mr Punch is a British glove-puppet character derived from the Italian Pulcinella, first recorded in England in 1662."
+      },
+      {
+        "question": "Are hand puppets used in education?",
+        "answer": "Yes. Teachers and therapists use them to help children express feelings and practise language."
+      }
+    ],
+    "image": {
+      "search_query": "hand puppet glove puppet",
+      "wikimedia_commons_category": "Hand puppets",
+      "alt": "A colourful felt hand puppet"
+    },
+    "tags": [
+      "toys",
+      "theatre",
+      "early modern",
+      "cloth"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "marionette",
+    "name": "Marionette",
+    "category": "Toys, games & sports",
+    "invention": {
+      "display": "c. 400 BCE",
+      "year": -400,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Ancient Greece",
+      "modern_country": "Greece",
+      "notes": "String-operated figures are mentioned by Xenophon and other Greek writers; articulated figures are also known from ancient Egypt, and marionette traditions developed independently in Asia."
+    },
+    "inventor": null,
+    "short_description": "A puppet controlled from above by strings attached to a wooden control bar.",
+    "description": "String puppets were known in ancient Greece, where writers described figures moved by strings, and similar traditions developed in India, China and Southeast Asia. In Europe, marionette theatre flourished from the Renaissance onward, especially in Italy and Central Europe. The marionette still has jointed limbs worked by strings from a hand-held control.",
+    "why_unchanged": "Jointed limbs controlled by strings from above produce lifelike movement, so the design has endured.",
+    "materials": [
+      "wood",
+      "string",
+      "cloth",
+      "wire"
+    ],
+    "faqs": [
+      {
+        "question": "Where does the word marionette come from?",
+        "answer": "It is from French, meaning 'little Mary', possibly from medieval figures of the Virgin Mary."
+      },
+      {
+        "question": "How many strings does a marionette have?",
+        "answer": "Simple ones have around nine strings, while complex figures can have dozens."
+      },
+      {
+        "question": "Is marionette theatre recognized as heritage?",
+        "answer": "Yes. Czech and Slovak puppetry is on UNESCO's list of intangible cultural heritage."
+      }
+    ],
+    "image": {
+      "search_query": "wooden marionette puppet",
+      "wikimedia_commons_category": "Marionettes",
+      "alt": "A wooden marionette hanging from its strings"
+    },
+    "tags": [
+      "toys",
+      "theatre",
+      "ancient",
+      "wood"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "pull-toy",
+    "name": "Pull toy",
+    "category": "Toys, games & sports",
+    "invention": {
+      "display": "c. 2500 BCE",
+      "year": -2500,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Indus Valley and Mesopotamia",
+      "modern_country": "Pakistan",
+      "notes": "Clay animals on wheels are known from Indus Valley cities and Mesopotamia; wheeled animal figures also appear in pre-Columbian Mexico."
+    },
+    "inventor": null,
+    "short_description": "A toy on wheels, often an animal, that a child pulls along by a string.",
+    "description": "Small clay animals with wheels, likely pulled by strings, have been found in Indus Valley cities such as Mohenjo-daro and in Mesopotamia. Wheeled clay figures also appear in ancient Mexico, a culture that did not otherwise use the wheel for transport. Wooden pull-along ducks, dogs and trains remain classic toddler toys.",
+    "why_unchanged": "A figure on wheels with a string is the simplest moving toy, so it has never changed.",
+    "materials": [
+      "clay",
+      "wood",
+      "string",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "How old are pull toys?",
+        "answer": "Wheeled clay animals from the Indus Valley and Mesopotamia are around 4,500 years old."
+      },
+      {
+        "question": "Why are pull toys good for toddlers?",
+        "answer": "They encourage walking and give children a sense of control as the toy follows them."
+      },
+      {
+        "question": "Did ancient Mexicans have wheeled toys?",
+        "answer": "Yes. Wheeled animal figures have been found in pre-Columbian Mexico."
+      }
+    ],
+    "image": {
+      "search_query": "wooden pull along toy duck",
+      "wikimedia_commons_category": "Pull toys",
+      "alt": "A wooden pull-along duck toy on wheels"
+    },
+    "tags": [
+      "toys",
+      "children",
+      "ancient",
+      "wheels"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "tiddlywinks",
+    "name": "Tiddlywinks",
+    "category": "Toys, games & sports",
+    "invention": {
+      "display": "1888",
+      "year": 1888,
+      "approximate": false,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "London, England",
+      "modern_country": "United Kingdom",
+      "notes": "Joseph Assheton Fincher filed a patent for the game in 1888."
+    },
+    "inventor": "Joseph Assheton Fincher",
+    "short_description": "Small plastic discs flicked into a cup by pressing their edge with a larger disc.",
+    "description": "Tiddlywinks was patented in England in 1888 by Joseph Assheton Fincher and became a Victorian parlour craze. Players press a large disc, the squidger, on the edge of a small wink to flip it into a pot. Cambridge University students revived it as a competitive sport in 1955, with complex rules still played today.",
+    "why_unchanged": "Flipping a disc by pressing its edge works perfectly, so the winks, squidger and pot are unchanged.",
+    "materials": [
+      "plastic",
+      "bone",
+      "glass"
+    ],
+    "faqs": [
+      {
+        "question": "What is a squidger?",
+        "answer": "A squidger is the larger disc used to press on the edge of a wink and flip it."
+      },
+      {
+        "question": "Who invented tiddlywinks?",
+        "answer": "Joseph Assheton Fincher patented the game in England in 1888."
+      },
+      {
+        "question": "Is there competitive tiddlywinks?",
+        "answer": "Yes. Organized by associations in Britain and the US, the competitive game began at Cambridge University in 1955."
+      }
+    ],
+    "image": {
+      "search_query": "tiddlywinks game discs",
+      "wikimedia_commons_category": "Tiddlywinks",
+      "alt": "Coloured tiddlywinks discs around a small cup"
+    },
+    "tags": [
+      "games",
+      "industrial",
+      "patent",
+      "plastic"
+    ],
+    "confidence": "high"
+  },
+  {
+    "slug": "cribbage-board",
+    "name": "Cribbage board",
+    "category": "Toys, games & sports",
+    "invention": {
+      "display": "c. 1630",
+      "year": 1630,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "England",
+      "modern_country": "United Kingdom",
+      "notes": "Cribbage is credited to the poet Sir John Suckling, who developed it from the older game of noddy; the pegging board was used for scoring."
+    },
+    "inventor": "John Suckling",
+    "short_description": "A long board with rows of holes and pegs used to keep score in cribbage.",
+    "description": "Cribbage was developed in England in the early 17th century, traditionally credited to poet Sir John Suckling. Its distinctive scoring board, with pegs moved along rows of holes, makes counting points quick and visible. The game and board are still played the same way, notably by sailors and in pubs.",
+    "why_unchanged": "Moving pegs along holes is a fast, error-proof way to keep score, so the board never changed.",
+    "materials": [
+      "wood",
+      "metal",
+      "plastic",
+      "ivory"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented cribbage?",
+        "answer": "It is credited to the English poet Sir John Suckling in the early 17th century."
+      },
+      {
+        "question": "Why does cribbage use a board?",
+        "answer": "The board lets players record frequent small scores quickly with pegs instead of writing them down."
+      },
+      {
+        "question": "Is cribbage popular in the navy?",
+        "answer": "Yes. It is a long tradition in the US submarine force, where a historic board is passed to the oldest serving submarine."
+      }
+    ],
+    "image": {
+      "search_query": "wooden cribbage board pegs",
+      "wikimedia_commons_category": "Cribbage boards",
+      "alt": "A wooden cribbage board with metal pegs"
+    },
+    "tags": [
+      "games",
+      "cards",
+      "early modern",
+      "wood"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "tangram",
+    "name": "Tangram",
+    "category": "Toys, games & sports",
+    "invention": {
+      "display": "c. 1800",
+      "year": 1800,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "China",
+      "modern_country": "China",
+      "notes": "Tangram books were published in China in the early 19th century (1813 is often cited); the puzzle reached Europe and America soon after."
+    },
+    "inventor": null,
+    "short_description": "A dissection puzzle of seven flat pieces arranged to form silhouettes.",
+    "description": "The tangram is a Chinese puzzle of seven pieces: five triangles, a square and a parallelogram, cut from a single square. It became a craze in Europe and America in the early 19th century after ships brought puzzle books from China. The pieces are unchanged, and thousands of figures can be made from them.",
+    "why_unchanged": "Seven pieces cut from one square already offer endless shapes, so nothing has been changed.",
+    "materials": [
+      "wood",
+      "plastic",
+      "card",
+      "ivory"
+    ],
+    "faqs": [
+      {
+        "question": "How many pieces does a tangram have?",
+        "answer": "A tangram has seven pieces, called tans: five triangles, a square and a parallelogram."
+      },
+      {
+        "question": "Where does the tangram come from?",
+        "answer": "It originated in China and was popularized in the early 19th century."
+      },
+      {
+        "question": "What are the rules?",
+        "answer": "All seven pieces must be used, laid flat, and must not overlap."
+      }
+    ],
+    "image": {
+      "search_query": "wooden tangram puzzle",
+      "wikimedia_commons_category": "Tangram",
+      "alt": "Seven wooden tangram pieces arranged as a square"
+    },
+    "tags": [
+      "puzzles",
+      "china",
+      "geometry",
+      "industrial"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "quoits",
+    "name": "Quoits",
+    "category": "Toys, games & sports",
+    "invention": {
+      "display": "14th century",
+      "year": 1350,
+      "approximate": true,
+      "era": "Medieval"
+    },
+    "place_of_invention": {
+      "region": "England",
+      "modern_country": "United Kingdom",
+      "notes": "Quoits is mentioned in English sources from the 14th century; it may have developed from horseshoe throwing or ancient discus throwing."
+    },
+    "inventor": null,
+    "short_description": "Rings of metal, rope or rubber thrown to land over or near a peg.",
+    "description": "Quoits, a game of tossing rings at a pin, has been played in England since at least the late Middle Ages and remains a traditional pub and village sport in Britain. Rope quoits became a popular deck game on ocean liners, and ring toss is a fairground classic. The ring and peg format has not changed.",
+    "why_unchanged": "A ring and a target peg form a perfect throwing game, needing nothing more.",
+    "materials": [
+      "iron",
+      "steel",
+      "rope",
+      "rubber"
+    ],
+    "faqs": [
+      {
+        "question": "How do you score in quoits?",
+        "answer": "Points go to rings that encircle the peg, called ringers, or land closest to it."
+      },
+      {
+        "question": "Is quoits related to horseshoes?",
+        "answer": "Yes. The American game of horseshoes is closely related and probably shares origins with quoits."
+      },
+      {
+        "question": "Where is quoits still played?",
+        "answer": "Traditional quoits leagues remain in parts of Britain, especially northern England, Wales and Scotland."
+      }
+    ],
+    "image": {
+      "search_query": "quoits rings and peg",
+      "wikimedia_commons_category": "Quoits",
+      "alt": "Metal quoits lying around a peg in clay"
+    },
+    "tags": [
+      "sports",
+      "throwing",
+      "medieval",
+      "outdoor"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "croquet-set",
+    "name": "Croquet set",
+    "category": "Toys, games & sports",
+    "invention": {
+      "display": "c. 1850",
+      "year": 1850,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Ireland",
+      "modern_country": "Ireland",
+      "notes": "Croquet emerged in Ireland in the 1830s–1850s and was brought to England in the early 1850s; a game called paille-maille is an earlier relative."
+    },
+    "inventor": null,
+    "short_description": "Wooden mallets, balls, hoops and a peg used to play the lawn game of croquet.",
+    "description": "Croquet developed in Ireland and became a sensation in England in the 1860s, played on lawns by men and women together. Players use mallets to strike balls through hoops in a set order. The mallets, balls and wire hoops in today's sets are essentially the same as in Victorian times.",
+    "why_unchanged": "Mallets, balls and hoops are the complete game, and their simple forms have stayed.",
+    "materials": [
+      "wood",
+      "composite",
+      "steel"
+    ],
+    "faqs": [
+      {
+        "question": "Where was croquet invented?",
+        "answer": "Croquet developed in Ireland and was brought to England in the 1850s."
+      },
+      {
+        "question": "What is a croquet stroke?",
+        "answer": "It is the shot where you place your ball against another and strike it so both move."
+      },
+      {
+        "question": "Was croquet an Olympic sport?",
+        "answer": "Yes. It was played at the 1900 Paris Olympics, and roque, a variant, in 1904."
+      }
+    ],
+    "image": {
+      "search_query": "croquet set mallets balls hoops lawn",
+      "wikimedia_commons_category": "Croquet",
+      "alt": "Croquet mallets and coloured balls on a lawn"
+    },
+    "tags": [
+      "sports",
+      "lawn games",
+      "industrial",
+      "wood"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "bocce-ball",
+    "name": "Bocce ball",
+    "category": "Toys, games & sports",
+    "invention": {
+      "display": "Roman era",
+      "year": -100,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Roman Italy",
+      "modern_country": "Italy",
+      "notes": "Ball-throwing games toward a target were played in ancient Greece and Rome; bocce in its modern form developed in Italy. Claims of ancient Egyptian origin are speculative."
+    },
+    "inventor": null,
+    "short_description": "A heavy ball rolled toward a small target ball in the game of bocce.",
+    "description": "Games of tossing balls toward a target were played in ancient Rome and spread throughout the Empire. In Italy they became bocce, played on dirt or grass courts with eight large balls and a small target called the pallino. Bocce is still played in parks and clubs around the world with the same equipment.",
+    "why_unchanged": "A weighted ball rolled at a target needs no further refinement.",
+    "materials": [
+      "wood",
+      "stone",
+      "resin",
+      "composite"
+    ],
+    "faqs": [
+      {
+        "question": "What is the pallino?",
+        "answer": "The pallino is the small target ball that players try to get their bocce balls closest to."
+      },
+      {
+        "question": "How many balls are in a bocce set?",
+        "answer": "A standard set has eight bocce balls, four per team, plus the pallino."
+      },
+      {
+        "question": "Is bocce the same as pétanque?",
+        "answer": "They are related, but pétanque uses hollow steel balls thrown from a standing circle, while bocce balls are rolled on a court."
+      }
+    ],
+    "image": {
+      "search_query": "bocce balls on court",
+      "wikimedia_commons_category": "Bocce",
+      "alt": "Red and green bocce balls near a small white pallino"
+    },
+    "tags": [
+      "sports",
+      "lawn games",
+      "ancient",
+      "italy"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "petanque-boule",
+    "name": "Pétanque boule",
+    "category": "Toys, games & sports",
+    "invention": {
+      "display": "1907",
+      "year": 1907,
+      "approximate": false,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "La Ciotat, Provence",
+      "modern_country": "France",
+      "notes": "Pétanque was created in 1907 in La Ciotat, traditionally credited to Jules Lenoir, whose rheumatism prevented the running start of jeu provençal; steel boules became standard in the 1920s."
+    },
+    "inventor": null,
+    "short_description": "A hollow steel ball thrown toward a small wooden jack in the game of pétanque.",
+    "description": "Pétanque was born in 1907 in La Ciotat, France, when players adapted the game of jeu provençal so that they could throw from a standing position. The name comes from the Provençal for 'feet anchored'. Hollow steel boules, introduced in the 1920s, have remained the standard ever since.",
+    "why_unchanged": "A hollow metal ball of set weight and size is ideal for throwing and knocking, so the boule has stayed the same.",
+    "materials": [
+      "steel",
+      "stainless steel",
+      "wood (jack)"
+    ],
+    "faqs": [
+      {
+        "question": "Where was pétanque invented?",
+        "answer": "It was invented in La Ciotat, near Marseille, in 1907."
+      },
+      {
+        "question": "What is the small ball called?",
+        "answer": "The small target ball is called the cochonnet, meaning 'piglet', or the jack."
+      },
+      {
+        "question": "Are boules solid?",
+        "answer": "No. Competition boules are hollow steel, weighing between 650 and 800 grams."
+      }
+    ],
+    "image": {
+      "search_query": "petanque boules and cochonnet",
+      "wikimedia_commons_category": "Pétanque",
+      "alt": "Steel pétanque boules near a small wooden jack on gravel"
+    },
+    "tags": [
+      "sports",
+      "france",
+      "modern",
+      "metal"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "lawn-bowl",
+    "name": "Lawn bowl",
+    "category": "Toys, games & sports",
+    "invention": {
+      "display": "13th century",
+      "year": 1299,
+      "approximate": true,
+      "era": "Medieval"
+    },
+    "place_of_invention": {
+      "region": "England",
+      "modern_country": "United Kingdom",
+      "notes": "The Southampton Old Bowling Green is said to have been in use since 1299; earlier ball games were played in Europe, but lawn bowls developed in Britain."
+    },
+    "inventor": null,
+    "short_description": "A biased ball rolled toward a small white jack in the game of lawn bowls.",
+    "description": "Lawn bowls has been played in England since the Middle Ages, and the Southampton Old Bowling Green claims use since 1299. The bowls are not perfect spheres but are shaped with a bias so they curve as they slow down. Modern bowls are made of composite rather than lignum vitae wood, but the biased shape is unchanged.",
+    "why_unchanged": "Its bias, which makes the bowl curve, is the essence of the game, so the shape has not changed.",
+    "materials": [
+      "lignum vitae",
+      "composite",
+      "rubber"
+    ],
+    "faqs": [
+      {
+        "question": "Why do lawn bowls curve?",
+        "answer": "They are shaped with a bias, slightly flatter on one side, which makes them curve as they slow down."
+      },
+      {
+        "question": "What is the target called?",
+        "answer": "The small white or yellow ball is called the jack."
+      },
+      {
+        "question": "Is the Drake story true?",
+        "answer": "Legend says Sir Francis Drake finished a game of bowls before facing the Spanish Armada in 1588, but it is not well documented."
+      }
+    ],
+    "image": {
+      "search_query": "lawn bowls on green",
+      "wikimedia_commons_category": "Lawn bowls",
+      "alt": "Dark lawn bowls on a grass green near a white jack"
+    },
+    "tags": [
+      "sports",
+      "lawn games",
+      "medieval",
+      "england"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "golf-tee",
+    "name": "Golf tee",
+    "category": "Toys, games & sports",
+    "invention": {
+      "display": "1899",
+      "year": 1899,
+      "approximate": false,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Boston, Massachusetts",
+      "modern_country": "United States",
+      "notes": "George Franklin Grant patented a wooden tee in 1899; the Reddy Tee of 1921 popularized it. Golfers previously used small piles of sand."
+    },
+    "inventor": "George Franklin Grant",
+    "short_description": "A small peg pushed into the ground to hold a golf ball for the first shot of a hole.",
+    "description": "Before tees, golfers built small mounds of damp sand to raise the ball. Boston dentist George Franklin Grant, one of the first African American graduates of Harvard's dental school, patented a wooden tee in 1899. The peg-with-a-cup design is the same today, though tees are now also made of plastic and bamboo.",
+    "why_unchanged": "A peg with a small cup is the simplest way to raise a ball off the ground.",
+    "materials": [
+      "wood",
+      "plastic",
+      "bamboo"
+    ],
+    "faqs": [
+      {
+        "question": "What did golfers use before tees?",
+        "answer": "They made small mounds of wet sand to raise the ball."
+      },
+      {
+        "question": "Who invented the golf tee?",
+        "answer": "George Franklin Grant, a Boston dentist, patented the wooden golf tee in 1899."
+      },
+      {
+        "question": "Can you use a tee for every shot?",
+        "answer": "No. Under the rules of golf a tee may only be used for the first stroke on each hole, from the teeing area."
+      }
+    ],
+    "image": {
+      "search_query": "wooden golf tees",
+      "wikimedia_commons_category": "Golf tees",
+      "alt": "Wooden golf tees with a golf ball"
+    },
+    "tags": [
+      "sports",
+      "golf",
+      "patent",
+      "industrial"
+    ],
+    "confidence": "high"
+  },
+  {
+    "slug": "hockey-puck",
+    "name": "Hockey puck",
+    "category": "Toys, games & sports",
+    "invention": {
+      "display": "1875",
+      "year": 1875,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Montreal",
+      "modern_country": "Canada",
+      "notes": "The first organized indoor ice hockey game in Montreal in 1875 used a flat wooden puck instead of a ball; vulcanized rubber pucks followed soon after."
+    },
+    "inventor": null,
+    "short_description": "A flat disc of hard rubber struck with sticks in ice hockey.",
+    "description": "Ice hockey was first played with balls, but the 1875 indoor game at Montreal's Victoria Skating Rink used a flat wooden disc that would not bounce into spectators. Rubber pucks followed, and the standard puck is now 3 inches across and 1 inch thick. They are frozen before games to reduce bouncing.",
+    "why_unchanged": "A flat rubber disc slides smoothly and stays low on the ice, so it has never needed redesign.",
+    "materials": [
+      "vulcanized rubber",
+      "wood"
+    ],
+    "faqs": [
+      {
+        "question": "Why are hockey pucks frozen before games?",
+        "answer": "Freezing makes the rubber harder and less bouncy, so the puck slides more predictably."
+      },
+      {
+        "question": "How big is a hockey puck?",
+        "answer": "A standard puck is 3 inches (7.6 cm) in diameter, 1 inch (2.5 cm) thick and weighs about 170 g."
+      },
+      {
+        "question": "Why did hockey switch from a ball to a puck?",
+        "answer": "A flat puck stays on the ice and is less likely to fly into spectators."
+      }
+    ],
+    "image": {
+      "search_query": "ice hockey puck on ice",
+      "wikimedia_commons_category": "Ice hockey pucks",
+      "alt": "A black hockey puck on ice"
+    },
+    "tags": [
+      "sports",
+      "ice hockey",
+      "industrial",
+      "rubber"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "curling-stone",
+    "name": "Curling stone",
+    "category": "Toys, games & sports",
+    "invention": {
+      "display": "c. 1511",
+      "year": 1511,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Scotland",
+      "modern_country": "United Kingdom",
+      "notes": "The oldest known curling stone, the Stirling Stone, bears the date 1511; curling is also depicted in 16th-century Flemish paintings."
+    },
+    "inventor": null,
+    "short_description": "A heavy polished granite stone with a handle slid along ice toward a target.",
+    "description": "Curling originated in Scotland, where the oldest known stone is dated 1511. Early stones were rough river rocks; handles and standardized shapes came later. Today's stones are made of granite from Ailsa Craig in Scotland or from Wales, and they keep the same rounded shape with a handle on top.",
+    "why_unchanged": "A heavy, smooth stone that glides and curls on ice is the whole game, so its form is unchanged.",
+    "materials": [
+      "granite",
+      "plastic (handle)"
+    ],
+    "faqs": [
+      {
+        "question": "How heavy is a curling stone?",
+        "answer": "A stone weighs up to about 19.96 kg (44 lb)."
+      },
+      {
+        "question": "Where does curling granite come from?",
+        "answer": "Most Olympic stones are made of granite from Ailsa Craig, an island off Scotland, or from Trefor in Wales."
+      },
+      {
+        "question": "Why do curlers sweep?",
+        "answer": "Sweeping slightly warms the ice, helping the stone travel farther and curl less."
+      }
+    ],
+    "image": {
+      "search_query": "curling stone on ice",
+      "wikimedia_commons_category": "Curling stones",
+      "alt": "A red-handled granite curling stone on ice"
+    },
+    "tags": [
+      "sports",
+      "ice",
+      "scotland",
+      "early modern"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "javelin",
+    "name": "Javelin",
+    "category": "Toys, games & sports",
+    "invention": {
+      "display": "708 BCE",
+      "year": -708,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Olympia, ancient Greece",
+      "modern_country": "Greece",
+      "notes": "The javelin throw was part of the ancient Olympic pentathlon, traditionally said to have been introduced in 708 BCE; throwing spears are far older."
+    },
+    "inventor": null,
+    "short_description": "A light spear thrown for distance in track and field athletics.",
+    "description": "Spears have been thrown since prehistoric times, but the javelin as a sport entered the ancient Olympic pentathlon, traditionally in 708 BCE. Greek athletes used a leather thong wrapped around the shaft to add spin. The modern javelin, standardized in the 20th century, is still a long pointed shaft with a grip.",
+    "why_unchanged": "A balanced pointed shaft is the most efficient shape for a thrown projectile.",
+    "materials": [
+      "wood",
+      "aluminum",
+      "steel",
+      "carbon fiber"
+    ],
+    "faqs": [
+      {
+        "question": "How heavy is an Olympic javelin?",
+        "answer": "The men's javelin weighs 800 g and the women's 600 g."
+      },
+      {
+        "question": "When did the javelin become a sport?",
+        "answer": "It was part of the ancient Olympic pentathlon, traditionally from 708 BCE."
+      },
+      {
+        "question": "Why was the javelin redesigned in 1986?",
+        "answer": "Throws were getting dangerously long, so the centre of gravity was moved forward to shorten flights; the overall shape stayed the same."
+      }
+    ],
+    "image": {
+      "search_query": "javelin throw athletics",
+      "wikimedia_commons_category": "Javelin throw",
+      "alt": "An athlete about to throw a javelin"
+    },
+    "tags": [
+      "sports",
+      "athletics",
+      "ancient",
+      "olympics"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "discus",
+    "name": "Discus",
+    "category": "Toys, games & sports",
+    "invention": {
+      "display": "708 BCE",
+      "year": -708,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Olympia, ancient Greece",
+      "modern_country": "Greece",
+      "notes": "The discus was part of the ancient Olympic pentathlon, traditionally introduced in 708 BCE."
+    },
+    "inventor": null,
+    "short_description": "A heavy disc thrown for distance in athletics.",
+    "description": "The discus throw was part of the ancient Greek pentathlon, and Myron's sculpture the Discobolus made the event iconic. Ancient discuses were made of stone, bronze or lead and varied in size. The modern discus, a wooden or plastic disc with a metal rim, keeps the same flat, lens-like shape.",
+    "why_unchanged": "A flat lens-shaped disc flies stably when spun, so its shape needs no change.",
+    "materials": [
+      "stone",
+      "bronze",
+      "wood",
+      "rubber",
+      "steel rim"
+    ],
+    "faqs": [
+      {
+        "question": "How heavy is a discus?",
+        "answer": "The men's discus weighs 2 kg and the women's 1 kg."
+      },
+      {
+        "question": "What is the Discobolus?",
+        "answer": "It is a famous ancient Greek statue by Myron, around 450 BCE, showing an athlete about to throw a discus."
+      },
+      {
+        "question": "Was the discus in the first modern Olympics?",
+        "answer": "Yes. It was contested at the 1896 Athens Games and won by Robert Garrett of the US."
+      }
+    ],
+    "image": {
+      "search_query": "discus athletics",
+      "wikimedia_commons_category": "Discuses",
+      "alt": "A discus resting on a track field"
+    },
+    "tags": [
+      "sports",
+      "athletics",
+      "ancient",
+      "olympics"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "shot-put",
+    "name": "Shot put",
+    "category": "Toys, games & sports",
+    "invention": {
+      "display": "14th century",
+      "year": 1350,
+      "approximate": true,
+      "era": "Medieval"
+    },
+    "place_of_invention": {
+      "region": "British Isles",
+      "modern_country": "United Kingdom",
+      "notes": "Stone-putting contests are ancient in Scotland and Ireland, and medieval soldiers are said to have thrown cannonballs; the metal shot became standard in the 19th century."
+    },
+    "inventor": null,
+    "short_description": "A heavy metal ball pushed from the shoulder for distance in athletics.",
+    "description": "Putting heavy stones is an ancient strength contest in Scotland and Ireland, still seen at Highland games. With the arrival of cannon, iron balls became a popular substitute, and standardized metal shots were used in 19th-century British athletics. The event's ball and putting style are unchanged in modern athletics.",
+    "why_unchanged": "A dense sphere is the simplest weight for a pushing throw, so the shot has stayed the same.",
+    "materials": [
+      "iron",
+      "brass",
+      "steel",
+      "stone"
+    ],
+    "faqs": [
+      {
+        "question": "How heavy is a shot?",
+        "answer": "The men's shot weighs 7.26 kg (16 lb) and the women's 4 kg."
+      },
+      {
+        "question": "Why is it 'put' and not thrown?",
+        "answer": "Rules require the shot to be pushed from the shoulder rather than thrown with a straight arm."
+      },
+      {
+        "question": "What is the stone put?",
+        "answer": "It is a traditional Scottish Highland games event using a natural stone instead of a metal ball."
+      }
+    ],
+    "image": {
+      "search_query": "shot put athletics ball",
+      "wikimedia_commons_category": "Shot put",
+      "alt": "A metal shot put ball on a throwing circle"
+    },
+    "tags": [
+      "sports",
+      "athletics",
+      "medieval",
+      "metal"
+    ],
+    "confidence": "low"
+  }
+]

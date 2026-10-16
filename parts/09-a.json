@@ -1,0 +1,1261 @@
+[
+  {
+    "slug": "drum",
+    "name": "Drum",
+    "category": "Music, sound & signaling",
+    "invention": {
+      "display": "c. 5500 BCE",
+      "year": -5500,
+      "approximate": true,
+      "era": "Prehistoric"
+    },
+    "place_of_invention": {
+      "region": "Neolithic China",
+      "modern_country": "China",
+      "notes": "Alligator-skin drums from Neolithic Chinese sites are among the earliest physical evidence; drums were very likely invented independently in many cultures."
+    },
+    "inventor": null,
+    "short_description": "A hollow body with a stretched membrane that is struck to make sound.",
+    "description": "Drums are among the oldest musical instruments, with Neolithic examples made from pottery or wood covered in animal hide. They have been used for music, dance, ritual, communication and military signaling across nearly every culture.",
+    "why_unchanged": "A taut skin over a resonating shell is the simplest way to turn a strike into a loud, controllable tone.",
+    "materials": [
+      "wood",
+      "animal hide",
+      "clay",
+      "metal",
+      "plastic film"
+    ],
+    "faqs": [
+      {
+        "question": "How old is the drum?",
+        "answer": "Archaeological finds from Neolithic China suggest drums existed by around 5500 BCE, and they are likely far older in perishable form."
+      },
+      {
+        "question": "How does a drum make sound?",
+        "answer": "Striking the stretched membrane makes it vibrate, and the shell amplifies and shapes that vibration. Tighter heads produce higher pitches."
+      },
+      {
+        "question": "Were drums used for more than music?",
+        "answer": "Yes. Drums have been used to send messages over distances, set marching pace for armies and accompany religious ceremonies."
+      }
+    ],
+    "image": {
+      "search_query": "traditional wooden hand drum with animal skin head",
+      "wikimedia_commons_category": "Drums",
+      "alt": "A traditional wooden drum with a hide head"
+    },
+    "tags": [
+      "percussion",
+      "ancient",
+      "membranophone"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "frame-drum",
+    "name": "Frame drum",
+    "category": "Music, sound & signaling",
+    "invention": {
+      "display": "c. 3000 BCE",
+      "year": -3000,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Mesopotamia",
+      "modern_country": "Iraq",
+      "notes": "Depicted in Mesopotamian and Egyptian art from the 3rd millennium BCE; similar drums arose widely."
+    },
+    "inventor": null,
+    "short_description": "A shallow drum whose head is wider than the depth of its round frame.",
+    "description": "The frame drum consists of a single skin stretched over a narrow wooden hoop and is played with the hands or a beater. It appears in ancient Near Eastern art, often played by women in ritual settings, and lives on in instruments like the daf, bendir and tar.",
+    "why_unchanged": "A thin hoop and skin is light, portable and loud, so there was nothing to improve.",
+    "materials": [
+      "wood",
+      "goatskin",
+      "synthetic membrane"
+    ],
+    "faqs": [
+      {
+        "question": "What makes a frame drum different from other drums?",
+        "answer": "Its frame is shallower than the head is wide, so it is light and can be held in one hand while played with the other."
+      },
+      {
+        "question": "Which instruments are frame drums?",
+        "answer": "The tambourine, Irish bodhrán, Middle Eastern daf and North African bendir are all frame drums."
+      },
+      {
+        "question": "Who played frame drums in ancient times?",
+        "answer": "Ancient Mesopotamian and Egyptian images often show women playing frame drums in religious processions and celebrations."
+      }
+    ],
+    "image": {
+      "search_query": "frame drum daf played by hand",
+      "wikimedia_commons_category": "Frame drums",
+      "alt": "A round frame drum with a skin head"
+    },
+    "tags": [
+      "percussion",
+      "ancient",
+      "hand drum"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "bodhran",
+    "name": "Bodhrán",
+    "category": "Music, sound & signaling",
+    "invention": {
+      "display": "19th century (disputed)",
+      "year": 1850,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Ireland",
+      "modern_country": "Ireland",
+      "notes": "Its age is debated; some trace it to older frame drums or winnowing trays, but its prominence in Irish music dates mainly from the mid-20th century."
+    },
+    "inventor": null,
+    "short_description": "An Irish frame drum played with a small double-ended stick called a tipper.",
+    "description": "The bodhrán is a goatskin frame drum held upright while the player strikes it with a tipper and changes pitch by pressing the inside of the skin with the other hand. It became a staple of Irish traditional music during the folk revival of the 1960s.",
+    "why_unchanged": "A skin on a hoop already gives rich tone and pitch control by hand, so the design stayed simple.",
+    "materials": [
+      "wood",
+      "goatskin"
+    ],
+    "faqs": [
+      {
+        "question": "How is a bodhrán played?",
+        "answer": "The player holds it vertically and strikes it with a tipper, while the other hand presses behind the skin to change pitch and tone."
+      },
+      {
+        "question": "How do you pronounce bodhrán?",
+        "answer": "It is usually pronounced roughly 'BOW-rawn' or 'BAW-rawn'."
+      },
+      {
+        "question": "Is the bodhrán an ancient instrument?",
+        "answer": "Its exact age is uncertain; it is clearly related to ancient frame drums, but it became widely popular in Irish music only in the 20th century."
+      }
+    ],
+    "image": {
+      "search_query": "bodhran irish frame drum with tipper",
+      "wikimedia_commons_category": "Bodhráns",
+      "alt": "An Irish bodhrán with a wooden tipper"
+    },
+    "tags": [
+      "percussion",
+      "irish",
+      "frame drum"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "tambourine",
+    "name": "Tambourine",
+    "category": "Music, sound & signaling",
+    "invention": {
+      "display": "Antiquity",
+      "year": -1500,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Ancient Near East",
+      "modern_country": "Iraq",
+      "notes": "Frame drums with jingles appear in ancient Middle Eastern and Mediterranean cultures; exact origin is uncertain."
+    },
+    "inventor": null,
+    "short_description": "A small frame drum fitted with metal jingles around its rim.",
+    "description": "The tambourine combines a frame drum with pairs of small metal discs called zils set into slots in the frame. Known in the ancient Middle East, Greece and Rome, it spread across Europe and is now used in everything from folk music to rock and pop.",
+    "why_unchanged": "Jingles in a hoop give both a drum hit and a shimmer in one handheld object.",
+    "materials": [
+      "wood",
+      "metal",
+      "skin",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "What are the metal discs on a tambourine called?",
+        "answer": "They are called jingles or zils, and they clash together when the tambourine is shaken or struck."
+      },
+      {
+        "question": "Does a tambourine need a skin?",
+        "answer": "No. Many modern tambourines are headless rings with jingles, though traditional ones have a skin head."
+      },
+      {
+        "question": "Is the tambourine used in orchestras?",
+        "answer": "Yes. Composers such as Tchaikovsky and Bizet wrote tambourine parts, often to evoke dance or folk music."
+      }
+    ],
+    "image": {
+      "search_query": "tambourine with metal jingles",
+      "wikimedia_commons_category": "Tambourines",
+      "alt": "A tambourine with a skin head and metal jingles"
+    },
+    "tags": [
+      "percussion",
+      "ancient",
+      "shaker"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "castanets",
+    "name": "Castanets",
+    "category": "Music, sound & signaling",
+    "invention": {
+      "display": "Antiquity",
+      "year": -1000,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Ancient Mediterranean",
+      "modern_country": "Spain",
+      "notes": "Hand clappers existed in ancient Egypt and Greece; the castanet is most strongly associated with Spain, but its exact origin is disputed."
+    },
+    "inventor": null,
+    "short_description": "A pair of shell-shaped clappers held in the hand and clicked together.",
+    "description": "Castanets are two concave pieces of hardwood joined by a cord looped over the thumb and fingers. Similar clappers were used in the ancient Mediterranean, and castanets became iconic in Spanish folk and flamenco dance.",
+    "why_unchanged": "Two hollow shells on a string produce a sharp click with nothing else needed.",
+    "materials": [
+      "hardwood",
+      "ivory",
+      "fiberglass",
+      "cord"
+    ],
+    "faqs": [
+      {
+        "question": "How are castanets held?",
+        "answer": "A cord loops over the thumb or middle finger so the two shells hang in the palm, and the fingers tap them together."
+      },
+      {
+        "question": "Why do dancers use two pairs?",
+        "answer": "Traditionally the lower-pitched pair is held in the left hand for the basic rhythm and the higher pair in the right for ornaments."
+      },
+      {
+        "question": "Where does the name come from?",
+        "answer": "The word comes from Spanish castañuela, meaning 'little chestnut', because of their shape."
+      }
+    ],
+    "image": {
+      "search_query": "pair of wooden castanets",
+      "wikimedia_commons_category": "Castanets",
+      "alt": "A pair of wooden castanets joined by a red cord"
+    },
+    "tags": [
+      "percussion",
+      "spain",
+      "dance"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "maracas",
+    "name": "Maracas",
+    "category": "Music, sound & signaling",
+    "invention": {
+      "display": "Pre-Columbian era",
+      "year": 1000,
+      "approximate": true,
+      "era": "Medieval"
+    },
+    "place_of_invention": {
+      "region": "Caribbean and South America",
+      "modern_country": "Venezuela",
+      "notes": "Used by Indigenous peoples such as the Taíno before European contact; no single place of origin can be identified."
+    },
+    "inventor": null,
+    "short_description": "A pair of hollow rattles on handles, filled with seeds or pebbles.",
+    "description": "Maracas were traditionally made from dried gourds filled with seeds and fixed on wooden handles. Indigenous peoples of the Caribbean and South America used them in music and ritual, and they remain central to Latin American music.",
+    "why_unchanged": "A filled hollow body on a handle is the simplest effective rattle.",
+    "materials": [
+      "gourd",
+      "seeds",
+      "wood",
+      "leather",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "What is inside a maraca?",
+        "answer": "Traditionally dried seeds or small pebbles; modern maracas may use plastic beads or shot."
+      },
+      {
+        "question": "Are maracas always played in pairs?",
+        "answer": "Usually yes, often tuned slightly differently so the two produce contrasting sounds."
+      },
+      {
+        "question": "Which music uses maracas?",
+        "answer": "They are common in salsa, cumbia, joropo and many other Latin American styles."
+      }
+    ],
+    "image": {
+      "search_query": "pair of gourd maracas",
+      "wikimedia_commons_category": "Maracas",
+      "alt": "A pair of painted maracas"
+    },
+    "tags": [
+      "percussion",
+      "latin america",
+      "rattle"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "shekere",
+    "name": "Shekere",
+    "category": "Music, sound & signaling",
+    "invention": {
+      "display": "Date unknown (traditional)",
+      "year": 1500,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "West Africa",
+      "modern_country": "Nigeria",
+      "notes": "Associated especially with the Yoruba; its age is not documented and the date is a rough placeholder."
+    },
+    "inventor": null,
+    "short_description": "A dried gourd covered in a net of beads or shells, shaken or struck.",
+    "description": "The shekere is a large hollow gourd wrapped in a loose net strung with beads, seeds or cowrie shells. Shaking, twisting and slapping it produces rattling rhythms, and it travelled with the African diaspora to Cuba, Brazil and beyond.",
+    "why_unchanged": "A gourd with an external bead net already gives a wide range of sounds without any extra parts.",
+    "materials": [
+      "gourd",
+      "beads",
+      "cowrie shells",
+      "cord"
+    ],
+    "faqs": [
+      {
+        "question": "How is a shekere played?",
+        "answer": "It is shaken, twisted and struck on the bottom with the palm, combining rattle sounds with a bass thump."
+      },
+      {
+        "question": "Why are the beads on the outside?",
+        "answer": "The outer net lets the beads strike the gourd surface directly, giving a crisper and louder sound than a closed rattle."
+      },
+      {
+        "question": "Where else is the shekere used?",
+        "answer": "Variants appear in Cuban music (chekeré) and Brazilian music (xequerê)."
+      }
+    ],
+    "image": {
+      "search_query": "shekere gourd rattle with beads",
+      "wikimedia_commons_category": "Shekeres",
+      "alt": "A gourd shekere covered with a net of beads"
+    },
+    "tags": [
+      "percussion",
+      "africa",
+      "rattle"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "cymbals",
+    "name": "Cymbals",
+    "category": "Music, sound & signaling",
+    "invention": {
+      "display": "c. 1200 BCE",
+      "year": -1200,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Ancient Near East",
+      "modern_country": "Syria",
+      "notes": "Bronze cymbals appear in the Near East and Egypt during the 2nd millennium BCE; the exact place of origin is uncertain."
+    },
+    "inventor": null,
+    "short_description": "Thin round metal plates that are clashed together or struck.",
+    "description": "Cymbals are concave bronze discs that are crashed in pairs or hit with sticks. Known from the ancient Near East, they spread through Asia and Europe; the Turkish Zildjian family, founded in 1623, helped make them central to orchestral and drum-kit music.",
+    "why_unchanged": "A thin, curved metal plate is the natural shape for a loud, sustained crash.",
+    "materials": [
+      "bronze",
+      "brass"
+    ],
+    "faqs": [
+      {
+        "question": "What are cymbals made of?",
+        "answer": "Professional cymbals are usually bronze alloys of copper and tin; cheaper ones use brass."
+      },
+      {
+        "question": "How old is the Zildjian company?",
+        "answer": "Zildjian traces its founding to Constantinople in 1623, making it one of the oldest family businesses in the world."
+      },
+      {
+        "question": "Why do cymbals have a dome in the middle?",
+        "answer": "The central bell adds a bright, ringing tone and stiffens the cymbal."
+      }
+    ],
+    "image": {
+      "search_query": "bronze crash cymbals pair",
+      "wikimedia_commons_category": "Cymbals",
+      "alt": "A pair of bronze orchestral cymbals"
+    },
+    "tags": [
+      "percussion",
+      "ancient",
+      "metal"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "finger-cymbals",
+    "name": "Finger cymbals",
+    "category": "Music, sound & signaling",
+    "invention": {
+      "display": "Antiquity",
+      "year": -500,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Ancient Egypt and Near East",
+      "modern_country": "Egypt",
+      "notes": "Small cymbals are known from ancient Egypt and the eastern Mediterranean; exact dating is uncertain."
+    },
+    "inventor": null,
+    "short_description": "Tiny paired cymbals worn on the thumb and middle finger.",
+    "description": "Finger cymbals, known as zills or sagat, are small brass discs attached to the fingers with elastic bands. Dancers clap them together to play rhythms, a practice depicted in the ancient Mediterranean world and still central to Middle Eastern dance.",
+    "why_unchanged": "Small discs on finger straps let a dancer play while moving, a need that never changed.",
+    "materials": [
+      "brass",
+      "bronze",
+      "elastic"
+    ],
+    "faqs": [
+      {
+        "question": "Who plays finger cymbals?",
+        "answer": "They are most associated with Middle Eastern and belly dancers, who play rhythms while they dance."
+      },
+      {
+        "question": "How many are used?",
+        "answer": "Usually four, one pair on each hand worn on the thumb and middle finger."
+      },
+      {
+        "question": "What are they called in Arabic?",
+        "answer": "They are commonly called sagat in Egyptian Arabic and zills in Turkish."
+      }
+    ],
+    "image": {
+      "search_query": "brass finger cymbals zills",
+      "wikimedia_commons_category": "Finger cymbals",
+      "alt": "Two pairs of brass finger cymbals"
+    },
+    "tags": [
+      "percussion",
+      "dance",
+      "ancient"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "gong",
+    "name": "Gong",
+    "category": "Music, sound & signaling",
+    "invention": {
+      "display": "c. 2nd century BCE",
+      "year": -150,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Southern China and Southeast Asia",
+      "modern_country": "China",
+      "notes": "Early bronze gongs are known from Han-era tombs in southern China; some scholars place origins in mainland Southeast Asia."
+    },
+    "inventor": null,
+    "short_description": "A large metal disc that is hung and struck with a mallet.",
+    "description": "Gongs are flat or bossed bronze discs suspended from a frame and struck with a padded mallet. They spread across East and Southeast Asia, used in ceremonies, orchestras such as the gamelan, and as signals.",
+    "why_unchanged": "A hung metal disc struck with a soft mallet is the simplest way to produce a deep, long-lasting tone.",
+    "materials": [
+      "bronze",
+      "brass",
+      "wood"
+    ],
+    "faqs": [
+      {
+        "question": "What is the difference between a gong and a cymbal?",
+        "answer": "Gongs are usually hung and struck with a mallet and often have a turned-down rim, while cymbals are clashed or struck with sticks."
+      },
+      {
+        "question": "What is a gamelan?",
+        "answer": "A gamelan is an Indonesian ensemble made mostly of tuned gongs and metallophones."
+      },
+      {
+        "question": "Why were gongs used as signals?",
+        "answer": "Their sound carries far, so they announced meals, ceremonies and the arrival of officials."
+      }
+    ],
+    "image": {
+      "search_query": "large bronze gong on wooden stand",
+      "wikimedia_commons_category": "Gongs",
+      "alt": "A large bronze gong hanging in a wooden frame"
+    },
+    "tags": [
+      "percussion",
+      "asia",
+      "signal"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "triangle",
+    "name": "Triangle",
+    "category": "Music, sound & signaling",
+    "invention": {
+      "display": "14th century",
+      "year": 1350,
+      "approximate": true,
+      "era": "Medieval"
+    },
+    "place_of_invention": {
+      "region": "Europe",
+      "modern_country": null,
+      "notes": "Appears in medieval European art and inventories; early versions often had jingling rings."
+    },
+    "inventor": null,
+    "short_description": "A steel rod bent into a triangle and struck with a metal beater.",
+    "description": "The triangle is a metal bar bent into a triangular shape with one open corner, hung from a cord and struck with a metal beater. Medieval versions sometimes carried rings, and the plain form became a standard orchestral instrument in the 18th and 19th centuries.",
+    "why_unchanged": "The open corner and bent bar give a clear ringing tone that needs no refinement.",
+    "materials": [
+      "steel",
+      "aluminium",
+      "cord"
+    ],
+    "faqs": [
+      {
+        "question": "Why does a triangle have an open corner?",
+        "answer": "The gap keeps the bar from producing a single definite pitch, so it blends with any key."
+      },
+      {
+        "question": "How is a triangle held?",
+        "answer": "It hangs from a loop of cord or clip so it can vibrate freely when struck."
+      },
+      {
+        "question": "Is the triangle easy to play well?",
+        "answer": "Basic strokes are simple, but orchestral players use careful technique for rolls, dampening and precise timing."
+      }
+    ],
+    "image": {
+      "search_query": "orchestral steel triangle with beater",
+      "wikimedia_commons_category": "Triangles (musical instruments)",
+      "alt": "A steel triangle hanging from a cord with its beater"
+    },
+    "tags": [
+      "percussion",
+      "orchestra",
+      "medieval"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "xylophone",
+    "name": "Xylophone",
+    "category": "Music, sound & signaling",
+    "invention": {
+      "display": "Before 9th century CE",
+      "year": 800,
+      "approximate": true,
+      "era": "Medieval"
+    },
+    "place_of_invention": {
+      "region": "Southeast Asia or Africa",
+      "modern_country": null,
+      "notes": "Origins are disputed: early evidence exists in Southeast Asia, and African xylophones developed independently or via early contact."
+    },
+    "inventor": null,
+    "short_description": "A row of tuned wooden bars struck with mallets.",
+    "description": "The xylophone has wooden bars of graded length arranged in a row and struck with hard mallets, sometimes with resonators below. It has deep roots in Africa and Southeast Asia and became part of Western orchestras in the 19th century.",
+    "why_unchanged": "Bars cut to different lengths automatically give different pitches, so the layout needed no change.",
+    "materials": [
+      "rosewood",
+      "wood",
+      "gourd",
+      "metal"
+    ],
+    "faqs": [
+      {
+        "question": "What does 'xylophone' mean?",
+        "answer": "It comes from Greek words meaning 'wood' and 'sound'."
+      },
+      {
+        "question": "How are the bars tuned?",
+        "answer": "Makers shave wood from the underside of each bar until it rings at the right pitch."
+      },
+      {
+        "question": "What is the difference between a xylophone and a glockenspiel?",
+        "answer": "A xylophone has wooden bars, while a glockenspiel uses metal bars and sounds higher and brighter."
+      }
+    ],
+    "image": {
+      "search_query": "wooden xylophone with mallets",
+      "wikimedia_commons_category": "Xylophones",
+      "alt": "A wooden xylophone with two mallets"
+    },
+    "tags": [
+      "percussion",
+      "africa",
+      "asia"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "thumb-piano",
+    "name": "Thumb piano",
+    "category": "Music, sound & signaling",
+    "invention": {
+      "display": "c. 1,300 years ago",
+      "year": 700,
+      "approximate": true,
+      "era": "Medieval"
+    },
+    "place_of_invention": {
+      "region": "Zambezi Valley, Southern Africa",
+      "modern_country": "Zimbabwe",
+      "notes": "Metal-tongued lamellophones appear in southern Africa about 1,300 years ago; wooden-keyed versions in West Africa may be older."
+    },
+    "inventor": null,
+    "short_description": "A wooden board with metal tongues plucked by the thumbs.",
+    "description": "The thumb piano, known as the mbira, sansa or kalimba, has flexible metal keys fixed over a soundboard or resonator. Players pluck the keys with their thumbs, and it is central to Shona music in Zimbabwe; the commercial 'kalimba' was popularized by Hugh Tracey in the 1950s.",
+    "why_unchanged": "Fixed metal tongues of different lengths give tuned notes in a pocket-sized instrument.",
+    "materials": [
+      "wood",
+      "steel",
+      "gourd"
+    ],
+    "faqs": [
+      {
+        "question": "What is the mbira used for?",
+        "answer": "Among the Shona of Zimbabwe it is played at ceremonies to communicate with ancestors as well as for entertainment."
+      },
+      {
+        "question": "Why do some thumb pianos buzz?",
+        "answer": "Bottle caps, shells or wire are often attached to create a buzzing that is part of the traditional sound."
+      },
+      {
+        "question": "Is a kalimba the same as an mbira?",
+        "answer": "Kalimba is the name popularized for a Western-tuned version; mbira refers to related traditional instruments."
+      }
+    ],
+    "image": {
+      "search_query": "mbira thumb piano kalimba",
+      "wikimedia_commons_category": "Mbiras",
+      "alt": "A wooden thumb piano with metal keys"
+    },
+    "tags": [
+      "percussion",
+      "africa",
+      "lamellophone"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "slit-drum",
+    "name": "Slit drum",
+    "category": "Music, sound & signaling",
+    "invention": {
+      "display": "Ancient (date unknown)",
+      "year": -1000,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Africa, Asia, Oceania and the Americas",
+      "modern_country": null,
+      "notes": "Developed independently in many regions; no reliable date or place of origin exists, and the year is a rough estimate."
+    },
+    "inventor": null,
+    "short_description": "A hollowed log with a long slit, struck to produce deep tones.",
+    "description": "A slit drum is carved from a hollowed log or wooden box with a narrow slot, and the two lips on either side give different pitches. Used for music and long-distance communication, versions include the Aztec teponaztli and the large garamut of New Guinea.",
+    "why_unchanged": "A hollow log with a slit is already a resonant, durable drum needing no skin.",
+    "materials": [
+      "wood",
+      "bamboo"
+    ],
+    "faqs": [
+      {
+        "question": "Does a slit drum have a skin?",
+        "answer": "No. It is an idiophone: the wooden body itself vibrates when struck."
+      },
+      {
+        "question": "Why were slit drums used for messages?",
+        "answer": "Their loud, low tones carry long distances, and drumming patterns could signal events between villages."
+      },
+      {
+        "question": "What are tongue drums?",
+        "answer": "Modern wooden tongue drums are box-shaped slit drums with tongues cut to play several pitches."
+      }
+    ],
+    "image": {
+      "search_query": "carved wooden slit drum",
+      "wikimedia_commons_category": "Slit drums",
+      "alt": "A large carved wooden slit drum"
+    },
+    "tags": [
+      "percussion",
+      "wood",
+      "signal"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "bongo-drums",
+    "name": "Bongo drums",
+    "category": "Music, sound & signaling",
+    "invention": {
+      "display": "Late 19th century",
+      "year": 1890,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Eastern Cuba (Oriente)",
+      "modern_country": "Cuba",
+      "notes": "Linked to the son music of eastern Cuba; precise origins are not documented."
+    },
+    "inventor": null,
+    "short_description": "A pair of small joined drums of different sizes played with the hands.",
+    "description": "Bongos are two small open-bottomed drums attached by a wooden block, played between the knees with the fingers and palms. They emerged in eastern Cuba with the son genre and spread worldwide with Latin music in the 20th century.",
+    "why_unchanged": "Two small joined drums give contrasting pitches in an easily held unit.",
+    "materials": [
+      "wood",
+      "rawhide",
+      "fiberglass",
+      "metal"
+    ],
+    "faqs": [
+      {
+        "question": "What are the two drums called?",
+        "answer": "The smaller drum is called the macho and the larger the hembra."
+      },
+      {
+        "question": "How are bongos held?",
+        "answer": "Traditionally they are held between the knees with the smaller drum on the left for right-handed players."
+      },
+      {
+        "question": "What music made bongos famous?",
+        "answer": "Cuban son, and later salsa and mambo, carried bongos into popular music worldwide."
+      }
+    ],
+    "image": {
+      "search_query": "pair of bongo drums",
+      "wikimedia_commons_category": "Bongos",
+      "alt": "A pair of wooden bongo drums"
+    },
+    "tags": [
+      "percussion",
+      "cuba",
+      "hand drum"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "djembe",
+    "name": "Djembe",
+    "category": "Music, sound & signaling",
+    "invention": {
+      "display": "c. 12th century (traditional)",
+      "year": 1200,
+      "approximate": true,
+      "era": "Medieval"
+    },
+    "place_of_invention": {
+      "region": "Mandé region, West Africa",
+      "modern_country": "Mali",
+      "notes": "Commonly associated with the Mandé peoples and the Mali Empire era; dating relies largely on oral tradition."
+    },
+    "inventor": null,
+    "short_description": "A goblet-shaped wooden drum with a goatskin head played with bare hands.",
+    "description": "The djembe is carved from a single piece of hardwood in a goblet shape with a rope-tuned goatskin head. It can produce deep bass, tone and sharp slap sounds and became popular worldwide from the 1950s through touring West African ensembles.",
+    "why_unchanged": "The goblet shape and rope tuning already produce three distinct sounds from one drum.",
+    "materials": [
+      "hardwood",
+      "goatskin",
+      "rope"
+    ],
+    "faqs": [
+      {
+        "question": "How many sounds can a djembe make?",
+        "answer": "The three basic sounds are bass, tone and slap, produced by striking different parts of the head."
+      },
+      {
+        "question": "How is a djembe tuned?",
+        "answer": "Tension on the vertical ropes is increased by weaving them, tightening the skin."
+      },
+      {
+        "question": "Where does the name come from?",
+        "answer": "A common explanation from Mali links it to a Bambara saying meaning 'everyone gather together in peace', though this is debated."
+      }
+    ],
+    "image": {
+      "search_query": "west african djembe drum",
+      "wikimedia_commons_category": "Djembes",
+      "alt": "A carved wooden djembe with a rope-tuned goatskin head"
+    },
+    "tags": [
+      "percussion",
+      "africa",
+      "hand drum"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "talking-drum",
+    "name": "Talking drum",
+    "category": "Music, sound & signaling",
+    "invention": {
+      "display": "Date unknown (traditional)",
+      "year": 1500,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "West Africa",
+      "modern_country": "Nigeria",
+      "notes": "An old tradition among the Yoruba, Akan and others; no reliable date of invention exists."
+    },
+    "inventor": null,
+    "short_description": "An hourglass-shaped drum whose pitch changes when its cords are squeezed.",
+    "description": "The talking drum has two heads joined by leather cords along an hourglass-shaped body. Squeezing the cords under the arm raises the pitch, letting skilled players imitate the tones of languages like Yoruba to send messages.",
+    "why_unchanged": "Squeezable tension cords already give full pitch control without any mechanism.",
+    "materials": [
+      "wood",
+      "goatskin",
+      "leather"
+    ],
+    "faqs": [
+      {
+        "question": "How does a talking drum 'talk'?",
+        "answer": "Many West African languages are tonal, and the drum mimics the rise and fall of speech by changing pitch."
+      },
+      {
+        "question": "What is the Yoruba talking drum called?",
+        "answer": "The Yoruba hourglass drum is called the dùndún."
+      },
+      {
+        "question": "Is it played with a stick?",
+        "answer": "Yes, usually with a curved stick, while the player squeezes the drum under the arm."
+      }
+    ],
+    "image": {
+      "search_query": "yoruba hourglass talking drum",
+      "wikimedia_commons_category": "Talking drums",
+      "alt": "An hourglass-shaped talking drum with leather cords"
+    },
+    "tags": [
+      "percussion",
+      "africa",
+      "signal"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "tabla",
+    "name": "Tabla",
+    "category": "Music, sound & signaling",
+    "invention": {
+      "display": "18th century",
+      "year": 1750,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "North India",
+      "modern_country": "India",
+      "notes": "Most historians date it to the 18th century; a popular legend crediting Amir Khusrau in the 13th century is not supported by evidence."
+    },
+    "inventor": null,
+    "short_description": "A pair of Indian hand drums with black tuning paste on their heads.",
+    "description": "The tabla consists of a smaller wooden drum (dayan) and a larger metal or clay drum (bayan), each with a layered head carrying a black spot of tuning paste. It is the main percussion instrument of Hindustani classical music.",
+    "why_unchanged": "The paste-loaded heads produce precise pitches that were refined long ago and need no change.",
+    "materials": [
+      "wood",
+      "copper",
+      "clay",
+      "goatskin",
+      "iron filings paste"
+    ],
+    "faqs": [
+      {
+        "question": "What is the black spot on a tabla?",
+        "answer": "It is the syahi, a paste of flour, gum and iron filings that gives the drum its clear, bell-like pitch."
+      },
+      {
+        "question": "How is a tabla tuned?",
+        "answer": "Leather straps and wooden blocks on the side are adjusted, and the rim is tapped with a small hammer."
+      },
+      {
+        "question": "How do tabla players learn rhythms?",
+        "answer": "They learn spoken syllables called bols, each representing a specific stroke."
+      }
+    ],
+    "image": {
+      "search_query": "indian tabla drums pair",
+      "wikimedia_commons_category": "Tabla",
+      "alt": "A pair of tabla drums"
+    },
+    "tags": [
+      "percussion",
+      "india",
+      "classical"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "claves",
+    "name": "Claves",
+    "category": "Music, sound & signaling",
+    "invention": {
+      "display": "c. 18th–19th century",
+      "year": 1800,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Cuba",
+      "modern_country": "Cuba",
+      "notes": "Thought to have originated in Afro-Cuban communities, possibly from hardwood pegs used in Havana shipyards; this is traditional rather than documented."
+    },
+    "inventor": null,
+    "short_description": "A pair of short hardwood sticks clicked together.",
+    "description": "Claves are two cylindrical hardwood sticks; one rests on the cupped hand as a resonator and the other strikes it. They give their name to the clave rhythm that underpins much Cuban and Latin music.",
+    "why_unchanged": "Two dense sticks give a clean, piercing click that cannot be improved upon.",
+    "materials": [
+      "hardwood",
+      "rosewood",
+      "fiberglass"
+    ],
+    "faqs": [
+      {
+        "question": "What is the clave rhythm?",
+        "answer": "It is a repeating five-stroke pattern that organizes the rhythm of styles such as son and salsa."
+      },
+      {
+        "question": "Why is the hand cupped?",
+        "answer": "The cupped hand acts as a resonating chamber, making the click louder."
+      },
+      {
+        "question": "Are claves always wooden?",
+        "answer": "Traditionally yes, but plastic and fiberglass versions are also made."
+      }
+    ],
+    "image": {
+      "search_query": "pair of wooden claves",
+      "wikimedia_commons_category": "Claves",
+      "alt": "A pair of wooden claves"
+    },
+    "tags": [
+      "percussion",
+      "cuba",
+      "wood"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "guiro",
+    "name": "Güiro",
+    "category": "Music, sound & signaling",
+    "invention": {
+      "display": "Pre-Columbian era",
+      "year": 1000,
+      "approximate": true,
+      "era": "Medieval"
+    },
+    "place_of_invention": {
+      "region": "Caribbean",
+      "modern_country": "Puerto Rico",
+      "notes": "Associated with the Indigenous Taíno; the date is a rough estimate and origins are not documented."
+    },
+    "inventor": null,
+    "short_description": "A notched hollow gourd scraped with a stick.",
+    "description": "The güiro is a hollow gourd with parallel notches cut into its surface, scraped with a stick or tines to make a rasping rhythm. It is common in Puerto Rican, Cuban and other Latin American music.",
+    "why_unchanged": "Notches on a hollow body give a rhythmic rasp with nothing more required.",
+    "materials": [
+      "gourd",
+      "wood",
+      "metal",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "How is a güiro played?",
+        "answer": "The player holds it by finger holes and scrapes the notches with a stick in long and short strokes."
+      },
+      {
+        "question": "What is a güira?",
+        "answer": "A güira is a metal version used in Dominican merengue."
+      },
+      {
+        "question": "What family of instrument is it?",
+        "answer": "It is a scraper, a type of idiophone."
+      }
+    ],
+    "image": {
+      "search_query": "guiro gourd scraper",
+      "wikimedia_commons_category": "Güiros",
+      "alt": "A notched gourd güiro with its scraper"
+    },
+    "tags": [
+      "percussion",
+      "caribbean",
+      "scraper"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "cajon",
+    "name": "Cajón",
+    "category": "Music, sound & signaling",
+    "invention": {
+      "display": "Late 18th–19th century",
+      "year": 1800,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Coastal Peru",
+      "modern_country": "Peru",
+      "notes": "Developed by Afro-Peruvian communities; often explained as a response to restrictions on drums, though this is debated."
+    },
+    "inventor": null,
+    "short_description": "A wooden box drum that the player sits on and slaps.",
+    "description": "The cajón is a six-sided wooden box with a sound hole, played by slapping the front face. It became Peru's national instrument and spread to flamenco in the 1970s through guitarist Paco de Lucía.",
+    "why_unchanged": "A resonant box already gives bass and slap tones, so additions remained optional.",
+    "materials": [
+      "plywood",
+      "hardwood",
+      "snare wires"
+    ],
+    "faqs": [
+      {
+        "question": "How is a cajón played?",
+        "answer": "The player sits on it and strikes the front face with the hands, center for bass and edges for sharp tones."
+      },
+      {
+        "question": "Why do some cajones buzz?",
+        "answer": "Flamenco-style cajones have strings or wires inside that add a snare-like buzz."
+      },
+      {
+        "question": "Is the cajón officially recognized in Peru?",
+        "answer": "Yes. Peru declared the Afro-Peruvian cajón part of its national cultural heritage in 2001."
+      }
+    ],
+    "image": {
+      "search_query": "wooden cajon box drum",
+      "wikimedia_commons_category": "Cajóns",
+      "alt": "A wooden cajón box drum"
+    },
+    "tags": [
+      "percussion",
+      "peru",
+      "flamenco"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "singing-bowl",
+    "name": "Singing bowl",
+    "category": "Music, sound & signaling",
+    "invention": {
+      "display": "Uncertain",
+      "year": 1500,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Himalayan region",
+      "modern_country": "Nepal",
+      "notes": "Metal bowls are old in the region, but evidence for their use as 'singing' instruments before the 20th century is weak; the date is a rough estimate."
+    },
+    "inventor": null,
+    "short_description": "A metal bowl that rings when struck or rubbed around the rim.",
+    "description": "Singing bowls are bronze bowls that ring when struck and sustain a tone when a wooden mallet is rubbed around the rim. Associated with the Himalayas, they became widely known in the West from the 1970s for meditation and sound practice.",
+    "why_unchanged": "A simple bowl shape produces sustained tones without any modification.",
+    "materials": [
+      "bronze",
+      "brass",
+      "wood"
+    ],
+    "faqs": [
+      {
+        "question": "How do you make a singing bowl sing?",
+        "answer": "Run a wooden mallet steadily around the outside rim; friction builds a continuous tone."
+      },
+      {
+        "question": "Are singing bowls ancient?",
+        "answer": "Bowls are old, but historians find little evidence of their use as musical 'singing' bowls before modern times."
+      },
+      {
+        "question": "Can you put water in one?",
+        "answer": "Yes. Adding water changes the pitch and can make the water surface ripple when it sings."
+      }
+    ],
+    "image": {
+      "search_query": "brass singing bowl with mallet",
+      "wikimedia_commons_category": "Singing bowls",
+      "alt": "A bronze singing bowl with a wooden striker"
+    },
+    "tags": [
+      "percussion",
+      "meditation",
+      "metal"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "wooden-fish",
+    "name": "Wooden fish",
+    "category": "Music, sound & signaling",
+    "invention": {
+      "display": "c. Tang dynasty",
+      "year": 700,
+      "approximate": true,
+      "era": "Medieval"
+    },
+    "place_of_invention": {
+      "region": "China",
+      "modern_country": "China",
+      "notes": "Linked to Chinese Buddhist monasteries; exact origins are uncertain."
+    },
+    "inventor": null,
+    "short_description": "A hollow carved wooden block struck in Buddhist chanting.",
+    "description": "The wooden fish (muyu) is a rounded hollow block, often carved with fish scales, struck with a stick to keep time during Buddhist chanting. The fish symbolizes wakefulness because fish were thought never to close their eyes; it inspired the Western temple block.",
+    "why_unchanged": "A hollow wooden block gives a clear tock that monks have relied on for centuries.",
+    "materials": [
+      "wood",
+      "camphor wood"
+    ],
+    "faqs": [
+      {
+        "question": "Why is it shaped like a fish?",
+        "answer": "Fish were believed never to sleep, symbolizing the alertness monks seek in practice."
+      },
+      {
+        "question": "What is it used for?",
+        "answer": "It keeps a steady beat for chanting sutras and marks time in monasteries."
+      },
+      {
+        "question": "Is it related to temple blocks?",
+        "answer": "Yes. Western temple blocks used in orchestras and drum kits derive from the wooden fish."
+      }
+    ],
+    "image": {
+      "search_query": "buddhist wooden fish muyu",
+      "wikimedia_commons_category": "Muyu",
+      "alt": "A red lacquered wooden fish with a striker"
+    },
+    "tags": [
+      "percussion",
+      "buddhism",
+      "china"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "rainstick",
+    "name": "Rainstick",
+    "category": "Music, sound & signaling",
+    "invention": {
+      "display": "Date unknown (traditional)",
+      "year": 1500,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Andean and desert regions of South America",
+      "modern_country": "Chile",
+      "notes": "Often attributed to peoples of northern Chile or Peru; evidence about origins and ritual use is limited."
+    },
+    "inventor": null,
+    "short_description": "A hollow tube with internal pins that sounds like falling rain when tilted.",
+    "description": "A rainstick is made from a dried cactus stem or tube with spines or pins pushed inward, and filled with pebbles or seeds. Tilting it lets the filling trickle past the pins, creating a sound like rainfall.",
+    "why_unchanged": "Pins and pebbles in a tube produce the effect perfectly, so the design endured.",
+    "materials": [
+      "cactus",
+      "bamboo",
+      "pebbles",
+      "seeds"
+    ],
+    "faqs": [
+      {
+        "question": "How does a rainstick work?",
+        "answer": "Small pebbles or seeds fall through the tube and bounce off internal pins, making a soft rushing sound."
+      },
+      {
+        "question": "Were rainsticks used to call rain?",
+        "answer": "They are popularly said to have been used in rain ceremonies, though historical evidence is limited."
+      },
+      {
+        "question": "What are rainsticks made from?",
+        "answer": "Traditionally dried cactus with the spines pushed inward; modern ones often use bamboo or cardboard."
+      }
+    ],
+    "image": {
+      "search_query": "cactus rainstick",
+      "wikimedia_commons_category": "Rainsticks",
+      "alt": "A long dried cactus rainstick"
+    },
+    "tags": [
+      "percussion",
+      "south america",
+      "shaker"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "bullroarer",
+    "name": "Bullroarer",
+    "category": "Music, sound & signaling",
+    "invention": {
+      "display": "Upper Paleolithic",
+      "year": -17000,
+      "approximate": true,
+      "era": "Prehistoric"
+    },
+    "place_of_invention": {
+      "region": "Europe and many other regions",
+      "modern_country": "Ukraine",
+      "notes": "Possible Paleolithic examples have been reported in Europe, but identification is debated; bullroarers arose independently worldwide, notably in Australia."
+    },
+    "inventor": null,
+    "short_description": "A flat slat on a cord whirled in the air to make a roaring sound.",
+    "description": "A bullroarer is a flat piece of wood or bone tied to a long cord and swung in a circle; as it spins it produces a pulsing roar. It has been used for ritual and long-distance communication, especially in Aboriginal Australian culture.",
+    "why_unchanged": "A spinning slat on a string makes its sound through simple physics needing no change.",
+    "materials": [
+      "wood",
+      "bone",
+      "cord"
+    ],
+    "faqs": [
+      {
+        "question": "How does a bullroarer make sound?",
+        "answer": "As it is swung, the slat spins on its cord and makes the air vibrate, creating a whirring roar."
+      },
+      {
+        "question": "Is it sacred?",
+        "answer": "In some Aboriginal Australian traditions bullroarers are sacred objects restricted to certain ceremonies."
+      },
+      {
+        "question": "How far can the sound travel?",
+        "answer": "The low sound can carry a long distance, which made it useful for signaling."
+      }
+    ],
+    "image": {
+      "search_query": "wooden bullroarer on string",
+      "wikimedia_commons_category": "Bullroarers",
+      "alt": "A carved wooden bullroarer on a cord"
+    },
+    "tags": [
+      "sound",
+      "prehistoric",
+      "signal"
+    ],
+    "confidence": "low"
+  }
+]

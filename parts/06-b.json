@@ -1,0 +1,1221 @@
+[
+  {
+    "slug": "chalk",
+    "name": "Chalk",
+    "category": "Office, writing & reading",
+    "invention": {
+      "display": "Early 19th century (classroom stick)",
+      "year": 1801,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Europe",
+      "modern_country": null,
+      "notes": "Natural chalk has been used for marking since prehistory; shaped sticks for writing on boards spread with the classroom blackboard in the early 19th century. Modern sticks are often made of gypsum (calcium sulfate) rather than true chalk."
+    },
+    "inventor": null,
+    "short_description": "A stick of soft white mineral used for writing on blackboards and pavements.",
+    "description": "Lumps of natural chalk, a soft limestone, have been used to make marks since ancient times. With the spread of classroom blackboards in the early 1800s, chalk was formed into the cylindrical sticks familiar today, and coloured versions followed. Whether made of calcium carbonate or gypsum, the simple stick is unchanged.",
+    "why_unchanged": "A soft mineral stick that leaves a removable mark needs no improvement.",
+    "materials": [
+      "calcium carbonate",
+      "gypsum",
+      "pigment"
+    ],
+    "faqs": [
+      {
+        "question": "Is blackboard chalk really chalk?",
+        "answer": "Often not: many modern sticks are made of gypsum (calcium sulfate), while traditional chalk is calcium carbonate."
+      },
+      {
+        "question": "What is dustless chalk?",
+        "answer": "It is formulated with heavier particles or binders so it produces less airborne dust when used and erased."
+      },
+      {
+        "question": "Why does chalk squeak?",
+        "answer": "The stick can vibrate as it catches and slips on the board; holding it at an angle usually stops the squeal."
+      }
+    ],
+    "image": {
+      "search_query": "white chalk sticks on blackboard",
+      "wikimedia_commons_category": "Chalk (writing)",
+      "alt": "Sticks of white chalk on a blackboard ledge"
+    },
+    "tags": [
+      "writing",
+      "school",
+      "mineral",
+      "industrial"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "blackboard",
+    "name": "Blackboard",
+    "category": "Office, writing & reading",
+    "invention": {
+      "display": "c. 1801",
+      "year": 1801,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Edinburgh, Scotland",
+      "modern_country": "United Kingdom",
+      "notes": "James Pillans, headmaster of the Old High School in Edinburgh, is often credited with introducing a large wall blackboard around 1801; George Baron is said to have used one at West Point the same year. Small slates were used earlier."
+    },
+    "inventor": null,
+    "short_description": "A large dark board mounted on a wall for writing on with chalk.",
+    "description": "Large blackboards were introduced to classrooms in the early 19th century, allowing a teacher to show writing to a whole class at once. Early boards were slate or painted wood; later ones used porcelain-enamelled steel, often green. The chalk-and-board combination remains in use in many schools and universities worldwide.",
+    "why_unchanged": "A dark matte surface and a stick of chalk give large, erasable writing at almost no cost.",
+    "materials": [
+      "slate",
+      "painted wood",
+      "enamelled steel"
+    ],
+    "faqs": [
+      {
+        "question": "Who introduced the classroom blackboard?",
+        "answer": "Scottish headmaster James Pillans is often credited with the first large wall blackboard around 1801, though others used similar boards at the same time."
+      },
+      {
+        "question": "Why are some blackboards green?",
+        "answer": "In the 20th century, green porcelain-enamel boards were introduced because they were thought to be easier on the eyes."
+      },
+      {
+        "question": "Why do mathematicians still love blackboards?",
+        "answer": "Chalk writes boldly, erases cleanly, and the slower pace of writing suits working through proofs."
+      }
+    ],
+    "image": {
+      "search_query": "classroom blackboard with chalk writing",
+      "wikimedia_commons_category": "Blackboards",
+      "alt": "A classroom blackboard with chalk writing"
+    },
+    "tags": [
+      "school",
+      "writing",
+      "board",
+      "industrial"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "writing-slate",
+    "name": "Writing slate",
+    "category": "Office, writing & reading",
+    "invention": {
+      "display": "By the 11th century",
+      "year": 1030,
+      "approximate": true,
+      "era": "Medieval"
+    },
+    "place_of_invention": {
+      "region": "South Asia (earliest written mention)",
+      "modern_country": "India",
+      "notes": "The scholar al-Biruni described students in India writing on black tablets around 1030; slates were widely used in European and American schools from the 18th and 19th centuries. Earlier origins are uncertain."
+    },
+    "inventor": null,
+    "short_description": "A small framed tablet of slate for writing with a slate pencil or chalk.",
+    "description": "Small slates in wooden frames were the standard writing surface for schoolchildren for centuries, especially before paper became cheap. Pupils wrote with a slate pencil or chalk and wiped the surface clean to reuse it. Slates are still used in some schools and as menu or garden boards.",
+    "why_unchanged": "A durable, reusable writing surface in a protective frame needs no further development.",
+    "materials": [
+      "slate",
+      "wood"
+    ],
+    "faqs": [
+      {
+        "question": "What did children write with on slates?",
+        "answer": "They used slate pencils, thin rods of softer slate or soapstone, or sticks of chalk."
+      },
+      {
+        "question": "Why were slates used in schools?",
+        "answer": "Paper was expensive, while a slate could be wiped clean and reused thousands of times."
+      },
+      {
+        "question": "What does 'wipe the slate clean' mean?",
+        "answer": "The phrase means to make a fresh start, from the practice of erasing a school or tavern slate."
+      }
+    ],
+    "image": {
+      "search_query": "antique school writing slate wooden frame",
+      "wikimedia_commons_category": "Writing slates",
+      "alt": "A wooden-framed school writing slate"
+    },
+    "tags": [
+      "school",
+      "writing",
+      "slate",
+      "medieval"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "crayon",
+    "name": "Crayon",
+    "category": "Office, writing & reading",
+    "invention": {
+      "display": "19th century",
+      "year": 1850,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Europe",
+      "modern_country": null,
+      "notes": "Wax-based drawing crayons were made in Europe in the 19th century; Binney & Smith of New York launched Crayola crayons in 1903, which popularised them for children. No single inventor is credited."
+    },
+    "inventor": null,
+    "short_description": "A stick of coloured wax used for drawing.",
+    "description": "Coloured wax crayons developed in 19th-century Europe, and in 1903 Binney & Smith in the United States introduced Crayola crayons, an affordable non-toxic box for children. Pigment is mixed into paraffin wax, moulded into sticks and wrapped in paper labels. The paper-wrapped wax stick has not changed in over a century.",
+    "why_unchanged": "A paper-wrapped wax stick is cheap, safe and robust for small hands, so its form has stayed the same.",
+    "materials": [
+      "paraffin wax",
+      "pigment",
+      "paper"
+    ],
+    "faqs": [
+      {
+        "question": "What are crayons made of?",
+        "answer": "Most are paraffin wax mixed with coloured pigment, with a paper wrapper for grip."
+      },
+      {
+        "question": "When did Crayola crayons first appear?",
+        "answer": "Binney & Smith sold the first box of eight Crayola crayons in 1903."
+      },
+      {
+        "question": "How do you remove crayon from walls?",
+        "answer": "A damp cloth with a little baking soda or a gentle eraser sponge usually lifts wax marks."
+      }
+    ],
+    "image": {
+      "search_query": "box of wax crayons",
+      "wikimedia_commons_category": "Crayons",
+      "alt": "A box of colourful wax crayons"
+    },
+    "tags": [
+      "drawing",
+      "art",
+      "children",
+      "wax"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "charcoal-stick",
+    "name": "Charcoal stick",
+    "category": "Office, writing & reading",
+    "invention": {
+      "display": "c. 36,000 years ago",
+      "year": -34000,
+      "approximate": true,
+      "era": "Prehistoric"
+    },
+    "place_of_invention": {
+      "region": "Western Europe",
+      "modern_country": "France",
+      "notes": "Charcoal was used for some of the oldest known cave drawings, including those in Chauvet Cave, France, dated to around 36,000 years ago. Charcoal drawing was likely used independently by many cultures."
+    },
+    "inventor": null,
+    "short_description": "A stick of charred wood used for drawing and sketching.",
+    "description": "Charcoal is one of humanity's oldest drawing materials, used by prehistoric artists to draw animals on cave walls. Artists today use thin sticks of charred willow or vine, produced by heating wood without air. Its soft, smudgeable line has made it a favourite for sketching and life drawing.",
+    "why_unchanged": "Charred wood marks naturally, so the simplest stick is still the best form.",
+    "materials": [
+      "charred willow",
+      "vine charcoal",
+      "compressed charcoal"
+    ],
+    "faqs": [
+      {
+        "question": "How is artist's charcoal made?",
+        "answer": "Twigs of willow or vine are heated in a sealed container without air until they carbonise."
+      },
+      {
+        "question": "How old is charcoal drawing?",
+        "answer": "Charcoal drawings in caves such as Chauvet in France are around 36,000 years old."
+      },
+      {
+        "question": "How do you stop charcoal drawings smudging?",
+        "answer": "Artists spray them with a fixative that binds the particles to the paper."
+      }
+    ],
+    "image": {
+      "search_query": "willow charcoal sticks drawing",
+      "wikimedia_commons_category": "Charcoal (drawing)",
+      "alt": "Sticks of willow charcoal beside a sketch"
+    },
+    "tags": [
+      "drawing",
+      "art",
+      "prehistoric",
+      "carbon"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "ruler",
+    "name": "Ruler",
+    "category": "Office, writing & reading",
+    "invention": {
+      "display": "c. 2650 BCE",
+      "year": -2650,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Mesopotamia and the Indus Valley",
+      "modern_country": "Iraq",
+      "notes": "A copper-alloy cubit rod from Nippur (Mesopotamia) is dated to roughly 2650 BCE, and graduated shell and ivory rulers have been found at Indus Valley sites such as Mohenjo-daro and Lothal."
+    },
+    "inventor": null,
+    "short_description": "A straight strip marked with units of length, used for measuring and drawing straight lines.",
+    "description": "Graduated measuring rods were among the tools of the first cities: a cubit rod from Nippur and finely marked rulers from the Indus Valley show standardised units in use over 4,000 years ago. The ruler serves two jobs, measuring lengths and guiding a pen along a straight edge. Only its units and materials have changed since.",
+    "why_unchanged": "A rigid straight edge with marked units does its job completely, leaving nothing to redesign.",
+    "materials": [
+      "wood",
+      "metal",
+      "plastic",
+      "ivory"
+    ],
+    "faqs": [
+      {
+        "question": "How old is the ruler?",
+        "answer": "Graduated rulers and cubit rods date back to at least the mid-3rd millennium BCE in Mesopotamia and the Indus Valley."
+      },
+      {
+        "question": "Why do some rulers start a little after the edge?",
+        "answer": "A small gap protects the zero mark from wear, keeping measurements accurate as the end gets damaged."
+      },
+      {
+        "question": "Why is a ruler called a rule?",
+        "answer": "Both words come from the Latin regula, a straight stick or guide."
+      }
+    ],
+    "image": {
+      "search_query": "wooden ruler with centimetres",
+      "wikimedia_commons_category": "Rulers",
+      "alt": "A wooden ruler with centimetre markings"
+    },
+    "tags": [
+      "measuring",
+      "drawing",
+      "ancient",
+      "geometry"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "protractor",
+    "name": "Protractor",
+    "category": "Office, writing & reading",
+    "invention": {
+      "display": "16th century",
+      "year": 1589,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "England",
+      "modern_country": "United Kingdom",
+      "notes": "Thomas Blundeville described a protractor for navigation in 1589; graduated semicircles for measuring angles were developed by several European instrument makers in the 16th and 17th centuries."
+    },
+    "inventor": null,
+    "short_description": "A semicircular or circular measuring tool marked in degrees for drawing and measuring angles.",
+    "description": "The protractor developed among European navigators, surveyors and mathematicians in the 16th century as a way to lay out and measure angles on charts. Its semicircle marked from 0 to 180 degrees became a standard part of every school geometry set. The design is unchanged apart from today's transparent plastic.",
+    "why_unchanged": "A graduated semicircle measures any angle directly, so it has never needed another form.",
+    "materials": [
+      "plastic",
+      "brass",
+      "steel"
+    ],
+    "faqs": [
+      {
+        "question": "Where does the word protractor come from?",
+        "answer": "It comes from the Latin protrahere, 'to draw forth', referring to drawing out lines at given angles."
+      },
+      {
+        "question": "How do you use a protractor?",
+        "answer": "Place its centre point on the angle's vertex, line the baseline up with one side, and read where the other side crosses the scale."
+      },
+      {
+        "question": "Why are protractors usually transparent?",
+        "answer": "Clear plastic lets you see the lines underneath, making it easier to align and read angles."
+      }
+    ],
+    "image": {
+      "search_query": "clear plastic protractor degrees",
+      "wikimedia_commons_category": "Protractors",
+      "alt": "A transparent semicircular protractor showing degree markings"
+    },
+    "tags": [
+      "measuring",
+      "geometry",
+      "drawing",
+      "school"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "drafting-compass",
+    "name": "Drafting compass",
+    "category": "Office, writing & reading",
+    "invention": {
+      "display": "Antiquity (Greek period)",
+      "year": -300,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Ancient Greece and Rome",
+      "modern_country": "Greece",
+      "notes": "Euclid's geometry (c. 300 BCE) relies on compass constructions, and bronze compasses survive from Roman sites such as Pompeii. Earlier use is likely."
+    },
+    "inventor": null,
+    "short_description": "A hinged two-legged instrument for drawing circles and arcs.",
+    "description": "The compass was a basic tool of ancient Greek geometry, used with a straightedge to construct figures in Euclid's Elements, and Roman bronze examples survive from Pompeii. One sharp leg is fixed at the centre while the other, holding a pencil or pen, sweeps around it. Every school geometry set still includes one.",
+    "why_unchanged": "Two hinged legs fixing a radius is the simplest possible way to draw a perfect circle.",
+    "materials": [
+      "steel",
+      "brass",
+      "bronze",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "How old is the compass for drawing circles?",
+        "answer": "It was used in classical Greek geometry by around 300 BCE, and Roman examples survive."
+      },
+      {
+        "question": "What is the difference between a compass and dividers?",
+        "answer": "A compass has a pencil or pen on one leg to draw, while dividers have two points for measuring and transferring distances."
+      },
+      {
+        "question": "Why is it sometimes called 'a pair of compasses'?",
+        "answer": "Like scissors, it has two matching legs, so in British English it is traditionally called a pair."
+      }
+    ],
+    "image": {
+      "search_query": "drafting compass drawing circle",
+      "wikimedia_commons_category": "Compasses (drafting)",
+      "alt": "A metal drafting compass drawing a circle on paper"
+    },
+    "tags": [
+      "drawing",
+      "geometry",
+      "ancient",
+      "school"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "dividers",
+    "name": "Dividers",
+    "category": "Office, writing & reading",
+    "invention": {
+      "display": "Antiquity (by the 1st century CE)",
+      "year": 50,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Roman Empire",
+      "modern_country": "Italy",
+      "notes": "Bronze dividers have been recovered from Roman sites, including Pompeii; similar tools were probably used earlier by Greek and Egyptian builders."
+    },
+    "inventor": null,
+    "short_description": "A two-pointed hinged instrument for measuring and transferring distances.",
+    "description": "Dividers look like a drawing compass but have two sharp points, used to step off equal distances or copy a length from a map or plan. Roman craftsmen and surveyors used bronze dividers, and navigators have long used them to measure distances on charts. They remain standard in navigation and engineering drawing.",
+    "why_unchanged": "Two hinged points hold a distance exactly, which is all the tool has to do.",
+    "materials": [
+      "steel",
+      "brass",
+      "bronze"
+    ],
+    "faqs": [
+      {
+        "question": "What are dividers used for?",
+        "answer": "They measure and transfer distances, for example stepping off a route on a nautical chart against its scale."
+      },
+      {
+        "question": "Why do navigators still use dividers?",
+        "answer": "Paper charts remain a required backup at sea, and dividers are the fastest way to measure distances on them."
+      },
+      {
+        "question": "Are dividers the same as a compass?",
+        "answer": "They share the same hinged design, but both legs of dividers end in points rather than one holding a pencil."
+      }
+    ],
+    "image": {
+      "search_query": "brass dividers on nautical chart",
+      "wikimedia_commons_category": "Dividers",
+      "alt": "Brass dividers lying on a nautical chart"
+    },
+    "tags": [
+      "measuring",
+      "navigation",
+      "ancient",
+      "geometry"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "set-square",
+    "name": "Set square",
+    "category": "Office, writing & reading",
+    "invention": {
+      "display": "18th century (drafting form)",
+      "year": 1750,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Europe",
+      "modern_country": null,
+      "notes": "Right-angle squares were used by builders in ancient Egypt and Rome; flat triangular set squares for technical drawing became common in Europe as drafting developed in the 18th century. No inventor is known."
+    },
+    "inventor": null,
+    "short_description": "A flat triangle with a right angle, used to draw perpendicular and angled lines.",
+    "description": "The set square is a flat triangle, usually with 45-45-90 or 30-60-90 degree angles, used alongside a straight edge or T-square in technical drawing. It descends from builders' squares used since antiquity. It remains part of every school geometry set.",
+    "why_unchanged": "A rigid triangle with fixed angles gives accurate lines instantly, so it has no need to change.",
+    "materials": [
+      "plastic",
+      "wood",
+      "metal"
+    ],
+    "faqs": [
+      {
+        "question": "Why do set squares come in two shapes?",
+        "answer": "One has 45-45-90 degree angles and the other 30-60-90 degrees, so together they can draw many common angles."
+      },
+      {
+        "question": "What is a set square called in American English?",
+        "answer": "It is usually called a triangle."
+      },
+      {
+        "question": "How is a set square used with a ruler?",
+        "answer": "Sliding the set square along a fixed straight edge lets you draw parallel lines at a constant angle."
+      }
+    ],
+    "image": {
+      "search_query": "transparent set square triangle",
+      "wikimedia_commons_category": "Set squares",
+      "alt": "Two transparent plastic set squares"
+    },
+    "tags": [
+      "drawing",
+      "geometry",
+      "school",
+      "drafting"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "t-square",
+    "name": "T-square",
+    "category": "Office, writing & reading",
+    "invention": {
+      "display": "18th century",
+      "year": 1750,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Europe",
+      "modern_country": null,
+      "notes": "The T-square came into use with formal technical and architectural drawing in Europe; no inventor or exact date is documented."
+    },
+    "inventor": null,
+    "short_description": "A long ruler with a short perpendicular head, used to draw horizontal lines on a drawing board.",
+    "description": "The T-square's head hooks over the edge of a drawing board, so the blade can slide up and down while staying parallel. Architects and engineers used it with set squares for centuries of hand drafting. Although computers replaced most drafting, the T-square is still sold for art, sign making and education.",
+    "why_unchanged": "A head that registers against the board's edge guarantees parallel lines, so its form is complete.",
+    "materials": [
+      "wood",
+      "plastic",
+      "aluminium"
+    ],
+    "faqs": [
+      {
+        "question": "How does a T-square work?",
+        "answer": "Its head rests against the edge of the drawing board, keeping the blade at a right angle so every line drawn along it is parallel."
+      },
+      {
+        "question": "What is a T-square used with?",
+        "answer": "It is usually used with set squares to draw vertical and angled lines."
+      },
+      {
+        "question": "Do architects still use T-squares?",
+        "answer": "Most drafting is digital now, but T-squares are still used in art, education and hand sketching."
+      }
+    ],
+    "image": {
+      "search_query": "wooden t-square drawing board",
+      "wikimedia_commons_category": "T-squares",
+      "alt": "A wooden T-square on a drawing board"
+    },
+    "tags": [
+      "drawing",
+      "drafting",
+      "geometry"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "french-curve",
+    "name": "French curve",
+    "category": "Office, writing & reading",
+    "invention": {
+      "display": "19th century",
+      "year": 1860,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Europe",
+      "modern_country": null,
+      "notes": "Templates of curved edges were used by draughtsmen in 19th-century Europe; German mathematician Ludwig Burmester designed widely used sets in the late 1800s. The origin of the name is unclear."
+    },
+    "inventor": null,
+    "short_description": "A flat template with smoothly varying curves for drawing irregular curves.",
+    "description": "A French curve is a template cut with a variety of curves so a draughtsman can find a portion matching any smooth line. Shipbuilders, engineers and fashion designers have used them to draw curves that compasses cannot make. Transparent plastic versions are still used in pattern-making and art.",
+    "why_unchanged": "A single cut template already contains countless curve segments, so the idea needed no improvement.",
+    "materials": [
+      "plastic",
+      "wood",
+      "celluloid"
+    ],
+    "faqs": [
+      {
+        "question": "Why is it called a French curve?",
+        "answer": "The origin of the name is uncertain; it has been used in English since at least the 19th century."
+      },
+      {
+        "question": "What is a French curve used for?",
+        "answer": "It helps draw smooth irregular curves in technical drawing, pattern-making and illustration."
+      },
+      {
+        "question": "How do you use one?",
+        "answer": "Slide and rotate the template until an edge matches several points of the curve, then trace that section and repeat."
+      }
+    ],
+    "image": {
+      "search_query": "set of french curves drafting",
+      "wikimedia_commons_category": "French curves",
+      "alt": "A set of transparent French curve templates"
+    },
+    "tags": [
+      "drawing",
+      "drafting",
+      "template"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "slide-rule",
+    "name": "Slide rule",
+    "category": "Office, writing & reading",
+    "invention": {
+      "display": "c. 1622",
+      "year": 1622,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "England",
+      "modern_country": "United Kingdom",
+      "notes": "William Oughtred created the slide rule around 1622 by placing two logarithmic scales (developed from Edmund Gunter's scale) side by side; he described it in print in 1632."
+    },
+    "inventor": "William Oughtred",
+    "short_description": "A calculating device made of sliding logarithmic scales for multiplication and division.",
+    "description": "Soon after John Napier invented logarithms, William Oughtred realised that sliding two logarithmic scales against each other could multiply and divide numbers. The slide rule became the engineer's essential tool for 350 years, used to design bridges, aircraft and the Apollo missions. Electronic calculators replaced it in the 1970s, but its form never changed while in use.",
+    "why_unchanged": "Two sliding logarithmic scales calculate directly, so later versions only added scales.",
+    "materials": [
+      "wood",
+      "bamboo",
+      "plastic",
+      "aluminium"
+    ],
+    "faqs": [
+      {
+        "question": "How does a slide rule multiply numbers?",
+        "answer": "Adding lengths on logarithmic scales is equivalent to multiplying the numbers they represent."
+      },
+      {
+        "question": "Who invented the slide rule?",
+        "answer": "William Oughtred, an English mathematician, around 1622."
+      },
+      {
+        "question": "Did astronauts use slide rules?",
+        "answer": "Yes, Apollo astronauts carried small slide rules as a backup for calculations."
+      }
+    ],
+    "image": {
+      "search_query": "vintage slide rule",
+      "wikimedia_commons_category": "Slide rules",
+      "alt": "A vintage wooden slide rule with its cursor"
+    },
+    "tags": [
+      "calculation",
+      "mathematics",
+      "early-modern",
+      "engineering"
+    ],
+    "confidence": "high"
+  },
+  {
+    "slug": "abacus",
+    "name": "Abacus",
+    "category": "Office, writing & reading",
+    "invention": {
+      "display": "c. 2nd century CE (bead frame)",
+      "year": 190,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "China",
+      "modern_country": "China",
+      "notes": "Counting boards with pebbles were used in Mesopotamia, Greece and Rome long before; the Chinese bead suanpan may be mentioned in a text of c. 190 CE, but this is disputed, and it is clearly documented by the 14th century. Roman hand abaci with sliding counters also existed."
+    },
+    "inventor": null,
+    "short_description": "A frame with beads on rods used for counting and arithmetic.",
+    "description": "The abacus grew out of ancient counting boards on which pebbles were moved between lines. The bead-frame version, such as the Chinese suanpan and later the Japanese soroban, lets users add, subtract, multiply and divide quickly by sliding beads. It is still used to teach arithmetic and by skilled calculators across Asia.",
+    "why_unchanged": "Beads on rods represent place values perfectly, so the frame needs no change to work.",
+    "materials": [
+      "wood",
+      "bamboo",
+      "plastic",
+      "metal"
+    ],
+    "faqs": [
+      {
+        "question": "How does an abacus work?",
+        "answer": "Each rod represents a place value, and moving beads toward the central bar sets the digit for that place."
+      },
+      {
+        "question": "Is the abacus still used?",
+        "answer": "Yes, it is used to teach arithmetic, and mental abacus training is popular in parts of Asia."
+      },
+      {
+        "question": "Where does the word abacus come from?",
+        "answer": "It comes via Latin from the Greek abax, a board or slab used for calculating."
+      }
+    ],
+    "image": {
+      "search_query": "wooden abacus with beads",
+      "wikimedia_commons_category": "Abaci",
+      "alt": "A wooden abacus with rows of coloured beads"
+    },
+    "tags": [
+      "calculation",
+      "mathematics",
+      "ancient",
+      "counting"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "tally-stick",
+    "name": "Tally stick",
+    "category": "Office, writing & reading",
+    "invention": {
+      "display": "Upper Paleolithic (c. 20,000 years ago)",
+      "year": -18000,
+      "approximate": true,
+      "era": "Prehistoric"
+    },
+    "place_of_invention": {
+      "region": "Central Africa",
+      "modern_country": "Democratic Republic of the Congo",
+      "notes": "Notched bones such as the Ishango bone (about 20,000 years old) are widely interpreted as tally sticks, though their exact purpose is debated. Tally sticks were used for official accounts by the English Exchequer until 1826."
+    },
+    "inventor": null,
+    "short_description": "A stick or bone notched to record numbers or debts.",
+    "description": "Notching a stick to keep count is one of the oldest forms of record-keeping, with notched bones found from the Stone Age. In medieval England, split tally sticks recorded debts, with each party keeping half so the notches could be matched. The burning of old Exchequer tallies in 1834 started the fire that destroyed the Houses of Parliament.",
+    "why_unchanged": "A notch per item is the simplest way to record a count, so the form has never changed.",
+    "materials": [
+      "wood",
+      "bone"
+    ],
+    "faqs": [
+      {
+        "question": "What is the Ishango bone?",
+        "answer": "It is a baboon fibula with groups of notches, found in the Congo and about 20,000 years old, often interpreted as a tally."
+      },
+      {
+        "question": "How did split tally sticks work?",
+        "answer": "A notched stick was split lengthwise, with lender and borrower each keeping half; matching the halves proved the debt."
+      },
+      {
+        "question": "Is there a fun fact about tally sticks?",
+        "answer": "In 1834 the burning of obsolete Exchequer tally sticks overheated a furnace and set fire to the old Palace of Westminster."
+      }
+    ],
+    "image": {
+      "search_query": "medieval tally sticks notched",
+      "wikimedia_commons_category": "Tally sticks",
+      "alt": "Medieval wooden tally sticks with notches"
+    },
+    "tags": [
+      "record-keeping",
+      "counting",
+      "prehistoric",
+      "wood"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "whiteboard",
+    "name": "Whiteboard",
+    "category": "Office, writing & reading",
+    "invention": {
+      "display": "1950s to 1960s",
+      "year": 1960,
+      "approximate": true,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "United States",
+      "modern_country": "United States",
+      "notes": "Several people are credited with early white dry-erase boards, including photographer Martin Heit and Albert Stallion; dates and credit are disputed."
+    },
+    "inventor": null,
+    "short_description": "A glossy white board written on with erasable markers.",
+    "description": "Whiteboards emerged in the mid-20th century and spread widely in offices and schools in the 1990s, replacing chalkboards in many places. They are written on with dry-erase markers whose ink sits on the glossy surface and wipes away. The basic glossy panel has not changed.",
+    "why_unchanged": "A non-porous white surface and wipeable ink are all that is needed, so the board stays the same.",
+    "materials": [
+      "melamine",
+      "porcelain-enamelled steel",
+      "glass",
+      "aluminium frame"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the whiteboard?",
+        "answer": "Credit is disputed; Martin Heit and Albert Stallion are both named for developing early versions in the mid-20th century."
+      },
+      {
+        "question": "How do you remove ghosting from a whiteboard?",
+        "answer": "Write over the old marks with a dry-erase marker and wipe, or use isopropyl alcohol."
+      },
+      {
+        "question": "Why did whiteboards replace chalkboards?",
+        "answer": "They are dust-free, which matters around computers and for people with allergies."
+      }
+    ],
+    "image": {
+      "search_query": "office whiteboard with marker",
+      "wikimedia_commons_category": "Whiteboards",
+      "alt": "A whiteboard with diagrams and a marker"
+    },
+    "tags": [
+      "office",
+      "school",
+      "board",
+      "modern"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "chalkboard-eraser",
+    "name": "Chalkboard eraser",
+    "category": "Office, writing & reading",
+    "invention": {
+      "display": "19th century",
+      "year": 1850,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Europe and North America",
+      "modern_country": null,
+      "notes": "Felt or cloth erasers came into use with classroom blackboards in the 19th century; no inventor is documented."
+    },
+    "inventor": null,
+    "short_description": "A felt-faced block with a handle for wiping chalk off a board.",
+    "description": "As blackboards spread through schools, teachers used rags and then felt-covered wooden blocks to clean them. The felt traps chalk dust as it wipes, and the block gives a firm grip. The same design is used on chalkboards today.",
+    "why_unchanged": "A felt pad on a handle wipes chalk cleanly, which is all the job needs.",
+    "materials": [
+      "felt",
+      "wood",
+      "foam"
+    ],
+    "faqs": [
+      {
+        "question": "Why did students clap erasers?",
+        "answer": "Beating erasers together outdoors shook out trapped chalk dust so they would clean again."
+      },
+      {
+        "question": "What is a chalkboard eraser called in Britain?",
+        "answer": "It is usually called a board duster or blackboard duster."
+      },
+      {
+        "question": "Can you wash a chalkboard eraser?",
+        "answer": "Yes, many can be vacuumed or rinsed and dried, though felt can lose shape if soaked."
+      }
+    ],
+    "image": {
+      "search_query": "felt chalkboard eraser",
+      "wikimedia_commons_category": "Blackboard erasers",
+      "alt": "A felt chalkboard eraser on a chalk ledge"
+    },
+    "tags": [
+      "school",
+      "cleaning",
+      "board"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "wax-tablet",
+    "name": "Wax tablet",
+    "category": "Office, writing & reading",
+    "invention": {
+      "display": "c. 14th century BCE",
+      "year": -1350,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Eastern Mediterranean",
+      "modern_country": "Turkey",
+      "notes": "The oldest known example is a wooden writing board found in the Uluburun shipwreck off Turkey, dated to the 14th century BCE; wax tablets were widely used in Greece and Rome and into the Middle Ages."
+    },
+    "inventor": null,
+    "short_description": "A wooden board coated with wax, written on with a stylus and reusable by smoothing the wax.",
+    "description": "Wax tablets were the notepads of the ancient world, used by Greek and Roman students, merchants and writers. Text was scratched into the wax with a stylus and erased by smoothing it with the stylus's flat end. Hinged tablets, called diptychs, inspired the shape of the bound book.",
+    "why_unchanged": "A reusable surface that can be written and erased indefinitely needed no further development.",
+    "materials": [
+      "wood",
+      "beeswax",
+      "ivory"
+    ],
+    "faqs": [
+      {
+        "question": "How old is the wax tablet?",
+        "answer": "The oldest known example dates to the 14th century BCE, recovered from the Uluburun shipwreck."
+      },
+      {
+        "question": "Where does the phrase 'tabula rasa' come from?",
+        "answer": "It is Latin for a scraped tablet, a wax tablet wiped clean, used to mean a blank slate."
+      },
+      {
+        "question": "Are wax tablets still used?",
+        "answer": "They are mainly used today in education and reenactment, but they were common into the Middle Ages."
+      }
+    ],
+    "image": {
+      "search_query": "roman wax tablet stylus replica",
+      "wikimedia_commons_category": "Wax tablets",
+      "alt": "A replica Roman wax tablet with a stylus"
+    },
+    "tags": [
+      "writing",
+      "ancient",
+      "wax",
+      "record-keeping"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "graph-paper",
+    "name": "Graph paper",
+    "category": "Office, writing & reading",
+    "invention": {
+      "display": "1794",
+      "year": 1794,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "England",
+      "modern_country": "United Kingdom",
+      "notes": "The first commercially published graph paper is generally attributed to a Dr Buxton of England in 1794; details of the attribution are uncertain."
+    },
+    "inventor": null,
+    "short_description": "Paper printed with a fine grid of squares for drawing graphs and diagrams.",
+    "description": "Graph paper appeared at the end of the 18th century as scientists and engineers began plotting data visually. Its regular grid allows accurate plotting of points, scale drawings and patterns. Students, engineers, and knitting or embroidery designers still use it every day.",
+    "why_unchanged": "A printed grid is the simplest aid to plotting and scaling, so it has not changed.",
+    "materials": [
+      "paper",
+      "ink"
+    ],
+    "faqs": [
+      {
+        "question": "When was graph paper first sold?",
+        "answer": "The first commercial graph paper is usually attributed to Dr Buxton of England in 1794."
+      },
+      {
+        "question": "What types of graph paper exist?",
+        "answer": "Common types include square grid, isometric, polar and logarithmic paper."
+      },
+      {
+        "question": "Why is graph paper used in bullet journals?",
+        "answer": "The faint grid or dot pattern helps draw neat layouts and tables by hand."
+      }
+    ],
+    "image": {
+      "search_query": "graph paper grid with pencil",
+      "wikimedia_commons_category": "Graph paper",
+      "alt": "A sheet of graph paper with a pencil"
+    },
+    "tags": [
+      "paper",
+      "mathematics",
+      "drawing",
+      "early-modern"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "tracing-paper",
+    "name": "Tracing paper",
+    "category": "Office, writing & reading",
+    "invention": {
+      "display": "18th to 19th century",
+      "year": 1800,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Europe",
+      "modern_country": null,
+      "notes": "Translucent papers made by oiling or treating paper were used for copying drawings in Europe; no inventor or precise date is documented."
+    },
+    "inventor": null,
+    "short_description": "A thin translucent paper through which drawings can be seen and copied.",
+    "description": "Tracing paper is made translucent by treating or refining the paper fibres so light passes through. Architects, engineers and artists used it to copy and overlay drawings for centuries, and it remains common in design and crafts. Its form, a plain translucent sheet, has not changed.",
+    "why_unchanged": "A translucent sheet does exactly what copying requires, with nothing to add.",
+    "materials": [
+      "paper",
+      "cellulose"
+    ],
+    "faqs": [
+      {
+        "question": "How is tracing paper made translucent?",
+        "answer": "Its fibres are highly refined or treated so they lie flat and scatter less light."
+      },
+      {
+        "question": "What is tracing paper used for?",
+        "answer": "It is used to copy drawings, overlay design changes, and transfer patterns in art and crafts."
+      },
+      {
+        "question": "Can you print on tracing paper?",
+        "answer": "Yes, many laser and inkjet printers can handle it, though ink takes longer to dry."
+      }
+    ],
+    "image": {
+      "search_query": "tracing paper over drawing",
+      "wikimedia_commons_category": "Tracing paper",
+      "alt": "A sheet of tracing paper over a drawing"
+    },
+    "tags": [
+      "paper",
+      "drawing",
+      "drafting"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "stapler",
+    "name": "Stapler",
+    "category": "Office, writing & reading",
+    "invention": {
+      "display": "1870s",
+      "year": 1877,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "United States",
+      "modern_country": "United States",
+      "notes": "Several US patents of the 1860s-1870s contributed, including George McGill's 1879 staple press and Henry R. Heyl's 1877 device that inserted and clinched staples. The story of a stapler made for King Louis XV of France is unverified."
+    },
+    "inventor": null,
+    "short_description": "A hand-operated device that drives a wire staple through paper and bends its ends.",
+    "description": "Staplers developed in the United States in the 1870s, when inventors such as Henry Heyl and George McGill patented machines that pushed a wire staple through papers and folded it closed. Later designs added a magazine of pre-formed staples, creating the familiar desktop stapler of the 20th century. Its hinged head and anvil layout has not changed since.",
+    "why_unchanged": "A hinged arm pressing staples against a shaped anvil binds papers in one motion, leaving little to improve.",
+    "materials": [
+      "steel",
+      "plastic",
+      "die-cast metal"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the stapler?",
+        "answer": "Several American inventors in the 1870s contributed, including Henry R. Heyl and George McGill; no single person is solely credited."
+      },
+      {
+        "question": "What is the anvil on a stapler?",
+        "answer": "The metal plate under the head that bends the staple legs; rotating it lets staples bend outward for temporary pinning."
+      },
+      {
+        "question": "Why is the Swingline stapler famous?",
+        "answer": "A red Swingline stapler featured in the 1999 comedy film Office Space and became a pop culture icon."
+      }
+    ],
+    "image": {
+      "search_query": "desktop stapler",
+      "wikimedia_commons_category": "Staplers",
+      "alt": "A black desktop stapler on an office desk"
+    },
+    "tags": [
+      "office",
+      "fastener",
+      "mechanism",
+      "industrial"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "staple",
+    "name": "Staple",
+    "category": "Office, writing & reading",
+    "invention": {
+      "display": "Late 19th century",
+      "year": 1880,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "United States",
+      "modern_country": "United States",
+      "notes": "Wire staples for paper developed alongside staplers in the United States in the 1860s-1890s; George McGill's patented brass fasteners and staple presses were early examples."
+    },
+    "inventor": null,
+    "short_description": "A small U-shaped piece of wire driven through paper to bind sheets together.",
+    "description": "Paper staples appeared in the late 19th century as machines were developed to drive and bend small wire fasteners. Strips of pre-formed staples glued together made loading easy and became standard in the 20th century. The U-shaped wire has remained unchanged.",
+    "why_unchanged": "A bent wire that pierces and folds is the cheapest permanent paper binding possible.",
+    "materials": [
+      "galvanised steel wire",
+      "copper-coated steel"
+    ],
+    "faqs": [
+      {
+        "question": "How are staples held together in a strip?",
+        "answer": "They are lightly glued side by side so the strip can be loaded into a stapler and snapped off one at a time."
+      },
+      {
+        "question": "What is the best way to remove a staple?",
+        "answer": "Use a staple remover, whose jaws lift both legs at once without tearing the paper."
+      },
+      {
+        "question": "Are all staples the same size?",
+        "answer": "No, sizes vary by wire gauge and leg length, such as the common 26/6 and 24/6 office staples."
+      }
+    ],
+    "image": {
+      "search_query": "strip of office staples",
+      "wikimedia_commons_category": "Staples (fasteners)",
+      "alt": "A strip of silver office staples"
+    },
+    "tags": [
+      "office",
+      "fastener",
+      "wire",
+      "industrial"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "hole-punch",
+    "name": "Hole punch",
+    "category": "Office, writing & reading",
+    "invention": {
+      "display": "1886",
+      "year": 1886,
+      "approximate": false,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Bonn",
+      "modern_country": "Germany",
+      "notes": "Friedrich Soennecken filed a patent for a paper hole punch in Germany in November 1886; ticket punches and other perforators existed earlier, and Benjamin Smith's 1885 US conductor's punch is sometimes cited."
+    },
+    "inventor": "Friedrich Soennecken",
+    "short_description": "A lever-operated device that punches holes in paper for filing in binders.",
+    "description": "German office supplies maker Friedrich Soennecken patented his paper punch in 1886, alongside the ring binder that it served. A lever pushes hollow steel punches through a stack of paper, and the punched discs collect in a removable tray. The two-hole and three-hole desk punches used today work the same way.",
+    "why_unchanged": "A lever and hollow punch cut clean holes in many sheets at once, so the mechanism has endured.",
+    "materials": [
+      "steel",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the hole punch?",
+        "answer": "Friedrich Soennecken of Germany patented a paper punch in 1886, though simpler punches existed earlier."
+      },
+      {
+        "question": "Why do hole punches differ between countries?",
+        "answer": "Europe commonly uses two holes 80 mm apart, while North America typically uses three holes for ring binders."
+      },
+      {
+        "question": "What are the punched paper dots called?",
+        "answer": "They are called chads, a word that became famous during the disputed 2000 US election count."
+      }
+    ],
+    "image": {
+      "search_query": "two hole paper punch",
+      "wikimedia_commons_category": "Hole punches",
+      "alt": "A two-hole office paper punch"
+    },
+    "tags": [
+      "office",
+      "filing",
+      "mechanism",
+      "industrial"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "ring-binder",
+    "name": "Ring binder",
+    "category": "Office, writing & reading",
+    "invention": {
+      "display": "1886",
+      "year": 1886,
+      "approximate": false,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Bonn",
+      "modern_country": "Germany",
+      "notes": "Friedrich Soennecken is credited with inventing the ring binder in 1886, together with his hole punch."
+    },
+    "inventor": "Friedrich Soennecken",
+    "short_description": "A folder with metal rings that open and close to hold punched sheets of paper.",
+    "description": "Friedrich Soennecken introduced the ring binder in Germany in 1886, allowing loose sheets to be filed, added and removed in any order. Metal rings spring open and snap shut through punched holes in the paper. Ring binders remain a standard of schools and offices worldwide.",
+    "why_unchanged": "Opening rings let pages be added or rearranged freely, which no other binding does as simply.",
+    "materials": [
+      "cardboard",
+      "plastic",
+      "steel"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the ring binder?",
+        "answer": "Friedrich Soennecken of Germany invented it in 1886."
+      },
+      {
+        "question": "What is the difference between O-ring and D-ring binders?",
+        "answer": "D-ring binders hold more paper and let pages lie flatter because the straight side of the ring is fixed to the spine."
+      },
+      {
+        "question": "Why are ring binders used for loose-leaf notes?",
+        "answer": "Pages can be inserted, removed or reordered at any time without damaging the rest."
+      }
+    ],
+    "image": {
+      "search_query": "ring binder open with papers",
+      "wikimedia_commons_category": "Ring binders",
+      "alt": "An open ring binder holding punched paper"
+    },
+    "tags": [
+      "office",
+      "filing",
+      "binding",
+      "industrial"
+    ],
+    "confidence": "medium"
+  }
+]

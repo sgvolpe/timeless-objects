@@ -1,0 +1,1282 @@
+[
+  {
+    "slug": "letter-opener",
+    "name": "Letter opener",
+    "category": "Office, writing & reading",
+    "invention": {
+      "display": "18th to 19th century",
+      "year": 1800,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Europe",
+      "modern_country": null,
+      "notes": "Paper knives were used to slit the uncut folded pages of books and to open sealed letters; they became common desk items as letter writing grew in the 18th and 19th centuries. No inventor is known."
+    },
+    "inventor": null,
+    "short_description": "A blunt, knife-shaped blade used to slit open envelopes.",
+    "description": "Letter openers descend from paper knives used to cut the folded edges of newly printed books and to open sealed letters. With the boom in mail in the 19th century they became standard desk accessories, often made of silver, ivory or brass. The blunt blade with a pointed tip is unchanged.",
+    "why_unchanged": "A blunt blade slides into a flap and cuts paper cleanly without damaging the contents.",
+    "materials": [
+      "steel",
+      "brass",
+      "silver",
+      "wood"
+    ],
+    "faqs": [
+      {
+        "question": "Why is a letter opener blunt?",
+        "answer": "It only needs to slit paper along a fold, and a blunt edge avoids cutting the letter or the user."
+      },
+      {
+        "question": "What is a paper knife?",
+        "answer": "An older term for a similar tool used to cut the uncut page folds of new books."
+      },
+      {
+        "question": "How do you open an envelope neatly?",
+        "answer": "Slip the tip under a corner of the flap and slide the blade along the top fold."
+      }
+    ],
+    "image": {
+      "search_query": "silver letter opener envelope",
+      "wikimedia_commons_category": "Letter openers",
+      "alt": "A silver letter opener beside an envelope"
+    },
+    "tags": [
+      "office",
+      "mail",
+      "desk",
+      "blade"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "clipboard",
+    "name": "Clipboard",
+    "category": "Office, writing & reading",
+    "invention": {
+      "display": "Late 19th century",
+      "year": 1880,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "North America",
+      "modern_country": null,
+      "notes": "Several US and Canadian patents for writing boards with spring clips were filed in the 1870s-1900s; no single inventor is reliably credited."
+    },
+    "inventor": null,
+    "short_description": "A rigid board with a spring clip at the top for holding paper while writing.",
+    "description": "Clipboards developed in the late 19th century from simple writing boards, adding a spring clip to keep paper in place. They let people write while standing, from inspectors and coaches to doctors on ward rounds. The board-and-clip design has not changed.",
+    "why_unchanged": "A stiff board and a spring clip provide a portable desk with nothing more to add.",
+    "materials": [
+      "hardboard",
+      "wood",
+      "plastic",
+      "steel clip"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the clipboard?",
+        "answer": "Several patents were filed in North America in the late 1800s, and no single inventor is clearly credited."
+      },
+      {
+        "question": "Why does a clipboard make people look official?",
+        "answer": "It is associated with inspections and surveys, so carrying one signals that someone is working."
+      },
+      {
+        "question": "What is a storage clipboard?",
+        "answer": "A clipboard with a shallow box behind the board for keeping extra forms and pens."
+      }
+    ],
+    "image": {
+      "search_query": "clipboard with paper",
+      "wikimedia_commons_category": "Clipboards",
+      "alt": "A clipboard holding a sheet of paper"
+    },
+    "tags": [
+      "office",
+      "writing",
+      "board",
+      "industrial"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "thumbtack",
+    "name": "Thumbtack",
+    "category": "Office, writing & reading",
+    "invention": {
+      "display": "c. 1900s",
+      "year": 1903,
+      "approximate": true,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "Germany",
+      "modern_country": "Germany",
+      "notes": "Johann Kirsten, a clockmaker in Lychen, is often credited with inventing the flat-headed drawing pin around 1902-1903, with the rights sold to Arthur Lindstedt; other claims exist, and simpler tacks were older."
+    },
+    "inventor": null,
+    "short_description": "A short pin with a wide flat head, pushed into boards with the thumb.",
+    "description": "The flat-headed drawing pin appeared in the early 20th century, with German tradition crediting Johann Kirsten of Lychen around 1903. Its wide head lets it be pressed in with a thumb to fix papers to boards and walls. It is still sold unchanged as the drawing pin.",
+    "why_unchanged": "A flat head on a short point lets the thumb do the work, which is all the job needs.",
+    "materials": [
+      "steel",
+      "brass"
+    ],
+    "faqs": [
+      {
+        "question": "What is the difference between a thumbtack and a push pin?",
+        "answer": "A thumbtack has a flat head pressed in with the thumb, while a push pin has a raised handle you grip."
+      },
+      {
+        "question": "What do the British call a thumbtack?",
+        "answer": "It is usually called a drawing pin."
+      },
+      {
+        "question": "Who invented the thumbtack?",
+        "answer": "German clockmaker Johann Kirsten is often credited around 1903, though the history is not certain."
+      }
+    ],
+    "image": {
+      "search_query": "brass thumbtacks drawing pins",
+      "wikimedia_commons_category": "Drawing pins",
+      "alt": "Brass thumbtacks scattered on a corkboard"
+    },
+    "tags": [
+      "office",
+      "fastener",
+      "pin",
+      "modern"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "push-pin",
+    "name": "Push pin",
+    "category": "Office, writing & reading",
+    "invention": {
+      "display": "1900",
+      "year": 1900,
+      "approximate": false,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "Philadelphia",
+      "modern_country": "United States",
+      "notes": "Edwin Moore invented the push pin with a handle in 1900 and founded the Moore Push-Pin Company."
+    },
+    "inventor": "Edwin Moore",
+    "short_description": "A pin with a cylindrical handle used to fix papers to boards.",
+    "description": "Edwin Moore invented the push pin in 1900, describing it as a pin with a handle, and built a successful company selling them. The raised head makes it easy to push in and pull out. Push pins remain a fixture of noticeboards and maps.",
+    "why_unchanged": "A handle on a pin makes it easy to insert and remove, so the design is complete.",
+    "materials": [
+      "steel",
+      "plastic",
+      "glass"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the push pin?",
+        "answer": "Edwin Moore of Philadelphia invented it in 1900."
+      },
+      {
+        "question": "Why are push pins used on maps?",
+        "answer": "Their coloured heads are easy to see and grip, making them ideal for marking locations."
+      },
+      {
+        "question": "How is a push pin different from a thumbtack?",
+        "answer": "A push pin has a raised handle, while a thumbtack has a flat head."
+      }
+    ],
+    "image": {
+      "search_query": "colorful push pins in cork board",
+      "wikimedia_commons_category": "Push pins",
+      "alt": "Colourful push pins in a cork board"
+    },
+    "tags": [
+      "office",
+      "fastener",
+      "pin",
+      "modern"
+    ],
+    "confidence": "high"
+  },
+  {
+    "slug": "file-folder",
+    "name": "File folder",
+    "category": "Office, writing & reading",
+    "invention": {
+      "display": "Late 19th century",
+      "year": 1895,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "United States",
+      "modern_country": "United States",
+      "notes": "Folders of manila card developed with vertical filing systems in American offices in the 1890s; Edwin Grenville Seibels is credited with promoting vertical filing in 1898. No inventor of the folder itself is documented."
+    },
+    "inventor": null,
+    "short_description": "A folded sheet of card with a tab, used to hold loose papers in a filing system.",
+    "description": "As offices grew in the late 19th century, papers moved from bound books and pigeonholes into vertical filing cabinets organised with folders. The folded manila folder with a labelled tab became the standard unit of office record-keeping. Its form has not changed, and it even inspired the folder icon on computers.",
+    "why_unchanged": "A folded card with a tab holds and labels papers at almost no cost, so nothing has replaced it.",
+    "materials": [
+      "manila card",
+      "cardboard",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "Why are file folders often beige?",
+        "answer": "They were traditionally made of manila paper, originally from Manila hemp fibres."
+      },
+      {
+        "question": "What are folder tabs for?",
+        "answer": "Tabs stick up above other folders so labels can be read at a glance in a drawer."
+      },
+      {
+        "question": "Is the computer folder icon based on this?",
+        "answer": "Yes, the folder icon on computers imitates the paper file folder."
+      }
+    ],
+    "image": {
+      "search_query": "manila file folders with tabs",
+      "wikimedia_commons_category": "File folders",
+      "alt": "Manila file folders with labelled tabs"
+    },
+    "tags": [
+      "office",
+      "filing",
+      "record-keeping",
+      "industrial"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "accordion-file",
+    "name": "Accordion file",
+    "category": "Office, writing & reading",
+    "invention": {
+      "display": "Late 19th century",
+      "year": 1890,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "United States",
+      "modern_country": "United States",
+      "notes": "Expanding files with pleated sides came into office use in the late 19th century; no inventor or exact date is documented."
+    },
+    "inventor": null,
+    "short_description": "A file with pleated sides that expands to hold sorted documents in pockets.",
+    "description": "The accordion or expanding file has a series of pockets joined by folded gussets, so it expands as it fills. It allows papers to be sorted by letter, month or category in a single portable case. It is still used for receipts, coupons and household paperwork.",
+    "why_unchanged": "Pleated pockets that grow with their contents offer portable sorting, so the design needs no change.",
+    "materials": [
+      "cardboard",
+      "paper",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "What is an accordion file?",
+        "answer": "A portable file with several pockets joined by pleated sides that expand like an accordion."
+      },
+      {
+        "question": "What is it used for?",
+        "answer": "People use it to sort receipts, bills, coupons and documents by month or category."
+      },
+      {
+        "question": "Is it the same as an expanding file?",
+        "answer": "Yes, the names are used interchangeably."
+      }
+    ],
+    "image": {
+      "search_query": "accordion expanding file",
+      "wikimedia_commons_category": "Expanding files",
+      "alt": "An expanding accordion file with labelled pockets"
+    },
+    "tags": [
+      "office",
+      "filing",
+      "record-keeping"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "index-card",
+    "name": "Index card",
+    "category": "Office, writing & reading",
+    "invention": {
+      "display": "1760s",
+      "year": 1765,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Uppsala",
+      "modern_country": "Sweden",
+      "notes": "Carl Linnaeus is often credited with using standardised paper slips for his botanical records in the 1760s; scholars such as Conrad Gessner used slips earlier, and Melvil Dewey's library supplies standardised card sizes in the 1870s."
+    },
+    "inventor": null,
+    "short_description": "A small card of heavy paper used to record and sort information.",
+    "description": "Scholars long used loose slips of paper for notes, and Carl Linnaeus is often credited with a system of uniform slips for organising plant data in the 1760s. In the 19th century libraries adopted index cards for catalogues, with Melvil Dewey promoting standard sizes. The 3-by-5-inch card is still used for notes, recipes and flashcards.",
+    "why_unchanged": "A uniform card can be sorted and rearranged endlessly, a flexibility that needs no improvement.",
+    "materials": [
+      "card stock",
+      "paper"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the index card?",
+        "answer": "Carl Linnaeus is often credited with using uniform slips in the 1760s, though earlier scholars used similar systems."
+      },
+      {
+        "question": "What is the most common size?",
+        "answer": "The 3-by-5-inch card, standardised for library catalogues in the 19th century."
+      },
+      {
+        "question": "How are index cards used for studying?",
+        "answer": "Writing a question on one side and the answer on the other turns them into flashcards for self-testing."
+      }
+    ],
+    "image": {
+      "search_query": "stack of index cards",
+      "wikimedia_commons_category": "Index cards",
+      "alt": "A stack of white ruled index cards"
+    },
+    "tags": [
+      "office",
+      "record-keeping",
+      "paper",
+      "early-modern"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "sticky-note",
+    "name": "Sticky note",
+    "category": "Office, writing & reading",
+    "invention": {
+      "display": "1974",
+      "year": 1974,
+      "approximate": false,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "St. Paul, Minnesota",
+      "modern_country": "United States",
+      "notes": "3M chemist Spencer Silver developed a low-tack adhesive in 1968, and colleague Art Fry had the idea of using it for bookmarks in 1974; the product launched as Post-it Notes in 1980."
+    },
+    "inventor": "Spencer Silver and Art Fry",
+    "short_description": "A small square of paper with a strip of reusable adhesive on the back.",
+    "description": "Spencer Silver created a weak, reusable adhesive at 3M in 1968 but found no use for it until Art Fry used it in 1974 to make bookmarks that would stay in his hymnbook. The resulting Post-it Notes launched nationally in 1980. The yellow square with a sticky strip is unchanged.",
+    "why_unchanged": "A strip of repositionable glue on paper does exactly what is needed, so the design has stayed the same.",
+    "materials": [
+      "paper",
+      "acrylic adhesive"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the sticky note?",
+        "answer": "Spencer Silver created the adhesive and Art Fry the idea for the notes, both at 3M."
+      },
+      {
+        "question": "Why are sticky notes yellow?",
+        "answer": "The original prototype paper happened to be yellow scrap from a neighbouring lab."
+      },
+      {
+        "question": "Why can sticky notes be restuck?",
+        "answer": "The adhesive is made of tiny spheres that touch the surface only at points, so it grips lightly and releases cleanly."
+      }
+    ],
+    "image": {
+      "search_query": "yellow sticky notes on monitor",
+      "wikimedia_commons_category": "Post-it notes",
+      "alt": "Yellow sticky notes stuck to a desk"
+    },
+    "tags": [
+      "office",
+      "paper",
+      "adhesive",
+      "modern"
+    ],
+    "confidence": "high"
+  },
+  {
+    "slug": "rolodex",
+    "name": "Rolodex",
+    "category": "Office, writing & reading",
+    "invention": {
+      "display": "1956",
+      "year": 1956,
+      "approximate": false,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "Brooklyn, New York",
+      "modern_country": "United States",
+      "notes": "Arnold Neustadter designed the Rolodex with engineer Hildaur Neilsen and launched it in 1956."
+    },
+    "inventor": "Arnold Neustadter",
+    "short_description": "A rotating card file for storing contact details.",
+    "description": "Arnold Neustadter introduced the Rolodex in 1956: slotted cards that clip onto a rotating cylinder so contacts can be flipped through by turning a knob. It became a symbol of business networking. Although contacts went digital, Rolodexes are still made in the same form.",
+    "why_unchanged": "Slotted cards on a rotating drum make browsing contacts fast, so the mechanism has not changed.",
+    "materials": [
+      "card stock",
+      "metal",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the Rolodex?",
+        "answer": "Arnold Neustadter, with engineer Hildaur Neilsen, launched it in 1956."
+      },
+      {
+        "question": "Where does the name come from?",
+        "answer": "It combines 'rolling' and 'index'."
+      },
+      {
+        "question": "What does 'a big Rolodex' mean?",
+        "answer": "It means having an extensive network of professional contacts."
+      }
+    ],
+    "image": {
+      "search_query": "rolodex rotary card file",
+      "wikimedia_commons_category": "Rolodexes",
+      "alt": "A rotary Rolodex card file on a desk"
+    },
+    "tags": [
+      "office",
+      "record-keeping",
+      "contacts",
+      "modern"
+    ],
+    "confidence": "high"
+  },
+  {
+    "slug": "map",
+    "name": "Map",
+    "category": "Office, writing & reading",
+    "invention": {
+      "display": "c. 2300 BCE",
+      "year": -2300,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Mesopotamia",
+      "modern_country": "Iraq",
+      "notes": "Among the oldest known maps is the Ga-Sur clay tablet from near Kirkuk, about 2300 BCE; the Babylonian Map of the World dates to the 6th century BCE. Older carvings have been proposed as maps but are disputed."
+    },
+    "inventor": null,
+    "short_description": "A flat drawing of an area showing places, routes and features.",
+    "description": "Some of the earliest maps were drawn on clay tablets in Mesopotamia over 4,000 years ago, showing land, rivers and settlements. Greek, Chinese and later European mapmakers developed scale, coordinates and projections. The folded or flat paper map remains a basic tool for travel and learning.",
+    "why_unchanged": "A scaled drawing of space is the clearest way to show where things are, so its basic form persists.",
+    "materials": [
+      "clay",
+      "parchment",
+      "paper",
+      "ink"
+    ],
+    "faqs": [
+      {
+        "question": "What is the oldest known map?",
+        "answer": "The Ga-Sur clay tablet from Mesopotamia, about 2300 BCE, is among the oldest widely accepted maps."
+      },
+      {
+        "question": "Why is north usually at the top?",
+        "answer": "It is a convention popularised by European mapmakers; many older maps put east or south at the top."
+      },
+      {
+        "question": "What is a map projection?",
+        "answer": "It is a method of showing the curved Earth on a flat surface, which always distorts size, shape or distance."
+      }
+    ],
+    "image": {
+      "search_query": "old paper map with compass",
+      "wikimedia_commons_category": "Maps",
+      "alt": "An unfolded paper map of a region"
+    },
+    "tags": [
+      "reading",
+      "geography",
+      "ancient",
+      "navigation"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "atlas",
+    "name": "Atlas",
+    "category": "Office, writing & reading",
+    "invention": {
+      "display": "1570",
+      "year": 1570,
+      "approximate": false,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Antwerp",
+      "modern_country": "Belgium",
+      "notes": "Abraham Ortelius published the Theatrum Orbis Terrarum in 1570, considered the first modern atlas; Gerardus Mercator first used the word 'atlas' for a collection of maps in 1595."
+    },
+    "inventor": "Abraham Ortelius",
+    "short_description": "A bound book of maps.",
+    "description": "In 1570 Abraham Ortelius published the Theatrum Orbis Terrarum, a uniform collection of maps bound as a book, considered the first modern atlas. Mercator later gave the name 'atlas', after the mythical Titan holding up the heavens. Atlases are still published in the same bound form.",
+    "why_unchanged": "Maps bound together in a book are easy to carry and compare, so the format has endured.",
+    "materials": [
+      "paper",
+      "ink",
+      "card",
+      "leather"
+    ],
+    "faqs": [
+      {
+        "question": "What was the first modern atlas?",
+        "answer": "Abraham Ortelius's Theatrum Orbis Terrarum, published in Antwerp in 1570."
+      },
+      {
+        "question": "Why is it called an atlas?",
+        "answer": "Mercator named his map collection after Atlas, the Titan of Greek myth who held up the heavens."
+      },
+      {
+        "question": "Are printed atlases still used?",
+        "answer": "Yes, especially in schools and for road travel, though digital maps have reduced their use."
+      }
+    ],
+    "image": {
+      "search_query": "open world atlas",
+      "wikimedia_commons_category": "Atlases",
+      "alt": "An open atlas showing a world map"
+    },
+    "tags": [
+      "reading",
+      "geography",
+      "book",
+      "early-modern"
+    ],
+    "confidence": "high"
+  },
+  {
+    "slug": "globe",
+    "name": "Globe",
+    "category": "Office, writing & reading",
+    "invention": {
+      "display": "1492 (oldest surviving)",
+      "year": 1492,
+      "approximate": false,
+      "era": "Medieval"
+    },
+    "place_of_invention": {
+      "region": "Nuremberg",
+      "modern_country": "Germany",
+      "notes": "The Erdapfel made by Martin Behaim and collaborators in 1492 is the oldest surviving terrestrial globe; the Greek scholar Crates of Mallus is reported to have built a globe around 150 BCE, but none survives."
+    },
+    "inventor": null,
+    "short_description": "A spherical model of the Earth mounted on an axis.",
+    "description": "Ancient Greek scholars understood that the Earth was round, and Crates of Mallus reportedly made a globe in the 2nd century BCE. The oldest surviving example is Martin Behaim's Erdapfel of 1492, made just before Columbus reached the Americas. Desk globes tilted on a stand have kept the same form for centuries.",
+    "why_unchanged": "A sphere is the only map without distortion, so the globe cannot be improved in form.",
+    "materials": [
+      "paper",
+      "papier-mâché",
+      "metal",
+      "plastic",
+      "wood"
+    ],
+    "faqs": [
+      {
+        "question": "What is the oldest surviving globe?",
+        "answer": "The Erdapfel, made in Nuremberg in 1492 under Martin Behaim."
+      },
+      {
+        "question": "Why are globes tilted?",
+        "answer": "The axis is tilted about 23.5 degrees to match the Earth's tilt relative to its orbit."
+      },
+      {
+        "question": "Why do globes show no distortion?",
+        "answer": "Only a sphere can represent the Earth's surface with correct shapes, areas and distances at once."
+      }
+    ],
+    "image": {
+      "search_query": "desk globe on stand",
+      "wikimedia_commons_category": "Terrestrial globes",
+      "alt": "A tilted desk globe on a wooden stand"
+    },
+    "tags": [
+      "reading",
+      "geography",
+      "early-modern",
+      "education"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "wall-calendar",
+    "name": "Wall calendar",
+    "category": "Office, writing & reading",
+    "invention": {
+      "display": "Mid-15th century (printed)",
+      "year": 1448,
+      "approximate": true,
+      "era": "Medieval"
+    },
+    "place_of_invention": {
+      "region": "Mainz",
+      "modern_country": "Germany",
+      "notes": "Printed calendars were among the earliest products of European printing; an astronomical calendar for 1448 is attributed to Gutenberg's workshop, though its dating is debated. Calendar systems themselves are far older."
+    },
+    "inventor": null,
+    "short_description": "A printed chart of the days, weeks and months of the year, hung on a wall.",
+    "description": "Single-sheet printed calendars were among the first things produced by European printing presses in the 15th century. By the 19th century illustrated wall calendars were popular advertising gifts. The grid of days arranged by month is unchanged.",
+    "why_unchanged": "A grid of days visible at a glance is the clearest way to plan time, so the layout persists.",
+    "materials": [
+      "paper",
+      "ink",
+      "card"
+    ],
+    "faqs": [
+      {
+        "question": "When were printed calendars first made?",
+        "answer": "Single-sheet calendars were among the earliest European printed products in the mid-15th century."
+      },
+      {
+        "question": "Why do weeks start on different days in different countries?",
+        "answer": "Traditions vary: many countries start weeks on Monday, following ISO 8601, while others start on Sunday."
+      },
+      {
+        "question": "Why were calendars given as gifts by businesses?",
+        "answer": "A calendar stays on the wall all year, keeping the company's name in view."
+      }
+    ],
+    "image": {
+      "search_query": "wall calendar with months",
+      "wikimedia_commons_category": "Wall calendars",
+      "alt": "A monthly wall calendar hanging on a wall"
+    },
+    "tags": [
+      "record-keeping",
+      "time",
+      "paper",
+      "printing"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "blotting-paper",
+    "name": "Blotting paper",
+    "category": "Office, writing & reading",
+    "invention": {
+      "display": "15th century",
+      "year": 1465,
+      "approximate": true,
+      "era": "Medieval"
+    },
+    "place_of_invention": {
+      "region": "England",
+      "modern_country": "United Kingdom",
+      "notes": "Blotting paper is mentioned in England as early as the 15th century, but sand and pounce were more common until mass-produced blotting paper spread in the 19th century."
+    },
+    "inventor": null,
+    "short_description": "An absorbent unsized paper used to soak up excess ink.",
+    "description": "Before quick-drying inks, writers dried fresh writing by sprinkling sand or pressing it with absorbent paper. Blotting paper, made without sizing so it soaks up ink, was known by the 15th century and became standard in the 19th century. It is still used by fountain-pen users and calligraphers.",
+    "why_unchanged": "An absorbent sheet soaks up ink instantly, which is all the job requires.",
+    "materials": [
+      "unsized paper",
+      "cotton fibre"
+    ],
+    "faqs": [
+      {
+        "question": "How does blotting paper work?",
+        "answer": "It is made without sizing, so its fibres soak up liquid ink quickly by capillary action."
+      },
+      {
+        "question": "What did people use before blotting paper?",
+        "answer": "They sprinkled fine sand or pounce powder on wet ink."
+      },
+      {
+        "question": "Is blotting paper still used?",
+        "answer": "Yes, by fountain-pen users, calligraphers and in science for absorbing liquids."
+      }
+    ],
+    "image": {
+      "search_query": "blotting paper ink stains",
+      "wikimedia_commons_category": "Blotting paper",
+      "alt": "A sheet of blotting paper with ink marks"
+    },
+    "tags": [
+      "writing",
+      "ink",
+      "paper",
+      "medieval"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "rocker-blotter",
+    "name": "Rocker blotter",
+    "category": "Office, writing & reading",
+    "invention": {
+      "display": "19th century",
+      "year": 1850,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Europe and North America",
+      "modern_country": null,
+      "notes": "Curved blotters with a handle became common desk accessories in the 19th century, when dip pens were widely used; no inventor is documented."
+    },
+    "inventor": null,
+    "short_description": "A curved block with a handle, covered in blotting paper, rocked over wet ink to dry it.",
+    "description": "The rocker blotter holds a sheet of blotting paper over a curved base, so it can be rolled across a page to soak up ink without smudging. It became a standard part of Victorian desk sets. Fountain-pen users still use it in the same form.",
+    "why_unchanged": "The curved base presses evenly across a page, so its form remains ideal for drying ink.",
+    "materials": [
+      "wood",
+      "brass",
+      "blotting paper"
+    ],
+    "faqs": [
+      {
+        "question": "How do you use a rocker blotter?",
+        "answer": "Place it on wet writing and rock it from one end to the other, so the paper soaks up excess ink."
+      },
+      {
+        "question": "Why is it curved?",
+        "answer": "The curve lets it apply even pressure across the page without smearing the ink."
+      },
+      {
+        "question": "How do you replace the paper?",
+        "answer": "Unscrew the top handle, clip a fresh sheet of blotting paper around the base, and screw it back on."
+      }
+    ],
+    "image": {
+      "search_query": "wooden rocker blotter desk",
+      "wikimedia_commons_category": "Blotters",
+      "alt": "A wooden rocker blotter on a writing desk"
+    },
+    "tags": [
+      "writing",
+      "ink",
+      "desk",
+      "industrial"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "ink-brush",
+    "name": "Ink brush",
+    "category": "Office, writing & reading",
+    "invention": {
+      "display": "By the 4th century BCE (oldest surviving)",
+      "year": -350,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "China",
+      "modern_country": "China",
+      "notes": "The oldest surviving Chinese writing brushes date to the Warring States period; painted Neolithic pottery suggests brushes were used much earlier. The legend crediting general Meng Tian is not historical."
+    },
+    "inventor": null,
+    "short_description": "A brush of animal hair set in a bamboo handle, used for East Asian calligraphy and painting.",
+    "description": "The ink brush is one of the 'Four Treasures of the Study' in Chinese tradition, along with ink, paper and inkstone. Surviving examples date back to around the 4th century BCE, and brushes shaped Chinese characters for over two millennia. Calligraphers in China, Japan and Korea still use the same bamboo-handled brush.",
+    "why_unchanged": "A tapered hair tip gives endless variation of line, which calligraphers do not want to change.",
+    "materials": [
+      "bamboo",
+      "goat hair",
+      "wolf hair",
+      "rabbit hair"
+    ],
+    "faqs": [
+      {
+        "question": "What are the Four Treasures of the Study?",
+        "answer": "In Chinese tradition they are the brush, inkstick, paper and inkstone."
+      },
+      {
+        "question": "What hair is used in calligraphy brushes?",
+        "answer": "Goat hair gives a soft brush, while weasel (called wolf) hair is springier; many brushes mix both."
+      },
+      {
+        "question": "Did Meng Tian invent the brush?",
+        "answer": "Legend credits him, but archaeological brushes are older than his time."
+      }
+    ],
+    "image": {
+      "search_query": "chinese calligraphy brush ink",
+      "wikimedia_commons_category": "Chinese calligraphy brushes",
+      "alt": "A bamboo calligraphy brush resting on an inkstone"
+    },
+    "tags": [
+      "writing",
+      "calligraphy",
+      "china",
+      "ancient"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "inkstick",
+    "name": "Inkstick",
+    "category": "Office, writing & reading",
+    "invention": {
+      "display": "Han dynasty (c. 2nd century BCE to 2nd century CE)",
+      "year": 0,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "China",
+      "modern_country": "China",
+      "notes": "Solid ink made from soot and binder was moulded into sticks in China by the Han dynasty; earlier inks were used as pellets or liquids."
+    },
+    "inventor": null,
+    "short_description": "A solid stick of soot and glue that is ground with water on an inkstone to make ink.",
+    "description": "Chinese ink makers combined pine or oil soot with animal glue and moulded it into sticks, which were ground against a wet inkstone to produce fresh ink. The process, known by the Han dynasty, allowed the writer to control the ink's thickness. Calligraphers still prepare ink this way.",
+    "why_unchanged": "A dry stick keeps for centuries and makes ink on demand, so it has not changed.",
+    "materials": [
+      "pine soot",
+      "lamp-black",
+      "animal glue"
+    ],
+    "faqs": [
+      {
+        "question": "How do you use an inkstick?",
+        "answer": "Grind it in circles on a wet inkstone until the water becomes ink of the desired darkness."
+      },
+      {
+        "question": "Why is it called India ink in English?",
+        "answer": "The name came from ink imported via India, though the technique originated in China."
+      },
+      {
+        "question": "Do inksticks improve with age?",
+        "answer": "Many calligraphers believe aged inksticks produce smoother ink, and antique sticks are collected."
+      }
+    ],
+    "image": {
+      "search_query": "chinese inkstick",
+      "wikimedia_commons_category": "Inksticks",
+      "alt": "A decorated black Chinese inkstick"
+    },
+    "tags": [
+      "writing",
+      "ink",
+      "calligraphy",
+      "china"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "inkstone",
+    "name": "Inkstone",
+    "category": "Office, writing & reading",
+    "invention": {
+      "display": "Han dynasty (by c. 2nd century BCE)",
+      "year": -150,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "China",
+      "modern_country": "China",
+      "notes": "Stone grinding slabs for ink are known from Han dynasty tombs; earlier grinding stones may have been used for pigments."
+    },
+    "inventor": null,
+    "short_description": "A flat stone slab with a well, used to grind an inkstick with water.",
+    "description": "The inkstone provides a slightly abrasive surface on which an inkstick is ground with water to make ink. It became one of the Four Treasures of the Study, and fine stones such as Duan stone are prized by collectors. Calligraphers still use the same flat slab with a reservoir.",
+    "why_unchanged": "A flat abrasive stone with a well is the ideal surface for grinding ink, so it has not changed.",
+    "materials": [
+      "slate",
+      "Duan stone",
+      "ceramic"
+    ],
+    "faqs": [
+      {
+        "question": "What is an inkstone used for?",
+        "answer": "It is used to grind an inkstick with water to make fresh ink for calligraphy."
+      },
+      {
+        "question": "What is Duan stone?",
+        "answer": "A fine volcanic stone from Guangdong, China, prized for inkstones since the Tang dynasty."
+      },
+      {
+        "question": "Why does an inkstone have a well?",
+        "answer": "The well holds water and the ground ink so the brush can be loaded easily."
+      }
+    ],
+    "image": {
+      "search_query": "chinese inkstone with inkstick",
+      "wikimedia_commons_category": "Inkstones",
+      "alt": "A carved Chinese inkstone with ground ink"
+    },
+    "tags": [
+      "writing",
+      "ink",
+      "calligraphy",
+      "china",
+      "ancient"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "paper",
+    "name": "Paper",
+    "category": "Office, writing & reading",
+    "invention": {
+      "display": "c. 2nd century BCE (refined 105 CE)",
+      "year": -150,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "China",
+      "modern_country": "China",
+      "notes": "Archaeological finds such as the Fangmatan map show paper in China by the 2nd century BCE; court official Cai Lun is traditionally credited with improving papermaking in 105 CE."
+    },
+    "inventor": null,
+    "short_description": "A thin sheet made of matted plant fibres, used for writing, printing and wrapping.",
+    "description": "Paper was developed in China from pulped plant fibres such as hemp and bark, with archaeological examples from the 2nd century BCE; Cai Lun's refinements in 105 CE are traditionally celebrated as its invention. The technique spread via the Islamic world to Europe by the 12th century. Paper today is made by machine, but the sheet of matted fibres is the same.",
+    "why_unchanged": "A thin sheet of matted fibres is cheap, light and writable, so its form has not changed.",
+    "materials": [
+      "wood pulp",
+      "cotton",
+      "hemp",
+      "mulberry bark"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented paper?",
+        "answer": "Paper existed in China by the 2nd century BCE; Cai Lun is traditionally credited with improving the process in 105 CE."
+      },
+      {
+        "question": "How did paper reach Europe?",
+        "answer": "It spread through the Islamic world, with paper mills in Spain by the 11th to 12th century."
+      },
+      {
+        "question": "What is the difference between paper and papyrus?",
+        "answer": "Papyrus is made from strips of a plant laid crosswise, while paper is made from fibres pulped and matted together."
+      }
+    ],
+    "image": {
+      "search_query": "stack of white paper sheets",
+      "wikimedia_commons_category": "Paper",
+      "alt": "A stack of plain white paper sheets"
+    },
+    "tags": [
+      "writing",
+      "paper",
+      "china",
+      "ancient"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "clear-adhesive-tape",
+    "name": "Clear adhesive tape",
+    "category": "Office, writing & reading",
+    "invention": {
+      "display": "1930",
+      "year": 1930,
+      "approximate": false,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "St. Paul, Minnesota",
+      "modern_country": "United States",
+      "notes": "Richard Drew, an engineer at 3M, developed transparent cellulose adhesive tape in 1930, sold as Scotch tape."
+    },
+    "inventor": "Richard Drew",
+    "short_description": "A transparent strip coated with pressure-sensitive adhesive, sold on a roll.",
+    "description": "Richard Drew of 3M, who had already invented masking tape, developed a clear cellophane tape in 1930. It became popular during the Great Depression for mending torn items. The transparent roll of sticky tape is unchanged, though cellophane was later replaced by acetate and plastic films.",
+    "why_unchanged": "A thin clear strip with pressure-sensitive glue repairs and seals paper invisibly, with nothing to add.",
+    "materials": [
+      "cellulose acetate",
+      "polypropylene",
+      "acrylic adhesive"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented clear tape?",
+        "answer": "Richard Drew at 3M invented it in 1930."
+      },
+      {
+        "question": "Why is it called Scotch tape?",
+        "answer": "The name is said to come from an earlier masking tape episode in which a customer complained the company was being 'Scotch', or stingy, with adhesive."
+      },
+      {
+        "question": "Is there a fun fact about sticky tape?",
+        "answer": "Peeling tape in a vacuum can produce X-rays, and tape was used to isolate graphene in 2004."
+      }
+    ],
+    "image": {
+      "search_query": "roll of clear adhesive tape",
+      "wikimedia_commons_category": "Adhesive tape",
+      "alt": "A roll of clear adhesive tape"
+    },
+    "tags": [
+      "office",
+      "adhesive",
+      "tape",
+      "modern"
+    ],
+    "confidence": "high"
+  },
+  {
+    "slug": "tape-dispenser",
+    "name": "Tape dispenser",
+    "category": "Office, writing & reading",
+    "invention": {
+      "display": "1932",
+      "year": 1932,
+      "approximate": false,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "St. Paul, Minnesota",
+      "modern_country": "United States",
+      "notes": "John A. Borden of 3M designed a dispenser with a built-in cutting edge in 1932."
+    },
+    "inventor": "John A. Borden",
+    "short_description": "A weighted holder for a roll of tape with a serrated blade for cutting pieces.",
+    "description": "In 1932 3M sales manager John A. Borden designed a heavy dispenser with a built-in cutting edge, making clear tape easy to use with one hand. The weighted desk dispenser with a toothed blade is still the standard office design.",
+    "why_unchanged": "A weighted base and a toothed edge let tape be pulled and cut with one hand, so the design is complete.",
+    "materials": [
+      "cast iron",
+      "plastic",
+      "steel blade"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the tape dispenser?",
+        "answer": "John A. Borden of 3M designed it in 1932."
+      },
+      {
+        "question": "Why are desk dispensers heavy?",
+        "answer": "The weight keeps the dispenser still while tape is pulled and torn with one hand."
+      },
+      {
+        "question": "Why is the blade serrated?",
+        "answer": "Teeth pierce the tape at many points, so it tears cleanly without much force."
+      }
+    ],
+    "image": {
+      "search_query": "desk tape dispenser",
+      "wikimedia_commons_category": "Tape dispensers",
+      "alt": "A black desk tape dispenser with a roll of clear tape"
+    },
+    "tags": [
+      "office",
+      "adhesive",
+      "desk",
+      "modern"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "glue-stick",
+    "name": "Glue stick",
+    "category": "Office, writing & reading",
+    "invention": {
+      "display": "1969",
+      "year": 1969,
+      "approximate": false,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "Düsseldorf",
+      "modern_country": "Germany",
+      "notes": "Wolfgang Dierichs, a researcher at Henkel, devised the glue stick after watching someone apply lipstick; Henkel launched it as Pritt in 1969."
+    },
+    "inventor": "Wolfgang Dierichs",
+    "short_description": "Solid glue in a twist-up tube, applied by rubbing.",
+    "description": "Henkel researcher Wolfgang Dierichs came up with the idea of solid glue in a lipstick-style tube, and the Pritt stick launched in 1969. It is clean, quick-drying and safe for children. Glue sticks are made worldwide in the same twist-up form.",
+    "why_unchanged": "A twist-up solid glue is mess-free and portable, so its form has not changed.",
+    "materials": [
+      "polyvinylpyrrolidone",
+      "soap",
+      "water",
+      "plastic tube"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the glue stick?",
+        "answer": "Wolfgang Dierichs of Henkel, inspired by lipstick; it launched as Pritt in 1969."
+      },
+      {
+        "question": "Why do glue sticks dry out?",
+        "answer": "If the cap is left off, the water in the glue evaporates."
+      },
+      {
+        "question": "Is glue stick safe for children?",
+        "answer": "Yes, most are non-toxic and washable, which is why they are popular in schools."
+      }
+    ],
+    "image": {
+      "search_query": "glue stick open",
+      "wikimedia_commons_category": "Glue sticks",
+      "alt": "An open glue stick with its cap beside it"
+    },
+    "tags": [
+      "office",
+      "adhesive",
+      "school",
+      "modern"
+    ],
+    "confidence": "high"
+  },
+  {
+    "slug": "carbon-paper",
+    "name": "Carbon paper",
+    "category": "Office, writing & reading",
+    "invention": {
+      "display": "1806",
+      "year": 1806,
+      "approximate": false,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "London",
+      "modern_country": "United Kingdom",
+      "notes": "Ralph Wedgwood patented his 'Stylographic Writer' using carbonated paper in 1806; Italian Pellegrino Turri made a similar paper around 1808."
+    },
+    "inventor": "Ralph Wedgwood",
+    "short_description": "Thin paper coated with ink on one side, used to make copies while writing or typing.",
+    "description": "Ralph Wedgwood patented carbon paper in 1806 as part of a device to help blind people write. With the typewriter in the late 19th century, carbon paper became the standard way to make office copies. It is still used for receipts and transferring designs, and gave us the 'cc' in email.",
+    "why_unchanged": "A pigment-coated sheet copies pressure directly, so the form has never needed change.",
+    "materials": [
+      "paper",
+      "carbon black",
+      "wax"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented carbon paper?",
+        "answer": "Ralph Wedgwood patented it in London in 1806."
+      },
+      {
+        "question": "What does 'cc' in email stand for?",
+        "answer": "It stands for 'carbon copy', from copies made with carbon paper."
+      },
+      {
+        "question": "Is carbon paper still used?",
+        "answer": "Yes, for some receipt books, forms and transferring artwork patterns."
+      }
+    ],
+    "image": {
+      "search_query": "carbon paper copy",
+      "wikimedia_commons_category": "Carbon paper",
+      "alt": "A sheet of blue carbon paper beside a copied form"
+    },
+    "tags": [
+      "office",
+      "paper",
+      "copying",
+      "industrial"
+    ],
+    "confidence": "high"
+  },
+  {
+    "slug": "bone-folder",
+    "name": "Bone folder",
+    "category": "Office, writing & reading",
+    "invention": {
+      "display": "Middle Ages",
+      "year": 1200,
+      "approximate": true,
+      "era": "Medieval"
+    },
+    "place_of_invention": {
+      "region": "Europe",
+      "modern_country": null,
+      "notes": "Smooth bone tools for creasing and folding were used by bookbinders and scribes over many centuries; no specific origin is documented."
+    },
+    "inventor": null,
+    "short_description": "A smooth flat tool of bone used to crease and fold paper neatly.",
+    "description": "Bookbinders have long used polished strips of bone to score, crease and smooth paper and leather without tearing or marking them. The tool is held like a knife and drawn along a fold to make it crisp. Bookbinders, origami artists and paper crafters still use bone folders in the same form.",
+    "why_unchanged": "A smooth, hard edge creases paper perfectly without cutting, so it has not changed.",
+    "materials": [
+      "bone",
+      "Teflon",
+      "wood"
+    ],
+    "faqs": [
+      {
+        "question": "What is a bone folder used for?",
+        "answer": "It makes sharp creases in paper and card and smooths glued surfaces in bookbinding."
+      },
+      {
+        "question": "Is it really made of bone?",
+        "answer": "Traditional ones are cow bone, but plastic and Teflon versions are also common."
+      },
+      {
+        "question": "Why use a bone folder instead of a fingernail?",
+        "answer": "It gives a crisper, more even crease without leaving oils or scratches."
+      }
+    ],
+    "image": {
+      "search_query": "bone folder creasing paper",
+      "wikimedia_commons_category": "Bone folders",
+      "alt": "A bone folder creasing a sheet of paper"
+    },
+    "tags": [
+      "bookbinding",
+      "paper",
+      "tool",
+      "medieval"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "guillotine-paper-cutter",
+    "name": "Guillotine paper cutter",
+    "category": "Office, writing & reading",
+    "invention": {
+      "display": "1840s",
+      "year": 1844,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "France",
+      "modern_country": "France",
+      "notes": "Guillaume Massiquot patented a paper-cutting machine in France in 1844, and Thirault built an earlier model around 1837; the lever-arm desk trimmer developed from these."
+    },
+    "inventor": null,
+    "short_description": "A board with a hinged blade arm for cutting straight edges through paper.",
+    "description": "Paper-cutting guillotines appeared in France in the 1830s-1840s for trimming printed sheets; in France such cutters are still called 'massicots' after Guillaume Massiquot. The office version, a gridded board with a hinged blade arm, cuts clean straight lines through several sheets. It remains common in schools, offices and print shops.",
+    "why_unchanged": "A hinged blade against a straight edge gives clean, square cuts with one motion.",
+    "materials": [
+      "steel",
+      "wood",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "Why is it called a guillotine?",
+        "answer": "Its falling or hinged blade resembles the guillotine used for executions in France."
+      },
+      {
+        "question": "What is a massicot?",
+        "answer": "It is the French name for a paper cutter, after inventor Guillaume Massiquot."
+      },
+      {
+        "question": "How do you use one safely?",
+        "answer": "Keep fingers behind the guard, hold the paper with the clamp, and lock the blade down when not in use."
+      }
+    ],
+    "image": {
+      "search_query": "office paper guillotine cutter",
+      "wikimedia_commons_category": "Paper cutters",
+      "alt": "A desktop paper guillotine with a blade arm"
+    },
+    "tags": [
+      "office",
+      "cutting",
+      "paper",
+      "industrial"
+    ],
+    "confidence": "low"
+  }
+]

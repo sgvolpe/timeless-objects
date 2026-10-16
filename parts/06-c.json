@@ -1,0 +1,1280 @@
+[
+  {
+    "slug": "lever-arch-file",
+    "name": "Lever arch file",
+    "category": "Office, writing & reading",
+    "invention": {
+      "display": "1896",
+      "year": 1896,
+      "approximate": false,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Stuttgart",
+      "modern_country": "Germany",
+      "notes": "Louis Leitz is widely associated with the lever arch mechanism in 1896, building on Friedrich Soennecken's 1886 binder; some sources credit Soennecken with the lever itself. Leitz added the characteristic finger hole in the spine in 1911."
+    },
+    "inventor": null,
+    "short_description": "A stiff box file with a lever-operated two-ring mechanism for holding large amounts of punched paper.",
+    "description": "The lever arch file developed in Germany in the 1890s, when a lever was added to open and close large arched rings, a development closely associated with Louis Leitz. The thick spine with a finger hole lets it be pulled from a shelf easily. It remains the standard archive file in Europe.",
+    "why_unchanged": "A lever-operated arch holds hundreds of pages securely and opens with one hand, so it has not been bettered.",
+    "materials": [
+      "cardboard",
+      "paper",
+      "steel"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the lever arch file?",
+        "answer": "Louis Leitz of Stuttgart is most associated with it from 1896, building on Friedrich Soennecken's earlier binder."
+      },
+      {
+        "question": "What is the hole in the spine for?",
+        "answer": "The finger hole, added in 1911, lets you pull the file off a shelf easily."
+      },
+      {
+        "question": "How many sheets does a lever arch file hold?",
+        "answer": "A standard 75-80 mm file holds roughly 500 sheets of ordinary paper."
+      }
+    ],
+    "image": {
+      "search_query": "lever arch files on shelf",
+      "wikimedia_commons_category": "Lever arch files",
+      "alt": "Lever arch files standing on an office shelf"
+    },
+    "tags": [
+      "office",
+      "filing",
+      "binding",
+      "industrial"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "rubber-band",
+    "name": "Rubber band",
+    "category": "Office, writing & reading",
+    "invention": {
+      "display": "1845",
+      "year": 1845,
+      "approximate": false,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "London",
+      "modern_country": "United Kingdom",
+      "notes": "Stephen Perry of Messrs Perry and Co patented rubber bands on 17 March 1845, made possible by the vulcanization of rubber in the early 1840s."
+    },
+    "inventor": "Stephen Perry",
+    "short_description": "A loop of elastic rubber used to hold objects together.",
+    "description": "Stephen Perry, a London manufacturer of stationery, patented the rubber band in 1845 as a way to hold papers and envelopes together. Vulcanized rubber made the bands durable and elastic. They are now used for everything from bundling mail to holding vegetables together, unchanged in form.",
+    "why_unchanged": "A loop of elastic material grips any shape, so nothing about it needs changing.",
+    "materials": [
+      "natural rubber",
+      "synthetic rubber"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the rubber band?",
+        "answer": "Stephen Perry patented it in London in 1845."
+      },
+      {
+        "question": "Why do rubber bands become brittle?",
+        "answer": "Oxygen, heat and ultraviolet light break down the rubber over time."
+      },
+      {
+        "question": "Who uses the most rubber bands?",
+        "answer": "Postal services are among the largest users, bundling letters for delivery."
+      }
+    ],
+    "image": {
+      "search_query": "pile of colored rubber bands",
+      "wikimedia_commons_category": "Rubber bands",
+      "alt": "A pile of colourful rubber bands"
+    },
+    "tags": [
+      "office",
+      "fastener",
+      "rubber",
+      "industrial"
+    ],
+    "confidence": "high"
+  },
+  {
+    "slug": "envelope",
+    "name": "Envelope",
+    "category": "Office, writing & reading",
+    "invention": {
+      "display": "Early 19th century (pre-cut paper)",
+      "year": 1830,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Great Britain",
+      "modern_country": "United Kingdom",
+      "notes": "Clay envelopes enclosed Mesopotamian tablets around 3500 BCE, and folded paper wrappers were used for centuries. Commercially made paper envelopes appeared in Britain in the 1830s, and envelope-folding machines followed in the 1840s."
+    },
+    "inventor": null,
+    "short_description": "A flat folded paper container with a sealable flap for letters.",
+    "description": "Letters were long folded and sealed on themselves, but pre-cut paper envelopes became widespread in Britain in the 1830s and 1840s, especially after the cheap postal rates of 1840. Machines invented in the 1840s could fold and glue them in bulk. The diamond-cut folded paper envelope with a gummed flap is still standard.",
+    "why_unchanged": "A single folded sheet with a gummed flap protects a letter cheaply and simply, so the form has stayed the same.",
+    "materials": [
+      "paper",
+      "gum adhesive"
+    ],
+    "faqs": [
+      {
+        "question": "What came before the envelope?",
+        "answer": "Letters were folded and sealed with wax, and in ancient Mesopotamia clay tablets were enclosed in clay envelopes."
+      },
+      {
+        "question": "Why did envelopes become common in the 1840s?",
+        "answer": "Britain's postal reform of 1840 made postage cheap and paid by weight, encouraging the use of separate envelopes."
+      },
+      {
+        "question": "What are envelope sizes like C5 and DL?",
+        "answer": "They are international standard sizes; C5 fits A5 or folded A4, and DL fits A4 folded in three."
+      }
+    ],
+    "image": {
+      "search_query": "white paper envelope with flap",
+      "wikimedia_commons_category": "Envelopes",
+      "alt": "A plain white paper envelope with its flap open"
+    },
+    "tags": [
+      "mail",
+      "paper",
+      "stationery",
+      "industrial"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "window-envelope",
+    "name": "Window envelope",
+    "category": "Office, writing & reading",
+    "invention": {
+      "display": "1902",
+      "year": 1902,
+      "approximate": false,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "Chicago",
+      "modern_country": "United States",
+      "notes": "Americus F. Callahan received a US patent for the window envelope in 1902."
+    },
+    "inventor": "Americus F. Callahan",
+    "short_description": "An envelope with a transparent panel so the address on the letter inside shows through.",
+    "description": "Americus F. Callahan patented the window envelope in 1902, allowing the address printed on a letter to be seen through a cut-out panel. It saved businesses the work of addressing envelopes separately and reduced errors. Bills and statements around the world are still mailed this way.",
+    "why_unchanged": "A clear window lets one address serve both letter and envelope, which is the whole point.",
+    "materials": [
+      "paper",
+      "glassine",
+      "plastic film"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the window envelope?",
+        "answer": "Americus F. Callahan of Chicago patented it in 1902."
+      },
+      {
+        "question": "What is the window made of?",
+        "answer": "Originally glassine paper; today usually a thin clear plastic or a translucent paper film."
+      },
+      {
+        "question": "Why do businesses use window envelopes?",
+        "answer": "They avoid printing addresses twice and ensure each letter goes in the correct envelope."
+      }
+    ],
+    "image": {
+      "search_query": "window envelope with address",
+      "wikimedia_commons_category": "Window envelopes",
+      "alt": "A window envelope showing an address through its panel"
+    },
+    "tags": [
+      "mail",
+      "paper",
+      "patent",
+      "modern"
+    ],
+    "confidence": "high"
+  },
+  {
+    "slug": "postage-stamp",
+    "name": "Postage stamp",
+    "category": "Office, writing & reading",
+    "invention": {
+      "display": "1840",
+      "year": 1840,
+      "approximate": false,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "London",
+      "modern_country": "United Kingdom",
+      "notes": "The Penny Black, issued in May 1840, was the first adhesive postage stamp, part of postal reforms proposed by Rowland Hill. Scotsman James Chalmers is also claimed by some as the stamp's originator."
+    },
+    "inventor": "Rowland Hill",
+    "short_description": "A small adhesive paper label showing that postage has been paid.",
+    "description": "The Penny Black, bearing a profile of Queen Victoria, went on sale in Britain in May 1840 as part of Rowland Hill's reform introducing cheap, prepaid postage. Other countries quickly adopted adhesive stamps. Perforations were added in the 1850s, but the small gummed paper label remains the same.",
+    "why_unchanged": "A small prepaid label is the simplest proof of payment, so its form has not changed.",
+    "materials": [
+      "paper",
+      "gum adhesive",
+      "ink"
+    ],
+    "faqs": [
+      {
+        "question": "What was the first postage stamp?",
+        "answer": "The British Penny Black, issued in May 1840."
+      },
+      {
+        "question": "Why do British stamps not show the country's name?",
+        "answer": "As the first country to issue stamps, Britain never needed a name and instead uses the monarch's profile."
+      },
+      {
+        "question": "When were perforations added to stamps?",
+        "answer": "Perforated sheets were introduced in Britain in the 1850s; before that, stamps were cut with scissors."
+      }
+    ],
+    "image": {
+      "search_query": "penny black postage stamp",
+      "wikimedia_commons_category": "Penny Black",
+      "alt": "The Penny Black postage stamp with Queen Victoria's profile"
+    },
+    "tags": [
+      "mail",
+      "paper",
+      "record",
+      "industrial"
+    ],
+    "confidence": "high"
+  },
+  {
+    "slug": "postcard",
+    "name": "Postcard",
+    "category": "Office, writing & reading",
+    "invention": {
+      "display": "1869",
+      "year": 1869,
+      "approximate": false,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Vienna",
+      "modern_country": "Austria",
+      "notes": "Austria-Hungary issued the first official postal card in October 1869, following a proposal by economist Emanuel Herrmann; Heinrich von Stephan had suggested a similar idea in Germany in 1865."
+    },
+    "inventor": "Emanuel Herrmann",
+    "short_description": "A rectangular card sent through the mail without an envelope.",
+    "description": "Austria-Hungary introduced the first official postcard, the Correspondenz-Karte, in 1869 at the suggestion of Emanuel Herrmann, offering a cheaper way to send short messages. Picture postcards became a craze around 1900. The card with a message side and an address side is unchanged.",
+    "why_unchanged": "A card with room for an address, a stamp and a short message is all the format requires.",
+    "materials": [
+      "card stock",
+      "ink"
+    ],
+    "faqs": [
+      {
+        "question": "Where was the first postcard issued?",
+        "answer": "Austria-Hungary issued the first official postal card in 1869."
+      },
+      {
+        "question": "Why do postcards have a divided back?",
+        "answer": "From about 1902, the back was split so senders could write a message beside the address, leaving the front for a picture."
+      },
+      {
+        "question": "What is a postcard collector called?",
+        "answer": "A deltiologist."
+      }
+    ],
+    "image": {
+      "search_query": "vintage postcards",
+      "wikimedia_commons_category": "Postcards",
+      "alt": "A stack of vintage picture postcards"
+    },
+    "tags": [
+      "mail",
+      "paper",
+      "correspondence",
+      "industrial"
+    ],
+    "confidence": "high"
+  },
+  {
+    "slug": "christmas-card",
+    "name": "Christmas card",
+    "category": "Office, writing & reading",
+    "invention": {
+      "display": "1843",
+      "year": 1843,
+      "approximate": false,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "London",
+      "modern_country": "United Kingdom",
+      "notes": "Sir Henry Cole commissioned the first commercial Christmas card in 1843, illustrated by artist John Callcott Horsley."
+    },
+    "inventor": "Henry Cole",
+    "short_description": "A folded or flat greeting card sent at Christmas.",
+    "description": "In 1843 Henry Cole, a civil servant involved in postal reform, commissioned artist John Callcott Horsley to design a printed card so he could send greetings to many friends. About a thousand copies were printed and sold. The illustrated greeting card has since become a worldwide tradition for many occasions.",
+    "why_unchanged": "A printed card with a picture and a greeting already does its job, so the format remains.",
+    "materials": [
+      "card stock",
+      "paper",
+      "ink"
+    ],
+    "faqs": [
+      {
+        "question": "Who sent the first Christmas card?",
+        "answer": "Henry Cole commissioned the first commercial Christmas card in London in 1843."
+      },
+      {
+        "question": "What did the first card show?",
+        "answer": "A family raising a toast, flanked by scenes of charity to the poor, with the words 'A Merry Christmas and a Happy New Year to You'."
+      },
+      {
+        "question": "Why were Christmas cards possible in the 1840s?",
+        "answer": "Cheap postage after 1840 and improved printing made sending cards affordable."
+      }
+    ],
+    "image": {
+      "search_query": "christmas cards on mantel",
+      "wikimedia_commons_category": "Christmas cards",
+      "alt": "Christmas cards displayed on a mantelpiece"
+    },
+    "tags": [
+      "mail",
+      "greeting",
+      "paper",
+      "industrial"
+    ],
+    "confidence": "high"
+  },
+  {
+    "slug": "visiting-card",
+    "name": "Visiting card",
+    "category": "Office, writing & reading",
+    "invention": {
+      "display": "17th to 18th century",
+      "year": 1700,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Europe",
+      "modern_country": null,
+      "notes": "Visiting cards were used in European high society from the 17th and 18th centuries, especially in France; name cards were used earlier in China. The modern business card developed from both visiting and trade cards."
+    },
+    "inventor": null,
+    "short_description": "A small printed card bearing a person's name, left when calling or exchanged on meeting.",
+    "description": "Visiting cards spread among European aristocrats who left them when calling on others, and by the 19th century elaborate etiquette governed their use. Merchants' trade cards developed alongside them into the modern business card. The small rectangular printed card is still exchanged everywhere.",
+    "why_unchanged": "A small card with a name and details is the simplest portable introduction, so it has not changed.",
+    "materials": [
+      "card stock",
+      "ink"
+    ],
+    "faqs": [
+      {
+        "question": "What was a visiting card used for?",
+        "answer": "Visitors left them at a house to announce or record their call, following strict social rules."
+      },
+      {
+        "question": "How did visiting cards become business cards?",
+        "answer": "Merchants' trade cards and social visiting cards merged into the business card used today."
+      },
+      {
+        "question": "How are business cards exchanged in Japan?",
+        "answer": "They are offered and received with both hands and a slight bow, and studied respectfully before being put away."
+      }
+    ],
+    "image": {
+      "search_query": "victorian visiting card",
+      "wikimedia_commons_category": "Visiting cards",
+      "alt": "A Victorian engraved visiting card"
+    },
+    "tags": [
+      "stationery",
+      "paper",
+      "etiquette",
+      "early-modern"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "sealing-wax",
+    "name": "Sealing wax",
+    "category": "Office, writing & reading",
+    "invention": {
+      "display": "16th century (shellac-based)",
+      "year": 1550,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Europe",
+      "modern_country": null,
+      "notes": "Beeswax-based mixtures were used for seals throughout the Middle Ages; harder shellac-based sealing wax, often coloured red with vermilion, became common in Europe from the 16th century."
+    },
+    "inventor": null,
+    "short_description": "A wax that is melted to seal letters and documents and take the impression of a seal.",
+    "description": "Before envelopes had gummed flaps, letters were folded and closed with a blob of wax stamped with a seal, proving they had not been opened. Medieval seals used beeswax mixtures, while shellac-based sealing wax spread in the 16th century and became the familiar red stick. It is still used for invitations, certificates and decorative mail.",
+    "why_unchanged": "Melted wax that hardens and takes an impression provides a seal and a signature at once.",
+    "materials": [
+      "shellac",
+      "beeswax",
+      "resin",
+      "pigment"
+    ],
+    "faqs": [
+      {
+        "question": "Why was sealing wax used?",
+        "answer": "It closed letters and showed by the seal's impression who had sent them and that they were unopened."
+      },
+      {
+        "question": "Why is sealing wax often red?",
+        "answer": "Traditional sealing wax was coloured with vermilion, and red became the conventional colour."
+      },
+      {
+        "question": "Can sealing wax go through the post?",
+        "answer": "Modern flexible sealing wax is designed to bend without cracking, so it can survive mail sorting."
+      }
+    ],
+    "image": {
+      "search_query": "red sealing wax stick and seal",
+      "wikimedia_commons_category": "Sealing wax",
+      "alt": "A stick of red sealing wax beside a wax-sealed letter"
+    },
+    "tags": [
+      "mail",
+      "seal",
+      "wax",
+      "early-modern"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "wax-seal-stamp",
+    "name": "Wax seal stamp",
+    "category": "Office, writing & reading",
+    "invention": {
+      "display": "Middle Ages",
+      "year": 1000,
+      "approximate": true,
+      "era": "Medieval"
+    },
+    "place_of_invention": {
+      "region": "Europe",
+      "modern_country": null,
+      "notes": "Seal matrices pressed into wax were used across medieval Europe to authenticate documents; the idea of seals is much older, going back to Mesopotamian cylinder and stamp seals."
+    },
+    "inventor": null,
+    "short_description": "A metal die with a handle used to press a design into melted wax.",
+    "description": "Medieval kings, bishops, towns and merchants all owned seal matrices, metal dies engraved with their emblem, which were pressed into wax to authenticate documents. Desk seals with a carved handle became common for personal letters. The same engraved die on a handle is used today for decorative wax seals.",
+    "why_unchanged": "An engraved die pressed into soft wax creates a unique mark instantly, so it has never needed redesign.",
+    "materials": [
+      "brass",
+      "bronze",
+      "silver",
+      "wood"
+    ],
+    "faqs": [
+      {
+        "question": "What is a seal matrix?",
+        "answer": "It is the engraved metal die that is pressed into wax to make the seal's impression."
+      },
+      {
+        "question": "Why were seals important in the Middle Ages?",
+        "answer": "Few people could write, so a seal served as an official signature and proof of authority."
+      },
+      {
+        "question": "How do you make a wax seal?",
+        "answer": "Melt sealing wax onto the paper, wait a few seconds, then press the stamp firmly and lift it once the wax has set."
+      }
+    ],
+    "image": {
+      "search_query": "brass wax seal stamp",
+      "wikimedia_commons_category": "Seal matrices",
+      "alt": "A brass wax seal stamp beside a red wax impression"
+    },
+    "tags": [
+      "seal",
+      "authentication",
+      "medieval",
+      "wax"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "signet-ring",
+    "name": "Signet ring",
+    "category": "Office, writing & reading",
+    "invention": {
+      "display": "c. 2000 BCE",
+      "year": -2000,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Ancient Egypt",
+      "modern_country": "Egypt",
+      "notes": "Seals were used in Mesopotamia from the 4th millennium BCE; signet rings set with engraved stones or scarabs are known from Egypt by around the Middle Kingdom. The date is an approximation."
+    },
+    "inventor": null,
+    "short_description": "A finger ring bearing an engraved design used to stamp a seal.",
+    "description": "Signet rings let their owners carry their seal at all times, pressing it into clay or wax to authenticate documents. They were used by Egyptian officials, Roman citizens and medieval nobles, often carrying a family crest. The engraved ring remains a popular heirloom jewel.",
+    "why_unchanged": "An engraved face on a ring keeps one's seal always at hand, so the design is complete.",
+    "materials": [
+      "gold",
+      "silver",
+      "carnelian",
+      "bronze"
+    ],
+    "faqs": [
+      {
+        "question": "What is a signet ring used for?",
+        "answer": "It was pressed into wax or clay to seal and authenticate documents."
+      },
+      {
+        "question": "What happens to the Pope's signet ring?",
+        "answer": "The Fisherman's Ring is traditionally defaced or destroyed when a pope dies or resigns so it cannot be misused."
+      },
+      {
+        "question": "Which finger is a signet ring worn on?",
+        "answer": "Traditionally the little finger of the non-dominant hand, though customs vary."
+      }
+    ],
+    "image": {
+      "search_query": "gold signet ring with crest",
+      "wikimedia_commons_category": "Signet rings",
+      "alt": "A gold signet ring engraved with a crest"
+    },
+    "tags": [
+      "seal",
+      "jewelry",
+      "ancient",
+      "authentication"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "chinese-seal",
+    "name": "Chinese seal",
+    "category": "Office, writing & reading",
+    "invention": {
+      "display": "Warring States period (5th to 3rd century BCE)",
+      "year": -350,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "China",
+      "modern_country": "China",
+      "notes": "Seals are widely documented in China from the Warring States period; some Shang dynasty bronze objects have been suggested as earlier seals, but this is debated."
+    },
+    "inventor": null,
+    "short_description": "A carved stamp, often of stone, pressed in red paste to sign documents and artworks.",
+    "description": "Chinese seals, often called chops, have been used to sign documents, letters and paintings for more than two thousand years. They are carved with the owner's name, usually in ancient seal script, and stamped in red cinnabar paste. The tradition spread to Japan (hanko) and Korea, where seals are still used for official business.",
+    "why_unchanged": "A carved stamp gives a unique, repeatable signature, which still serves its legal purpose.",
+    "materials": [
+      "soapstone",
+      "jade",
+      "wood",
+      "cinnabar paste"
+    ],
+    "faqs": [
+      {
+        "question": "What is a chop?",
+        "answer": "It is the common English name for an East Asian name seal used in place of a signature."
+      },
+      {
+        "question": "Why are Chinese seals stamped in red?",
+        "answer": "The traditional seal paste is made from cinnabar, giving its characteristic vermilion colour."
+      },
+      {
+        "question": "Are seals still used today?",
+        "answer": "Yes, especially in Japan, where personal hanko are still used for banking and contracts, though digital alternatives are spreading."
+      }
+    ],
+    "image": {
+      "search_query": "chinese stone seal red ink",
+      "wikimedia_commons_category": "Seals of China",
+      "alt": "A carved stone Chinese seal beside its red impression"
+    },
+    "tags": [
+      "seal",
+      "china",
+      "ancient",
+      "authentication"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "rubber-stamp",
+    "name": "Rubber stamp",
+    "category": "Office, writing & reading",
+    "invention": {
+      "display": "1860s",
+      "year": 1866,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "United States",
+      "modern_country": "United States",
+      "notes": "The rubber stamp developed in the US after vulcanized rubber became available; L. F. Witherell and James Orton Woodruff are both named as inventors around 1866, and credit is disputed."
+    },
+    "inventor": null,
+    "short_description": "A block with a raised rubber design that prints when inked and pressed onto paper.",
+    "description": "After vulcanized rubber made it possible to mould fine details, rubber stamps appeared in the United States in the 1860s. A raised rubber die mounted on a wooden or plastic handle is pressed onto an ink pad and then onto paper. Offices, post offices and crafters still use stamps of the same design.",
+    "why_unchanged": "A raised rubber image on a handle prints reliably and endlessly, so it has not changed.",
+    "materials": [
+      "rubber",
+      "wood",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the rubber stamp?",
+        "answer": "Credit is disputed between Americans L. F. Witherell and James Orton Woodruff, both around 1866."
+      },
+      {
+        "question": "What does 'rubber stamp' mean figuratively?",
+        "answer": "It describes approving something automatically without real consideration."
+      },
+      {
+        "question": "How are rubber stamps made?",
+        "answer": "Traditionally the design is moulded or laser-engraved into rubber, which is mounted on a block."
+      }
+    ],
+    "image": {
+      "search_query": "wooden rubber stamp and ink pad",
+      "wikimedia_commons_category": "Rubber stamps",
+      "alt": "A wooden rubber stamp next to an ink pad"
+    },
+    "tags": [
+      "office",
+      "stamp",
+      "rubber",
+      "industrial"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "ink-pad",
+    "name": "Ink pad",
+    "category": "Office, writing & reading",
+    "invention": {
+      "display": "Late 19th century",
+      "year": 1880,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "United States",
+      "modern_country": "United States",
+      "notes": "Ink pads were developed to accompany rubber stamps in the late 19th century; no inventor is reliably documented."
+    },
+    "inventor": null,
+    "short_description": "A shallow box containing a pad of absorbent material soaked in ink, used to ink stamps.",
+    "description": "As rubber stamps became widespread in the late 19th century, the ink pad provided an even, convenient supply of ink. A fabric or foam pad saturated with ink sits in a lidded tin or plastic case to keep it from drying out. The design is still used with hand stamps and fingerprinting.",
+    "why_unchanged": "A saturated pad in a closing case inks a stamp evenly every time, so nothing needed changing.",
+    "materials": [
+      "felt",
+      "foam",
+      "ink",
+      "metal or plastic case"
+    ],
+    "faqs": [
+      {
+        "question": "How do you re-ink an ink pad?",
+        "answer": "Drip refill ink evenly over the pad and let it soak in before use."
+      },
+      {
+        "question": "What is an ink pad used for besides stamps?",
+        "answer": "It is used for fingerprinting, crafts and printing small designs."
+      },
+      {
+        "question": "Why does an ink pad have a lid?",
+        "answer": "The lid stops the ink drying out between uses."
+      }
+    ],
+    "image": {
+      "search_query": "stamp ink pad open",
+      "wikimedia_commons_category": "Ink pads",
+      "alt": "An open black stamp ink pad"
+    },
+    "tags": [
+      "office",
+      "stamp",
+      "ink"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "spiral-notebook",
+    "name": "Spiral notebook",
+    "category": "Office, writing & reading",
+    "invention": {
+      "display": "1920s",
+      "year": 1925,
+      "approximate": true,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "United States and Europe",
+      "modern_country": null,
+      "notes": "Spiral and coil binding was developed in the 1920s; various patents were filed in the US and Germany, and no single inventor is clearly credited."
+    },
+    "inventor": null,
+    "short_description": "A notebook whose pages are held by a wire coil threaded through punched holes.",
+    "description": "Spiral binding appeared in the 1920s, letting notebooks open completely flat and fold back on themselves. Pages are punched along one edge and a wire or plastic coil is threaded through them. The spiral-bound notebook became a classroom staple and has not changed since.",
+    "why_unchanged": "A coil through punched holes lets pages lie flat or fold back, which nothing else does so cheaply.",
+    "materials": [
+      "paper",
+      "steel wire",
+      "cardboard",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "Why are spiral notebooks popular?",
+        "answer": "They lie flat and can fold back on themselves, making them easy to write in on any surface."
+      },
+      {
+        "question": "How do you remove pages cleanly?",
+        "answer": "Many notebooks have perforations near the spiral so pages tear out without ragged edges."
+      },
+      {
+        "question": "What is the difference between spiral and wire-O binding?",
+        "answer": "A spiral is a single continuous coil, while wire-O uses double loops that close into rings."
+      }
+    ],
+    "image": {
+      "search_query": "spiral bound notebook",
+      "wikimedia_commons_category": "Spiral-bound notebooks",
+      "alt": "An open spiral-bound notebook with lined pages"
+    },
+    "tags": [
+      "notebook",
+      "paper",
+      "school",
+      "modern"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "legal-pad",
+    "name": "Legal pad",
+    "category": "Office, writing & reading",
+    "invention": {
+      "display": "c. 1888",
+      "year": 1888,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Holyoke, Massachusetts",
+      "modern_country": "United States",
+      "notes": "Tradition credits Thomas W. Holley, a paper-mill worker who bound scrap paper into pads around 1888; the story is popular but poorly documented."
+    },
+    "inventor": null,
+    "short_description": "A pad of yellow ruled paper with a wide left margin, glued at the top.",
+    "description": "According to tradition, Thomas Holley began binding scrap sheets into pads at a Holyoke paper mill around 1888. The pad later gained its characteristic left margin line, said to be added at a judge's request, and is often yellow. Lawyers, students and writers still use legal pads in the same form.",
+    "why_unchanged": "A top-glued pad with ruled lines is portable and tears off cleanly, so it has stayed the same.",
+    "materials": [
+      "paper",
+      "cardboard",
+      "glue"
+    ],
+    "faqs": [
+      {
+        "question": "Why are legal pads yellow?",
+        "answer": "There is no definitive answer; yellow may have hidden the uneven colour of recycled paper and is thought to be easy on the eyes."
+      },
+      {
+        "question": "What makes a pad 'legal'?",
+        "answer": "Traditionally a 1.25-inch left margin line; the size is often letter or legal format."
+      },
+      {
+        "question": "Who invented the legal pad?",
+        "answer": "Tradition credits Thomas Holley of Holyoke, Massachusetts, around 1888, though the story is not well documented."
+      }
+    ],
+    "image": {
+      "search_query": "yellow legal pad and pen",
+      "wikimedia_commons_category": "Legal pads",
+      "alt": "A yellow legal pad with a pen"
+    },
+    "tags": [
+      "notebook",
+      "paper",
+      "office",
+      "industrial"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "composition-notebook",
+    "name": "Composition notebook",
+    "category": "Office, writing & reading",
+    "invention": {
+      "display": "19th century",
+      "year": 1850,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Europe and North America",
+      "modern_country": null,
+      "notes": "Sewn notebooks with marbled covers were sold for school compositions in the 19th century; marbled paper itself was introduced to Europe from the Middle East and Turkey. No inventor is documented."
+    },
+    "inventor": null,
+    "short_description": "A sewn notebook with stiff black-and-white marbled covers.",
+    "description": "The composition notebook takes its name from its use for school compositions in the 19th century. Its pages are sewn and glued along the spine, so they cannot easily be removed, making it a trusted record for lab notes and diaries. The black-and-white marbled cover is a design classic.",
+    "why_unchanged": "Sewn pages in a stiff cover make a durable permanent record, so the format has not changed.",
+    "materials": [
+      "paper",
+      "cardboard",
+      "thread"
+    ],
+    "faqs": [
+      {
+        "question": "Why is the cover marbled?",
+        "answer": "Marbled covers imitate traditional marbled paper used in bookbinding and help hide wear."
+      },
+      {
+        "question": "Why do scientists use composition notebooks?",
+        "answer": "Their sewn pages cannot be removed without trace, making them good permanent records."
+      },
+      {
+        "question": "What does the name mean?",
+        "answer": "They were originally used for writing compositions, or essays, in school."
+      }
+    ],
+    "image": {
+      "search_query": "black and white marbled composition notebook",
+      "wikimedia_commons_category": "Composition notebooks",
+      "alt": "A black-and-white marbled composition notebook"
+    },
+    "tags": [
+      "notebook",
+      "paper",
+      "school",
+      "industrial"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "codex",
+    "name": "Codex",
+    "category": "Office, writing & reading",
+    "invention": {
+      "display": "1st century CE",
+      "year": 50,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Roman Empire",
+      "modern_country": "Italy",
+      "notes": "The Roman poet Martial mentions parchment codices in the late 1st century CE; the format was adopted early by Christians and had largely replaced the scroll by the 4th-5th century."
+    },
+    "inventor": null,
+    "short_description": "A book made of stacked sheets folded and bound along one edge, the form of all modern books.",
+    "description": "The codex developed in the Roman world from bound wax tablets and parchment notebooks and gradually replaced the scroll between the 1st and 5th centuries. Its pages can be turned to any place, written on both sides and protected by covers. Every printed book today keeps the same basic structure.",
+    "why_unchanged": "Pages bound at one edge allow random access and compact storage, which is why the form has lasted two thousand years.",
+    "materials": [
+      "parchment",
+      "paper",
+      "leather",
+      "cardboard"
+    ],
+    "faqs": [
+      {
+        "question": "What is the difference between a codex and a scroll?",
+        "answer": "A codex has separate pages bound at one edge, while a scroll is a continuous rolled strip."
+      },
+      {
+        "question": "Why did the codex replace the scroll?",
+        "answer": "It was more compact, used both sides of the page and allowed readers to jump to any passage."
+      },
+      {
+        "question": "What is the oldest complete codex of the Bible?",
+        "answer": "Codex Sinaiticus, from the 4th century CE, contains the oldest complete New Testament."
+      }
+    ],
+    "image": {
+      "search_query": "ancient codex manuscript",
+      "wikimedia_commons_category": "Codices",
+      "alt": "An open medieval codex with handwritten pages"
+    },
+    "tags": [
+      "book",
+      "reading",
+      "ancient",
+      "binding"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "paperback-book",
+    "name": "Paperback book",
+    "category": "Office, writing & reading",
+    "invention": {
+      "display": "1930s (mass-market form)",
+      "year": 1935,
+      "approximate": true,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "London",
+      "modern_country": "United Kingdom",
+      "notes": "Paper-covered books existed earlier, such as the Tauchnitz editions from 1841 and Albatross Books from 1932; Allen Lane's Penguin Books, launched in 1935, made the mass-market paperback widespread."
+    },
+    "inventor": null,
+    "short_description": "A book bound in flexible card covers, usually glued at the spine.",
+    "description": "Cheap paper-covered books were sold in the 19th century, but the launch of Penguin Books in 1935 by Allen Lane made good literature available in sixpenny paperbacks sold even at railway stations. The glued spine and card cover made books affordable and portable. Paperbacks remain the most common book format.",
+    "why_unchanged": "A glued spine and card cover make books cheap and light, a balance that has not needed changing.",
+    "materials": [
+      "paper",
+      "card",
+      "glue"
+    ],
+    "faqs": [
+      {
+        "question": "When did paperbacks become popular?",
+        "answer": "Mass-market paperbacks took off after Penguin Books launched in Britain in 1935."
+      },
+      {
+        "question": "What is perfect binding?",
+        "answer": "It is the method of gluing pages directly to the spine, used for most paperbacks."
+      },
+      {
+        "question": "Why were early Penguin paperbacks colour-coded?",
+        "answer": "Orange covers meant fiction, green crime and blue biography, making genres easy to spot."
+      }
+    ],
+    "image": {
+      "search_query": "stack of paperback books",
+      "wikimedia_commons_category": "Paperback books",
+      "alt": "A stack of well-read paperback books"
+    },
+    "tags": [
+      "book",
+      "reading",
+      "paper",
+      "modern"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "scroll",
+    "name": "Scroll",
+    "category": "Office, writing & reading",
+    "invention": {
+      "display": "c. 2900 BCE",
+      "year": -2900,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Ancient Egypt",
+      "modern_country": "Egypt",
+      "notes": "The oldest known papyrus roll, blank, was found in the tomb of the official Hemaka at Saqqara, dating to about 2900 BCE."
+    },
+    "inventor": null,
+    "short_description": "A long roll of papyrus, parchment or paper wound around itself or on rods.",
+    "description": "Scrolls of papyrus were the main form of written record in ancient Egypt, Greece and Rome, read by unrolling from one side to the other. The Torah is still written and read as a parchment scroll, and East Asian hanging and hand scrolls remain an art form. The rolled format is unchanged since antiquity.",
+    "why_unchanged": "Rolling a long sheet protects and stores it compactly, so the form has endured for ritual and art.",
+    "materials": [
+      "papyrus",
+      "parchment",
+      "paper",
+      "silk",
+      "wood"
+    ],
+    "faqs": [
+      {
+        "question": "How old is the oldest scroll?",
+        "answer": "A blank papyrus roll from the tomb of Hemaka in Egypt dates to about 2900 BCE."
+      },
+      {
+        "question": "Are scrolls still used?",
+        "answer": "Yes, Torah scrolls are used in synagogues, and Chinese and Japanese scroll paintings are still made."
+      },
+      {
+        "question": "Where does the word volume come from?",
+        "answer": "It comes from the Latin volumen, meaning a rolled scroll."
+      }
+    ],
+    "image": {
+      "search_query": "ancient parchment scroll",
+      "wikimedia_commons_category": "Scrolls",
+      "alt": "A partially unrolled parchment scroll"
+    },
+    "tags": [
+      "book",
+      "reading",
+      "ancient",
+      "papyrus"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "bookmark",
+    "name": "Bookmark",
+    "category": "Office, writing & reading",
+    "invention": {
+      "display": "6th century",
+      "year": 550,
+      "approximate": true,
+      "era": "Medieval"
+    },
+    "place_of_invention": {
+      "region": "Egypt",
+      "modern_country": "Egypt",
+      "notes": "The oldest known bookmark is commonly said to be a decorated leather marker attached to a 6th-century Coptic codex; ribbon bookmarks became common in later centuries. The attribution is not firmly documented."
+    },
+    "inventor": null,
+    "short_description": "A strip of paper, card, leather or ribbon placed in a book to mark a page.",
+    "description": "Readers have long marked their place in a codex; a leather bookmark associated with a 6th-century Coptic manuscript is often cited as the oldest known. Ribbon markers sewn into bindings became common in later centuries, and loose card bookmarks became popular in the 19th century. The simple flat strip remains unchanged.",
+    "why_unchanged": "A thin strip between pages is all that is needed to keep one's place.",
+    "materials": [
+      "paper",
+      "card",
+      "leather",
+      "ribbon"
+    ],
+    "faqs": [
+      {
+        "question": "What is the oldest known bookmark?",
+        "answer": "A leather bookmark linked to a 6th-century Coptic codex is often cited as the oldest."
+      },
+      {
+        "question": "Why do some books have a ribbon bookmark?",
+        "answer": "A sewn-in ribbon, called a register, is permanently attached so it cannot be lost."
+      },
+      {
+        "question": "Is it bad to dog-ear pages?",
+        "answer": "Folding page corners can weaken the paper over time, which is why bookmarks are preferred for valuable books."
+      }
+    ],
+    "image": {
+      "search_query": "bookmark in open book",
+      "wikimedia_commons_category": "Bookmarks",
+      "alt": "A paper bookmark resting in an open book"
+    },
+    "tags": [
+      "book",
+      "reading",
+      "medieval"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "bookplate",
+    "name": "Bookplate",
+    "category": "Office, writing & reading",
+    "invention": {
+      "display": "c. 1480",
+      "year": 1480,
+      "approximate": true,
+      "era": "Medieval"
+    },
+    "place_of_invention": {
+      "region": "Germany",
+      "modern_country": "Germany",
+      "notes": "One of the earliest known bookplates is a hand-coloured woodcut made for Hildebrand Brandenburg of Biberach around 1480."
+    },
+    "inventor": null,
+    "short_description": "A small decorative label pasted inside a book's cover to show its owner.",
+    "description": "Bookplates, also called ex libris (Latin for 'from the books of'), appeared in Germany in the 15th century soon after printing began. One of the earliest known was made for Hildebrand Brandenburg around 1480. They remain popular with book lovers and collectors, often printed with personal designs.",
+    "why_unchanged": "A pasted label of ownership does its job with no need for change.",
+    "materials": [
+      "paper",
+      "ink",
+      "adhesive"
+    ],
+    "faqs": [
+      {
+        "question": "What does ex libris mean?",
+        "answer": "It is Latin for 'from the books of', followed by the owner's name."
+      },
+      {
+        "question": "Where is a bookplate placed?",
+        "answer": "It is usually pasted on the inside front cover or the first endpaper."
+      },
+      {
+        "question": "Do people collect bookplates?",
+        "answer": "Yes, bookplates are collected as miniature artworks, with societies devoted to them."
+      }
+    ],
+    "image": {
+      "search_query": "ex libris bookplate inside cover",
+      "wikimedia_commons_category": "Ex libris",
+      "alt": "An engraved ex libris bookplate inside a book cover"
+    },
+    "tags": [
+      "book",
+      "reading",
+      "ownership",
+      "medieval"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "dust-jacket",
+    "name": "Dust jacket",
+    "category": "Office, writing & reading",
+    "invention": {
+      "display": "1829",
+      "year": 1829,
+      "approximate": false,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "London",
+      "modern_country": "United Kingdom",
+      "notes": "The earliest known surviving dust jacket, found in the Bodleian Library in 2009, is from the gift book Friendship's Offering, dated 1829."
+    },
+    "inventor": null,
+    "short_description": "A removable paper cover wrapped around a hardback book.",
+    "description": "Dust jackets began as plain paper wrappers to protect fine bindings until purchase; the earliest known example dates from 1829. In the 20th century they became printed marketing tools with cover art and blurbs. The folded paper wrapper with flaps remains standard on hardback books.",
+    "why_unchanged": "A folded paper wrapper protects the binding and advertises the book, so its form persists.",
+    "materials": [
+      "paper",
+      "coated paper"
+    ],
+    "faqs": [
+      {
+        "question": "What is the oldest dust jacket?",
+        "answer": "The oldest known surviving one, from 1829, was found in Oxford's Bodleian Library in 2009."
+      },
+      {
+        "question": "Why do collectors care about dust jackets?",
+        "answer": "A first edition with its original jacket can be worth many times more than one without."
+      },
+      {
+        "question": "What are the flaps for?",
+        "answer": "The flaps hold the jacket in place and often carry a summary and author biography."
+      }
+    ],
+    "image": {
+      "search_query": "hardcover book with dust jacket",
+      "wikimedia_commons_category": "Dust jackets",
+      "alt": "A hardcover book wrapped in a printed dust jacket"
+    },
+    "tags": [
+      "book",
+      "reading",
+      "paper",
+      "industrial"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "bookend",
+    "name": "Bookend",
+    "category": "Office, writing & reading",
+    "invention": {
+      "display": "Late 19th century",
+      "year": 1880,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Europe and North America",
+      "modern_country": null,
+      "notes": "Bookends became common as personal libraries grew in the 19th century; no inventor or exact date is documented."
+    },
+    "inventor": null,
+    "short_description": "A heavy or L-shaped support placed at the end of a row of books to keep them upright.",
+    "description": "As books became cheaper and personal libraries grew, bookends appeared to keep partial rows of books standing straight on shelves and desks. Simple metal L-shapes slide under the end book, while decorative pairs became popular gifts. Both styles remain unchanged.",
+    "why_unchanged": "A weight or bracket at the end of a row is the simplest way to keep books upright.",
+    "materials": [
+      "metal",
+      "wood",
+      "stone",
+      "brass"
+    ],
+    "faqs": [
+      {
+        "question": "How does an L-shaped bookend work?",
+        "answer": "The base slides under the books, so their weight holds the upright plate in place."
+      },
+      {
+        "question": "Why are bookends sold in pairs?",
+        "answer": "A pair supports both ends of a freestanding row on a desk or shelf."
+      },
+      {
+        "question": "What did decorative bookends commonly depict?",
+        "answer": "Popular designs included animals, ships and classical figures in cast metal or carved stone."
+      }
+    ],
+    "image": {
+      "search_query": "pair of bookends with books",
+      "wikimedia_commons_category": "Bookends",
+      "alt": "A pair of brass bookends holding a row of books"
+    },
+    "tags": [
+      "book",
+      "reading",
+      "home"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "paperweight",
+    "name": "Paperweight",
+    "category": "Office, writing & reading",
+    "invention": {
+      "display": "1845 (glass art form)",
+      "year": 1845,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Venice",
+      "modern_country": "Italy",
+      "notes": "Pietro Bigaglia of Venice exhibited glass millefiori paperweights in 1845; French makers such as Baccarat, Clichy and Saint-Louis produced them soon after. Plain weights to hold down papers are older."
+    },
+    "inventor": null,
+    "short_description": "A heavy object placed on papers to keep them from blowing away.",
+    "description": "Any heavy object can hold papers down, but decorative glass paperweights became a fashion in the 1840s, starting in Venice and then France. Their golden age ran from about 1845 to 1860, and they are still made by glass artists today. The smooth heavy dome is unchanged.",
+    "why_unchanged": "A heavy, stable shape with a flat base holds papers down perfectly, so only its decoration varies.",
+    "materials": [
+      "glass",
+      "metal",
+      "stone"
+    ],
+    "faqs": [
+      {
+        "question": "When were glass paperweights first made?",
+        "answer": "Decorative glass paperweights appeared in Venice in the mid-1840s and quickly spread to France."
+      },
+      {
+        "question": "What is millefiori?",
+        "answer": "Italian for 'a thousand flowers', it is a technique of slicing patterned glass rods to make flower-like designs."
+      },
+      {
+        "question": "Are antique paperweights valuable?",
+        "answer": "Fine French paperweights from 1845-1860 can sell for thousands of dollars at auction."
+      }
+    ],
+    "image": {
+      "search_query": "millefiori glass paperweight",
+      "wikimedia_commons_category": "Paperweights",
+      "alt": "A glass millefiori paperweight on a desk"
+    },
+    "tags": [
+      "office",
+      "glass",
+      "desk",
+      "industrial"
+    ],
+    "confidence": "medium"
+  }
+]

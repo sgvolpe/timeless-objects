@@ -1,0 +1,1281 @@
+[
+  {
+    "slug": "cameo",
+    "name": "Cameo",
+    "category": "Clothing, accessories & sewing",
+    "invention": {
+      "display": "c. 3rd century BCE",
+      "year": -250,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Hellenistic world (Alexandria)",
+      "modern_country": "Egypt",
+      "notes": "Relief-carved cameos are generally traced to Hellenistic workshops, possibly in Alexandria; the exact center is debated."
+    },
+    "inventor": null,
+    "short_description": "A carving in raised relief, usually a profile, cut into layered stone or shell.",
+    "description": "Cameo carvers exploit layers of different colors in agate, sardonyx or shell so that a light figure stands out against a darker background. The art flourished in Hellenistic and Roman times and was revived in the Renaissance and the 19th century. Cameo brooches and pendants are still made in the same way, notably at Torre del Greco in Italy.",
+    "why_unchanged": "Relief carving on layered material is a technique, not a mechanism, so it has nothing to update.",
+    "materials": [
+      "agate",
+      "sardonyx",
+      "shell",
+      "glass"
+    ],
+    "faqs": [
+      {
+        "question": "What is a cameo made of?",
+        "answer": "Traditionally layered stones like agate or sardonyx, or shells such as conch, carved to show contrasting colors."
+      },
+      {
+        "question": "What is the difference between a cameo and an intaglio?",
+        "answer": "A cameo is carved in raised relief, while an intaglio is carved into the surface."
+      },
+      {
+        "question": "Where are shell cameos made today?",
+        "answer": "Torre del Greco near Naples is famous for carving shell and coral cameos."
+      }
+    ],
+    "image": {
+      "search_query": "shell cameo brooch profile",
+      "wikimedia_commons_category": "Cameos",
+      "alt": "A shell cameo brooch with a carved profile"
+    },
+    "tags": [
+      "jewelry",
+      "ancient",
+      "carving",
+      "brooch"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "hatpin",
+    "name": "Hatpin",
+    "category": "Clothing, accessories & sewing",
+    "invention": {
+      "display": "19th century",
+      "year": 1850,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Europe",
+      "modern_country": "Unknown",
+      "notes": "Long pins to hold hats appear in the 19th century and peaked with large hats around 1900; earlier pins were also used for headwear."
+    },
+    "inventor": null,
+    "short_description": "A long decorative pin that secures a hat to the wearer's hair.",
+    "description": "Hatpins pass through the hat and hair to keep wide-brimmed hats in place. Around 1900 they could be very long, and several cities passed laws limiting their length because they could injure people. They are still used with formal hats and fascinators.",
+    "why_unchanged": "A long straight pin anchored in hair is the simplest secure attachment for a hat.",
+    "materials": [
+      "steel",
+      "glass",
+      "pearl",
+      "silver"
+    ],
+    "faqs": [
+      {
+        "question": "Why were hatpin laws passed?",
+        "answer": "Around 1908-1910, cities including Chicago restricted hatpin length due to injuries and their use as defensive weapons."
+      },
+      {
+        "question": "How do you use a hatpin?",
+        "answer": "Push it through the hat, under a section of hair, and out the other side of the hat."
+      },
+      {
+        "question": "Are hatpins collectible?",
+        "answer": "Yes, decorated Victorian and Edwardian hatpins are sought by collectors."
+      }
+    ],
+    "image": {
+      "search_query": "antique decorative hatpins",
+      "wikimedia_commons_category": "Hatpins",
+      "alt": "Decorative antique hatpins with jeweled heads"
+    },
+    "tags": [
+      "accessory",
+      "hat",
+      "19th-century",
+      "pin"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "bowler-hat",
+    "name": "Bowler hat",
+    "category": "Clothing, accessories & sewing",
+    "invention": {
+      "display": "1849",
+      "year": 1849,
+      "approximate": false,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "London",
+      "modern_country": "United Kingdom",
+      "notes": "Designed by hatmakers Thomas and William Bowler for the London hatter Lock & Co., commissioned for Edward Coke."
+    },
+    "inventor": "Thomas and William Bowler",
+    "short_description": "A hard felt hat with a rounded crown and short brim.",
+    "description": "The bowler was made as a tough riding hat for gamekeepers whose top hats kept being knocked off by branches. Its rounded, hardened crown made it practical and soon popular across classes. It is still made in the same shape by traditional hatters.",
+    "why_unchanged": "A hard rounded felt crown already protects and sits securely, so nothing needed changing.",
+    "materials": [
+      "felt",
+      "shellac",
+      "silk"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the bowler hat?",
+        "answer": "Thomas and William Bowler made it in 1849 for Lock & Co. of London."
+      },
+      {
+        "question": "Why is it also called a derby?",
+        "answer": "In the United States it became known as a derby, probably after the Epsom Derby horse race."
+      },
+      {
+        "question": "Which famous people wore bowlers?",
+        "answer": "Charlie Chaplin and Laurel and Hardy made the bowler part of their screen personas."
+      }
+    ],
+    "image": {
+      "search_query": "black bowler hat",
+      "wikimedia_commons_category": "Bowler hats",
+      "alt": "A black felt bowler hat"
+    },
+    "tags": [
+      "hat",
+      "19th-century",
+      "felt",
+      "british"
+    ],
+    "confidence": "high"
+  },
+  {
+    "slug": "top-hat",
+    "name": "Top hat",
+    "category": "Clothing, accessories & sewing",
+    "invention": {
+      "display": "c. 1790s",
+      "year": 1793,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "England",
+      "modern_country": "United Kingdom",
+      "notes": "The top hat emerged in late 18th-century Britain and France; the story of John Hetherington causing a riot in 1797 is a popular but unverified legend."
+    },
+    "inventor": null,
+    "short_description": "A tall, flat-crowned hat with a narrow brim.",
+    "description": "The top hat became the standard formal hat for men in the 19th century, made of beaver felt and later silk plush. It remains part of formal morning dress and ceremonial wear. Its tall cylindrical shape is unchanged.",
+    "why_unchanged": "As a formal hat, its value lies in its traditional shape, so its form stays fixed.",
+    "materials": [
+      "beaver felt",
+      "silk plush"
+    ],
+    "faqs": [
+      {
+        "question": "When was the top hat invented?",
+        "answer": "It appeared in the late 18th century in England and France."
+      },
+      {
+        "question": "Did a top hat really cause a riot?",
+        "answer": "A popular story says hatter John Hetherington caused a crowd panic in 1797 wearing one, but the account is unverified."
+      },
+      {
+        "question": "When is a top hat worn today?",
+        "answer": "Mainly with morning dress at formal weddings, races like Royal Ascot, and ceremonies."
+      }
+    ],
+    "image": {
+      "search_query": "black silk top hat",
+      "wikimedia_commons_category": "Top hats",
+      "alt": "A black silk top hat"
+    },
+    "tags": [
+      "hat",
+      "formalwear",
+      "early-modern",
+      "felt"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "panama-hat",
+    "name": "Panama hat",
+    "category": "Clothing, accessories & sewing",
+    "invention": {
+      "display": "17th century",
+      "year": 1650,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Ecuador",
+      "modern_country": "Ecuador",
+      "notes": "Toquilla straw hats were woven in Ecuador from at least the 17th century; the name 'Panama' came from their sale through Panama, popularized around the Panama Canal construction."
+    },
+    "inventor": null,
+    "short_description": "A brimmed hat hand-woven from toquilla palm straw.",
+    "description": "Despite the name, Panama hats come from Ecuador, where artisans weave them from finely split toquilla palm leaves. They gained international fame in the 19th and early 20th centuries, partly through photos of Theodore Roosevelt at the Panama Canal. Hand-weaving methods remain the same.",
+    "why_unchanged": "Hand-woven straw gives a light, breathable hat that machines have not improved on.",
+    "materials": [
+      "toquilla straw"
+    ],
+    "faqs": [
+      {
+        "question": "Why is it called a Panama hat if it is from Ecuador?",
+        "answer": "The hats were shipped and sold through Panama, and gold rush travelers and canal workers bought them there."
+      },
+      {
+        "question": "What makes a fine Panama hat?",
+        "answer": "Tightness of weave; the finest Montecristi hats can take months to weave."
+      },
+      {
+        "question": "Is Panama hat weaving recognized by UNESCO?",
+        "answer": "Yes, traditional toquilla straw hat weaving in Ecuador was inscribed on UNESCO's Intangible Cultural Heritage list in 2012."
+      }
+    ],
+    "image": {
+      "search_query": "panama hat toquilla straw",
+      "wikimedia_commons_category": "Panama hats",
+      "alt": "A natural straw Panama hat"
+    },
+    "tags": [
+      "hat",
+      "straw",
+      "ecuador",
+      "early-modern"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "fedora",
+    "name": "Fedora",
+    "category": "Clothing, accessories & sewing",
+    "invention": {
+      "display": "1880s",
+      "year": 1882,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "France and United States",
+      "modern_country": "France",
+      "notes": "The name comes from Victorien Sardou's 1882 play 'Fedora', starring Sarah Bernhardt; similar soft felt hats existed before the name."
+    },
+    "inventor": null,
+    "short_description": "A soft felt hat with an indented crown pinched at the front and a medium brim.",
+    "description": "The fedora was first associated with women's fashion after Sarah Bernhardt's role in Fedora. It became the standard men's hat in the early 20th century. The indented crown and pinched front are unchanged.",
+    "why_unchanged": "Its creased crown and soft brim are easy to handle and shape, so the form has stayed the same.",
+    "materials": [
+      "felt",
+      "wool",
+      "straw"
+    ],
+    "faqs": [
+      {
+        "question": "Where does the name fedora come from?",
+        "answer": "From the 1882 play Fedora by Victorien Sardou, in which Sarah Bernhardt played the title role."
+      },
+      {
+        "question": "How is a fedora different from a trilby?",
+        "answer": "A fedora usually has a wider brim, while a trilby has a narrow brim angled down at the front."
+      },
+      {
+        "question": "Who made the fedora famous?",
+        "answer": "Film stars like Humphrey Bogart and characters like Indiana Jones are closely associated with it."
+      }
+    ],
+    "image": {
+      "search_query": "felt fedora hat",
+      "wikimedia_commons_category": "Fedoras",
+      "alt": "A grey felt fedora"
+    },
+    "tags": [
+      "hat",
+      "19th-century",
+      "felt",
+      "fashion"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "cowboy-hat",
+    "name": "Cowboy hat",
+    "category": "Clothing, accessories & sewing",
+    "invention": {
+      "display": "1865",
+      "year": 1865,
+      "approximate": false,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Philadelphia, Pennsylvania",
+      "modern_country": "United States",
+      "notes": "John B. Stetson introduced the 'Boss of the Plains' hat in 1865; wide-brimmed hats were worn earlier by Mexican vaqueros."
+    },
+    "inventor": "John B. Stetson",
+    "short_description": "A high-crowned, wide-brimmed felt or straw hat associated with ranch work.",
+    "description": "John B. Stetson's 'Boss of the Plains' was a durable, waterproof felt hat with a wide brim for sun and rain. It became the iconic hat of the American West. Crown creases vary, but the high crown and wide brim remain.",
+    "why_unchanged": "The wide brim shades and sheds rain, and the tall crown insulates, so the basic shape still works.",
+    "materials": [
+      "felt",
+      "straw",
+      "leather"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the cowboy hat?",
+        "answer": "John B. Stetson created the 'Boss of the Plains' in 1865, influenced by Mexican vaquero hats."
+      },
+      {
+        "question": "Why is it called a ten-gallon hat?",
+        "answer": "The name probably comes from the Spanish 'galon', a braid, rather than from capacity."
+      },
+      {
+        "question": "Why do cowboy hats have wide brims?",
+        "answer": "They protect the face and neck from sun and rain during long days outdoors."
+      }
+    ],
+    "image": {
+      "search_query": "felt cowboy hat",
+      "wikimedia_commons_category": "Cowboy hats",
+      "alt": "A tan felt cowboy hat"
+    },
+    "tags": [
+      "hat",
+      "19th-century",
+      "western",
+      "felt"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "flat-cap",
+    "name": "Flat cap",
+    "category": "Clothing, accessories & sewing",
+    "invention": {
+      "display": "16th century (by 1571)",
+      "year": 1571,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "England",
+      "modern_country": "United Kingdom",
+      "notes": "Woollen caps were widespread in late medieval England; a 1571 Act of Parliament required many men to wear wool caps on Sundays and holidays."
+    },
+    "inventor": null,
+    "short_description": "A rounded cap with a small stiff brim at the front.",
+    "description": "Flat caps have been worn in Britain and Ireland for centuries. A 1571 law intended to support the wool trade required non-noble men to wear woollen caps on Sundays and holidays. The flat cap became a symbol of working-class and rural dress, and its shape remains unchanged.",
+    "why_unchanged": "A soft rounded crown with a small peak shades the eyes and keeps warm, so the design endures.",
+    "materials": [
+      "wool",
+      "tweed",
+      "cotton"
+    ],
+    "faqs": [
+      {
+        "question": "Why were flat caps once mandatory?",
+        "answer": "A 1571 Act of Parliament required many men to wear woollen caps on Sundays and holidays to support the wool industry."
+      },
+      {
+        "question": "What is the difference between a flat cap and a newsboy cap?",
+        "answer": "The newsboy cap is fuller with panels and often a button on top, while the flat cap is trimmer."
+      },
+      {
+        "question": "What fabric is traditional?",
+        "answer": "Wool tweed is the classic choice for warmth and durability."
+      }
+    ],
+    "image": {
+      "search_query": "tweed flat cap",
+      "wikimedia_commons_category": "Flat caps",
+      "alt": "A brown tweed flat cap"
+    },
+    "tags": [
+      "hat",
+      "early-modern",
+      "wool",
+      "british"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "beret",
+    "name": "Beret",
+    "category": "Clothing, accessories & sewing",
+    "invention": {
+      "display": "17th century or earlier",
+      "year": 1650,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Bearn and Basque Country",
+      "modern_country": "France",
+      "notes": "The modern beret is associated with shepherds of Bearn and the Basque Country, with production documented from the 17th century; similar caps are much older and claims vary."
+    },
+    "inventor": null,
+    "short_description": "A soft, round, flat-crowned cap of knitted and felted wool.",
+    "description": "Shepherds in the Pyrenees wore felted wool berets for warmth and rain protection. The beret later became a symbol of French identity, artists and military units. It is still knitted, felted and shaped in the traditional way.",
+    "why_unchanged": "Felted wool sheds rain and holds its shape, so a simple round cap remains perfect.",
+    "materials": [
+      "wool",
+      "felt"
+    ],
+    "faqs": [
+      {
+        "question": "Where does the beret come from?",
+        "answer": "From the Bearn and Basque regions of the Pyrenees, where shepherds wore felted wool caps."
+      },
+      {
+        "question": "Why do soldiers wear berets?",
+        "answer": "Berets are easy to store and wear with headsets, and many armies use colored berets for units."
+      },
+      {
+        "question": "How is a beret made?",
+        "answer": "It is knitted in one piece, then felted by shrinking and shaped on a form."
+      }
+    ],
+    "image": {
+      "search_query": "wool beret",
+      "wikimedia_commons_category": "Berets",
+      "alt": "A navy wool beret"
+    },
+    "tags": [
+      "hat",
+      "early-modern",
+      "wool",
+      "french"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "fez",
+    "name": "Fez",
+    "category": "Clothing, accessories & sewing",
+    "invention": {
+      "display": "Origins uncertain; popularized 1829",
+      "year": 1829,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Morocco and the Ottoman Empire",
+      "modern_country": "Morocco",
+      "notes": "Named after the city of Fez in Morocco; Ottoman Sultan Mahmud II made it official headwear in 1829, but earlier origins are uncertain."
+    },
+    "inventor": null,
+    "short_description": "A brimless, flat-topped felt cap, usually red with a tassel.",
+    "description": "The fez is a short cylindrical cap of red felt, often with a black tassel. Sultan Mahmud II introduced it as official headwear in the Ottoman Empire in 1829. It was banned in Turkey in 1925, but is still worn in parts of North Africa and by fraternal organizations.",
+    "why_unchanged": "As a traditional cap, its recognizable shape is its whole point.",
+    "materials": [
+      "wool felt",
+      "silk tassel"
+    ],
+    "faqs": [
+      {
+        "question": "Why is it called a fez?",
+        "answer": "It is named after the Moroccan city of Fez, where red dye for the caps was produced."
+      },
+      {
+        "question": "Why was the fez banned in Turkey?",
+        "answer": "Mustafa Kemal Atatürk banned it in 1925 as part of modernization reforms."
+      },
+      {
+        "question": "Who wears the fez today?",
+        "answer": "It is worn in parts of North Africa and by groups such as the Shriners in the United States."
+      }
+    ],
+    "image": {
+      "search_query": "red fez hat with tassel",
+      "wikimedia_commons_category": "Fezzes",
+      "alt": "A red fez with a black tassel"
+    },
+    "tags": [
+      "hat",
+      "19th-century",
+      "ottoman",
+      "felt"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "conical-hat",
+    "name": "Conical hat",
+    "category": "Clothing, accessories & sewing",
+    "invention": {
+      "display": "Antiquity (by c. 500 BCE)",
+      "year": -500,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Southeast and East Asia",
+      "modern_country": "Vietnam",
+      "notes": "Figures on Dong Son bronze drums from northern Vietnam appear to wear conical hats; the exact origin and date are uncertain."
+    },
+    "inventor": null,
+    "short_description": "A wide cone-shaped hat woven from palm leaves or bamboo.",
+    "description": "Conical hats shade the head and shoulders from sun and shed heavy rain. They are worn by farmers across East and Southeast Asia, including the Vietnamese non la. The shape has stayed the same for centuries.",
+    "why_unchanged": "A cone sheds rain and shades widely while staying light, a shape that cannot be improved.",
+    "materials": [
+      "palm leaves",
+      "bamboo",
+      "straw"
+    ],
+    "faqs": [
+      {
+        "question": "Why is the hat cone-shaped?",
+        "answer": "The steep slope sheds rain quickly and the wide rim shades the face and shoulders."
+      },
+      {
+        "question": "What is a non la?",
+        "answer": "The Vietnamese conical hat, made of palm leaves stitched over bamboo rings."
+      },
+      {
+        "question": "How is it held on?",
+        "answer": "A chin strap tied to an inner headband keeps the hat steady."
+      }
+    ],
+    "image": {
+      "search_query": "vietnamese conical hat non la",
+      "wikimedia_commons_category": "Conical hats",
+      "alt": "A woven palm-leaf conical hat"
+    },
+    "tags": [
+      "hat",
+      "ancient",
+      "asia",
+      "straw"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "trilby",
+    "name": "Trilby",
+    "category": "Clothing, accessories & sewing",
+    "invention": {
+      "display": "1890s",
+      "year": 1895,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "London",
+      "modern_country": "United Kingdom",
+      "notes": "Named after the 1895 London stage adaptation of George du Maurier's novel 'Trilby', in which such a hat was worn."
+    },
+    "inventor": null,
+    "short_description": "A narrow-brimmed felt hat with an indented crown.",
+    "description": "The trilby gets its name from the stage play of the novel Trilby. It is similar to a fedora but has a shorter brim that angles down at the front and up at the back. It remains a popular style in felt and straw.",
+    "why_unchanged": "Its compact shape is defined by tradition, so the design remains fixed.",
+    "materials": [
+      "felt",
+      "tweed",
+      "straw"
+    ],
+    "faqs": [
+      {
+        "question": "Where does the name trilby come from?",
+        "answer": "From the 1895 London stage version of George du Maurier's novel Trilby."
+      },
+      {
+        "question": "How is a trilby different from a fedora?",
+        "answer": "The trilby has a narrower brim that tilts down at the front, while the fedora's brim is wider."
+      },
+      {
+        "question": "Is the trilby still popular?",
+        "answer": "Yes, it is a common hat style for men and women in felt or straw."
+      }
+    ],
+    "image": {
+      "search_query": "trilby hat narrow brim",
+      "wikimedia_commons_category": "Trilby hats",
+      "alt": "A grey trilby hat"
+    },
+    "tags": [
+      "hat",
+      "19th-century",
+      "felt",
+      "fashion"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "straw-boater",
+    "name": "Straw boater",
+    "category": "Clothing, accessories & sewing",
+    "invention": {
+      "display": "19th century",
+      "year": 1860,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Britain and Western Europe",
+      "modern_country": "United Kingdom",
+      "notes": "Stiff straw boaters became popular in the 19th century for boating and summer wear; no inventor is recorded."
+    },
+    "inventor": null,
+    "short_description": "A stiff straw hat with a flat crown and flat brim, often with a ribbon band.",
+    "description": "The boater was worn for boating and summer outings in the late 19th century and became popular for men and women. It is still part of some school uniforms and is worn at summer events and barbershop quartets. Its flat crown and brim are unchanged.",
+    "why_unchanged": "The stiff flat form is the hat's identity, so it has stayed the same.",
+    "materials": [
+      "straw",
+      "ribbon"
+    ],
+    "faqs": [
+      {
+        "question": "Why is it called a boater?",
+        "answer": "It was popular for boating and rowing outings in the 19th century."
+      },
+      {
+        "question": "Where are boaters still worn?",
+        "answer": "At some British schools, regattas, summer events and barbershop quartet performances."
+      },
+      {
+        "question": "Why is the boater so stiff?",
+        "answer": "The straw is treated with shellac or sizing to hold its flat shape."
+      }
+    ],
+    "image": {
+      "search_query": "straw boater hat ribbon",
+      "wikimedia_commons_category": "Boater hats",
+      "alt": "A stiff straw boater with a ribbon band"
+    },
+    "tags": [
+      "hat",
+      "19th-century",
+      "straw",
+      "summer"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "bucket-hat",
+    "name": "Bucket hat",
+    "category": "Clothing, accessories & sewing",
+    "invention": {
+      "display": "c. 1900",
+      "year": 1900,
+      "approximate": true,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "Ireland",
+      "modern_country": "Ireland",
+      "notes": "Wool tweed or felt bucket hats were traditionally worn by Irish farmers and fishermen early in the 20th century; origin details are informal."
+    },
+    "inventor": null,
+    "short_description": "A soft hat with a wide, downward-sloping brim.",
+    "description": "The bucket hat was originally made of wool felt or tweed, which contained lanolin and repelled rain. It later became popular among soldiers, fishermen and in street fashion. The soft crown and sloping brim remain unchanged.",
+    "why_unchanged": "A soft brim that slopes down sheds rain and shades all around, so it needs no updates.",
+    "materials": [
+      "wool",
+      "tweed",
+      "cotton",
+      "nylon"
+    ],
+    "faqs": [
+      {
+        "question": "Where did the bucket hat come from?",
+        "answer": "It is traditionally linked to Irish farmers and fishermen in the early 20th century."
+      },
+      {
+        "question": "Why is it called a bucket hat?",
+        "answer": "Its shape resembles an upside-down bucket."
+      },
+      {
+        "question": "Why do fishermen like it?",
+        "answer": "The downward brim keeps rain and sun off the face and neck, and it packs easily."
+      }
+    ],
+    "image": {
+      "search_query": "cotton bucket hat",
+      "wikimedia_commons_category": "Bucket hats",
+      "alt": "A khaki cotton bucket hat"
+    },
+    "tags": [
+      "hat",
+      "20th-century",
+      "irish",
+      "cotton"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "knit-cap",
+    "name": "Knit cap",
+    "category": "Clothing, accessories & sewing",
+    "invention": {
+      "display": "15th century",
+      "year": 1450,
+      "approximate": true,
+      "era": "Medieval"
+    },
+    "place_of_invention": {
+      "region": "Monmouth, Wales",
+      "modern_country": "United Kingdom",
+      "notes": "The Monmouth cap, a knitted wool cap made in Wales from the 15th century, is the best-documented early example; knitted caps may be older elsewhere."
+    },
+    "inventor": null,
+    "short_description": "A close-fitting hat knitted from wool or synthetic yarn.",
+    "description": "Knit caps keep heat in with a snug fit and stretchy fabric. The Monmouth cap was worn by sailors and soldiers in the 16th and 17th centuries. Today's beanies and watch caps are knitted the same way.",
+    "why_unchanged": "A stretchy knitted dome fits any head and traps warmth with no structure needed.",
+    "materials": [
+      "wool",
+      "acrylic",
+      "cotton"
+    ],
+    "faqs": [
+      {
+        "question": "What is a Monmouth cap?",
+        "answer": "A knitted wool cap made in Monmouth, Wales, from the 15th century and worn by sailors and soldiers."
+      },
+      {
+        "question": "What is the difference between a beanie and a watch cap?",
+        "answer": "A watch cap is a knit cap with a folded cuff, originally worn by sailors on watch."
+      },
+      {
+        "question": "Do we really lose most heat through our heads?",
+        "answer": "No, that is a myth; heat loss is roughly proportional to exposed skin area."
+      }
+    ],
+    "image": {
+      "search_query": "wool knit cap beanie",
+      "wikimedia_commons_category": "Knit caps",
+      "alt": "A wool knit cap with a folded cuff"
+    },
+    "tags": [
+      "hat",
+      "knitting",
+      "medieval",
+      "wool"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "balaclava",
+    "name": "Balaclava",
+    "category": "Clothing, accessories & sewing",
+    "invention": {
+      "display": "1854",
+      "year": 1854,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Crimea",
+      "modern_country": "Ukraine",
+      "notes": "Knitted head coverings were sent to British troops during the Crimean War; the name, after the Battle of Balaclava, became common later in the 19th century."
+    },
+    "inventor": null,
+    "short_description": "A knitted head covering that exposes only the face or eyes.",
+    "description": "During the Crimean War, knitted helmets were sent to British soldiers to protect them from the bitter cold. The name balaclava, after the 1854 battle, came into use later. Skiers, climbers and motorcyclists still use the same design.",
+    "why_unchanged": "Covering head and neck with one knit tube is the most effective way to keep warm.",
+    "materials": [
+      "wool",
+      "fleece",
+      "silk"
+    ],
+    "faqs": [
+      {
+        "question": "Why is it called a balaclava?",
+        "answer": "It is named after the Battle of Balaclava in 1854 during the Crimean War."
+      },
+      {
+        "question": "Who wears balaclavas today?",
+        "answer": "Skiers, climbers, motorcyclists, firefighters and anyone working in extreme cold."
+      },
+      {
+        "question": "Can it be worn as a scarf?",
+        "answer": "Many balaclavas can be rolled down to cover only the neck."
+      }
+    ],
+    "image": {
+      "search_query": "knitted wool balaclava",
+      "wikimedia_commons_category": "Balaclavas",
+      "alt": "A knitted wool balaclava"
+    },
+    "tags": [
+      "hat",
+      "19th-century",
+      "winter",
+      "wool"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "earmuffs",
+    "name": "Earmuffs",
+    "category": "Clothing, accessories & sewing",
+    "invention": {
+      "display": "1873",
+      "year": 1873,
+      "approximate": false,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Farmington, Maine",
+      "modern_country": "United States",
+      "notes": "Chester Greenwood designed earmuffs at age 15 in 1873 and patented them in 1877; similar ear covers may have existed earlier."
+    },
+    "inventor": "Chester Greenwood",
+    "short_description": "A pair of padded covers on a band that keep the ears warm.",
+    "description": "Chester Greenwood, a teenager in Maine, made the first ear protectors from wire and fur to keep his ears warm while skating. He patented an improved version in 1877 and built a factory. Earmuffs today still use a band holding two padded covers.",
+    "why_unchanged": "A band and two pads cover the ears without covering the head, which is all they need to do.",
+    "materials": [
+      "fur",
+      "fleece",
+      "steel",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented earmuffs?",
+        "answer": "Chester Greenwood of Farmington, Maine, at age 15 in 1873, patented in 1877."
+      },
+      {
+        "question": "Is there a Chester Greenwood Day?",
+        "answer": "Yes, Farmington, Maine, celebrates Chester Greenwood Day each December."
+      },
+      {
+        "question": "Are earmuffs the same as ear defenders?",
+        "answer": "Ear defenders use the same design but are padded to block noise rather than cold."
+      }
+    ],
+    "image": {
+      "search_query": "fluffy earmuffs winter",
+      "wikimedia_commons_category": "Earmuffs",
+      "alt": "A pair of fluffy winter earmuffs"
+    },
+    "tags": [
+      "accessory",
+      "19th-century",
+      "winter",
+      "patent"
+    ],
+    "confidence": "high"
+  },
+  {
+    "slug": "pork-pie-hat",
+    "name": "Pork pie hat",
+    "category": "Clothing, accessories & sewing",
+    "invention": {
+      "display": "Mid-19th century",
+      "year": 1850,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Britain",
+      "modern_country": "United Kingdom",
+      "notes": "Originally a women's style in the mid-19th century, adopted by men later; no inventor is recorded."
+    },
+    "inventor": null,
+    "short_description": "A short-crowned hat with a flat top, a circular indentation and a narrow brim.",
+    "description": "The pork pie hat is named for its resemblance to the British meat pie. Buster Keaton made it famous in silent films, and it became associated with jazz musicians. Its flat, indented crown has remained the same.",
+    "why_unchanged": "The shape defines the hat, so the design stays put.",
+    "materials": [
+      "felt",
+      "straw"
+    ],
+    "faqs": [
+      {
+        "question": "Why is it called a pork pie hat?",
+        "answer": "Its flat, indented crown resembles a pork pie."
+      },
+      {
+        "question": "Who made the pork pie famous?",
+        "answer": "Buster Keaton wore one in silent films, and jazz musicians like Lester Young popularized it."
+      },
+      {
+        "question": "Was it originally a men's hat?",
+        "answer": "No, it started as a women's style in the mid-19th century."
+      }
+    ],
+    "image": {
+      "search_query": "felt pork pie hat",
+      "wikimedia_commons_category": "Pork pie hats",
+      "alt": "A black felt pork pie hat"
+    },
+    "tags": [
+      "hat",
+      "19th-century",
+      "felt",
+      "jazz"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "umbrella",
+    "name": "Umbrella",
+    "category": "Clothing, accessories & sewing",
+    "invention": {
+      "display": "c. 1st century CE (collapsible)",
+      "year": 21,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "China",
+      "modern_country": "China",
+      "notes": "Chinese records describe a collapsible canopy around 21 CE; shade parasols existed earlier in Egypt and Mesopotamia, so the origin is debated."
+    },
+    "inventor": null,
+    "short_description": "A collapsible canopy on ribs and a shaft, held to keep off rain or sun.",
+    "description": "Ancient Chinese umbrellas were made of oiled paper or silk on bamboo frames. In Europe umbrellas became common in the 18th century, helped by Jonas Hanway in London. In 1852 Samuel Fox's steel-ribbed frame made umbrellas lighter, but the collapsing ribs and canopy remained the same.",
+    "why_unchanged": "Folding ribs and a canopy give portable shelter in a form that has proven impossible to replace.",
+    "materials": [
+      "silk",
+      "oiled paper",
+      "bamboo",
+      "steel",
+      "nylon"
+    ],
+    "faqs": [
+      {
+        "question": "Where was the umbrella invented?",
+        "answer": "Collapsible umbrellas are recorded in China around 21 CE, though sunshades existed earlier."
+      },
+      {
+        "question": "Who popularized umbrellas in London?",
+        "answer": "Jonas Hanway carried one in the 18th century and helped make it acceptable for men."
+      },
+      {
+        "question": "Why is it unlucky to open an umbrella indoors?",
+        "answer": "It is a superstition with no factual basis, possibly linked to the danger of large spring frames."
+      }
+    ],
+    "image": {
+      "search_query": "black umbrella open in rain",
+      "wikimedia_commons_category": "Umbrellas",
+      "alt": "An open black umbrella in the rain"
+    },
+    "tags": [
+      "accessory",
+      "ancient",
+      "rain",
+      "china"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "parasol",
+    "name": "Parasol",
+    "category": "Clothing, accessories & sewing",
+    "invention": {
+      "display": "c. 1st millennium BCE",
+      "year": -900,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Mesopotamia and Egypt",
+      "modern_country": "Iraq",
+      "notes": "Parasols appear in Assyrian reliefs and Egyptian art as status symbols; earlier use is likely and dating is approximate."
+    },
+    "inventor": null,
+    "short_description": "A light umbrella designed to provide shade from the sun.",
+    "description": "Parasols were held over kings and nobles in ancient Assyria, Egypt, India and China. They became fashionable in Europe from the 17th century. Lace and paper parasols are still used for sun protection and ceremonies.",
+    "why_unchanged": "A canopy on a stick is the simplest portable shade, so the form has never needed to change.",
+    "materials": [
+      "paper",
+      "silk",
+      "lace",
+      "bamboo"
+    ],
+    "faqs": [
+      {
+        "question": "What is the difference between a parasol and an umbrella?",
+        "answer": "A parasol is designed for sun, often with lighter fabric, while an umbrella is waterproof."
+      },
+      {
+        "question": "Why were parasols a status symbol?",
+        "answer": "In ancient courts, servants held parasols over royalty to signal their importance."
+      },
+      {
+        "question": "Are parasols still used?",
+        "answer": "Yes, especially in East Asia for sun protection and in ceremonies."
+      }
+    ],
+    "image": {
+      "search_query": "lace parasol",
+      "wikimedia_commons_category": "Parasols",
+      "alt": "A lace parasol open in sunlight"
+    },
+    "tags": [
+      "accessory",
+      "ancient",
+      "sun",
+      "status"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "folding-fan",
+    "name": "Folding fan",
+    "category": "Clothing, accessories & sewing",
+    "invention": {
+      "display": "c. 9th century",
+      "year": 850,
+      "approximate": true,
+      "era": "Medieval"
+    },
+    "place_of_invention": {
+      "region": "Japan",
+      "modern_country": "Japan",
+      "notes": "Most sources credit Japan with inventing the folding fan in the Heian period; some argue for China, which had rigid fans much earlier."
+    },
+    "inventor": null,
+    "short_description": "A handheld fan of pleated paper or slats that folds into a compact stick.",
+    "description": "The folding fan started with thin wooden slats tied together, and pleated paper fans followed. It spread to China and later to Europe, where it became a fashion accessory. Folding fans are still made the same way, from bamboo ribs and paper or fabric.",
+    "why_unchanged": "Pleated leaf and pivoting ribs make a fan compact and efficient, so the design is complete.",
+    "materials": [
+      "bamboo",
+      "paper",
+      "silk",
+      "wood"
+    ],
+    "faqs": [
+      {
+        "question": "Where was the folding fan invented?",
+        "answer": "It is generally credited to Japan in the Heian period, around the 9th century."
+      },
+      {
+        "question": "What is the language of fans?",
+        "answer": "A Victorian notion that gestures with fans sent coded messages; it was likely more a fashionable game than a real code."
+      },
+      {
+        "question": "What is a sensu?",
+        "answer": "The Japanese name for a folding fan, used in daily life, dance and ceremonies."
+      }
+    ],
+    "image": {
+      "search_query": "japanese folding fan sensu",
+      "wikimedia_commons_category": "Folding fans",
+      "alt": "An open painted folding fan"
+    },
+    "tags": [
+      "accessory",
+      "medieval",
+      "japan",
+      "paper"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "drawstring-purse",
+    "name": "Drawstring purse",
+    "category": "Clothing, accessories & sewing",
+    "invention": {
+      "display": "By the Middle Ages (likely older)",
+      "year": 1200,
+      "approximate": true,
+      "era": "Medieval"
+    },
+    "place_of_invention": {
+      "region": "Europe and Asia",
+      "modern_country": "Unknown",
+      "notes": "Pouches closed with a cord were used in many ancient cultures; drawstring purses hung from belts were standard in medieval Europe."
+    },
+    "inventor": null,
+    "short_description": "A small bag closed by pulling a cord through a channel at the top.",
+    "description": "Before pockets were sewn into clothing, people carried coins and small items in pouches hung from belts. Pulling the cord closes the mouth tightly and makes a loop to carry it. Drawstring pouches are still used for jewelry, coins and gifts.",
+    "why_unchanged": "A cord pulled through a casing closes a bag securely with nothing to break.",
+    "materials": [
+      "leather",
+      "linen",
+      "silk",
+      "cotton"
+    ],
+    "faqs": [
+      {
+        "question": "Why did people carry purses on belts?",
+        "answer": "Clothing often lacked pockets, so coins and small tools were kept in pouches hanging from the belt."
+      },
+      {
+        "question": "What is a reticule?",
+        "answer": "A small drawstring handbag carried by women around 1800, when slim dresses had no room for pockets."
+      },
+      {
+        "question": "Are drawstring bags still common?",
+        "answer": "Yes, as jewelry pouches, gift bags, gym bags and shoe bags."
+      }
+    ],
+    "image": {
+      "search_query": "leather drawstring pouch purse",
+      "wikimedia_commons_category": "Drawstring bags",
+      "alt": "A leather drawstring pouch"
+    },
+    "tags": [
+      "accessory",
+      "medieval",
+      "bag",
+      "leather"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "wallet",
+    "name": "Wallet",
+    "category": "Clothing, accessories & sewing",
+    "invention": {
+      "display": "19th century (billfold)",
+      "year": 1850,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Europe and North America",
+      "modern_country": "Unknown",
+      "notes": "Folding leather billfolds became common as paper money spread in the 19th century; earlier 'wallets' were bags."
+    },
+    "inventor": null,
+    "short_description": "A flat folding case for carrying banknotes and cards.",
+    "description": "The word wallet once meant a bag for provisions. As paper money became common, small folding leather cases appeared to keep notes flat. Today's bifold and trifold wallets add card slots, but keep the same folding form.",
+    "why_unchanged": "A folding leather case fits in a pocket and protects notes, so its basic layout remains the same.",
+    "materials": [
+      "leather",
+      "fabric",
+      "nylon"
+    ],
+    "faqs": [
+      {
+        "question": "Where does the word wallet come from?",
+        "answer": "It originally meant a bag or knapsack for provisions, used in English since the 14th century."
+      },
+      {
+        "question": "What is the difference between a wallet and a purse?",
+        "answer": "A wallet is usually a flat folding case, while a purse can be a bag or pouch."
+      },
+      {
+        "question": "Why did wallets become common?",
+        "answer": "Paper money and later cards needed to be kept flat and organized."
+      }
+    ],
+    "image": {
+      "search_query": "leather bifold wallet",
+      "wikimedia_commons_category": "Wallets",
+      "alt": "A brown leather bifold wallet"
+    },
+    "tags": [
+      "accessory",
+      "19th-century",
+      "leather",
+      "money"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "tote-bag",
+    "name": "Tote bag",
+    "category": "Clothing, accessories & sewing",
+    "invention": {
+      "display": "1944 (named form)",
+      "year": 1944,
+      "approximate": true,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "Maine",
+      "modern_country": "United States",
+      "notes": "L.L.Bean introduced a canvas 'Bean's Ice Carrier' in 1944, often cited as the classic tote; open carry bags are far older."
+    },
+    "inventor": null,
+    "short_description": "A large, open-topped bag with two parallel handles.",
+    "description": "The word tote means to carry, and the tote bag is an open bag with sturdy handles. L.L.Bean's canvas ice carrier of 1944 became the classic Boat and Tote. Reusable canvas totes are now popular as alternatives to single-use bags.",
+    "why_unchanged": "An open sack with two handles is as simple and useful as a bag can be.",
+    "materials": [
+      "canvas",
+      "cotton",
+      "jute",
+      "nylon"
+    ],
+    "faqs": [
+      {
+        "question": "What was the first tote bag?",
+        "answer": "L.L.Bean's 1944 Bean's Ice Carrier, a canvas bag for carrying ice, is often cited as the classic tote."
+      },
+      {
+        "question": "Where does the word tote come from?",
+        "answer": "It is an American word meaning to carry, used since the 17th century."
+      },
+      {
+        "question": "Are tote bags more eco-friendly?",
+        "answer": "Only if reused many times, as producing a cotton tote takes more resources than a plastic bag."
+      }
+    ],
+    "image": {
+      "search_query": "canvas tote bag",
+      "wikimedia_commons_category": "Tote bags",
+      "alt": "A canvas tote bag with two handles"
+    },
+    "tags": [
+      "accessory",
+      "20th-century",
+      "bag",
+      "canvas"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "shoehorn",
+    "name": "Shoehorn",
+    "category": "Clothing, accessories & sewing",
+    "invention": {
+      "display": "16th century",
+      "year": 1550,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "England",
+      "modern_country": "United Kingdom",
+      "notes": "Shoehorns made of animal horn are recorded in 16th-century England; earlier uses are possible."
+    },
+    "inventor": null,
+    "short_description": "A curved scoop that helps slide the heel into a shoe.",
+    "description": "A shoehorn guides the heel into a snug shoe without crushing its back. Early examples were carved from cow horn, which gave the tool its name. Shoehorns are now made of metal, plastic or wood but keep the same curved shape.",
+    "why_unchanged": "A smooth curved scoop is all that is needed to slide a heel into a shoe.",
+    "materials": [
+      "horn",
+      "metal",
+      "wood",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "Why is it called a shoehorn?",
+        "answer": "Early shoehorns were made from animal horn."
+      },
+      {
+        "question": "Why use a shoehorn?",
+        "answer": "It protects the back of the shoe from being crushed and makes tight shoes easier to put on."
+      },
+      {
+        "question": "Are long shoehorns useful?",
+        "answer": "Yes, long-handled ones help people who have trouble bending down."
+      }
+    ],
+    "image": {
+      "search_query": "metal shoehorn",
+      "wikimedia_commons_category": "Shoehorns",
+      "alt": "A metal shoehorn beside leather shoes"
+    },
+    "tags": [
+      "accessory",
+      "early-modern",
+      "footwear",
+      "horn"
+    ],
+    "confidence": "medium"
+  }
+]

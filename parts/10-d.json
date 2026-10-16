@@ -1,0 +1,1289 @@
+[
+  {
+    "slug": "cup-anemometer",
+    "name": "Cup anemometer",
+    "category": "Outdoor, farming & travel",
+    "invention": {
+      "display": "1846",
+      "year": 1846,
+      "approximate": false,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Armagh, Ireland",
+      "modern_country": "United Kingdom",
+      "notes": "Thomas Romney Robinson invented the cup anemometer at Armagh Observatory in 1846; the modern three-cup version was introduced in the 20th century."
+    },
+    "inventor": "Thomas Romney Robinson",
+    "short_description": "A set of spinning cups that measures wind speed.",
+    "description": "The cup anemometer has cups mounted on arms around a vertical shaft; the wind spins the cups at a speed related to the wind speed. Thomas Romney Robinson built the first one at Armagh Observatory in 1846. Weather stations, airports and wind farms still rely on cup anemometers.",
+    "why_unchanged": "Cups catch wind from any direction and spin in proportion to its speed, a simple and robust principle that remains standard.",
+    "materials": [
+      "aluminum",
+      "plastic",
+      "steel"
+    ],
+    "faqs": [
+      {
+        "question": "How does a cup anemometer work?",
+        "answer": "The open side of each cup catches more wind than the rounded back, so the cups spin, and the rotation rate indicates wind speed."
+      },
+      {
+        "question": "Who invented the cup anemometer?",
+        "answer": "Irish astronomer Thomas Romney Robinson invented it in 1846 at Armagh Observatory."
+      },
+      {
+        "question": "Why do modern versions have three cups?",
+        "answer": "Three cups give a smoother, more accurate response than Robinson's original four-cup design."
+      }
+    ],
+    "image": {
+      "search_query": "cup anemometer weather station",
+      "wikimedia_commons_category": "Cup anemometers",
+      "alt": "A three-cup anemometer on a weather station mast"
+    },
+    "tags": [
+      "weather",
+      "science",
+      "industrial",
+      "ireland"
+    ],
+    "confidence": "high"
+  },
+  {
+    "slug": "sounding-line",
+    "name": "Sounding line",
+    "category": "Outdoor, farming & travel",
+    "invention": {
+      "display": "Antiquity (c. 500 BCE)",
+      "year": -500,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Eastern Mediterranean",
+      "modern_country": "Unknown",
+      "notes": "Herodotus mentions sounding with a line in the 5th century BCE, and Egyptian art shows sounding poles earlier; the origin is uncertain."
+    },
+    "inventor": null,
+    "short_description": "A weighted, marked rope used to measure water depth.",
+    "description": "The sounding line, or lead line, is a rope marked at intervals with a lead weight on the end, dropped overboard to measure depth. A hollow in the weight, filled with tallow, brought up a sample of the seabed to help identify location. Small boats still carry lead lines as a backup to electronic depth sounders.",
+    "why_unchanged": "A weighted, marked rope gives a direct depth reading that cannot fail, so it is still carried as a reliable backup.",
+    "materials": [
+      "rope",
+      "lead",
+      "leather",
+      "cloth"
+    ],
+    "faqs": [
+      {
+        "question": "How does a sounding line work?",
+        "answer": "A sailor drops the weighted line until it touches bottom and reads the depth from markings on the rope."
+      },
+      {
+        "question": "What does \"mark twain\" mean?",
+        "answer": "It was a leadsman's call meaning two fathoms, a safe depth for riverboats, and Samuel Clemens took it as his pen name."
+      },
+      {
+        "question": "Why was tallow put in the lead weight?",
+        "answer": "Tallow picked up sand, shells or mud from the seabed, which helped navigators identify where they were."
+      }
+    ],
+    "image": {
+      "search_query": "lead line sounding weight rope",
+      "wikimedia_commons_category": "Sounding lines",
+      "alt": "A coiled lead line with a sounding weight"
+    },
+    "tags": [
+      "navigation",
+      "sailing",
+      "ancient"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "oar",
+    "name": "Oar",
+    "category": "Outdoor, farming & travel",
+    "invention": {
+      "display": "c. 3000 BCE",
+      "year": -3000,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Ancient Egypt",
+      "modern_country": "Egypt",
+      "notes": "Rowed boats appear in early Egyptian art; oars fixed against the hull may have developed in several places from earlier paddles."
+    },
+    "inventor": null,
+    "short_description": "A long pole with a flat blade, levered against the boat to row it.",
+    "description": "An oar differs from a paddle by being fixed to the boat at a pivot, turning it into a lever. Rowed boats were used in ancient Egypt and powered Mediterranean warships with hundreds of rowers. Wooden and carbon-fiber oars are still used in rowboats, lifeboats and racing shells.",
+    "why_unchanged": "A blade on a lever pivoted at the hull is the most efficient human-powered propulsion for boats, so the design has stayed the same.",
+    "materials": [
+      "wood",
+      "carbon fiber",
+      "aluminum",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "What is the difference between an oar and a paddle?",
+        "answer": "An oar is attached to the boat at a pivot and used as a lever, while a paddle is held freely in the hands."
+      },
+      {
+        "question": "Why do rowers face backward?",
+        "answer": "Pulling the oar handle toward the chest is the strongest motion, so rowers sit facing the stern."
+      },
+      {
+        "question": "How many oars did ancient warships have?",
+        "answer": "A Greek trireme had about 170 oars arranged in three tiers."
+      }
+    ],
+    "image": {
+      "search_query": "wooden oars rowing boat",
+      "wikimedia_commons_category": "Oars",
+      "alt": "A pair of wooden oars resting in a rowboat"
+    },
+    "tags": [
+      "boats",
+      "rowing",
+      "transport",
+      "ancient"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "paddle",
+    "name": "Paddle",
+    "category": "Outdoor, farming & travel",
+    "invention": {
+      "display": "c. 8000 BCE",
+      "year": -8000,
+      "approximate": true,
+      "era": "Prehistoric"
+    },
+    "place_of_invention": {
+      "region": "Northern Europe",
+      "modern_country": "Unknown",
+      "notes": "Mesolithic wooden paddles have been found at sites such as Star Carr in England and Duvensee in Germany; paddles were likely used far earlier, wherever people traveled by water."
+    },
+    "inventor": null,
+    "short_description": "A short pole with a blade, held in the hands to propel a small boat.",
+    "description": "The paddle is held freely in both hands and pulled through the water to drive a canoe or raft. Wooden paddles survive from Mesolithic Europe, but people must have used them far earlier. Modern canoe, kayak and paddleboard paddles keep the same simple form.",
+    "why_unchanged": "A blade on a shaft gives the paddler full control in any direction, and no mechanism can make it simpler.",
+    "materials": [
+      "wood",
+      "carbon fiber",
+      "aluminum",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "How old is the paddle?",
+        "answer": "Wooden paddles from Mesolithic Europe are about 10,000 years old, and paddles were probably used much earlier."
+      },
+      {
+        "question": "What is the difference between single- and double-bladed paddles?",
+        "answer": "Canoes use a single blade, while kayaks use a double-bladed paddle that alternates sides."
+      },
+      {
+        "question": "Why are some paddle blades angled?",
+        "answer": "Bent-shaft and feathered paddles reduce strain and keep the blade working efficiently through the stroke."
+      }
+    ],
+    "image": {
+      "search_query": "wooden canoe paddle",
+      "wikimedia_commons_category": "Paddles",
+      "alt": "A wooden canoe paddle leaning against a canoe"
+    },
+    "tags": [
+      "boats",
+      "canoeing",
+      "transport",
+      "prehistoric"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "anchor",
+    "name": "Anchor",
+    "category": "Outdoor, farming & travel",
+    "invention": {
+      "display": "c. 600 BCE (stocked anchor)",
+      "year": -600,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Ancient Greece",
+      "modern_country": "Greece",
+      "notes": "Stone anchors were used in the Bronze Age; the familiar shape with arms and a crossbar (stock) developed in the Greek and Roman world. Ancient writers credited various legendary inventors, which historians do not accept."
+    },
+    "inventor": null,
+    "short_description": "A heavy hooked device dropped to the seabed to hold a vessel in place.",
+    "description": "The anchor holds a boat in place by gripping or weighing on the seabed. Bronze Age sailors used pierced stones, and by Greek and Roman times anchors had the familiar arms, flukes and crossbar. The classic stocked \"Admiralty\" pattern still serves small boats and remains a universal symbol of the sea.",
+    "why_unchanged": "Flukes that dig into the seabed when pulled sideways hold a boat reliably, so the classic shape is still in use.",
+    "materials": [
+      "iron",
+      "steel",
+      "stone",
+      "lead"
+    ],
+    "faqs": [
+      {
+        "question": "What is the crossbar on an anchor for?",
+        "answer": "The stock turns the anchor so one fluke digs into the seabed instead of lying flat."
+      },
+      {
+        "question": "What were the first anchors?",
+        "answer": "Early sailors used heavy stones, baskets of stones or sandbags tied to ropes."
+      },
+      {
+        "question": "Why is the anchor a symbol of hope?",
+        "answer": "Because it keeps a ship safe in a storm, early Christians and sailors adopted it as a symbol of steadfast hope."
+      }
+    ],
+    "image": {
+      "search_query": "iron ship anchor",
+      "wikimedia_commons_category": "Anchors",
+      "alt": "A classic iron anchor with a crossbar"
+    },
+    "tags": [
+      "boats",
+      "sailing",
+      "ancient",
+      "greece"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "dugout-canoe",
+    "name": "Dugout canoe",
+    "category": "Outdoor, farming & travel",
+    "invention": {
+      "display": "c. 7700 BCE",
+      "year": -7700,
+      "approximate": true,
+      "era": "Prehistoric"
+    },
+    "place_of_invention": {
+      "region": "Drenthe (Pesse)",
+      "modern_country": "Netherlands",
+      "notes": "The Pesse canoe, found in the Netherlands and dated to roughly 8000–7500 BCE, is the oldest known boat in the world."
+    },
+    "inventor": null,
+    "short_description": "A boat made by hollowing out a single tree trunk.",
+    "description": "The dugout canoe is carved from a single log, hollowed with fire and tools. The Pesse canoe from the Netherlands is the oldest known boat, about 10,000 years old. Dugouts are still made and used on rivers and coasts in Africa, South America and Asia.",
+    "why_unchanged": "A hollowed log is strong, watertight and buildable with simple tools, so communities still make it the same way.",
+    "materials": [
+      "wood",
+      "pine",
+      "oak"
+    ],
+    "faqs": [
+      {
+        "question": "What is the oldest boat in the world?",
+        "answer": "The Pesse canoe, a dugout found in the Netherlands, dates to around 8000–7500 BCE."
+      },
+      {
+        "question": "How are dugout canoes made?",
+        "answer": "A log is hollowed out by chopping and often burning the wood, then shaped for balance."
+      },
+      {
+        "question": "Are dugouts still used today?",
+        "answer": "Yes. Dugout canoes are still common on rivers and coasts in West Africa, the Amazon and Southeast Asia."
+      }
+    ],
+    "image": {
+      "search_query": "dugout canoe river",
+      "wikimedia_commons_category": "Dugout canoes",
+      "alt": "A wooden dugout canoe on a riverbank"
+    },
+    "tags": [
+      "boats",
+      "transport",
+      "prehistoric",
+      "netherlands"
+    ],
+    "confidence": "high"
+  },
+  {
+    "slug": "raft",
+    "name": "Raft",
+    "category": "Outdoor, farming & travel",
+    "invention": {
+      "display": "Prehistoric (c. 50,000 BCE)",
+      "year": -50000,
+      "approximate": true,
+      "era": "Prehistoric"
+    },
+    "place_of_invention": {
+      "region": "Island Southeast Asia",
+      "modern_country": "Unknown",
+      "notes": "The settlement of Australia more than 50,000 years ago required sea crossings, probably on rafts; no prehistoric rafts survive, so this is inferred."
+    },
+    "inventor": null,
+    "short_description": "A flat floating platform of logs, reeds or other buoyant materials.",
+    "description": "The raft is the simplest watercraft: buoyant materials lashed together into a floating platform. Early humans probably used rafts to reach Australia more than 50,000 years ago. Rafts of bamboo, logs and reeds are still used for fishing, river transport and recreation.",
+    "why_unchanged": "Lashing floating materials together is the most basic way to cross water, and it remains just as effective.",
+    "materials": [
+      "wood",
+      "bamboo",
+      "reed",
+      "rope"
+    ],
+    "faqs": [
+      {
+        "question": "How did early humans reach Australia?",
+        "answer": "They had to cross open sea more than 50,000 years ago, most likely on bamboo or log rafts."
+      },
+      {
+        "question": "What was the Kon-Tiki?",
+        "answer": "A balsa raft sailed by Thor Heyerdahl from Peru to Polynesia in 1947 to show that long ocean voyages on rafts were possible."
+      },
+      {
+        "question": "Are rafts still used today?",
+        "answer": "Yes. Bamboo rafts are used for fishing and transport in Asia, and inflatable rafts are popular for river sports."
+      }
+    ],
+    "image": {
+      "search_query": "bamboo raft river",
+      "wikimedia_commons_category": "Rafts",
+      "alt": "A bamboo raft floating on a river"
+    },
+    "tags": [
+      "boats",
+      "transport",
+      "prehistoric"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "sail",
+    "name": "Sail",
+    "category": "Outdoor, farming & travel",
+    "invention": {
+      "display": "c. 3200 BCE",
+      "year": -3200,
+      "approximate": true,
+      "era": "Prehistoric"
+    },
+    "place_of_invention": {
+      "region": "Ancient Egypt",
+      "modern_country": "Egypt",
+      "notes": "The earliest clear image of a sail appears on an Egyptian vase from about 3200 BCE; a boat model with a mast socket from Kuwait suggests sailing in the Persian Gulf even earlier."
+    },
+    "inventor": null,
+    "short_description": "A sheet of fabric that catches the wind to propel a boat.",
+    "description": "The sail harnesses wind to drive a vessel, freeing sailors from rowing. Egyptians used square sails on the Nile, and later cultures developed lateen and fore-and-aft rigs that could sail closer to the wind. Fabric sails on masts still power yachts, dhows and traditional fishing boats.",
+    "why_unchanged": "A sheet of fabric catching the wind is the simplest renewable propulsion, and modern sails only refine the materials and shape.",
+    "materials": [
+      "linen",
+      "cotton",
+      "canvas",
+      "Dacron"
+    ],
+    "faqs": [
+      {
+        "question": "When was the sail invented?",
+        "answer": "The earliest clear image of a sail is on an Egyptian vase from about 3200 BCE."
+      },
+      {
+        "question": "Can a sailboat go against the wind?",
+        "answer": "Not directly, but fore-and-aft sails work like wings, letting a boat sail at an angle to the wind and zigzag upwind."
+      },
+      {
+        "question": "What were early sails made of?",
+        "answer": "Egyptian sails were made of linen or papyrus, and later sails were woven from cotton, flax or hemp canvas."
+      }
+    ],
+    "image": {
+      "search_query": "white sail sailing boat",
+      "wikimedia_commons_category": "Sails",
+      "alt": "A white sail filled with wind on a small boat"
+    },
+    "tags": [
+      "boats",
+      "sailing",
+      "transport",
+      "prehistoric",
+      "egypt"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "wheel",
+    "name": "Wheel",
+    "category": "Outdoor, farming & travel",
+    "invention": {
+      "display": "c. 3500 BCE",
+      "year": -3500,
+      "approximate": true,
+      "era": "Prehistoric"
+    },
+    "place_of_invention": {
+      "region": "Mesopotamia",
+      "modern_country": "Iraq",
+      "notes": "Wheeled vehicles appear almost simultaneously around 3500 BCE in Mesopotamia, the North Caucasus and Central Europe; which came first is debated. The Ljubljana Marshes Wheel (c. 3150 BCE) is one of the oldest surviving wheels."
+    },
+    "inventor": null,
+    "short_description": "A circular frame that turns on an axle to move vehicles.",
+    "description": "The wheel on an axle appeared around 3500 BCE, possibly developing from potter's wheels or rollers. Solid wooden wheels were followed by spoked wheels around 2000 BCE, making chariots fast and light. The wheel is now in nearly every vehicle and machine, still a round disc turning on an axle.",
+    "why_unchanged": "A circle rolling on an axle minimizes friction for moving loads, and no shape can do better.",
+    "materials": [
+      "wood",
+      "iron",
+      "steel",
+      "rubber"
+    ],
+    "faqs": [
+      {
+        "question": "Where was the wheel invented?",
+        "answer": "Wheeled vehicles appear around 3500 BCE in Mesopotamia, the North Caucasus and Central Europe, and scholars debate which came first."
+      },
+      {
+        "question": "What is the oldest surviving wheel?",
+        "answer": "The Ljubljana Marshes Wheel from Slovenia, about 5,000 years old, is one of the oldest known."
+      },
+      {
+        "question": "Why did the Americas not use wheels for transport?",
+        "answer": "Mesoamericans made wheeled toys, but without large draft animals, wheeled vehicles offered little advantage."
+      }
+    ],
+    "image": {
+      "search_query": "old wooden cart wheel",
+      "wikimedia_commons_category": "Wheels",
+      "alt": "A wooden spoked wheel with an iron rim"
+    },
+    "tags": [
+      "transport",
+      "prehistoric",
+      "mesopotamia"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "cart",
+    "name": "Cart",
+    "category": "Outdoor, farming & travel",
+    "invention": {
+      "display": "c. 3500 BCE",
+      "year": -3500,
+      "approximate": true,
+      "era": "Prehistoric"
+    },
+    "place_of_invention": {
+      "region": "Mesopotamia and Central Europe",
+      "modern_country": "Unknown",
+      "notes": "A pot from Bronocice, Poland, and Mesopotamian pictographs both depict wheeled vehicles around 3500 BCE; the place of origin is debated."
+    },
+    "inventor": null,
+    "short_description": "A two- or four-wheeled vehicle pulled by animals or people to carry loads.",
+    "description": "Carts appeared soon after the wheel, pulled by oxen and later by horses and donkeys. They carried harvests, goods and building materials for thousands of years. Animal-drawn and hand carts are still used daily on farms and in markets across the world.",
+    "why_unchanged": "A platform on wheels with shafts for an animal is the simplest way to move heavy goods overland, so it remains in use.",
+    "materials": [
+      "wood",
+      "iron",
+      "steel",
+      "rubber"
+    ],
+    "faqs": [
+      {
+        "question": "When were carts invented?",
+        "answer": "Carts appear around 3500 BCE, depicted in Mesopotamia and on a pot from Bronocice in Poland."
+      },
+      {
+        "question": "What is the difference between a cart and a wagon?",
+        "answer": "A cart usually has two wheels, while a wagon has four."
+      },
+      {
+        "question": "Are animal carts still used?",
+        "answer": "Yes. Donkey, horse and ox carts are still common for farm and market transport in many countries."
+      }
+    ],
+    "image": {
+      "search_query": "wooden ox cart",
+      "wikimedia_commons_category": "Carts",
+      "alt": "A wooden cart pulled by an ox along a dirt road"
+    },
+    "tags": [
+      "transport",
+      "farming",
+      "prehistoric"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "sled",
+    "name": "Sled",
+    "category": "Outdoor, farming & travel",
+    "invention": {
+      "display": "c. 7000 BCE",
+      "year": -7000,
+      "approximate": true,
+      "era": "Prehistoric"
+    },
+    "place_of_invention": {
+      "region": "Northern Europe",
+      "modern_country": "Unknown",
+      "notes": "Sledge runners from Mesolithic sites in Finland and northern Russia are among the oldest known; sleds may be older than the wheel."
+    },
+    "inventor": null,
+    "short_description": "A vehicle on runners for hauling loads over snow and ice.",
+    "description": "The cargo sled, or sledge, glides on runners over snow, ice or grass, carrying loads that would be hard to drag. Mesolithic peoples in northern Europe used wooden sleds, and Arctic cultures later harnessed dogs and reindeer to pull them. Sleds remain essential for hunters, herders and travelers in snowy regions.",
+    "why_unchanged": "Narrow runners spread weight and slide easily on snow, so the basic sled works as well now as in the Stone Age.",
+    "materials": [
+      "wood",
+      "bone",
+      "plastic",
+      "aluminum"
+    ],
+    "faqs": [
+      {
+        "question": "Is the sled older than the wheel?",
+        "answer": "Yes. Sledges were used thousands of years before the wheel, especially in snowy northern regions."
+      },
+      {
+        "question": "What were ancient sleds made of?",
+        "answer": "Wood, often with runners of bone or antler, lashed together with sinew or rawhide."
+      },
+      {
+        "question": "Were sleds used to move Egyptian stones?",
+        "answer": "Yes. Egyptians dragged large stones on wooden sledges, and tomb art shows workers wetting the sand in front to reduce friction."
+      }
+    ],
+    "image": {
+      "search_query": "wooden cargo sled snow",
+      "wikimedia_commons_category": "Sleds",
+      "alt": "A loaded wooden cargo sled on snow"
+    },
+    "tags": [
+      "transport",
+      "snow",
+      "prehistoric"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "kayak",
+    "name": "Kayak",
+    "category": "Outdoor, farming & travel",
+    "invention": {
+      "display": "c. 2000 BCE",
+      "year": -2000,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Arctic North America",
+      "modern_country": "Unknown",
+      "notes": "Kayaks were developed by Arctic peoples, ancestors of the Inuit, Yupik and Unangan (Aleut); because they were made of skin and wood, early examples rarely survive, so the date is approximate."
+    },
+    "inventor": null,
+    "short_description": "A narrow, covered boat propelled by a double-bladed paddle.",
+    "description": "The kayak was developed by Arctic peoples for hunting seals and other sea animals. A wooden or bone frame was covered with sealskin, leaving only a cockpit for the paddler. Modern kayaks of plastic and fiberglass keep the same low, covered hull and double-bladed paddle.",
+    "why_unchanged": "A narrow enclosed hull is fast, seaworthy and stays dry in cold water, so recreational and racing kayaks still follow it.",
+    "materials": [
+      "sealskin",
+      "wood",
+      "fiberglass",
+      "polyethylene"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the kayak?",
+        "answer": "Arctic peoples, ancestors of the Inuit, Yupik and Unangan, developed the kayak for hunting at sea."
+      },
+      {
+        "question": "What does the word \"kayak\" mean?",
+        "answer": "It comes from the Inuit word qajaq, often explained as \"hunter's boat\"."
+      },
+      {
+        "question": "What is the Eskimo roll?",
+        "answer": "It is a technique for righting a capsized kayak without leaving it, developed by Arctic paddlers."
+      }
+    ],
+    "image": {
+      "search_query": "traditional sealskin kayak",
+      "wikimedia_commons_category": "Kayaks",
+      "alt": "A traditional skin-on-frame kayak on a beach"
+    },
+    "tags": [
+      "boats",
+      "arctic",
+      "transport",
+      "ancient"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "oarlock",
+    "name": "Oarlock",
+    "category": "Outdoor, farming & travel",
+    "invention": {
+      "display": "Antiquity (c. 500 BCE)",
+      "year": -500,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Mediterranean",
+      "modern_country": "Unknown",
+      "notes": "Thole pins and leather loops held oars on ancient Greek and Roman ships; the metal U-shaped oarlock is a later refinement."
+    },
+    "inventor": null,
+    "short_description": "A pivot on a boat's side that holds an oar while rowing.",
+    "description": "The oarlock, or rowlock, is the pivot point that lets an oar work as a lever. Ancient Greek and Roman ships used wooden thole pins with leather straps, and later boats adopted U-shaped metal locks. Rowboats today still use thole pins or swivelling oarlocks.",
+    "why_unchanged": "A simple pivot is all an oar needs to work as a lever, so the basic idea has not changed.",
+    "materials": [
+      "bronze",
+      "brass",
+      "wood",
+      "steel"
+    ],
+    "faqs": [
+      {
+        "question": "What is the difference between an oarlock and a thole pin?",
+        "answer": "A thole pin is a single peg the oar pushes against, while an oarlock is a U-shaped fitting that holds the oar shaft."
+      },
+      {
+        "question": "Is it called an oarlock or a rowlock?",
+        "answer": "Both are correct; \"rowlock\" is more common in Britain and \"oarlock\" in North America."
+      },
+      {
+        "question": "Why are oarlocks often made of bronze?",
+        "answer": "Bronze and brass resist corrosion in salt water."
+      }
+    ],
+    "image": {
+      "search_query": "brass oarlock rowboat",
+      "wikimedia_commons_category": "Rowlocks",
+      "alt": "A brass oarlock holding a wooden oar"
+    },
+    "tags": [
+      "boats",
+      "rowing",
+      "ancient"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "outrigger-canoe",
+    "name": "Outrigger canoe",
+    "category": "Outdoor, farming & travel",
+    "invention": {
+      "display": "c. 1500 BCE",
+      "year": -1500,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Island Southeast Asia",
+      "modern_country": "Unknown",
+      "notes": "Outrigger canoes are associated with the Austronesian expansion from Island Southeast Asia into the Pacific and Indian Oceans; the date is approximate."
+    },
+    "inventor": null,
+    "short_description": "A narrow canoe stabilized by a float attached to its side.",
+    "description": "The outrigger canoe adds a float, or ama, on one or both sides of a slender hull to prevent capsizing. Austronesian navigators used outrigger canoes to settle islands across the Pacific and as far as Madagascar. They are still used for fishing and for the popular sport of outrigger racing.",
+    "why_unchanged": "A side float gives great stability to a fast narrow hull, so traditional and racing designs remain the same.",
+    "materials": [
+      "wood",
+      "bamboo",
+      "fiberglass",
+      "rope"
+    ],
+    "faqs": [
+      {
+        "question": "What is an outrigger?",
+        "answer": "It is a float attached by crossbeams to the side of a canoe, giving it stability."
+      },
+      {
+        "question": "Who invented the outrigger canoe?",
+        "answer": "Austronesian peoples of Island Southeast Asia, who used it to settle the Pacific and reach Madagascar."
+      },
+      {
+        "question": "Is outrigger canoeing a sport?",
+        "answer": "Yes. Outrigger racing, known as va'a or wa'a, is popular in Hawaii, Tahiti and around the world."
+      }
+    ],
+    "image": {
+      "search_query": "outrigger canoe pacific beach",
+      "wikimedia_commons_category": "Outrigger canoes",
+      "alt": "An outrigger canoe on a tropical beach"
+    },
+    "tags": [
+      "boats",
+      "pacific",
+      "transport",
+      "ancient"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "coracle",
+    "name": "Coracle",
+    "category": "Outdoor, farming & travel",
+    "invention": {
+      "display": "c. 50 BCE (first written record)",
+      "year": -50,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Britain",
+      "modern_country": "United Kingdom",
+      "notes": "Julius Caesar described small hide-covered boats in Britain in the 1st century BCE; similar round boats, such as the Mesopotamian quffa and Indian parisal, were developed independently."
+    },
+    "inventor": null,
+    "short_description": "A small, round boat of woven frame covered with hide or fabric.",
+    "description": "The coracle is a round, lightweight boat made from a woven wooden frame covered with animal hide, now usually tarred canvas. A single paddler steers it with a paddle over the front. Coracles are still used for fishing on some Welsh rivers and in India and Vietnam.",
+    "why_unchanged": "A light round shell is easy to build and carry and very stable on rivers, so the traditional form persists.",
+    "materials": [
+      "willow",
+      "hazel",
+      "hide",
+      "tarred canvas"
+    ],
+    "faqs": [
+      {
+        "question": "How do you steer a coracle?",
+        "answer": "The paddler uses a figure-eight stroke over the front of the boat to move and steer."
+      },
+      {
+        "question": "Where are coracles still used?",
+        "answer": "They are still used in Wales and Shropshire and as basket boats in India and Vietnam."
+      },
+      {
+        "question": "Why can a coracle be carried on your back?",
+        "answer": "Its light frame and covering mean a coracle can weigh under 15 kg, so fishermen carry it home over their shoulder."
+      }
+    ],
+    "image": {
+      "search_query": "welsh coracle river",
+      "wikimedia_commons_category": "Coracles",
+      "alt": "A round coracle on a river in Wales"
+    },
+    "tags": [
+      "boats",
+      "rivers",
+      "ancient",
+      "wales"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "rudder",
+    "name": "Rudder",
+    "category": "Outdoor, farming & travel",
+    "invention": {
+      "display": "1st century CE",
+      "year": 100,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Han dynasty China",
+      "modern_country": "China",
+      "notes": "A pottery ship model from a Han dynasty tomb shows a sternpost rudder around the 1st century CE; earlier ships were steered with large side oars. Europe adopted the sternpost rudder around 1200."
+    },
+    "inventor": null,
+    "short_description": "A hinged blade at the stern of a boat used to steer it.",
+    "description": "The rudder is a flat blade mounted on the stern that turns to change a vessel's direction. Han dynasty China had sternpost rudders by about the 1st century CE, replacing large steering oars. Rudders on small boats still use the same hinged blade and tiller.",
+    "why_unchanged": "A hinged blade deflecting water is the simplest and most effective way to steer, so the concept has not changed.",
+    "materials": [
+      "wood",
+      "steel",
+      "fiberglass",
+      "bronze"
+    ],
+    "faqs": [
+      {
+        "question": "What was used before the rudder?",
+        "answer": "Ships were steered with large oars mounted near the stern, called steering oars."
+      },
+      {
+        "question": "Where was the sternpost rudder invented?",
+        "answer": "In China, with the earliest evidence from Han dynasty pottery models around the 1st century CE."
+      },
+      {
+        "question": "How does a rudder steer a boat?",
+        "answer": "Turning the blade deflects water flowing past the stern, pushing the stern sideways and turning the boat."
+      }
+    ],
+    "image": {
+      "search_query": "wooden boat rudder tiller",
+      "wikimedia_commons_category": "Rudders",
+      "alt": "A wooden rudder and tiller at the stern of a small boat"
+    },
+    "tags": [
+      "boats",
+      "sailing",
+      "ancient",
+      "china"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "rickshaw",
+    "name": "Rickshaw",
+    "category": "Outdoor, farming & travel",
+    "invention": {
+      "display": "c. 1869",
+      "year": 1869,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Japan",
+      "modern_country": "Japan",
+      "notes": "The pulled rickshaw (jinrikisha) appeared in Japan around 1869; several people, including Izumi Yosuke, have been credited, and the attribution is disputed."
+    },
+    "inventor": null,
+    "short_description": "A two-wheeled passenger cart pulled by a person on foot.",
+    "description": "The pulled rickshaw is a two-wheeled cart with a seat for one or two passengers, drawn by a runner holding the shafts. It appeared in Japan around 1869 and spread rapidly across Asia. Hand-pulled rickshaws survive in a few cities and as tourist rides, with the same design as the originals.",
+    "why_unchanged": "Two large wheels balanced under the seat let a single runner pull passengers easily, so the original design was never altered.",
+    "materials": [
+      "wood",
+      "steel",
+      "leather",
+      "canvas"
+    ],
+    "faqs": [
+      {
+        "question": "Where does the word \"rickshaw\" come from?",
+        "answer": "It comes from the Japanese jinrikisha, meaning \"human-powered vehicle\"."
+      },
+      {
+        "question": "Who invented the rickshaw?",
+        "answer": "It appeared in Japan around 1869, and several people have been credited, so the inventor is uncertain."
+      },
+      {
+        "question": "Are pulled rickshaws still used?",
+        "answer": "Yes, in a few places such as Kolkata and as tourist rides in Japan, though cycle and auto rickshaws are far more common."
+      }
+    ],
+    "image": {
+      "search_query": "traditional pulled rickshaw japan",
+      "wikimedia_commons_category": "Rickshaws",
+      "alt": "A traditional hand-pulled rickshaw on a street in Japan"
+    },
+    "tags": [
+      "transport",
+      "japan",
+      "industrial"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "tumpline",
+    "name": "Tumpline",
+    "category": "Outdoor, farming & travel",
+    "invention": {
+      "display": "Antiquity (date uncertain)",
+      "year": -1000,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Mesoamerica and other regions",
+      "modern_country": "Unknown",
+      "notes": "Tumplines were used by Indigenous peoples of the Americas and in the Himalayas, East Africa and elsewhere; their origin cannot be traced and the date is an estimate."
+    },
+    "inventor": null,
+    "short_description": "A strap across the forehead used to carry heavy loads on the back.",
+    "description": "The tumpline is a strap tied to a load and passed over the top of the head, so the spine and neck take the weight. Porters in Mesoamerica, the Himalayas and East Africa have carried enormous loads this way for centuries. It is still used by porters and by canoeists on portages.",
+    "why_unchanged": "A head strap transfers weight straight down the spine, an efficient method that needs no modern improvement.",
+    "materials": [
+      "leather",
+      "fiber",
+      "cotton",
+      "nylon"
+    ],
+    "faqs": [
+      {
+        "question": "What is a tumpline?",
+        "answer": "It is a strap passed over the forehead or top of the head and attached to a load carried on the back."
+      },
+      {
+        "question": "Why do porters use tumplines?",
+        "answer": "They put weight directly on the spine, allowing very heavy loads to be carried over long distances."
+      },
+      {
+        "question": "Do modern hikers use tumplines?",
+        "answer": "Some canoeists and backpackers use them alongside shoulder straps to share the load during portages."
+      }
+    ],
+    "image": {
+      "search_query": "porter carrying load with forehead strap",
+      "wikimedia_commons_category": "Tumplines",
+      "alt": "A porter carrying a basket supported by a forehead strap"
+    },
+    "tags": [
+      "travel",
+      "carrying",
+      "ancient"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "tent",
+    "name": "Tent",
+    "category": "Outdoor, farming & travel",
+    "invention": {
+      "display": "Upper Palaeolithic (c. 40,000 BCE)",
+      "year": -40000,
+      "approximate": true,
+      "era": "Prehistoric"
+    },
+    "place_of_invention": {
+      "region": "Eurasia",
+      "modern_country": "Unknown",
+      "notes": "Archaeologists infer portable hide-covered shelters from Upper Palaeolithic campsites, but materials rarely survive; the date is a rough estimate."
+    },
+    "inventor": null,
+    "short_description": "A portable shelter of fabric or hide stretched over poles.",
+    "description": "Tents gave nomadic hunters and herders shelter that could be packed up and moved. Hide-covered pole structures are inferred from prehistoric campsites, and later tents such as the yurt and tipi became highly developed. Modern camping tents use nylon and aluminum poles but keep the same idea of fabric stretched over a frame.",
+    "why_unchanged": "A light covering stretched over poles gives portable shelter with minimal materials, so only materials have changed.",
+    "materials": [
+      "canvas",
+      "nylon",
+      "hide",
+      "aluminum"
+    ],
+    "faqs": [
+      {
+        "question": "How old are tents?",
+        "answer": "Portable hide shelters were likely used by Upper Palaeolithic hunters tens of thousands of years ago."
+      },
+      {
+        "question": "What is the difference between a tent and a yurt?",
+        "answer": "A yurt is a sturdier round tent with a lattice wall frame and felt covering, designed for longer stays."
+      },
+      {
+        "question": "Why do modern tents have a rainfly?",
+        "answer": "A separate outer layer keeps rain off while letting moisture from inside escape, reducing condensation."
+      }
+    ],
+    "image": {
+      "search_query": "camping tent in forest",
+      "wikimedia_commons_category": "Tents",
+      "alt": "A camping tent pitched in a forest clearing"
+    },
+    "tags": [
+      "camping",
+      "shelter",
+      "travel",
+      "prehistoric"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "sleeping-mat",
+    "name": "Sleeping mat",
+    "category": "Outdoor, farming & travel",
+    "invention": {
+      "display": "c. 200,000 years ago",
+      "year": -200000,
+      "approximate": true,
+      "era": "Prehistoric"
+    },
+    "place_of_invention": {
+      "region": "Border Cave, KwaZulu-Natal",
+      "modern_country": "South Africa",
+      "notes": "Grass bedding layers at Border Cave are about 200,000 years old; plant bedding at nearby Sibudu Cave is about 77,000 years old."
+    },
+    "inventor": null,
+    "short_description": "A padded layer placed on the ground to sleep on.",
+    "description": "Sleeping mats insulate a sleeper from the cold, hard ground. The oldest known bedding, made of grass layered over ash, was found in South Africa's Border Cave and is around 200,000 years old. Woven reed mats and modern foam camping pads serve the same purpose.",
+    "why_unchanged": "A layer of insulating material between body and ground is all that is needed, so only the materials have changed.",
+    "materials": [
+      "grass",
+      "reed",
+      "foam",
+      "wool"
+    ],
+    "faqs": [
+      {
+        "question": "What is the oldest known bed?",
+        "answer": "Grass bedding from Border Cave in South Africa, about 200,000 years old, is the oldest known."
+      },
+      {
+        "question": "Why is a sleeping mat important when camping?",
+        "answer": "The ground draws heat from your body, and a mat's insulation is often more important than the sleeping bag for staying warm."
+      },
+      {
+        "question": "Why did early humans put ash under bedding?",
+        "answer": "Researchers think ash helped keep crawling insects away from the sleeping area."
+      }
+    ],
+    "image": {
+      "search_query": "camping sleeping mat",
+      "wikimedia_commons_category": "Sleeping pads",
+      "alt": "A rolled foam sleeping mat beside a tent"
+    },
+    "tags": [
+      "camping",
+      "sleep",
+      "prehistoric",
+      "africa"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "backpack",
+    "name": "Backpack",
+    "category": "Outdoor, farming & travel",
+    "invention": {
+      "display": "c. 3300 BCE",
+      "year": -3300,
+      "approximate": true,
+      "era": "Prehistoric"
+    },
+    "place_of_invention": {
+      "region": "Ötztal Alps",
+      "modern_country": "Italy",
+      "notes": "Ötzi the Iceman, found on the Austria–Italy border, carried a frame pack of hazel and larch around 3300 BCE; it is the oldest known, but carrying packs are surely much older."
+    },
+    "inventor": null,
+    "short_description": "A bag carried on the back with shoulder straps.",
+    "description": "The backpack lets a traveler carry gear on the back, leaving hands free. Ötzi the Iceman, who died in the Alps about 5,300 years ago, carried a frame pack of hazel and larch wood. Modern rucksacks of nylon with padded straps follow the same principle.",
+    "why_unchanged": "Carrying weight on the back with shoulder straps is the most efficient way to walk with a load, so the basic design has stayed the same.",
+    "materials": [
+      "leather",
+      "canvas",
+      "nylon",
+      "wood"
+    ],
+    "faqs": [
+      {
+        "question": "What is the oldest known backpack?",
+        "answer": "The frame pack carried by Ötzi the Iceman, about 5,300 years old, is the oldest known."
+      },
+      {
+        "question": "Where does the word \"rucksack\" come from?",
+        "answer": "It comes from German, meaning \"back sack\"."
+      },
+      {
+        "question": "How should a backpack be packed?",
+        "answer": "Heavier items should sit close to the back and between the shoulder blades to keep the load balanced."
+      }
+    ],
+    "image": {
+      "search_query": "hiking backpack mountain trail",
+      "wikimedia_commons_category": "Backpacks",
+      "alt": "A hiker wearing a backpack on a mountain trail"
+    },
+    "tags": [
+      "travel",
+      "hiking",
+      "prehistoric"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "hiking-staff",
+    "name": "Hiking staff",
+    "category": "Outdoor, farming & travel",
+    "invention": {
+      "display": "Prehistoric (date unknown)",
+      "year": -10000,
+      "approximate": true,
+      "era": "Prehistoric"
+    },
+    "place_of_invention": {
+      "region": "Unknown; universal",
+      "modern_country": "Unknown",
+      "notes": "Walking with a staff is universal and predates any record; the date given is a rough estimate."
+    },
+    "inventor": null,
+    "short_description": "A long walking stick used for balance and support on rough terrain.",
+    "description": "The hiking staff is a sturdy pole held in one hand to help with balance, take strain off the legs and probe uncertain ground. Travelers, pilgrims and shepherds have carried staffs since before recorded history. Wooden staffs and modern aluminum trekking poles serve the same role.",
+    "why_unchanged": "A strong pole adds a third point of contact with the ground, which is all that a walker needs.",
+    "materials": [
+      "wood",
+      "aluminum",
+      "carbon fiber",
+      "rubber"
+    ],
+    "faqs": [
+      {
+        "question": "What is the difference between a hiking staff and trekking poles?",
+        "answer": "A staff is a single tall pole, while trekking poles come in pairs and are used like ski poles."
+      },
+      {
+        "question": "Does a hiking staff really help?",
+        "answer": "Yes. It improves balance on uneven ground and can reduce strain on knees when descending."
+      },
+      {
+        "question": "Why did pilgrims carry staffs?",
+        "answer": "Pilgrims on long journeys used staffs for walking, defense and as a symbol of pilgrimage."
+      }
+    ],
+    "image": {
+      "search_query": "wooden hiking staff trail",
+      "wikimedia_commons_category": "Walking sticks",
+      "alt": "A wooden hiking staff held on a forest trail"
+    },
+    "tags": [
+      "hiking",
+      "travel",
+      "prehistoric"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "hammock",
+    "name": "Hammock",
+    "category": "Outdoor, farming & travel",
+    "invention": {
+      "display": "Pre-Columbian (c. 1000 CE)",
+      "year": 1000,
+      "approximate": true,
+      "era": "Medieval"
+    },
+    "place_of_invention": {
+      "region": "Caribbean and Central and South America",
+      "modern_country": "Unknown",
+      "notes": "Europeans first saw hammocks among the Taíno in 1492; they were used across tropical America long before, but the origin date is unknown."
+    },
+    "inventor": null,
+    "short_description": "A sling of fabric or netting suspended between two supports for sleeping or resting.",
+    "description": "The hammock was developed by Indigenous peoples of the Caribbean and tropical America, who slept above the ground away from insects, snakes and damp. Columbus's crews encountered them in 1492, and European navies adopted them for sailors. Hammocks made of woven cotton or nylon are still used for camping and relaxation.",
+    "why_unchanged": "A suspended sling holds the body comfortably with nothing but cloth or net and two anchor points, so no redesign was needed.",
+    "materials": [
+      "cotton",
+      "sisal",
+      "nylon",
+      "rope"
+    ],
+    "faqs": [
+      {
+        "question": "Where does the word \"hammock\" come from?",
+        "answer": "It comes from the Taíno word hamaka, via Spanish hamaca."
+      },
+      {
+        "question": "Why were hammocks used on ships?",
+        "answer": "They swing with the motion of the ship, saving space and keeping sailors from being thrown out of bed."
+      },
+      {
+        "question": "How do you sleep flat in a hammock?",
+        "answer": "Lying diagonally across a well-sagged hammock lets your body lie almost flat."
+      }
+    ],
+    "image": {
+      "search_query": "woven hammock between trees",
+      "wikimedia_commons_category": "Hammocks",
+      "alt": "A woven hammock hanging between two palm trees"
+    },
+    "tags": [
+      "camping",
+      "sleep",
+      "travel",
+      "medieval"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "tent-peg",
+    "name": "Tent peg",
+    "category": "Outdoor, farming & travel",
+    "invention": {
+      "display": "Roman era (date uncertain)",
+      "year": 0,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Roman Empire",
+      "modern_country": "Unknown",
+      "notes": "Wooden and iron tent pegs are known from Roman military sites, but pegs for securing shelters are surely much older."
+    },
+    "inventor": null,
+    "short_description": "A stake driven into the ground to anchor a tent's guy ropes.",
+    "description": "Tent pegs anchor a tent to the ground by holding its guy lines and edges taut. Roman soldiers carried tent pegs for their leather tents, and nomadic cultures used wooden stakes for millennia. Modern pegs are aluminum, steel or plastic but have the same hooked or notched shape.",
+    "why_unchanged": "A stake with a notch driven into the ground at an angle holds a rope securely, so the design has never needed to change.",
+    "materials": [
+      "wood",
+      "iron",
+      "aluminum",
+      "steel"
+    ],
+    "faqs": [
+      {
+        "question": "At what angle should tent pegs be driven?",
+        "answer": "Typically at about 45 degrees, leaning away from the tent, so the guy rope pulls against the soil."
+      },
+      {
+        "question": "Did the Romans use tent pegs?",
+        "answer": "Yes. Roman soldiers used wooden and iron pegs to pitch leather tents in their marching camps."
+      },
+      {
+        "question": "What pegs work in sand or snow?",
+        "answer": "Wide, long pegs or buried \"deadman\" anchors work best in loose sand and snow."
+      }
+    ],
+    "image": {
+      "search_query": "tent peg guy rope ground",
+      "wikimedia_commons_category": "Tent pegs",
+      "alt": "A metal tent peg holding a guy rope in the grass"
+    },
+    "tags": [
+      "camping",
+      "travel",
+      "ancient"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "carrying-pole",
+    "name": "Carrying pole",
+    "category": "Outdoor, farming & travel",
+    "invention": {
+      "display": "Antiquity (date uncertain)",
+      "year": -1000,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "East and Southeast Asia",
+      "modern_country": "Unknown",
+      "notes": "Shoulder poles are used across Asia and elsewhere and appear in ancient Chinese art; their origin and date are unknown."
+    },
+    "inventor": null,
+    "short_description": "A pole carried across the shoulder with loads hung from each end.",
+    "description": "The carrying pole, or shoulder pole, balances two loads hung from its ends across one shoulder. Its flexibility lets the load bounce in rhythm with the walker's stride. It is still widely used by street vendors, farmers and porters in Asia.",
+    "why_unchanged": "Balancing two loads on a springy pole lets one person carry heavy weights efficiently, so the simple design endures.",
+    "materials": [
+      "bamboo",
+      "wood",
+      "rope"
+    ],
+    "faqs": [
+      {
+        "question": "How does a carrying pole work?",
+        "answer": "Two loads hang from the ends of the pole, which rests on one shoulder, so the weight is balanced."
+      },
+      {
+        "question": "Why are carrying poles flexible?",
+        "answer": "A springy bamboo pole bounces with each step, smoothing the load and reducing effort."
+      },
+      {
+        "question": "Is a carrying pole the same as a milkmaid's yoke?",
+        "answer": "They are related; a milkmaid's yoke is shaped to rest across both shoulders, while a carrying pole usually rests on one."
+      }
+    ],
+    "image": {
+      "search_query": "bamboo shoulder carrying pole baskets",
+      "wikimedia_commons_category": "Carrying poles",
+      "alt": "A vendor carrying baskets on a bamboo shoulder pole"
+    },
+    "tags": [
+      "travel",
+      "carrying",
+      "asia",
+      "ancient"
+    ],
+    "confidence": "low"
+  }
+]

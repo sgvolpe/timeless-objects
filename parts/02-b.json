@@ -1,0 +1,1292 @@
+[
+  {
+    "slug": "hip-flask",
+    "name": "Hip flask",
+    "category": "Tableware & containers",
+    "invention": {
+      "display": "18th century",
+      "year": 1750,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Europe (notably Britain)",
+      "modern_country": null,
+      "notes": "Small portable spirit containers are much older, but the flat, curved flask shaped to sit against the hip or in a pocket became popular in 18th-century Europe."
+    },
+    "inventor": null,
+    "short_description": "A small flat flask for carrying spirits in a pocket.",
+    "description": "People have long carried drinks in small flasks of leather, gourd or metal. The slim, curved hip flask of pewter, silver or glass became fashionable among the European gentry in the 18th century. Its flat profile and screw or hinged cap are unchanged in modern stainless steel versions.",
+    "why_unchanged": "A flat, slightly curved body fits a pocket perfectly and a tight cap prevents leaks, so the design has stayed the same.",
+    "materials": [
+      "stainless steel",
+      "pewter",
+      "silver",
+      "glass",
+      "leather"
+    ],
+    "faqs": [
+      {
+        "question": "Why are hip flasks curved?",
+        "answer": "The curve lets the flask sit comfortably against the body in a hip or jacket pocket."
+      },
+      {
+        "question": "Should you store spirits in a hip flask long-term?",
+        "answer": "It is best not to; spirits can pick up a metallic taste if left in a flask for many days."
+      },
+      {
+        "question": "Why did hip flasks become popular in the 1920s USA?",
+        "answer": "During Prohibition, discreet pocket flasks were a convenient way to carry illicit alcohol."
+      }
+    ],
+    "image": {
+      "search_query": "stainless steel hip flask",
+      "wikimedia_commons_category": "Hip flasks",
+      "alt": "A curved stainless steel hip flask"
+    },
+    "tags": [
+      "drink",
+      "portable",
+      "early modern",
+      "metal"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "tray",
+    "name": "Tray",
+    "category": "Tableware & containers",
+    "invention": {
+      "display": "Antiquity",
+      "year": -1500,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Various (Egypt, Mesopotamia and the Mediterranean)",
+      "modern_country": null,
+      "notes": "Flat carrying boards and trays of wood, metal and woven materials were used in many ancient societies; no single origin is known."
+    },
+    "inventor": null,
+    "short_description": "A flat, shallow board or dish with raised edges for carrying several items.",
+    "description": "Trays of wood, metal and basketry were used in ancient Egypt, Mesopotamia and the Mediterranean to carry food and offerings. Lacquered trays became an art form in East Asia, and silver trays a status symbol in Europe. The flat platform with a raised rim is unchanged.",
+    "why_unchanged": "A flat surface with a low rim and handholds is the simplest way to carry several things at once, so nothing needed to change.",
+    "materials": [
+      "wood",
+      "metal",
+      "silver",
+      "lacquer",
+      "plastic",
+      "bamboo"
+    ],
+    "faqs": [
+      {
+        "question": "Why do trays have raised edges?",
+        "answer": "The rim keeps items from sliding off when the tray is carried."
+      },
+      {
+        "question": "What is a lacquer tray?",
+        "answer": "A tray coated with layers of tree sap lacquer, a craft tradition in China, Japan and Korea that produces a hard, glossy finish."
+      },
+      {
+        "question": "What is a butler's tray?",
+        "answer": "A large tray, often with folding sides, that sits on a stand and was used to serve drinks in grand houses."
+      }
+    ],
+    "image": {
+      "search_query": "wooden serving tray",
+      "wikimedia_commons_category": "Trays",
+      "alt": "A wooden serving tray with handles"
+    },
+    "tags": [
+      "serveware",
+      "ancient",
+      "carrying"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "bento-box",
+    "name": "Bento box",
+    "category": "Tableware & containers",
+    "invention": {
+      "display": "Late 16th century",
+      "year": 1580,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Japan",
+      "modern_country": "Japan",
+      "notes": "Packed meals of dried rice date back to the 12th century in Japan; the word bento and lacquered lunch boxes are associated with the late 16th-century Azuchi–Momoyama period and became widespread in the Edo period."
+    },
+    "inventor": null,
+    "short_description": "A compartmented Japanese box for a single-portion packed meal.",
+    "description": "Japanese travelers and workers carried packed meals for centuries, and lacquered boxes for outings appeared in the late 16th century. In the Edo period bento were eaten at the theater and on journeys, and later at schools and offices. Modern bento boxes in plastic or wood keep the lidded, divided layout.",
+    "why_unchanged": "Separate compartments under a lid keep foods apart and portable, which is all a packed meal needs.",
+    "materials": [
+      "lacquered wood",
+      "wood",
+      "bamboo",
+      "plastic",
+      "metal"
+    ],
+    "faqs": [
+      {
+        "question": "What does bento mean?",
+        "answer": "Bento refers to a single-portion packed meal and the box that holds it in Japanese."
+      },
+      {
+        "question": "What is an ekiben?",
+        "answer": "An ekiben is a bento sold at train stations, a tradition that began in the late 19th century."
+      },
+      {
+        "question": "What is kyaraben?",
+        "answer": "Kyaraben, short for 'character bento', is food arranged to look like cartoon characters, often made for children."
+      }
+    ],
+    "image": {
+      "search_query": "japanese bento box lunch",
+      "wikimedia_commons_category": "Bento",
+      "alt": "An open bento box with rice and side dishes"
+    },
+    "tags": [
+      "lunch",
+      "japan",
+      "early modern",
+      "portable"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "egg-cup",
+    "name": "Egg cup",
+    "category": "Tableware & containers",
+    "invention": {
+      "display": "1st century CE",
+      "year": 50,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Roman Empire",
+      "modern_country": "Italy",
+      "notes": "Silver egg cups are often said to have been found at Pompeii, but sources vary; egg cups became common in Europe from the 17th–18th centuries."
+    },
+    "inventor": null,
+    "short_description": "A small cup that holds a boiled egg upright for eating.",
+    "description": "Holders for eating boiled eggs are reported from Roman times, and egg cups became standard in European households from the 18th century. They were made of silver, porcelain, pottery and wood, sometimes with a matching spoon. The small cup sized to hold an egg upright is unchanged.",
+    "why_unchanged": "A small cup shaped to hold an egg upright is perfectly sized for the task, so there has been no reason to change it.",
+    "materials": [
+      "porcelain",
+      "ceramic",
+      "silver",
+      "wood",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "Did the Romans really use egg cups?",
+        "answer": "Egg cups are often said to have been found at Pompeii, but the evidence is debated; they became common in Europe in the 18th century."
+      },
+      {
+        "question": "Why are egg spoons sometimes not silver?",
+        "answer": "Egg yolk tarnishes silver, so egg spoons are often made of bone, horn or gilded metal."
+      },
+      {
+        "question": "Do people collect egg cups?",
+        "answer": "Yes, egg cup collecting is a hobby called pocillovy."
+      }
+    ],
+    "image": {
+      "search_query": "egg cup with boiled egg",
+      "wikimedia_commons_category": "Egg cups",
+      "alt": "A ceramic egg cup holding a soft-boiled egg"
+    },
+    "tags": [
+      "breakfast",
+      "tableware",
+      "ancient",
+      "ceramic"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "salt-cellar",
+    "name": "Salt cellar",
+    "category": "Tableware & containers",
+    "invention": {
+      "display": "Roman era",
+      "year": 0,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Roman Empire",
+      "modern_country": "Italy",
+      "notes": "Romans used small salt dishes (salinum); medieval Europe developed elaborate 'great salts' as status symbols. Open salt dishes were used in many cultures."
+    },
+    "inventor": null,
+    "short_description": "A small open dish for holding salt at the table.",
+    "description": "Salt was precious in antiquity, and Romans kept it in small dishes called salinum, sometimes made of silver. In medieval Europe a large salt cellar sat on the table to mark status, giving rise to the phrase 'above the salt'. Small open salt dishes with tiny spoons are still used today.",
+    "why_unchanged": "A small open dish for pinching salt is as simple as tableware gets, so its form has persisted.",
+    "materials": [
+      "silver",
+      "glass",
+      "ceramic",
+      "wood",
+      "stone"
+    ],
+    "faqs": [
+      {
+        "question": "What does 'above the salt' mean?",
+        "answer": "At medieval feasts the large salt cellar marked the line between higher-status guests seated above it and lesser guests below."
+      },
+      {
+        "question": "Why is it called a cellar?",
+        "answer": "It comes from Old French 'salier', meaning salt holder; 'cellar' is a later misunderstanding of the word."
+      },
+      {
+        "question": "Are salt cellars still used?",
+        "answer": "Yes, many cooks prefer open salt dishes or 'salt pigs' for taking pinches of salt."
+      }
+    ],
+    "image": {
+      "search_query": "salt cellar with spoon",
+      "wikimedia_commons_category": "Salt cellars",
+      "alt": "A small salt cellar with a tiny spoon"
+    },
+    "tags": [
+      "condiment",
+      "tableware",
+      "ancient",
+      "salt"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "pepper-mill",
+    "name": "Pepper mill",
+    "category": "Tableware & containers",
+    "invention": {
+      "display": "1874 (Peugeot mechanism)",
+      "year": 1874,
+      "approximate": false,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Franche-Comté",
+      "modern_country": "France",
+      "notes": "Hand spice mills existed earlier, but the Peugeot brothers' company designed the pepper mill mechanism in 1874 that became the model for most modern mills."
+    },
+    "inventor": null,
+    "short_description": "A hand-operated device that grinds whole peppercorns.",
+    "description": "Spices were ground with a mortar and pestle for millennia, and small hand mills for spices were used in early modern Europe. In 1874 the French Peugeot company created a pepper mill with a grooved steel grinding mechanism that set the standard. Most pepper mills still use the same principle of a twisting top driving a burr.",
+    "why_unchanged": "Turning a top to rotate a burr against a ring is efficient and adjustable, so the 19th-century mechanism is still in use.",
+    "materials": [
+      "wood",
+      "steel",
+      "ceramic",
+      "acrylic"
+    ],
+    "faqs": [
+      {
+        "question": "Who made the classic pepper mill?",
+        "answer": "The French Peugeot company introduced its pepper mill mechanism in 1874, decades before it made cars."
+      },
+      {
+        "question": "Why grind pepper fresh?",
+        "answer": "Peppercorns lose their aromatic oils quickly once ground, so freshly ground pepper tastes stronger."
+      },
+      {
+        "question": "Can a pepper mill grind salt?",
+        "answer": "Not with steel burrs, which salt corrodes; salt mills use ceramic or nylon mechanisms."
+      }
+    ],
+    "image": {
+      "search_query": "wooden pepper mill",
+      "wikimedia_commons_category": "Pepper mills",
+      "alt": "A tall wooden pepper mill"
+    },
+    "tags": [
+      "condiment",
+      "spice",
+      "industrial",
+      "france"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "teacup",
+    "name": "Teacup",
+    "category": "Tableware & containers",
+    "invention": {
+      "display": "Mid-18th century (handled teacup)",
+      "year": 1750,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "England and Europe",
+      "modern_country": null,
+      "notes": "Chinese tea was drunk from handleless bowls; European potteries added handles to teacups in the mid-18th century, though the exact first use is not documented."
+    },
+    "inventor": null,
+    "short_description": "A small handled cup, usually with a saucer, used for drinking tea.",
+    "description": "Tea arrived in Europe in the 17th century along with small handleless Chinese porcelain bowls. European potteries adapted them by adding handles, and by the late 18th century the handled teacup on a saucer was standard. It has kept its wide, shallow shape, which helps tea cool quickly.",
+    "why_unchanged": "A thin, wide, handled cup cools tea to drinking temperature and protects fingers, so the design has not needed to change.",
+    "materials": [
+      "porcelain",
+      "bone china",
+      "ceramic",
+      "glass"
+    ],
+    "faqs": [
+      {
+        "question": "Why didn't early teacups have handles?",
+        "answer": "They were modeled on Chinese tea bowls, which had no handles; Europeans added them later to avoid burned fingers."
+      },
+      {
+        "question": "What is bone china?",
+        "answer": "It is porcelain made with bone ash, developed in England in the late 18th century, prized for its whiteness and strength."
+      },
+      {
+        "question": "Why are teacups wider than coffee cups?",
+        "answer": "The wide shape helps tea cool quickly, while coffee cups are often taller to retain heat."
+      }
+    ],
+    "image": {
+      "search_query": "porcelain teacup and saucer",
+      "wikimedia_commons_category": "Teacups",
+      "alt": "A porcelain teacup with a handle on a saucer"
+    },
+    "tags": [
+      "tea",
+      "drinkware",
+      "porcelain",
+      "early modern"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "beer-stein",
+    "name": "Beer stein",
+    "category": "Tableware & containers",
+    "invention": {
+      "display": "16th century",
+      "year": 1525,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Germany",
+      "modern_country": "Germany",
+      "notes": "Lidded beer mugs became common in German lands in the 16th century; the claim that lids were required by plague-era hygiene laws is widely repeated but not firmly documented."
+    },
+    "inventor": null,
+    "short_description": "A large lidded beer mug, traditionally made of stoneware.",
+    "description": "Stoneware mugs became popular in Germany as potters mastered high-fired stoneware. Hinged pewter lids, possibly adopted to keep out insects, became a defining feature. Steins remain associated with German beer culture, especially decorative versions.",
+    "why_unchanged": "A heavy mug with a hinged lid protects beer and is operated with one thumb, so the form has stayed the same.",
+    "materials": [
+      "stoneware",
+      "pewter",
+      "glass",
+      "porcelain"
+    ],
+    "faqs": [
+      {
+        "question": "What does 'stein' mean?",
+        "answer": "It is short for German 'Steinzeugkrug', meaning stoneware jug."
+      },
+      {
+        "question": "Why do beer steins have lids?",
+        "answer": "Lids kept out insects and debris; a popular story links them to hygiene laws during plague outbreaks, but this is not firmly proven."
+      },
+      {
+        "question": "Is a Maß the same as a stein?",
+        "answer": "A Maß is a one-liter glass beer mug used at Oktoberfest; steins are traditionally stoneware with a lid."
+      }
+    ],
+    "image": {
+      "search_query": "german beer stein lid",
+      "wikimedia_commons_category": "Beer steins",
+      "alt": "A decorated stoneware beer stein with a pewter lid"
+    },
+    "tags": [
+      "beer",
+      "drinkware",
+      "germany",
+      "stoneware"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "drinking-horn",
+    "name": "Drinking horn",
+    "category": "Tableware & containers",
+    "invention": {
+      "display": "1st millennium BCE",
+      "year": -600,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Eurasia (Scythians, Greeks, Thracians and others)",
+      "modern_country": null,
+      "notes": "Drinking horns were used by many ancient Eurasian peoples; ornamented examples from Scythian, Thracian and Germanic contexts are well known."
+    },
+    "inventor": null,
+    "short_description": "A cattle horn hollowed out and used as a drinking vessel.",
+    "description": "Hollow horns of cattle were among the first drinking vessels and were used ceremonially by Scythians, Thracians, Greeks, Germanic peoples and Vikings. Wealthy owners decorated horns with metal mounts. They are still used for celebrations and reenactments.",
+    "why_unchanged": "A natural horn is already a perfect drinking vessel, so its form has never changed.",
+    "materials": [
+      "cattle horn",
+      "silver",
+      "bronze",
+      "glass"
+    ],
+    "faqs": [
+      {
+        "question": "Did Vikings really drink from horns?",
+        "answer": "Yes, drinking horns are found in Viking-age graves and sagas, though cups and bowls were also used."
+      },
+      {
+        "question": "Why can't a drinking horn be set down?",
+        "answer": "The pointed tip means it must be held or placed in a stand until emptied."
+      },
+      {
+        "question": "Are drinking horns still used?",
+        "answer": "Yes, at festivals, reenactments and some traditional celebrations, such as in Georgia's feasts."
+      }
+    ],
+    "image": {
+      "search_query": "viking drinking horn",
+      "wikimedia_commons_category": "Drinking horns",
+      "alt": "A decorated drinking horn on a stand"
+    },
+    "tags": [
+      "drinkware",
+      "ancient",
+      "horn",
+      "ceremonial"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "goblet",
+    "name": "Goblet",
+    "category": "Tableware & containers",
+    "invention": {
+      "display": "Bronze Age",
+      "year": -2500,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Near East and eastern Mediterranean",
+      "modern_country": null,
+      "notes": "Stemmed drinking cups of metal and pottery appear in several Bronze Age cultures; no single origin is known."
+    },
+    "inventor": null,
+    "short_description": "A drinking vessel with a bowl on a stem and foot.",
+    "description": "Stemmed drinking cups were made by many Bronze Age cultures from clay, silver and gold. In medieval and Renaissance Europe, goblets of precious metal and glass were symbols of wealth. Today's goblets of glass or metal retain the bowl-stem-foot form.",
+    "why_unchanged": "A raised bowl on a stem is easy to grip and looks dignified, so it has kept its shape since antiquity.",
+    "materials": [
+      "glass",
+      "silver",
+      "pewter",
+      "gold",
+      "ceramic"
+    ],
+    "faqs": [
+      {
+        "question": "What is the difference between a goblet and a wine glass?",
+        "answer": "A goblet usually has a thicker stem and larger bowl, and may be metal; wine glasses are thin-stemmed glass."
+      },
+      {
+        "question": "Are goblets used in religious ceremonies?",
+        "answer": "Yes. A ceremonial goblet called a chalice is used in Christian Communion."
+      },
+      {
+        "question": "How old are goblets?",
+        "answer": "Stemmed cups date to the Bronze Age, more than 4,000 years ago."
+      }
+    ],
+    "image": {
+      "search_query": "medieval goblet",
+      "wikimedia_commons_category": "Goblets",
+      "alt": "A metal goblet with a decorated stem"
+    },
+    "tags": [
+      "drinkware",
+      "ancient",
+      "metal",
+      "glass"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "tea-bowl",
+    "name": "Tea bowl",
+    "category": "Tableware & containers",
+    "invention": {
+      "display": "Song dynasty (c. 1000)",
+      "year": 1000,
+      "approximate": true,
+      "era": "Medieval"
+    },
+    "place_of_invention": {
+      "region": "China",
+      "modern_country": "China",
+      "notes": "Tea bowls were made in Tang and Song dynasty China, notably Jian ware; Zen monks brought the tradition to Japan, where the chawan became central to the tea ceremony."
+    },
+    "inventor": null,
+    "short_description": "A handleless bowl for preparing and drinking tea.",
+    "description": "In Song dynasty China, powdered tea was whisked in dark-glazed bowls such as Jian ware. Japanese monks brought the practice home, and the chawan became the centerpiece of the Japanese tea ceremony. Tea bowls are still handmade and used in essentially the same way.",
+    "why_unchanged": "A wide handleless bowl lets tea be whisked and held in both hands, which is all the ritual requires.",
+    "materials": [
+      "stoneware",
+      "porcelain",
+      "clay",
+      "ceramic"
+    ],
+    "faqs": [
+      {
+        "question": "What is a chawan?",
+        "answer": "Chawan is the Japanese word for a tea bowl used in the tea ceremony to prepare and drink matcha."
+      },
+      {
+        "question": "What is Jian ware?",
+        "answer": "Jian ware is a dark-glazed Song dynasty stoneware highly prized for whisking tea; in Japan it is called tenmoku."
+      },
+      {
+        "question": "Why are some tea bowls irregular?",
+        "answer": "Japanese tea aesthetics value wabi-sabi, the beauty of imperfection, so handmade irregular bowls are prized."
+      }
+    ],
+    "image": {
+      "search_query": "japanese chawan tea bowl matcha",
+      "wikimedia_commons_category": "Chawan",
+      "alt": "A handmade ceramic tea bowl with matcha"
+    },
+    "tags": [
+      "tea",
+      "china",
+      "japan",
+      "ceramic",
+      "medieval"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "gravy-boat",
+    "name": "Gravy boat",
+    "category": "Tableware & containers",
+    "invention": {
+      "display": "Early 18th century",
+      "year": 1710,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "England and France",
+      "modern_country": null,
+      "notes": "Silver sauce boats appear in English and French households in the early 18th century; earlier sauce containers existed."
+    },
+    "inventor": null,
+    "short_description": "A low, boat-shaped jug for serving gravy or sauce.",
+    "description": "Silver sauce boats emerged in early 18th-century England and France as sauces became important in fine cuisine. Porcelain and pottery versions soon followed. The long spout, handle and saucer-like stand are unchanged.",
+    "why_unchanged": "A long spout and handle pour sauce neatly over food, so the form has persisted.",
+    "materials": [
+      "silver",
+      "porcelain",
+      "ceramic",
+      "stainless steel"
+    ],
+    "faqs": [
+      {
+        "question": "Why is it called a gravy boat?",
+        "answer": "Its elongated shape, with a spout at one end, resembles a small boat."
+      },
+      {
+        "question": "What is a fat separator gravy boat?",
+        "answer": "A variant that pours from the bottom, leaving fat behind; it uses the same basic boat shape."
+      },
+      {
+        "question": "When did gravy boats appear?",
+        "answer": "Silver sauce boats are recorded in England and France in the early 18th century."
+      }
+    ],
+    "image": {
+      "search_query": "gravy boat with saucer",
+      "wikimedia_commons_category": "Sauce boats",
+      "alt": "A white porcelain gravy boat"
+    },
+    "tags": [
+      "serveware",
+      "sauce",
+      "early modern"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "butter-dish",
+    "name": "Butter dish",
+    "category": "Tableware & containers",
+    "invention": {
+      "display": "18th century",
+      "year": 1750,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Europe",
+      "modern_country": null,
+      "notes": "Covered dishes for butter appeared in Europe in the 18th century as table manners and dairy consumption spread; exact origin is undocumented."
+    },
+    "inventor": null,
+    "short_description": "A covered dish for keeping and serving butter.",
+    "description": "Butter dishes with covers became common in 18th- and 19th-century European households to protect butter from dust and odors. American stick-shaped butter dishes followed the shape of butter sticks. The base and dome or cover remain the same today.",
+    "why_unchanged": "A base with a cover is all that is needed to protect butter, so the design has not needed to change.",
+    "materials": [
+      "ceramic",
+      "glass",
+      "porcelain",
+      "silver"
+    ],
+    "faqs": [
+      {
+        "question": "Why use a butter dish?",
+        "answer": "A covered dish protects butter from drying out and from absorbing fridge odors."
+      },
+      {
+        "question": "What is a French butter dish?",
+        "answer": "Also called a butter bell, it keeps butter in an inverted cup sealed with water to keep it fresh unrefrigerated."
+      },
+      {
+        "question": "Why are some butter dishes long and narrow?",
+        "answer": "They match the shape of the quarter-pound butter sticks common in the USA."
+      }
+    ],
+    "image": {
+      "search_query": "covered glass butter dish",
+      "wikimedia_commons_category": "Butter dishes",
+      "alt": "A covered ceramic butter dish"
+    },
+    "tags": [
+      "dairy",
+      "tableware",
+      "early modern"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "sugar-bowl",
+    "name": "Sugar bowl",
+    "category": "Tableware & containers",
+    "invention": {
+      "display": "Late 17th century",
+      "year": 1690,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Europe",
+      "modern_country": null,
+      "notes": "Sugar bowls became common in Europe alongside tea and coffee in the late 17th and 18th centuries; their origins are not tied to a specific place."
+    },
+    "inventor": null,
+    "short_description": "A small lidded bowl for serving sugar.",
+    "description": "As sugar became affordable in Europe, along with tea and coffee, households acquired lidded bowls for serving it. Silver and porcelain sugar bowls were part of tea services in the 18th century. They are still made in the same simple shape.",
+    "why_unchanged": "A small lidded bowl protects sugar and allows easy access, so the form needed no change.",
+    "materials": [
+      "porcelain",
+      "silver",
+      "glass",
+      "ceramic"
+    ],
+    "faqs": [
+      {
+        "question": "Why do sugar bowls have lids?",
+        "answer": "Lids keep out moisture, dust and insects, especially ants."
+      },
+      {
+        "question": "Why are sugar bowls part of tea sets?",
+        "answer": "Sugar became popular in tea in the 18th century, so matching sugar bowls were included in tea services."
+      },
+      {
+        "question": "What is a sugar bowl's spoon notch for?",
+        "answer": "The notch in the lid lets a spoon stay in the bowl while it is covered."
+      }
+    ],
+    "image": {
+      "search_query": "porcelain sugar bowl",
+      "wikimedia_commons_category": "Sugar bowls",
+      "alt": "A lidded porcelain sugar bowl"
+    },
+    "tags": [
+      "tea",
+      "sugar",
+      "tableware",
+      "early modern"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "cruet",
+    "name": "Cruet",
+    "category": "Tableware & containers",
+    "invention": {
+      "display": "Medieval period",
+      "year": 1300,
+      "approximate": true,
+      "era": "Medieval"
+    },
+    "place_of_invention": {
+      "region": "Europe",
+      "modern_country": null,
+      "notes": "Small vessels called cruets were used in the medieval Christian liturgy for wine and water; table cruets for oil and vinegar and cruet stands became common in 17th–18th century Europe."
+    },
+    "inventor": null,
+    "short_description": "A small glass bottle with a stopper for serving oil or vinegar at the table.",
+    "description": "In medieval Europe small cruets held wine and water during Mass. By the 18th century cruet stands with oil, vinegar and spice containers were a fixture on European tables. Glass cruets with a narrow spout and stopper are still used the same way.",
+    "why_unchanged": "A small bottle with a narrow spout dispenses oil or vinegar by drops, so the form remains unchanged.",
+    "materials": [
+      "glass",
+      "crystal",
+      "ceramic",
+      "silver"
+    ],
+    "faqs": [
+      {
+        "question": "What is a cruet stand?",
+        "answer": "A frame holding several cruets and shakers, popular in 18th- and 19th-century dining rooms."
+      },
+      {
+        "question": "Where does the word cruet come from?",
+        "answer": "From Anglo-French 'cruet', a diminutive of the Old French word for pot."
+      },
+      {
+        "question": "Are cruets used in churches?",
+        "answer": "Yes, cruets for water and wine are still used in Catholic and some other services."
+      }
+    ],
+    "image": {
+      "search_query": "glass oil vinegar cruets",
+      "wikimedia_commons_category": "Cruets",
+      "alt": "Two glass cruets of oil and vinegar"
+    },
+    "tags": [
+      "condiment",
+      "glass",
+      "medieval",
+      "tableware"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "decanter",
+    "name": "Decanter",
+    "category": "Tableware & containers",
+    "invention": {
+      "display": "Late 17th century",
+      "year": 1690,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "England",
+      "modern_country": "United Kingdom",
+      "notes": "Glass serving vessels for wine existed in Roman times; the stoppered glass decanter developed in England after George Ravenscroft's lead crystal of the 1670s."
+    },
+    "inventor": null,
+    "short_description": "A glass vessel used to serve wine or spirits after pouring them from the bottle.",
+    "description": "Wine was poured into serving vessels in antiquity, but English lead crystal of the late 17th century enabled the classic stoppered decanter. Decanting separated wine from sediment and showed off its color. The wide base and narrow neck design is unchanged.",
+    "why_unchanged": "A wide body aerates wine and a narrow neck pours cleanly, so the design still works perfectly.",
+    "materials": [
+      "glass",
+      "crystal"
+    ],
+    "faqs": [
+      {
+        "question": "Why decant wine?",
+        "answer": "To separate it from sediment and to expose it to air, which can soften young red wines."
+      },
+      {
+        "question": "What is the difference between a decanter and a carafe?",
+        "answer": "Decanters often have stoppers and are used for wine or spirits; carafes are open and often used for water."
+      },
+      {
+        "question": "Why is lead crystal important for decanters?",
+        "answer": "English lead crystal made clear, heavy glass that showed off wine and could be cut decoratively."
+      }
+    ],
+    "image": {
+      "search_query": "crystal wine decanter",
+      "wikimedia_commons_category": "Decanters",
+      "alt": "A crystal decanter filled with red wine"
+    },
+    "tags": [
+      "wine",
+      "glass",
+      "early modern",
+      "england"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "carafe",
+    "name": "Carafe",
+    "category": "Tableware & containers",
+    "invention": {
+      "display": "17th century",
+      "year": 1650,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Europe",
+      "modern_country": null,
+      "notes": "Simple open-mouthed glass vessels for water and wine were made since Roman times; the word carafe entered European languages via Italian and Spanish from Arabic."
+    },
+    "inventor": null,
+    "short_description": "A simple open-necked glass vessel for serving water or wine.",
+    "description": "Glass serving vessels for water and wine were common in the Roman world, and the term 'carafe' spread in Europe in the 17th century. Carafes are still used in restaurants to serve house wine and water. The simple flared bottle without a stopper remains the same.",
+    "why_unchanged": "A plain glass vessel with a wide neck is easy to fill and pour, so there has been no reason to change it.",
+    "materials": [
+      "glass"
+    ],
+    "faqs": [
+      {
+        "question": "What's the origin of the word carafe?",
+        "answer": "It comes through Italian 'caraffa' and Spanish 'garrafa', from Arabic."
+      },
+      {
+        "question": "Is a carafe the same as a decanter?",
+        "answer": "They are similar, but carafes usually lack stoppers and are used for water or everyday wine."
+      },
+      {
+        "question": "Why do restaurants serve house wine in carafes?",
+        "answer": "It allows wine to be served in small quantities from larger containers."
+      }
+    ],
+    "image": {
+      "search_query": "glass water carafe",
+      "wikimedia_commons_category": "Carafes",
+      "alt": "A glass carafe of water on a table"
+    },
+    "tags": [
+      "serveware",
+      "glass",
+      "water",
+      "wine"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "platter",
+    "name": "Platter",
+    "category": "Tableware & containers",
+    "invention": {
+      "display": "Antiquity",
+      "year": -500,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Mediterranean and Near East",
+      "modern_country": null,
+      "notes": "Large serving dishes of metal, pottery and wood were used in many ancient societies; the Roman 'lanx' is a well-known example."
+    },
+    "inventor": null,
+    "short_description": "A large, flat serving dish.",
+    "description": "Large serving dishes were used in ancient Greek and Roman banquets, with silver examples surviving from Roman hoards. They were used for meat, fish and fruit at shared meals. Today's platters are the same flat, large dishes.",
+    "why_unchanged": "A large flat dish presents and shares food, so its form has stayed the same.",
+    "materials": [
+      "ceramic",
+      "silver",
+      "wood",
+      "porcelain",
+      "stainless steel"
+    ],
+    "faqs": [
+      {
+        "question": "What is the difference between a platter and a plate?",
+        "answer": "A platter is larger and used for serving food to several people, while plates are for individuals."
+      },
+      {
+        "question": "Why are platters often oval?",
+        "answer": "Oval shapes fit long foods like fish and roasts."
+      },
+      {
+        "question": "What is a Roman lanx?",
+        "answer": "A large Roman serving dish, often of silver, some of which survive in treasure hoards."
+      }
+    ],
+    "image": {
+      "search_query": "serving platter food",
+      "wikimedia_commons_category": "Platters",
+      "alt": "A large oval serving platter"
+    },
+    "tags": [
+      "serveware",
+      "ancient",
+      "sharing"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "tureen",
+    "name": "Tureen",
+    "category": "Tableware & containers",
+    "invention": {
+      "display": "Early 18th century",
+      "year": 1710,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "France",
+      "modern_country": "France",
+      "notes": "Tureens appeared in French aristocratic dining in the early 18th century; the story that the name honors Marshal Turenne is folk etymology, as it derives from French 'terrine'."
+    },
+    "inventor": null,
+    "short_description": "A large deep lidded dish for serving soup or stew.",
+    "description": "Tureens became a centerpiece of French-style dining in the 18th century, made in silver and porcelain. They kept soup warm on the table during service à la française. Modern tureens retain the deep bowl, lid and handles.",
+    "why_unchanged": "A deep bowl with a lid and handles keeps soup hot and is easy to carry, so the form remains unchanged.",
+    "materials": [
+      "porcelain",
+      "silver",
+      "ceramic"
+    ],
+    "faqs": [
+      {
+        "question": "Where does the word tureen come from?",
+        "answer": "It derives from French 'terrine', an earthenware dish; the link to Marshal Turenne is a popular myth."
+      },
+      {
+        "question": "Why do tureens have lids?",
+        "answer": "Lids keep soup hot during serving."
+      },
+      {
+        "question": "Are tureens still used?",
+        "answer": "Yes, especially at formal dinners and holidays."
+      }
+    ],
+    "image": {
+      "search_query": "porcelain soup tureen",
+      "wikimedia_commons_category": "Tureens",
+      "alt": "A porcelain soup tureen with lid and ladle"
+    },
+    "tags": [
+      "serveware",
+      "soup",
+      "france",
+      "early modern"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "cake-stand",
+    "name": "Cake stand",
+    "category": "Tableware & containers",
+    "invention": {
+      "display": "19th century",
+      "year": 1850,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Europe (notably Victorian Britain)",
+      "modern_country": null,
+      "notes": "Footed serving dishes (tazze) were made in Renaissance Europe; the pedestal cake stand became popular in Victorian Britain with afternoon tea."
+    },
+    "inventor": null,
+    "short_description": "A raised plate on a pedestal for displaying cakes.",
+    "description": "Footed dishes for fruit and sweets existed in Renaissance Europe. The Victorian taste for elaborate cakes and afternoon tea made the cake stand a household item. The plate on a pedestal is still the standard design.",
+    "why_unchanged": "A raised platform displays a cake and makes slicing easy, so the design has stayed the same.",
+    "materials": [
+      "glass",
+      "porcelain",
+      "ceramic",
+      "metal"
+    ],
+    "faqs": [
+      {
+        "question": "Why are cakes displayed on stands?",
+        "answer": "Raising the cake makes it the centerpiece and makes slicing easier."
+      },
+      {
+        "question": "What is a tiered cake stand?",
+        "answer": "A stand with several stacked plates, often used for afternoon tea."
+      },
+      {
+        "question": "What is a tazza?",
+        "answer": "A shallow footed dish from Renaissance Europe, an ancestor of the cake stand."
+      }
+    ],
+    "image": {
+      "search_query": "glass cake stand",
+      "wikimedia_commons_category": "Cake stands",
+      "alt": "A glass cake stand holding a cake"
+    },
+    "tags": [
+      "serveware",
+      "baking",
+      "industrial",
+      "victorian"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "teaspoon",
+    "name": "Teaspoon",
+    "category": "Tableware & containers",
+    "invention": {
+      "display": "Late 17th century",
+      "year": 1680,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "England",
+      "modern_country": "United Kingdom",
+      "notes": "Small spoons for stirring tea appeared in England in the late 17th century as tea drinking spread; exact origin is not documented."
+    },
+    "inventor": null,
+    "short_description": "A small spoon used for stirring tea and coffee.",
+    "description": "When tea became fashionable in England in the late 17th century, smaller spoons were made for stirring cups. The teaspoon soon became a standard household utensil and a unit of measure in recipes. Its small bowl and short handle are unchanged.",
+    "why_unchanged": "A small spoon fits a cup perfectly, so its shape has never needed to change.",
+    "materials": [
+      "silver",
+      "stainless steel"
+    ],
+    "faqs": [
+      {
+        "question": "Is a teaspoon a standard measure?",
+        "answer": "Yes. In cooking a teaspoon is standardized as about 5 milliliters."
+      },
+      {
+        "question": "When did teaspoons appear?",
+        "answer": "With the spread of tea in late 17th-century England."
+      },
+      {
+        "question": "What is the difference between a teaspoon and a dessert spoon?",
+        "answer": "A dessert spoon is larger, holding roughly twice as much."
+      }
+    ],
+    "image": {
+      "search_query": "silver teaspoon",
+      "wikimedia_commons_category": "Teaspoons",
+      "alt": "A silver teaspoon on a saucer"
+    },
+    "tags": [
+      "cutlery",
+      "tea",
+      "early modern"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "butter-knife",
+    "name": "Butter knife",
+    "category": "Tableware & containers",
+    "invention": {
+      "display": "19th century",
+      "year": 1830,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Europe (notably Britain)",
+      "modern_country": null,
+      "notes": "Dedicated butter knives became part of Victorian cutlery sets in the 19th century; exact origin is not documented."
+    },
+    "inventor": null,
+    "short_description": "A small blunt knife used to spread butter.",
+    "description": "As table settings became more specialized in the 19th century, the butter knife appeared as a blunt, short spreading tool. The master butter knife served butter, while individual butter spreaders were placed at each setting. Both remain the same today.",
+    "why_unchanged": "A blunt blade spreads soft butter perfectly, so the design has not needed to change.",
+    "materials": [
+      "silver",
+      "stainless steel",
+      "wood"
+    ],
+    "faqs": [
+      {
+        "question": "What's the difference between a master butter knife and a butter spreader?",
+        "answer": "The master knife takes butter from the dish, while each guest uses a small spreader."
+      },
+      {
+        "question": "Why are butter knives blunt?",
+        "answer": "They only need to spread soft food, so a blunt edge is safer."
+      },
+      {
+        "question": "Where does the butter knife go?",
+        "answer": "On the bread plate, usually above the forks."
+      }
+    ],
+    "image": {
+      "search_query": "butter knife bread",
+      "wikimedia_commons_category": "Butter knives",
+      "alt": "A butter knife spreading butter on bread"
+    },
+    "tags": [
+      "cutlery",
+      "butter",
+      "industrial"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "spork",
+    "name": "Spork",
+    "category": "Tableware & containers",
+    "invention": {
+      "display": "1874 (patent)",
+      "year": 1874,
+      "approximate": false,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "United States",
+      "modern_country": "United States",
+      "notes": "Samuel W. Francis received a US patent in 1874 for a combined spoon, fork and knife; the word spork appears in the early 20th century."
+    },
+    "inventor": "Samuel W. Francis",
+    "short_description": "A utensil combining a spoon's bowl with fork tines.",
+    "description": "Combination spoon-forks were patented in the 19th century, most notably by Samuel W. Francis in 1874. The name 'spork' appeared in the early 20th century. Plastic sporks became common in fast food and camping.",
+    "why_unchanged": "A spoon bowl with short tines does two jobs at once, so the combination remains the same.",
+    "materials": [
+      "plastic",
+      "titanium",
+      "stainless steel"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the spork?",
+        "answer": "Samuel W. Francis patented a combined spoon, fork and knife in 1874."
+      },
+      {
+        "question": "When did the word spork appear?",
+        "answer": "In the early 20th century, combining 'spoon' and 'fork'."
+      },
+      {
+        "question": "Where are sporks commonly used?",
+        "answer": "In fast food restaurants, schools, prisons and camping."
+      }
+    ],
+    "image": {
+      "search_query": "plastic spork",
+      "wikimedia_commons_category": "Sporks",
+      "alt": "A plastic spork"
+    },
+    "tags": [
+      "cutlery",
+      "patent",
+      "industrial"
+    ],
+    "confidence": "high"
+  },
+  {
+    "slug": "salt-shaker",
+    "name": "Salt shaker",
+    "category": "Tableware & containers",
+    "invention": {
+      "display": "19th century",
+      "year": 1858,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "United States",
+      "modern_country": "United States",
+      "notes": "Shakers with perforated lids appeared in the 19th century; John Landis Mason is often credited with an 1858 screw-top shaker. Free-flowing salt (Morton, 1911) made shakers practical."
+    },
+    "inventor": null,
+    "short_description": "A container with a perforated lid for sprinkling salt.",
+    "description": "Salt was traditionally served in open salt cellars because it tended to clump. Perforated shakers appeared in the 19th century, and anti-caking agents added to table salt in the early 20th century made them widespread. Its perforated cap design remains unchanged.",
+    "why_unchanged": "A container with holes sprinkles salt evenly, so it has stayed the same.",
+    "materials": [
+      "glass",
+      "ceramic",
+      "metal",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "Why did salt shakers take so long to become common?",
+        "answer": "Salt absorbs moisture and clumps; anti-caking agents added in the early 20th century made it flow."
+      },
+      {
+        "question": "Why add rice to a salt shaker?",
+        "answer": "Rice grains absorb moisture and keep salt flowing."
+      },
+      {
+        "question": "Does salt have more holes than pepper?",
+        "answer": "Often salt shakers have fewer holes, but conventions vary by country."
+      }
+    ],
+    "image": {
+      "search_query": "salt and pepper shakers",
+      "wikimedia_commons_category": "Salt and pepper shakers",
+      "alt": "A pair of glass salt and pepper shakers"
+    },
+    "tags": [
+      "condiment",
+      "salt",
+      "industrial"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "mustard-pot",
+    "name": "Mustard pot",
+    "category": "Tableware & containers",
+    "invention": {
+      "display": "18th century",
+      "year": 1750,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Europe (England and France)",
+      "modern_country": null,
+      "notes": "Mustard was eaten since antiquity; lidded mustard pots with a notch for a spoon became common in 18th-century Europe."
+    },
+    "inventor": null,
+    "short_description": "A small lidded pot with a spoon notch for serving prepared mustard.",
+    "description": "Prepared mustard became a popular condiment in 18th-century Europe. Silver and porcelain mustard pots with lids and small spoons were made for the table. The design remains the same today.",
+    "why_unchanged": "A small lidded pot with a spoon notch keeps mustard fresh while being served, so it has not changed.",
+    "materials": [
+      "silver",
+      "ceramic",
+      "glass",
+      "porcelain"
+    ],
+    "faqs": [
+      {
+        "question": "Why do mustard pots have a notch in the lid?",
+        "answer": "The notch lets a small spoon stay inside the closed pot."
+      },
+      {
+        "question": "What were mustard spoons made from?",
+        "answer": "Often bone, horn or gilt, because mustard tarnishes silver."
+      },
+      {
+        "question": "Are mustard pots still made?",
+        "answer": "Yes, especially in France and England."
+      }
+    ],
+    "image": {
+      "search_query": "mustard pot with spoon",
+      "wikimedia_commons_category": "Mustard pots",
+      "alt": "A ceramic mustard pot with a spoon"
+    },
+    "tags": [
+      "condiment",
+      "tableware",
+      "early modern"
+    ],
+    "confidence": "low"
+  }
+]

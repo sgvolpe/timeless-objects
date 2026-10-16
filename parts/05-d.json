@@ -1,0 +1,1281 @@
+[
+  {
+    "slug": "sandal",
+    "name": "Sandal",
+    "category": "Clothing, accessories & sewing",
+    "invention": {
+      "display": "c. 8500 BCE",
+      "year": -8500,
+      "approximate": true,
+      "era": "Prehistoric"
+    },
+    "place_of_invention": {
+      "region": "Fort Rock Cave, Oregon",
+      "modern_country": "United States",
+      "notes": "Sagebrush-bark sandals from Fort Rock Cave, dated to roughly 9,000–10,000 years ago, are among the oldest known footwear; sandals arose independently in many regions."
+    },
+    "inventor": null,
+    "short_description": "A simple shoe made of a sole held to the foot by straps.",
+    "description": "Sandals protect the sole of the foot while leaving it open to the air. The Fort Rock sandals, woven from sagebrush bark, are about 10,000 years old. Leather, rubber and synthetic sandals today use the same sole-and-strap idea.",
+    "why_unchanged": "A sole with straps protects the foot with minimal material, so it remains ideal for warm climates.",
+    "materials": [
+      "plant fiber",
+      "leather",
+      "rubber",
+      "foam"
+    ],
+    "faqs": [
+      {
+        "question": "What are the oldest known sandals?",
+        "answer": "The Fort Rock sandals from Oregon, woven from sagebrush bark about 10,000 years ago."
+      },
+      {
+        "question": "Who discovered the Fort Rock sandals?",
+        "answer": "Archaeologist Luther Cressman found them in 1938."
+      },
+      {
+        "question": "Are sandals good for walking?",
+        "answer": "Supportive sandals with a contoured sole and secure straps can be fine for walking; flat, loose ones offer little support."
+      }
+    ],
+    "image": {
+      "search_query": "leather sandals",
+      "wikimedia_commons_category": "Sandals",
+      "alt": "A pair of leather strap sandals"
+    },
+    "tags": [
+      "footwear",
+      "prehistoric",
+      "leather",
+      "summer"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "flip-flop",
+    "name": "Flip-flop",
+    "category": "Clothing, accessories & sewing",
+    "invention": {
+      "display": "c. 1500 BCE (earliest surviving)",
+      "year": -1500,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Ancient Egypt",
+      "modern_country": "Egypt",
+      "notes": "Thong sandals of papyrus and palm survive from Ancient Egypt; Japanese zori inspired the modern rubber version after World War II."
+    },
+    "inventor": null,
+    "short_description": "A flat sandal held on by a Y-shaped strap between the first two toes.",
+    "description": "Thong sandals were worn in Ancient Egypt, India and elsewhere, made of papyrus, palm leaves or wood. After World War II, rubber versions inspired by Japanese zori spread worldwide. The Y-strap design has not changed.",
+    "why_unchanged": "A sole and a single toe strap make the simplest slip-on shoe possible.",
+    "materials": [
+      "papyrus",
+      "palm leaf",
+      "rubber",
+      "foam"
+    ],
+    "faqs": [
+      {
+        "question": "Why are they called flip-flops?",
+        "answer": "The name imitates the slapping sound the sandal makes against the heel when walking."
+      },
+      {
+        "question": "How old are flip-flops?",
+        "answer": "Thong sandals survive from Ancient Egypt about 3,500 years ago."
+      },
+      {
+        "question": "Where did modern rubber flip-flops come from?",
+        "answer": "They were inspired by Japanese zori and spread widely after World War II."
+      }
+    ],
+    "image": {
+      "search_query": "rubber flip flops beach",
+      "wikimedia_commons_category": "Flip-flops",
+      "alt": "A pair of rubber flip-flops on sand"
+    },
+    "tags": [
+      "footwear",
+      "ancient",
+      "rubber",
+      "summer"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "moccasin",
+    "name": "Moccasin",
+    "category": "Clothing, accessories & sewing",
+    "invention": {
+      "display": "Pre-Columbian (date unknown)",
+      "year": -1000,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "North America",
+      "modern_country": "United States",
+      "notes": "Moccasins were made by many Indigenous peoples of North America long before European contact; no single origin or date can be given."
+    },
+    "inventor": null,
+    "short_description": "A soft leather shoe made from a single piece wrapped around the foot and stitched on top.",
+    "description": "Moccasins are made of soft tanned hide, often decorated with beads or quills. Each nation developed its own patterns, with soft or hard soles suited to the terrain. The one-piece leather construction remains in use today.",
+    "why_unchanged": "Soft leather shaped around the foot provides comfort and silent movement, with nothing extra needed.",
+    "materials": [
+      "deerskin",
+      "moose hide",
+      "beads",
+      "quills"
+    ],
+    "faqs": [
+      {
+        "question": "Who made the first moccasins?",
+        "answer": "Indigenous peoples across North America made moccasins long before European contact."
+      },
+      {
+        "question": "Why do moccasins vary in design?",
+        "answer": "Different nations adapted soles and decoration to their environment and traditions."
+      },
+      {
+        "question": "Is the loafer related to the moccasin?",
+        "answer": "Yes, the penny loafer and boat shoe borrow moccasin-style construction."
+      }
+    ],
+    "image": {
+      "search_query": "beaded leather moccasins",
+      "wikimedia_commons_category": "Moccasins",
+      "alt": "A pair of beaded leather moccasins"
+    },
+    "tags": [
+      "footwear",
+      "indigenous",
+      "leather",
+      "ancient"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "clog",
+    "name": "Clog",
+    "category": "Clothing, accessories & sewing",
+    "invention": {
+      "display": "c. 1230",
+      "year": 1230,
+      "approximate": true,
+      "era": "Medieval"
+    },
+    "place_of_invention": {
+      "region": "Amsterdam",
+      "modern_country": "Netherlands",
+      "notes": "The oldest known Dutch wooden shoes, found in Amsterdam, date to around 1230; wooden-soled footwear existed elsewhere in Europe too."
+    },
+    "inventor": null,
+    "short_description": "A shoe carved from a single block of wood or with a thick wooden sole.",
+    "description": "Wooden clogs protected feet from water and mud on farms and in workshops. In the Netherlands, klompen were carved from willow or poplar. Clogs are still worn for gardening, farming and in healthcare.",
+    "why_unchanged": "A carved wooden shoe is waterproof, durable and cheap, so it never needed changing.",
+    "materials": [
+      "willow",
+      "poplar",
+      "leather"
+    ],
+    "faqs": [
+      {
+        "question": "How old are Dutch clogs?",
+        "answer": "The oldest known pair found in Amsterdam dates to around 1230."
+      },
+      {
+        "question": "Why were clogs made of wood?",
+        "answer": "Wood was cheap, insulating and waterproof, ideal for wet fields."
+      },
+      {
+        "question": "Are clogs still worn?",
+        "answer": "Yes, by farmers, gardeners and healthcare workers, and as fashion."
+      }
+    ],
+    "image": {
+      "search_query": "wooden dutch clogs klompen",
+      "wikimedia_commons_category": "Clogs",
+      "alt": "A pair of traditional Dutch wooden clogs"
+    },
+    "tags": [
+      "footwear",
+      "medieval",
+      "wood",
+      "dutch"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "espadrille",
+    "name": "Espadrille",
+    "category": "Clothing, accessories & sewing",
+    "invention": {
+      "display": "By the 14th century",
+      "year": 1322,
+      "approximate": true,
+      "era": "Medieval"
+    },
+    "place_of_invention": {
+      "region": "Pyrenees, Catalonia",
+      "modern_country": "Spain",
+      "notes": "Rope-soled espadrilles are documented in Catalonia in the 14th century; earlier rope sandals were made in the Mediterranean."
+    },
+    "inventor": null,
+    "short_description": "A canvas shoe with a sole of braided jute rope.",
+    "description": "Espadrilles were traditional footwear of peasants and soldiers in the Pyrenees. The sole is made from coiled braided jute, stitched to a canvas upper. They are still made by hand in Spain and France.",
+    "why_unchanged": "A rope sole with a canvas top is light and breathable, and still cheaply made by hand.",
+    "materials": [
+      "jute",
+      "canvas",
+      "cotton"
+    ],
+    "faqs": [
+      {
+        "question": "Where do espadrilles come from?",
+        "answer": "From the Pyrenees, especially Catalonia, where they are documented in the 14th century."
+      },
+      {
+        "question": "Why is the sole made of rope?",
+        "answer": "Jute is cheap, light and breathable, and coiled rope makes a cushioned sole."
+      },
+      {
+        "question": "Can espadrilles get wet?",
+        "answer": "Water can weaken the jute sole, so they are best kept dry."
+      }
+    ],
+    "image": {
+      "search_query": "canvas espadrilles jute sole",
+      "wikimedia_commons_category": "Espadrilles",
+      "alt": "A pair of canvas espadrilles with jute soles"
+    },
+    "tags": [
+      "footwear",
+      "medieval",
+      "jute",
+      "spain"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "geta",
+    "name": "Geta",
+    "category": "Clothing, accessories & sewing",
+    "invention": {
+      "display": "Yayoi period (c. 300 BCE–300 CE)",
+      "year": 1,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Japan",
+      "modern_country": "Japan",
+      "notes": "Wooden paddy-field footwear (ta-geta) is found at Yayoi-period sites; geta of the modern form developed later."
+    },
+    "inventor": null,
+    "short_description": "A raised wooden sandal with a toe thong and two wooden teeth beneath.",
+    "description": "Geta lift the foot above mud, water and snow. Early versions were used for working in rice paddies. Today geta are worn with yukata and kimono, especially in summer.",
+    "why_unchanged": "A raised wooden platform and toe thong keep feet dry with nothing extra.",
+    "materials": [
+      "wood",
+      "fabric"
+    ],
+    "faqs": [
+      {
+        "question": "Why do geta have teeth?",
+        "answer": "The two wooden teeth raise the foot above mud and water."
+      },
+      {
+        "question": "When are geta worn today?",
+        "answer": "Mostly with yukata at summer festivals and with casual kimono."
+      },
+      {
+        "question": "What sound do geta make?",
+        "answer": "They make a distinctive clacking sound, called karan-koron in Japanese."
+      }
+    ],
+    "image": {
+      "search_query": "japanese geta wooden sandals",
+      "wikimedia_commons_category": "Geta",
+      "alt": "A pair of Japanese wooden geta"
+    },
+    "tags": [
+      "footwear",
+      "ancient",
+      "japan",
+      "wood"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "chelsea-boot",
+    "name": "Chelsea boot",
+    "category": "Clothing, accessories & sewing",
+    "invention": {
+      "display": "1851",
+      "year": 1851,
+      "approximate": false,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "London",
+      "modern_country": "United Kingdom",
+      "notes": "Joseph Sparkes Hall, bootmaker to Queen Victoria, introduced the elastic-sided boot around 1851 using vulcanized rubber."
+    },
+    "inventor": "Joseph Sparkes Hall",
+    "short_description": "An ankle boot with elastic side panels.",
+    "description": "Joseph Sparkes Hall used newly available vulcanized rubber to make elastic gussets so boots could be pulled on easily. Queen Victoria was reported to wear them. The style became a 1960s fashion icon and remains unchanged.",
+    "why_unchanged": "Elastic panels make the boot slip on and fit snugly, without laces or zips.",
+    "materials": [
+      "leather",
+      "suede",
+      "elastic"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the Chelsea boot?",
+        "answer": "Joseph Sparkes Hall introduced elastic-sided boots around 1851."
+      },
+      {
+        "question": "Why is it called a Chelsea boot?",
+        "answer": "The name came later, from its popularity in London's Chelsea district in the 1960s."
+      },
+      {
+        "question": "Did the Beatles wear Chelsea boots?",
+        "answer": "Yes, a Cuban-heeled variant became known as the Beatle boot."
+      }
+    ],
+    "image": {
+      "search_query": "chelsea boots leather elastic",
+      "wikimedia_commons_category": "Chelsea boots",
+      "alt": "A pair of brown leather Chelsea boots"
+    },
+    "tags": [
+      "footwear",
+      "19th-century",
+      "leather",
+      "british"
+    ],
+    "confidence": "high"
+  },
+  {
+    "slug": "wellington-boot",
+    "name": "Wellington boot",
+    "category": "Clothing, accessories & sewing",
+    "invention": {
+      "display": "c. 1817",
+      "year": 1817,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "London",
+      "modern_country": "United Kingdom",
+      "notes": "The Duke of Wellington had his bootmaker Hoby adapt the Hessian boot around 1817; rubber versions came after vulcanization, notably Hiram Hutchinson's in France in 1853."
+    },
+    "inventor": null,
+    "short_description": "A waterproof, calf-high pull-on boot.",
+    "description": "The original Wellington was a leather riding boot commissioned by the Duke of Wellington. After rubber vulcanization, it became a waterproof boot used on farms and in rain. It remains the same tall pull-on shape.",
+    "why_unchanged": "A seamless tall boot keeps water out and slips on easily, so the design is unchanged.",
+    "materials": [
+      "leather",
+      "rubber",
+      "PVC"
+    ],
+    "faqs": [
+      {
+        "question": "Why are they called wellies?",
+        "answer": "They are named after the Duke of Wellington, who popularized the boot style."
+      },
+      {
+        "question": "When were rubber wellies made?",
+        "answer": "Hiram Hutchinson produced rubber versions in France from 1853, after vulcanization."
+      },
+      {
+        "question": "Why are wellies popular at festivals?",
+        "answer": "They keep feet dry in mud and rain at outdoor events."
+      }
+    ],
+    "image": {
+      "search_query": "rubber wellington boots",
+      "wikimedia_commons_category": "Wellington boots",
+      "alt": "A pair of green rubber wellington boots"
+    },
+    "tags": [
+      "footwear",
+      "19th-century",
+      "rubber",
+      "rain"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "loafer",
+    "name": "Loafer",
+    "category": "Clothing, accessories & sewing",
+    "invention": {
+      "display": "Early 20th century",
+      "year": 1930,
+      "approximate": true,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "Aurland",
+      "modern_country": "Norway",
+      "notes": "The Aurland shoe developed by Nils Gregoriusson Tveranger is often credited; London's Wildsmith also claims an early loafer, so the origin is disputed."
+    },
+    "inventor": null,
+    "short_description": "A slip-on leather shoe without laces.",
+    "description": "The loafer is a moccasin-style shoe that slips on easily. Norwegian Aurland shoes and later the G.H. Bass Weejun (1936) popularized it. Penny loafers, tassel loafers and others still share the same slip-on design.",
+    "why_unchanged": "A slip-on moccasin construction is comfortable and quick, so it has stayed the same.",
+    "materials": [
+      "leather",
+      "suede"
+    ],
+    "faqs": [
+      {
+        "question": "Where did the loafer come from?",
+        "answer": "It is often traced to the Norwegian Aurland shoe, though British makers also claim it."
+      },
+      {
+        "question": "Why is it called a penny loafer?",
+        "answer": "The slot in the strap was reportedly used to hold a penny."
+      },
+      {
+        "question": "Are loafers formal?",
+        "answer": "Smooth leather loafers can be smart casual, but laced oxfords are traditionally more formal."
+      }
+    ],
+    "image": {
+      "search_query": "leather penny loafers",
+      "wikimedia_commons_category": "Loafers",
+      "alt": "A pair of brown leather penny loafers"
+    },
+    "tags": [
+      "footwear",
+      "20th-century",
+      "leather",
+      "norway"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "sock",
+    "name": "Sock",
+    "category": "Clothing, accessories & sewing",
+    "invention": {
+      "display": "c. 300 CE",
+      "year": 300,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Egypt",
+      "modern_country": "Egypt",
+      "notes": "Nalbinding toe socks from Roman-era Egypt are among the oldest surviving; Greeks wore felt foot coverings earlier."
+    },
+    "inventor": null,
+    "short_description": "A soft knitted covering for the foot worn inside shoes.",
+    "description": "Socks cushion feet, absorb sweat and keep warm. Egyptian socks from around 300 CE had split toes to wear with sandals. Machine knitting made socks cheap from the 16th century onward, but the shape is the same.",
+    "why_unchanged": "A tube shaped to the foot is all a sock needs to be.",
+    "materials": [
+      "wool",
+      "cotton",
+      "nylon",
+      "polyester"
+    ],
+    "faqs": [
+      {
+        "question": "How old are socks?",
+        "answer": "Egyptian nalbinding socks from around 300 CE survive, and Greeks wore felt foot coverings earlier."
+      },
+      {
+        "question": "Why did Egyptian socks have split toes?",
+        "answer": "They were made to be worn with thong sandals."
+      },
+      {
+        "question": "Who invented the knitting machine for socks?",
+        "answer": "William Lee invented the stocking frame in England in 1589."
+      }
+    ],
+    "image": {
+      "search_query": "wool knitted socks",
+      "wikimedia_commons_category": "Socks",
+      "alt": "A pair of knitted wool socks"
+    },
+    "tags": [
+      "clothing",
+      "ancient",
+      "wool",
+      "knitting"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "glove",
+    "name": "Glove",
+    "category": "Clothing, accessories & sewing",
+    "invention": {
+      "display": "c. 1325 BCE",
+      "year": -1325,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Ancient Egypt",
+      "modern_country": "Egypt",
+      "notes": "Linen gloves were found in Tutankhamun's tomb (c. 1325 BCE); gloves are likely older."
+    },
+    "inventor": null,
+    "short_description": "A covering for the hand with separate sheaths for each finger.",
+    "description": "Gloves protect hands from cold, injury and dirt, and have long been symbols of status. Tutankhamun's tomb contained linen gloves. Today gloves are made for every purpose, from fashion to surgery, with the same five-finger design.",
+    "why_unchanged": "A covering shaped to the hand keeps dexterity while protecting, which no redesign has bettered.",
+    "materials": [
+      "linen",
+      "leather",
+      "wool",
+      "nitrile"
+    ],
+    "faqs": [
+      {
+        "question": "How old are gloves?",
+        "answer": "Linen gloves were found in Tutankhamun's tomb, about 3,300 years old."
+      },
+      {
+        "question": "What does 'throwing down the gauntlet' mean?",
+        "answer": "It comes from medieval challenges, where a knight threw down a glove to invite a duel."
+      },
+      {
+        "question": "Why do surgeons wear gloves?",
+        "answer": "To prevent infection; William Halsted introduced rubber surgical gloves in 1889."
+      }
+    ],
+    "image": {
+      "search_query": "leather gloves",
+      "wikimedia_commons_category": "Gloves",
+      "alt": "A pair of brown leather gloves"
+    },
+    "tags": [
+      "clothing",
+      "ancient",
+      "leather",
+      "egypt"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "tabi",
+    "name": "Tabi",
+    "category": "Clothing, accessories & sewing",
+    "invention": {
+      "display": "c. 15th century",
+      "year": 1500,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Japan",
+      "modern_country": "Japan",
+      "notes": "Cloth tabi with a separate big toe are documented from Japan's late medieval period; earlier leather foot coverings existed."
+    },
+    "inventor": null,
+    "short_description": "An ankle-high Japanese sock with a split between the big toe and other toes.",
+    "description": "Tabi are worn with thonged footwear such as zori and geta. They are fastened at the back with small metal clasps. Tabi are still worn with kimono and, in rubber-soled form as jika-tabi, by construction workers.",
+    "why_unchanged": "The split toe matches thonged sandals perfectly, so the design is unchanged.",
+    "materials": [
+      "cotton",
+      "silk",
+      "rubber"
+    ],
+    "faqs": [
+      {
+        "question": "Why do tabi have split toes?",
+        "answer": "So they can be worn with thonged sandals such as zori and geta."
+      },
+      {
+        "question": "What are jika-tabi?",
+        "answer": "Tabi with rubber soles worn as work shoes by builders and farmers."
+      },
+      {
+        "question": "What color tabi are worn with formal kimono?",
+        "answer": "White tabi are traditional for formal occasions."
+      }
+    ],
+    "image": {
+      "search_query": "white japanese tabi socks",
+      "wikimedia_commons_category": "Tabi",
+      "alt": "A pair of white Japanese tabi socks"
+    },
+    "tags": [
+      "clothing",
+      "japan",
+      "medieval",
+      "cotton"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "scarf",
+    "name": "Scarf",
+    "category": "Clothing, accessories & sewing",
+    "invention": {
+      "display": "c. 3rd century BCE",
+      "year": -210,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "China",
+      "modern_country": "China",
+      "notes": "Terracotta Army soldiers (c. 210 BCE) wear neck cloths, and Roman soldiers wore the focale; earlier uses are likely."
+    },
+    "inventor": null,
+    "short_description": "A long strip of fabric worn around the neck or head.",
+    "description": "Scarves have been worn for warmth, protection and identity. Chinese terracotta soldiers and Roman legionaries show early use. Knitted and woven scarves remain the same basic strip of cloth.",
+    "why_unchanged": "A strip of cloth wrapped around the neck can be adjusted endlessly, so it needs no redesign.",
+    "materials": [
+      "wool",
+      "silk",
+      "cotton",
+      "cashmere"
+    ],
+    "faqs": [
+      {
+        "question": "How old is the scarf?",
+        "answer": "Neck cloths appear on Chinese terracotta soldiers from about 210 BCE."
+      },
+      {
+        "question": "What is a focale?",
+        "answer": "A neck scarf worn by Roman soldiers to protect against armor chafing."
+      },
+      {
+        "question": "What is a pashmina?",
+        "answer": "A fine cashmere scarf, traditionally from Kashmir."
+      }
+    ],
+    "image": {
+      "search_query": "wool scarf",
+      "wikimedia_commons_category": "Scarves",
+      "alt": "A knitted wool scarf"
+    },
+    "tags": [
+      "clothing",
+      "ancient",
+      "wool",
+      "accessory"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "bandana",
+    "name": "Bandana",
+    "category": "Clothing, accessories & sewing",
+    "invention": {
+      "display": "18th century",
+      "year": 1750,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Indian subcontinent, traded to Europe",
+      "modern_country": "India",
+      "notes": "The name comes from Hindi 'bandhana' (tying), linked to tie-dyed cloth from India; printed bandanas spread through European trade in the 18th century."
+    },
+    "inventor": null,
+    "short_description": "A square cloth worn on the head or neck.",
+    "description": "Bandanas began as tie-dyed cloths from India and became printed cotton squares in Europe and America. Cowboys, workers and sailors wore them for sun and dust protection. The paisley-printed square remains a classic.",
+    "why_unchanged": "A square of cotton has countless uses, so it needs no changes.",
+    "materials": [
+      "cotton",
+      "silk"
+    ],
+    "faqs": [
+      {
+        "question": "Where does the word bandana come from?",
+        "answer": "From the Hindi word for tying, referring to tie-dye techniques."
+      },
+      {
+        "question": "Why do bandanas have paisley prints?",
+        "answer": "Paisley designs derived from Indian and Persian motifs that were copied in Europe, notably in Paisley, Scotland."
+      },
+      {
+        "question": "What were bandanas used for?",
+        "answer": "As sweatbands, dust masks, sun protection and signal cloths."
+      }
+    ],
+    "image": {
+      "search_query": "red paisley bandana",
+      "wikimedia_commons_category": "Bandanas",
+      "alt": "A red paisley bandana"
+    },
+    "tags": [
+      "accessory",
+      "early-modern",
+      "cotton",
+      "india"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "poncho",
+    "name": "Poncho",
+    "category": "Clothing, accessories & sewing",
+    "invention": {
+      "display": "Pre-Columbian (by c. 500 BCE)",
+      "year": -500,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Andes",
+      "modern_country": "Peru",
+      "notes": "Poncho-like garments are known from pre-Columbian Andean cultures; exact dating is uncertain."
+    },
+    "inventor": null,
+    "short_description": "A single piece of cloth with a hole for the head.",
+    "description": "The poncho is one of the simplest garments, a rectangle with a central opening. It has been worn in the Andes for centuries, often woven from alpaca or llama wool. Waterproof ponchos today are made of nylon or plastic in the same form.",
+    "why_unchanged": "A rectangle with a hole covers the body completely with no tailoring needed.",
+    "materials": [
+      "alpaca wool",
+      "llama wool",
+      "cotton",
+      "nylon"
+    ],
+    "faqs": [
+      {
+        "question": "Where does the poncho come from?",
+        "answer": "From pre-Columbian Andean cultures in South America."
+      },
+      {
+        "question": "Why is the poncho so practical?",
+        "answer": "It is easy to make, fits everyone and can cover a backpack in rain."
+      },
+      {
+        "question": "What is the difference between a poncho and a cape?",
+        "answer": "A poncho has a hole for the head and covers front and back; a cape is fastened at the neck."
+      }
+    ],
+    "image": {
+      "search_query": "andean wool poncho",
+      "wikimedia_commons_category": "Ponchos",
+      "alt": "A colorful Andean wool poncho"
+    },
+    "tags": [
+      "clothing",
+      "ancient",
+      "andes",
+      "wool"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "sarong",
+    "name": "Sarong",
+    "category": "Clothing, accessories & sewing",
+    "invention": {
+      "display": "Antiquity (date unknown)",
+      "year": -500,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Southeast Asia",
+      "modern_country": "Indonesia",
+      "notes": "Wrapped cloth garments are among the oldest forms of clothing; the sarong's exact origin and date are unknown."
+    },
+    "inventor": null,
+    "short_description": "A large tube or length of fabric wrapped around the waist.",
+    "description": "The sarong is worn by men and women across Southeast Asia, South Asia, the Pacific and the Arabian Peninsula. Batik and ikat sarongs are famous textile traditions. It is still wrapped and tied the same way.",
+    "why_unchanged": "Wrapping a length of cloth fits everyone and suits hot climates, so it has never changed.",
+    "materials": [
+      "cotton",
+      "silk",
+      "batik"
+    ],
+    "faqs": [
+      {
+        "question": "Who wears sarongs?",
+        "answer": "Men and women across Southeast Asia, South Asia, the Pacific and parts of the Arabian Peninsula."
+      },
+      {
+        "question": "How do you tie a sarong?",
+        "answer": "Wrap it around the waist, fold the excess and tuck or knot it at the side or front."
+      },
+      {
+        "question": "What is batik?",
+        "answer": "A wax-resist dyeing technique, famous in Indonesia and recognized by UNESCO."
+      }
+    ],
+    "image": {
+      "search_query": "batik sarong",
+      "wikimedia_commons_category": "Sarongs",
+      "alt": "A colorful batik sarong"
+    },
+    "tags": [
+      "clothing",
+      "ancient",
+      "asia",
+      "cotton"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "kilt",
+    "name": "Kilt",
+    "category": "Clothing, accessories & sewing",
+    "invention": {
+      "display": "c. 1720s (small kilt)",
+      "year": 1725,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Scottish Highlands",
+      "modern_country": "United Kingdom",
+      "notes": "The belted plaid (great kilt) dates to the 16th century; the small kilt appeared in the 1720s, and its attribution to English industrialist Thomas Rawlinson is disputed."
+    },
+    "inventor": null,
+    "short_description": "A knee-length wrapped skirt of pleated tartan wool.",
+    "description": "The kilt developed from the great kilt, a large wrapped plaid that covered the whole body. The small kilt, covering only the lower body, appeared in the 18th century. It remains Scottish national dress with the same pleated design.",
+    "why_unchanged": "Pleated wool wrapped around the waist is warm and practical, and tradition keeps its form fixed.",
+    "materials": [
+      "wool",
+      "tartan"
+    ],
+    "faqs": [
+      {
+        "question": "Is the kilt an ancient garment?",
+        "answer": "The great kilt dates to the 16th century; the modern small kilt appeared in the 1720s."
+      },
+      {
+        "question": "Who invented the small kilt?",
+        "answer": "It is often attributed to Thomas Rawlinson, but historians dispute this claim."
+      },
+      {
+        "question": "What is a sporran?",
+        "answer": "A pouch worn at the front of a kilt, since kilts have no pockets."
+      }
+    ],
+    "image": {
+      "search_query": "scottish tartan kilt",
+      "wikimedia_commons_category": "Kilts",
+      "alt": "A man wearing a tartan kilt"
+    },
+    "tags": [
+      "clothing",
+      "early-modern",
+      "scotland",
+      "wool"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "sari",
+    "name": "Sari",
+    "category": "Clothing, accessories & sewing",
+    "invention": {
+      "display": "Antiquity (by 1st millennium BCE)",
+      "year": -500,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Indian subcontinent",
+      "modern_country": "India",
+      "notes": "Unstitched draped garments are described in ancient Indian texts; some link the sari to the Indus Valley, but evidence is unclear."
+    },
+    "inventor": null,
+    "short_description": "A long unstitched length of cloth draped around the body.",
+    "description": "The sari is a length of fabric, typically five to nine yards, draped around the waist and over the shoulder. It has been worn in South Asia for millennia, with many regional draping styles. It remains everyday and ceremonial wear.",
+    "why_unchanged": "A single draped cloth adapts to every body and occasion, so it has stayed unchanged.",
+    "materials": [
+      "cotton",
+      "silk",
+      "chiffon"
+    ],
+    "faqs": [
+      {
+        "question": "How long is a sari?",
+        "answer": "Usually between five and nine yards, depending on the draping style."
+      },
+      {
+        "question": "How many ways can a sari be draped?",
+        "answer": "There are dozens of regional styles; the Nivi drape is the most common today."
+      },
+      {
+        "question": "What is worn under a sari?",
+        "answer": "A fitted blouse and a petticoat into which the sari is tucked."
+      }
+    ],
+    "image": {
+      "search_query": "silk sari draped",
+      "wikimedia_commons_category": "Saris",
+      "alt": "A woman wearing a colorful silk sari"
+    },
+    "tags": [
+      "clothing",
+      "ancient",
+      "india",
+      "silk"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "veil",
+    "name": "Veil",
+    "category": "Clothing, accessories & sewing",
+    "invention": {
+      "display": "c. 13th century BCE",
+      "year": -1250,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Assyria",
+      "modern_country": "Iraq",
+      "notes": "Middle Assyrian laws (c. 1400–1100 BCE) regulate veiling; veils were also used in other ancient cultures."
+    },
+    "inventor": null,
+    "short_description": "A piece of fabric that covers the head or face.",
+    "description": "Veils have been worn for modesty, religion, status and ceremony. Middle Assyrian laws contain some of the earliest written rules about veiling. Bridal veils and religious head coverings remain in use today.",
+    "why_unchanged": "A light cloth over the head serves its purpose fully, so the form has remained the same.",
+    "materials": [
+      "linen",
+      "silk",
+      "tulle",
+      "lace"
+    ],
+    "faqs": [
+      {
+        "question": "How old is the veil?",
+        "answer": "Assyrian laws from over 3,000 years ago regulate who could wear veils."
+      },
+      {
+        "question": "Why do brides wear veils?",
+        "answer": "Traditions vary, but veils have symbolized modesty and purity, and were thought to protect from evil spirits."
+      },
+      {
+        "question": "What is a mantilla?",
+        "answer": "A lace veil worn in Spain, often for church or festivals."
+      }
+    ],
+    "image": {
+      "search_query": "bridal lace veil",
+      "wikimedia_commons_category": "Veils",
+      "alt": "A lace bridal veil"
+    },
+    "tags": [
+      "clothing",
+      "ancient",
+      "assyria",
+      "ceremony"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "apron",
+    "name": "Apron",
+    "category": "Clothing, accessories & sewing",
+    "invention": {
+      "display": "Middle Ages (likely older)",
+      "year": 1300,
+      "approximate": true,
+      "era": "Medieval"
+    },
+    "place_of_invention": {
+      "region": "Europe",
+      "modern_country": "Unknown",
+      "notes": "Aprons were common in medieval Europe; protective garments are much older and the origin is unknown."
+    },
+    "inventor": null,
+    "short_description": "A garment worn over the front of the body to protect clothing.",
+    "description": "Aprons protect clothes from dirt in kitchens, workshops and farms. Different trades wore distinctive aprons. They remain essential for cooks, artisans and gardeners.",
+    "why_unchanged": "A cloth tied over the front of clothing does its job without any changes.",
+    "materials": [
+      "linen",
+      "cotton",
+      "leather",
+      "canvas"
+    ],
+    "faqs": [
+      {
+        "question": "Where does the word apron come from?",
+        "answer": "From Middle English 'napron', which became 'an apron' through misdivision."
+      },
+      {
+        "question": "Why do blacksmiths wear leather aprons?",
+        "answer": "Leather resists sparks and heat."
+      },
+      {
+        "question": "What is a pinafore?",
+        "answer": "A type of apron that covers the chest, often worn by children."
+      }
+    ],
+    "image": {
+      "search_query": "kitchen apron",
+      "wikimedia_commons_category": "Aprons",
+      "alt": "A cotton kitchen apron"
+    },
+    "tags": [
+      "clothing",
+      "medieval",
+      "cotton",
+      "work"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "cloak",
+    "name": "Cloak",
+    "category": "Clothing, accessories & sewing",
+    "invention": {
+      "display": "c. 3300 BCE",
+      "year": -3300,
+      "approximate": true,
+      "era": "Prehistoric"
+    },
+    "place_of_invention": {
+      "region": "Otztal Alps",
+      "modern_country": "Italy",
+      "notes": "Ötzi the Iceman (c. 3300 BCE) had a woven grass cape; cloaks are likely much older."
+    },
+    "inventor": null,
+    "short_description": "A loose sleeveless outer garment draped over the shoulders.",
+    "description": "Cloaks protected people from rain and cold from prehistoric times onward. Ötzi's grass cape is an early example. Capes and cloaks remain part of fashion, academic dress and costume.",
+    "why_unchanged": "A draped outer layer fastened at the neck is easy to wear and adapt, so it needs no updating.",
+    "materials": [
+      "wool",
+      "grass",
+      "leather",
+      "felt"
+    ],
+    "faqs": [
+      {
+        "question": "How old is the cloak?",
+        "answer": "Ötzi the Iceman wore a grass cape about 5,300 years ago."
+      },
+      {
+        "question": "What is the difference between a cloak and a cape?",
+        "answer": "A cloak is usually longer and fuller, while a cape is shorter."
+      },
+      {
+        "question": "How were cloaks fastened?",
+        "answer": "With brooches such as fibulae, clasps or ties at the neck."
+      }
+    ],
+    "image": {
+      "search_query": "wool cloak",
+      "wikimedia_commons_category": "Cloaks",
+      "alt": "A dark wool cloak with a clasp"
+    },
+    "tags": [
+      "clothing",
+      "prehistoric",
+      "wool",
+      "outerwear"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "blue-jeans",
+    "name": "Blue jeans",
+    "category": "Clothing, accessories & sewing",
+    "invention": {
+      "display": "1873",
+      "year": 1873,
+      "approximate": false,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "San Francisco, California",
+      "modern_country": "United States",
+      "notes": "Jacob Davis and Levi Strauss received US Patent 139,121 on May 20, 1873, for riveted work trousers."
+    },
+    "inventor": "Jacob Davis and Levi Strauss",
+    "short_description": "Denim trousers with copper rivets reinforcing the pockets.",
+    "description": "Tailor Jacob Davis reinforced work pants with rivets and partnered with dry-goods merchant Levi Strauss to patent the idea. The riveted denim work trouser became the blue jean. Five-pocket jeans have kept the same layout ever since.",
+    "why_unchanged": "Riveted denim is so durable and comfortable that the basic design has never been bettered.",
+    "materials": [
+      "denim",
+      "cotton",
+      "copper"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented blue jeans?",
+        "answer": "Jacob Davis and Levi Strauss patented riveted denim trousers in 1873."
+      },
+      {
+        "question": "Why do jeans have rivets?",
+        "answer": "Rivets reinforce stress points like pocket corners."
+      },
+      {
+        "question": "What is the small pocket for?",
+        "answer": "It was originally a watch pocket."
+      }
+    ],
+    "image": {
+      "search_query": "blue denim jeans",
+      "wikimedia_commons_category": "Jeans",
+      "alt": "A pair of blue denim jeans"
+    },
+    "tags": [
+      "clothing",
+      "19th-century",
+      "denim",
+      "patent"
+    ],
+    "confidence": "high"
+  },
+  {
+    "slug": "t-shirt",
+    "name": "T-shirt",
+    "category": "Clothing, accessories & sewing",
+    "invention": {
+      "display": "c. 1913",
+      "year": 1913,
+      "approximate": true,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "United States",
+      "modern_country": "United States",
+      "notes": "The US Navy issued crew-neck cotton undershirts around 1913; similar undershirts were sold earlier, so the date varies."
+    },
+    "inventor": null,
+    "short_description": "A short-sleeved, collarless cotton shirt.",
+    "description": "The T-shirt started as an undershirt for sailors and workers. It became outerwear in the mid-20th century, popularized by films. Its simple T-shaped design remains the same.",
+    "why_unchanged": "A T-shaped knit top is comfortable and easy to make, so it has not changed.",
+    "materials": [
+      "cotton",
+      "polyester"
+    ],
+    "faqs": [
+      {
+        "question": "Why is it called a T-shirt?",
+        "answer": "Because of its T shape when laid flat."
+      },
+      {
+        "question": "When did T-shirts become outerwear?",
+        "answer": "After World War II, helped by films like A Streetcar Named Desire."
+      },
+      {
+        "question": "What is a graphic tee?",
+        "answer": "A T-shirt printed with a design or text."
+      }
+    ],
+    "image": {
+      "search_query": "plain white t shirt",
+      "wikimedia_commons_category": "T-shirts",
+      "alt": "A plain white T-shirt"
+    },
+    "tags": [
+      "clothing",
+      "20th-century",
+      "cotton",
+      "casual"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "necktie",
+    "name": "Necktie",
+    "category": "Clothing, accessories & sewing",
+    "invention": {
+      "display": "1630s (cravat)",
+      "year": 1635,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Croatia and France",
+      "modern_country": "Croatia",
+      "notes": "The cravat derives from scarves worn by Croatian mercenaries in France in the 1630s; the modern long tie took shape in the 1920s."
+    },
+    "inventor": null,
+    "short_description": "A long strip of cloth worn around the neck and knotted at the throat.",
+    "description": "Croatian mercenaries' neck scarves inspired the French cravat in the 17th century. The modern necktie, cut on the bias, appeared in the 1920s. Its basic long strip and knot remain the same.",
+    "why_unchanged": "A knotted strip of cloth is a symbol of formal dress, so its form remains fixed.",
+    "materials": [
+      "silk",
+      "polyester",
+      "wool"
+    ],
+    "faqs": [
+      {
+        "question": "Where does the necktie come from?",
+        "answer": "From scarves worn by Croatian mercenaries in France in the 1630s."
+      },
+      {
+        "question": "What is Cravat Day?",
+        "answer": "Croatia celebrates Cravat Day on October 18."
+      },
+      {
+        "question": "What is the most common tie knot?",
+        "answer": "The four-in-hand is the simplest and most common."
+      }
+    ],
+    "image": {
+      "search_query": "silk necktie",
+      "wikimedia_commons_category": "Neckties",
+      "alt": "A silk necktie"
+    },
+    "tags": [
+      "clothing",
+      "early-modern",
+      "silk",
+      "formalwear"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "polo-shirt",
+    "name": "Polo shirt",
+    "category": "Clothing, accessories & sewing",
+    "invention": {
+      "display": "1926",
+      "year": 1926,
+      "approximate": false,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "France",
+      "modern_country": "France",
+      "notes": "Tennis player René Lacoste designed a short-sleeved knit shirt around 1926 and marketed it from 1933; polo players' shirts influenced the name."
+    },
+    "inventor": "René Lacoste",
+    "short_description": "A short-sleeved knit shirt with a collar and a buttoned placket.",
+    "description": "René Lacoste wanted a more comfortable shirt for tennis than long-sleeved woven shirts. He designed a short-sleeved knit pique shirt with a soft collar. The design remains standard sportswear and casual wear.",
+    "why_unchanged": "A breathable knit shirt with a collar balances comfort and neatness, so it has not changed.",
+    "materials": [
+      "cotton pique",
+      "polyester"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the polo shirt?",
+        "answer": "Tennis player René Lacoste designed it around 1926."
+      },
+      {
+        "question": "Why is it called a polo shirt?",
+        "answer": "The name came from polo players who adopted it."
+      },
+      {
+        "question": "What is pique?",
+        "answer": "A textured knit fabric that breathes well."
+      }
+    ],
+    "image": {
+      "search_query": "cotton polo shirt",
+      "wikimedia_commons_category": "Polo shirts",
+      "alt": "A cotton polo shirt"
+    },
+    "tags": [
+      "clothing",
+      "20th-century",
+      "cotton",
+      "sportswear"
+    ],
+    "confidence": "medium"
+  }
+]

@@ -1,0 +1,1291 @@
+[
+  {
+    "slug": "barbell",
+    "name": "Barbell",
+    "category": "Toys, games & sports",
+    "invention": {
+      "display": "mid-19th century",
+      "year": 1850,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "France",
+      "modern_country": "France",
+      "notes": "Globe barbells were used in 19th-century European gymnasiums, such as Hippolyte Triat's in Paris; plate-loading barbells spread in the early 20th century. No single inventor is known."
+    },
+    "inventor": null,
+    "short_description": "A long bar with weights on each end, lifted with both hands.",
+    "description": "Barbells developed in 19th-century Europe from wooden wands and dumbbells, with early versions using hollow globes filled with sand or shot. Strongmen popularized them in music halls, and plate-loading bars appeared around 1900. The Olympic barbell, standardized in the 20th century, keeps the same bar-and-weights design.",
+    "why_unchanged": "A straight bar with balanced weights is the most efficient way to load two-handed lifts.",
+    "materials": [
+      "steel",
+      "iron",
+      "rubber"
+    ],
+    "faqs": [
+      {
+        "question": "How heavy is an Olympic barbell?",
+        "answer": "The standard men's Olympic bar weighs 20 kg and the women's 15 kg."
+      },
+      {
+        "question": "What were early barbells like?",
+        "answer": "Many had hollow globes at each end that could be filled with sand or lead shot to change the weight."
+      },
+      {
+        "question": "What lifts use a barbell?",
+        "answer": "Common lifts include the squat, bench press, deadlift, snatch and clean and jerk."
+      }
+    ],
+    "image": {
+      "search_query": "barbell with weight plates gym",
+      "wikimedia_commons_category": "Barbells",
+      "alt": "A loaded barbell on a gym floor"
+    },
+    "tags": [
+      "fitness",
+      "weights",
+      "industrial",
+      "steel"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "indian-clubs",
+    "name": "Indian clubs",
+    "category": "Toys, games & sports",
+    "invention": {
+      "display": "19th century (Western form)",
+      "year": 1830,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "India and Persia",
+      "modern_country": "India",
+      "notes": "Club swinging derives from much older Persian and Indian exercise traditions (meel, jori); British soldiers brought the practice to Britain in the 19th century."
+    },
+    "inventor": null,
+    "short_description": "Bottle-shaped wooden clubs swung in patterns for strength and flexibility.",
+    "description": "Indian clubs come from traditional exercise clubs used by wrestlers in India and Persia. British soldiers stationed in India adopted them and introduced club swinging to Britain in the 19th century, where it became a popular form of exercise. Indian clubs even appeared at the 1904 and 1932 Olympics and are now enjoying a revival.",
+    "why_unchanged": "A weighted club swung in circles works the shoulders and grip in a way that needs no redesign.",
+    "materials": [
+      "wood",
+      "steel",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "Where do Indian clubs come from?",
+        "answer": "They come from traditional exercise clubs used in India and Persia, adopted by the British in the 19th century."
+      },
+      {
+        "question": "Were Indian clubs an Olympic sport?",
+        "answer": "Yes. Club swinging was an Olympic gymnastics event in 1904 and 1932."
+      },
+      {
+        "question": "What are they good for?",
+        "answer": "Swinging clubs improves shoulder mobility, grip strength and coordination."
+      }
+    ],
+    "image": {
+      "search_query": "indian clubs exercise",
+      "wikimedia_commons_category": "Indian clubs",
+      "alt": "A pair of wooden Indian clubs"
+    },
+    "tags": [
+      "fitness",
+      "india",
+      "industrial",
+      "wood"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "punching-bag",
+    "name": "Punching bag",
+    "category": "Toys, games & sports",
+    "invention": {
+      "display": "c. 400 BCE",
+      "year": -400,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Ancient Greece",
+      "modern_country": "Greece",
+      "notes": "Greek boxers and pankratiasts trained with a hanging leather bag called the korykos; the modern heavy bag became standard in 19th-century boxing gyms."
+    },
+    "inventor": null,
+    "short_description": "A heavy hanging bag struck repeatedly to train punches.",
+    "description": "Ancient Greek athletes trained by striking a korykos, a leather sack filled with sand, flour or seeds hung at chest height. Boxing gyms of the 19th century adopted canvas and leather heavy bags filled with sawdust or rags. Modern bags use synthetic leather and textile fill, but they still hang from a chain and absorb blows the same way.",
+    "why_unchanged": "A heavy, cushioned hanging target is all striking practice requires.",
+    "materials": [
+      "leather",
+      "canvas",
+      "vinyl",
+      "sand",
+      "textile fill"
+    ],
+    "faqs": [
+      {
+        "question": "Did ancient athletes use punching bags?",
+        "answer": "Yes. Greek boxers trained with a leather bag called the korykos."
+      },
+      {
+        "question": "What is the difference between a heavy bag and a speed bag?",
+        "answer": "A heavy bag builds power, while a small speed bag rebounds quickly to train timing and hand speed."
+      },
+      {
+        "question": "What are punching bags filled with?",
+        "answer": "Typical fillings are textile scraps, sand or foam, chosen for weight and softness."
+      }
+    ],
+    "image": {
+      "search_query": "boxing heavy punching bag",
+      "wikimedia_commons_category": "Punching bags",
+      "alt": "A leather punching bag hanging in a boxing gym"
+    },
+    "tags": [
+      "fitness",
+      "boxing",
+      "ancient",
+      "sports"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "trampoline",
+    "name": "Trampoline",
+    "category": "Toys, games & sports",
+    "invention": {
+      "display": "1936",
+      "year": 1936,
+      "approximate": true,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "Cedar Rapids, Iowa",
+      "modern_country": "United States",
+      "notes": "George Nissen and Larry Griswold built their first trampoline around 1934–1936 at the University of Iowa; Nissen later trademarked the name."
+    },
+    "inventor": "George Nissen and Larry Griswold",
+    "short_description": "A sheet of strong fabric stretched over a frame by springs, used for bouncing.",
+    "description": "Gymnast George Nissen and coach Larry Griswold built the first modern trampoline in the 1930s, inspired by the safety nets of trapeze artists. Nissen's company sold it for military pilot training and gymnastics, and he trademarked the name from the Spanish 'trampolín' (diving board). Trampolining became an Olympic sport in 2000.",
+    "why_unchanged": "A taut bed suspended on springs from a frame is the simplest way to store and return bouncing energy.",
+    "materials": [
+      "steel",
+      "polypropylene",
+      "nylon",
+      "springs"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the trampoline?",
+        "answer": "George Nissen and Larry Griswold built the first modern trampoline in Iowa in the 1930s."
+      },
+      {
+        "question": "Is trampolining an Olympic sport?",
+        "answer": "Yes. It has been part of the Olympic Games since Sydney 2000."
+      },
+      {
+        "question": "Where does the name come from?",
+        "answer": "Nissen took it from the Spanish word 'trampolín', meaning diving board."
+      }
+    ],
+    "image": {
+      "search_query": "backyard trampoline",
+      "wikimedia_commons_category": "Trampolines",
+      "alt": "A round trampoline in a garden"
+    },
+    "tags": [
+      "sports",
+      "gymnastics",
+      "modern",
+      "springs"
+    ],
+    "confidence": "high"
+  },
+  {
+    "slug": "hula-hoop",
+    "name": "Hula hoop",
+    "category": "Toys, games & sports",
+    "invention": {
+      "display": "1958",
+      "year": 1958,
+      "approximate": false,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "California",
+      "modern_country": "United States",
+      "notes": "Wham-O, founded by Richard Knerr and Arthur 'Spud' Melin, launched the plastic hula hoop in 1958; hoops of rattan, grapevine and wood were used for exercise and play since antiquity."
+    },
+    "inventor": null,
+    "short_description": "A light plastic hoop twirled around the waist, limbs or neck.",
+    "description": "People have spun and rolled hoops since ancient times, but Wham-O's plastic hula hoop, launched in 1958, created a worldwide craze with tens of millions sold within months. The name comes from the hip movements of Hawaiian hula dancing. Today hoops are used in fitness, dance and circus performance.",
+    "why_unchanged": "A light, round tube is all that is needed to keep the hoop spinning, so the design remained.",
+    "materials": [
+      "plastic",
+      "polyethylene",
+      "rattan"
+    ],
+    "faqs": [
+      {
+        "question": "Who made the first plastic hula hoop?",
+        "answer": "The Wham-O company introduced it in 1958, though people had used hoops of natural materials for thousands of years."
+      },
+      {
+        "question": "Why is it called a hula hoop?",
+        "answer": "The name refers to the hip movements of Hawaiian hula dancing."
+      },
+      {
+        "question": "Can hula hooping be exercise?",
+        "answer": "Yes. Weighted fitness hoops are used for cardio and core workouts."
+      }
+    ],
+    "image": {
+      "search_query": "hula hoop plastic",
+      "wikimedia_commons_category": "Hula hoops",
+      "alt": "A person spinning a colourful hula hoop"
+    },
+    "tags": [
+      "toys",
+      "fitness",
+      "modern",
+      "plastic"
+    ],
+    "confidence": "high"
+  },
+  {
+    "slug": "toboggan",
+    "name": "Toboggan",
+    "category": "Toys, games & sports",
+    "invention": {
+      "display": "before 1600",
+      "year": 1500,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Northern North America",
+      "modern_country": "Canada",
+      "notes": "The toboggan was developed by Indigenous peoples of northern North America for transport; the word comes from an Algonquian language (likely Mi'kmaq). Dating is uncertain."
+    },
+    "inventor": null,
+    "short_description": "A long, flat-bottomed sled with a curled front, without runners.",
+    "description": "Indigenous peoples of what is now Canada used toboggans made of bent wood boards to haul goods over deep snow. The flat bottom spreads weight so the sled rides on soft snow rather than sinking in. In the 19th century tobogganing became a popular winter sport, and wooden toboggans are still made in the traditional style.",
+    "why_unchanged": "Thin boards curled at the front glide over soft snow perfectly, so the design never changed.",
+    "materials": [
+      "wood",
+      "rawhide",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "What is the difference between a toboggan and a sled?",
+        "answer": "A toboggan has a flat bottom that sits on the snow, while a sled is raised on runners."
+      },
+      {
+        "question": "Where does the word toboggan come from?",
+        "answer": "It comes from an Algonquian language of eastern Canada, probably Mi'kmaq."
+      },
+      {
+        "question": "Why does the front curl up?",
+        "answer": "The curled front lets the toboggan ride over snow instead of ploughing into it."
+      }
+    ],
+    "image": {
+      "search_query": "wooden toboggan snow",
+      "wikimedia_commons_category": "Toboggans",
+      "alt": "A wooden toboggan with a curled front in the snow"
+    },
+    "tags": [
+      "winter",
+      "snow",
+      "indigenous",
+      "outdoor"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "spirograph",
+    "name": "Spirograph",
+    "category": "Toys, games & sports",
+    "invention": {
+      "display": "1965",
+      "year": 1965,
+      "approximate": false,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "England",
+      "modern_country": "United Kingdom",
+      "notes": "British engineer Denys Fisher developed the toy in the early 1960s and launched it in 1965; mathematical gear-drawing devices existed earlier."
+    },
+    "inventor": "Denys Fisher",
+    "short_description": "A set of plastic gears and rings used to draw looping geometric patterns.",
+    "description": "Engineer Denys Fisher created the Spirograph and introduced it at the 1965 Nuremberg International Toy Fair. By placing a pen in a hole in a toothed wheel and rolling it inside or around a ring, users draw curves called hypotrochoids and epitrochoids. The set of gears and rings is essentially the same today.",
+    "why_unchanged": "Toothed wheels rolling in rings produce the patterns mechanically, so the design needed no change.",
+    "materials": [
+      "plastic",
+      "paper",
+      "pins"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the Spirograph?",
+        "answer": "British engineer Denys Fisher invented it and launched it in 1965."
+      },
+      {
+        "question": "What curves does a Spirograph draw?",
+        "answer": "It draws mathematical curves called hypotrochoids and epitrochoids."
+      },
+      {
+        "question": "Why do some patterns close quickly and others take many loops?",
+        "answer": "It depends on the ratio of teeth between the wheel and the ring; the more complex the ratio, the more loops before the pattern repeats."
+      }
+    ],
+    "image": {
+      "search_query": "spirograph drawing set patterns",
+      "wikimedia_commons_category": "Spirograph",
+      "alt": "Coloured Spirograph patterns on paper with plastic gears"
+    },
+    "tags": [
+      "toys",
+      "drawing",
+      "geometry",
+      "modern"
+    ],
+    "confidence": "high"
+  },
+  {
+    "slug": "etch-a-sketch",
+    "name": "Etch A Sketch",
+    "category": "Toys, games & sports",
+    "invention": {
+      "display": "1959",
+      "year": 1959,
+      "approximate": false,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "France",
+      "modern_country": "France",
+      "notes": "André Cassagnes invented 'L'Écran Magique' in the late 1950s; the Ohio Art Company licensed it and released it as Etch A Sketch in 1960."
+    },
+    "inventor": "André Cassagnes",
+    "short_description": "A drawing toy with two knobs that move a stylus to scrape lines on a grey screen.",
+    "description": "French electrician André Cassagnes invented the drawing screen in the late 1950s and showed it at the 1959 Nuremberg Toy Fair. The Ohio Art Company bought the rights and released it in 1960 as Etch A Sketch, which became a best-seller. Turning the knobs moves a stylus that scrapes aluminium powder off the glass, and shaking it erases the picture.",
+    "why_unchanged": "Its two-knob mechanism is the toy's defining challenge, so the design has stayed the same.",
+    "materials": [
+      "plastic",
+      "glass",
+      "aluminum powder",
+      "steel"
+    ],
+    "faqs": [
+      {
+        "question": "How does an Etch A Sketch work?",
+        "answer": "A stylus behind the glass scrapes off aluminium powder, leaving dark lines, and shaking re-coats the screen."
+      },
+      {
+        "question": "Who invented it?",
+        "answer": "French inventor André Cassagnes created it; Ohio Art released it in 1960."
+      },
+      {
+        "question": "Why is it hard to draw curves?",
+        "answer": "Each knob only moves the stylus horizontally or vertically, so curves need both turned together."
+      }
+    ],
+    "image": {
+      "search_query": "etch a sketch drawing toy",
+      "wikimedia_commons_category": "Etch A Sketch",
+      "alt": "A red Etch A Sketch with a drawing on the screen"
+    },
+    "tags": [
+      "toys",
+      "drawing",
+      "modern",
+      "patent"
+    ],
+    "confidence": "high"
+  },
+  {
+    "slug": "slinky",
+    "name": "Slinky",
+    "category": "Toys, games & sports",
+    "invention": {
+      "display": "1943",
+      "year": 1943,
+      "approximate": false,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "Philadelphia, Pennsylvania",
+      "modern_country": "United States",
+      "notes": "Naval engineer Richard James conceived the toy in 1943 after watching a spring fall; it went on sale in 1945 and was patented in 1947."
+    },
+    "inventor": "Richard James",
+    "short_description": "A pre-compressed helical spring toy that 'walks' down stairs.",
+    "description": "Richard James got the idea for the Slinky in 1943 while working with tension springs for ships. With his wife Betty, who chose the name, he sold the first 400 in Gimbels department store in Philadelphia in 1945, all within 90 minutes. The steel coil design has remained essentially unchanged.",
+    "why_unchanged": "A coiled spring of the right size walks down stairs on its own, so the toy needed nothing more.",
+    "materials": [
+      "steel",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the Slinky?",
+        "answer": "Naval engineer Richard James invented it in 1943; his wife Betty named it."
+      },
+      {
+        "question": "Why does a Slinky walk down stairs?",
+        "answer": "Gravity and momentum transfer the coils one end over the other in a wave-like motion."
+      },
+      {
+        "question": "How long is a Slinky's wire?",
+        "answer": "The original steel Slinky uses about 80 feet (24 m) of wire."
+      }
+    ],
+    "image": {
+      "search_query": "metal slinky spring toy",
+      "wikimedia_commons_category": "Slinkies",
+      "alt": "A metal Slinky walking down steps"
+    },
+    "tags": [
+      "toys",
+      "springs",
+      "modern",
+      "patent"
+    ],
+    "confidence": "high"
+  },
+  {
+    "slug": "toy-balloon",
+    "name": "Toy balloon",
+    "category": "Toys, games & sports",
+    "invention": {
+      "display": "1824",
+      "year": 1824,
+      "approximate": false,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "London, England",
+      "modern_country": "United Kingdom",
+      "notes": "Michael Faraday made rubber balloons for hydrogen experiments in 1824; Thomas Hancock sold do-it-yourself toy balloon kits in 1825. Earlier balloons were made of animal bladders."
+    },
+    "inventor": "Michael Faraday",
+    "short_description": "A thin rubber bag inflated with air or helium, used for play and decoration.",
+    "description": "Before rubber, people inflated animal bladders and intestines for play. In 1824 scientist Michael Faraday made the first rubber balloons for his experiments with hydrogen, and toy kits followed the next year. Latex balloons were mass-produced in the 20th century, but the inflatable rubber skin is the same concept.",
+    "why_unchanged": "A stretchy, sealed skin that holds air is the whole object, so it has stayed the same.",
+    "materials": [
+      "rubber",
+      "latex",
+      "foil"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the rubber balloon?",
+        "answer": "Michael Faraday made the first rubber balloons in 1824 for experiments with hydrogen."
+      },
+      {
+        "question": "Why do helium balloons float?",
+        "answer": "Helium is lighter than air, so the balloon is pushed upward by the surrounding air."
+      },
+      {
+        "question": "Why do balloons stick to walls after rubbing?",
+        "answer": "Rubbing gives the balloon a static charge, which attracts it to neutral surfaces."
+      }
+    ],
+    "image": {
+      "search_query": "colorful latex balloons",
+      "wikimedia_commons_category": "Toy balloons",
+      "alt": "A bunch of colourful rubber balloons"
+    },
+    "tags": [
+      "toys",
+      "party",
+      "rubber",
+      "industrial"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "jianzi",
+    "name": "Jianzi",
+    "category": "Toys, games & sports",
+    "invention": {
+      "display": "Han dynasty",
+      "year": -200,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "China",
+      "modern_country": "China",
+      "notes": "Shuttlecock kicking is traditionally traced to the Han dynasty; clear records date from later periods, so early dating is uncertain."
+    },
+    "inventor": null,
+    "short_description": "A weighted shuttlecock with feathers that is kept in the air by kicking.",
+    "description": "Jianzi is a traditional Chinese game in which players keep a feathered shuttlecock in the air using their feet and body. It is traditionally said to date back about 2,000 years and is popular across Asia, with versions such as Vietnam's đá cầu. The shuttle, made of feathers fixed to a weighted base, is unchanged.",
+    "why_unchanged": "Feathers on a weighted disc make a slow, stable target for kicking, so no improvement was needed.",
+    "materials": [
+      "feathers",
+      "rubber",
+      "metal washers",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "How do you play jianzi?",
+        "answer": "Players keep the shuttlecock in the air with their feet and body, without using their hands."
+      },
+      {
+        "question": "How old is jianzi?",
+        "answer": "It is traditionally traced to the Han dynasty, about 2,000 years ago."
+      },
+      {
+        "question": "Is jianzi a competitive sport?",
+        "answer": "Yes. Shuttlecock sport has international federations and competitions, especially in Asia and Europe."
+      }
+    ],
+    "image": {
+      "search_query": "jianzi chinese shuttlecock kicking",
+      "wikimedia_commons_category": "Jianzi",
+      "alt": "A colourful feathered jianzi shuttlecock"
+    },
+    "tags": [
+      "sports",
+      "china",
+      "ancient",
+      "feathers"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "diabolo",
+    "name": "Diabolo",
+    "category": "Toys, games & sports",
+    "invention": {
+      "display": "by the 18th century",
+      "year": 1700,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "China",
+      "modern_country": "China",
+      "notes": "The diabolo (kongzhu) was known in China for centuries and was described by Europeans in the 1790s; the modern Western name and form date to Gustave Philippart in France around 1906."
+    },
+    "inventor": null,
+    "short_description": "An hourglass-shaped spool spun and tossed on a string tied between two hand sticks.",
+    "description": "The diabolo originated in China, where it is known as kongzhu and often made with hollow ends that whistle. Europeans encountered it in the late 18th century, and French engineer Gustave Philippart developed the modern diabolo around 1906, sparking a craze. The two-cup spool and string on hand sticks are still used for juggling and circus tricks.",
+    "why_unchanged": "The hourglass spool balances naturally on a string, which makes the design perfect as it is.",
+    "materials": [
+      "wood",
+      "bamboo",
+      "rubber",
+      "plastic",
+      "string"
+    ],
+    "faqs": [
+      {
+        "question": "Where does the diabolo come from?",
+        "answer": "It originated in China, where it is called kongzhu."
+      },
+      {
+        "question": "Why do some Chinese diabolos whistle?",
+        "answer": "Their hollow ends have slits that make a humming sound as they spin."
+      },
+      {
+        "question": "What does diabolo mean?",
+        "answer": "The name was coined in France and is often linked to Greek words meaning 'to throw across'."
+      }
+    ],
+    "image": {
+      "search_query": "diabolo juggling toy",
+      "wikimedia_commons_category": "Diabolos",
+      "alt": "A red diabolo spinning on a string between two sticks"
+    },
+    "tags": [
+      "toys",
+      "juggling",
+      "china",
+      "circus"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "juggling-balls",
+    "name": "Juggling balls",
+    "category": "Toys, games & sports",
+    "invention": {
+      "display": "c. 1900 BCE",
+      "year": -1900,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Beni Hasan, ancient Egypt",
+      "modern_country": "Egypt",
+      "notes": "A wall painting in a Middle Kingdom tomb at Beni Hasan shows women juggling balls; juggling also appears in other ancient cultures."
+    },
+    "inventor": null,
+    "short_description": "Small soft balls tossed in patterns by jugglers.",
+    "description": "One of the earliest depictions of juggling, from a tomb at Beni Hasan in Egypt, shows women tossing several balls. Juggling with balls has been a street and circus skill in many cultures since then. Modern juggling balls are typically beanbags of leather or fabric that do not roll away when dropped.",
+    "why_unchanged": "A small ball that fits in the hand and lands softly is all juggling needs.",
+    "materials": [
+      "leather",
+      "fabric",
+      "millet",
+      "plastic pellets",
+      "silicone"
+    ],
+    "faqs": [
+      {
+        "question": "How old is juggling?",
+        "answer": "A tomb painting from ancient Egypt, around 4,000 years old, shows women juggling balls."
+      },
+      {
+        "question": "Why are juggling balls filled with beans or seeds?",
+        "answer": "Bean-bag balls do not bounce or roll away when dropped, making practice easier."
+      },
+      {
+        "question": "What is the basic juggling pattern?",
+        "answer": "The three-ball cascade, where balls are thrown in alternating arcs from hand to hand, is the first pattern most people learn."
+      }
+    ],
+    "image": {
+      "search_query": "juggling balls set",
+      "wikimedia_commons_category": "Juggling balls",
+      "alt": "Three colourful juggling balls"
+    },
+    "tags": [
+      "toys",
+      "juggling",
+      "ancient",
+      "circus"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "juggling-clubs",
+    "name": "Juggling clubs",
+    "category": "Toys, games & sports",
+    "invention": {
+      "display": "c. 1885",
+      "year": 1885,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "United States",
+      "modern_country": "United States",
+      "notes": "Juggling clubs developed from Indian clubs in late 19th-century American vaudeville and circus; the performer DeWitt Cook is often credited with early club juggling."
+    },
+    "inventor": null,
+    "short_description": "Bottle-shaped clubs thrown and caught in spinning patterns by jugglers.",
+    "description": "Juggling clubs developed in the late 19th century when performers adapted exercise clubs, known as Indian clubs, for throwing. Early clubs were solid wood; later ones were hollow and lighter. Modern clubs use plastic bodies around a wooden or fibreglass core but keep the classic bottle shape.",
+    "why_unchanged": "The weighted bulb and handle create a predictable spin, which is ideal for juggling.",
+    "materials": [
+      "wood",
+      "plastic",
+      "fiberglass",
+      "rubber"
+    ],
+    "faqs": [
+      {
+        "question": "Where did juggling clubs come from?",
+        "answer": "They were adapted from Indian exercise clubs by 19th-century entertainers."
+      },
+      {
+        "question": "Why do clubs spin in the air?",
+        "answer": "Jugglers release them with a flick so that they rotate once or more before being caught by the handle."
+      },
+      {
+        "question": "What is passing?",
+        "answer": "Passing is juggling clubs between two or more people, a popular group activity."
+      }
+    ],
+    "image": {
+      "search_query": "juggling clubs",
+      "wikimedia_commons_category": "Juggling clubs",
+      "alt": "Three white juggling clubs"
+    },
+    "tags": [
+      "toys",
+      "juggling",
+      "circus",
+      "industrial"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "zoetrope",
+    "name": "Zoetrope",
+    "category": "Toys, games & sports",
+    "invention": {
+      "display": "1834",
+      "year": 1834,
+      "approximate": false,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Bristol, England",
+      "modern_country": "United Kingdom",
+      "notes": "William George Horner described the device, which he called the daedaleum, in 1834; it was patented as the zoetrope in the US by William E. Lincoln in 1867."
+    },
+    "inventor": "William George Horner",
+    "short_description": "A spinning drum with slits that creates the illusion of motion from a strip of pictures.",
+    "description": "The zoetrope was invented in 1834 by British mathematician William George Horner, who called it the daedaleum. When the drum is spun, viewers look through the slits at a strip of sequential images, which appear to move. It became a popular Victorian toy and helped lay the foundations of cinema.",
+    "why_unchanged": "Its slit-and-drum principle is the essence of the illusion, so it has never needed to change.",
+    "materials": [
+      "card",
+      "metal",
+      "wood",
+      "paper"
+    ],
+    "faqs": [
+      {
+        "question": "How does a zoetrope work?",
+        "answer": "The slits act like a shutter, showing each image briefly so the brain blends them into motion."
+      },
+      {
+        "question": "Who invented the zoetrope?",
+        "answer": "William George Horner invented it in 1834, calling it the daedaleum."
+      },
+      {
+        "question": "Is the zoetrope linked to cinema?",
+        "answer": "Yes. It is one of the optical toys that led to motion pictures."
+      }
+    ],
+    "image": {
+      "search_query": "victorian zoetrope",
+      "wikimedia_commons_category": "Zoetropes",
+      "alt": "A Victorian zoetrope drum with picture strip"
+    },
+    "tags": [
+      "toys",
+      "optics",
+      "animation",
+      "industrial"
+    ],
+    "confidence": "high"
+  },
+  {
+    "slug": "thaumatrope",
+    "name": "Thaumatrope",
+    "category": "Toys, games & sports",
+    "invention": {
+      "display": "1825",
+      "year": 1825,
+      "approximate": false,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "London, England",
+      "modern_country": "United Kingdom",
+      "notes": "The thaumatrope was popularized in 1825 by physician John Ayrton Paris; its invention has also been attributed to William Henry Fitton and Charles Babbage."
+    },
+    "inventor": null,
+    "short_description": "A disc with a picture on each side that seems to merge into one image when spun on strings.",
+    "description": "The thaumatrope was a popular Victorian optical toy, introduced in London in 1825. Spinning the disc by its strings makes the images on each side, such as a bird and a cage, appear combined. It is still made as a simple craft and demonstrates the persistence of vision.",
+    "why_unchanged": "A two-sided disc on strings is the simplest possible optical illusion device.",
+    "materials": [
+      "card",
+      "paper",
+      "string"
+    ],
+    "faqs": [
+      {
+        "question": "How does a thaumatrope work?",
+        "answer": "As the disc spins quickly, the eye merges the two images into one."
+      },
+      {
+        "question": "What is the classic thaumatrope image?",
+        "answer": "A bird on one side and a cage on the other, which together show the bird inside the cage."
+      },
+      {
+        "question": "Who invented it?",
+        "answer": "John Ayrton Paris popularized it in 1825, though others have been credited."
+      }
+    ],
+    "image": {
+      "search_query": "thaumatrope bird cage",
+      "wikimedia_commons_category": "Thaumatropes",
+      "alt": "A thaumatrope disc showing a bird and a cage"
+    },
+    "tags": [
+      "toys",
+      "optics",
+      "industrial",
+      "paper"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "flip-book",
+    "name": "Flip book",
+    "category": "Toys, games & sports",
+    "invention": {
+      "display": "1868",
+      "year": 1868,
+      "approximate": false,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Birmingham, England",
+      "modern_country": "United Kingdom",
+      "notes": "John Barnes Linnett patented the flip book in 1868 under the name kineograph."
+    },
+    "inventor": "John Barnes Linnett",
+    "short_description": "A small book of pictures that seem to move when the pages are flipped quickly.",
+    "description": "The flip book was patented in 1868 by John Barnes Linnett as the kineograph, meaning 'moving picture'. Each page shows a slightly different drawing, so flipping through them creates animation. It remains a popular craft and souvenir, and is one of the simplest forms of animation.",
+    "why_unchanged": "A stack of sequential pictures already produces animation, so nothing needed changing.",
+    "materials": [
+      "paper",
+      "card"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the flip book?",
+        "answer": "John Barnes Linnett patented it in 1868 as the kineograph."
+      },
+      {
+        "question": "How many pages does a flip book need?",
+        "answer": "Even 10 to 20 pages can show a short movement, but more pages make it smoother."
+      },
+      {
+        "question": "Can you make your own?",
+        "answer": "Yes. Drawing a slightly changing image in the corner of a notebook's pages is a classic way to make one."
+      }
+    ],
+    "image": {
+      "search_query": "flip book animation",
+      "wikimedia_commons_category": "Flip books",
+      "alt": "A hand flipping the pages of a flip book"
+    },
+    "tags": [
+      "toys",
+      "animation",
+      "paper",
+      "patent"
+    ],
+    "confidence": "high"
+  },
+  {
+    "slug": "snow-globe",
+    "name": "Snow globe",
+    "category": "Toys, games & sports",
+    "invention": {
+      "display": "c. 1900",
+      "year": 1900,
+      "approximate": true,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "Vienna",
+      "modern_country": "Austria",
+      "notes": "Erwin Perzy of Vienna is credited with the first commercial snow globes around 1900; glass globes with snow appeared earlier, notably at the 1878 Paris Exposition."
+    },
+    "inventor": null,
+    "short_description": "A clear globe of liquid containing a scene and particles that swirl like snow when shaken.",
+    "description": "Water-filled globes with floating 'snow' were shown at the 1878 Paris Exposition, and around 1900 Viennese instrument maker Erwin Perzy began making them commercially. Shaking the globe makes white particles swirl and drift down over a small scene. Snow globes are still popular souvenirs and holiday decorations.",
+    "why_unchanged": "A sealed globe of liquid and drifting particles is the whole effect, so the design has endured.",
+    "materials": [
+      "glass",
+      "plastic",
+      "water",
+      "glycerin"
+    ],
+    "faqs": [
+      {
+        "question": "Who made the first snow globe?",
+        "answer": "Erwin Perzy of Vienna is often credited with the first commercial snow globes around 1900."
+      },
+      {
+        "question": "What is the snow made of?",
+        "answer": "Early makers experimented with various fine white particles; modern globes use small plastic flakes."
+      },
+      {
+        "question": "Why does the snow fall slowly?",
+        "answer": "Glycerin or other additives thicken the liquid, slowing the particles."
+      }
+    ],
+    "image": {
+      "search_query": "snow globe winter scene",
+      "wikimedia_commons_category": "Snow globes",
+      "alt": "A snow globe with a winter village scene"
+    },
+    "tags": [
+      "toys",
+      "souvenir",
+      "glass",
+      "modern"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "pachisi-board",
+    "name": "Pachisi board",
+    "category": "Toys, games & sports",
+    "invention": {
+      "display": "16th century",
+      "year": 1570,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Mughal India",
+      "modern_country": "India",
+      "notes": "Pachisi is associated with the Mughal emperor Akbar, whose courtyard at Fatehpur Sikri has a giant board; the game itself is likely older. Ludo is a simplified version patented in England in 1896."
+    },
+    "inventor": null,
+    "short_description": "A cross-shaped board for a race game played with cowrie shells and pieces.",
+    "description": "Pachisi is a traditional Indian race game played on a cross-shaped board, often of embroidered cloth, with moves determined by tossed cowrie shells. It is famously linked to the Mughal emperor Akbar, who is said to have played it with people as living pieces on a courtyard board. Western versions such as Ludo and Parcheesi keep the same cross-shaped track.",
+    "why_unchanged": "The cross-shaped track is the heart of the game and has been kept by every variant.",
+    "materials": [
+      "cloth",
+      "wood",
+      "cowrie shells",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "What does pachisi mean?",
+        "answer": "It comes from the Hindi word for twenty-five, the highest throw of the cowrie shells."
+      },
+      {
+        "question": "Is Ludo the same game?",
+        "answer": "Ludo is a simplified English version, patented in 1896, using a die instead of shells."
+      },
+      {
+        "question": "Did Akbar really play with human pieces?",
+        "answer": "Tradition says so, and a giant board survives in the courtyard of Fatehpur Sikri."
+      }
+    ],
+    "image": {
+      "search_query": "pachisi board game cloth",
+      "wikimedia_commons_category": "Pachisi",
+      "alt": "A cross-shaped embroidered pachisi board with pieces"
+    },
+    "tags": [
+      "board games",
+      "india",
+      "early modern",
+      "cloth"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "snakes-and-ladders-board",
+    "name": "Snakes and ladders board",
+    "category": "Toys, games & sports",
+    "invention": {
+      "display": "18th century",
+      "year": 1750,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "India",
+      "modern_country": "India",
+      "notes": "The game derives from Indian moral games such as gyan chaupar; the earliest surviving boards are from the 18th century, and claims of a 13th-century origin are not well documented. It reached England in the 1890s."
+    },
+    "inventor": null,
+    "short_description": "A numbered grid board with ladders that lift players up and snakes that send them down.",
+    "description": "Snakes and ladders comes from Indian games such as gyan chaupar, where ladders represented virtues and snakes vices. British colonists brought it to England in the late 19th century, and Milton Bradley sold it in the US as Chutes and Ladders from 1943. The board of 100 squares with snakes and ladders is still sold in the same form.",
+    "why_unchanged": "A numbered race track with shortcuts and setbacks needs nothing more to be fun.",
+    "materials": [
+      "cloth",
+      "paper",
+      "card",
+      "wood"
+    ],
+    "faqs": [
+      {
+        "question": "Where did snakes and ladders come from?",
+        "answer": "It came from Indian games that taught moral lessons, with ladders as virtues and snakes as vices."
+      },
+      {
+        "question": "What is Chutes and Ladders?",
+        "answer": "It is the American version launched by Milton Bradley in 1943, with chutes instead of snakes."
+      },
+      {
+        "question": "Is there any skill in the game?",
+        "answer": "No. Moves are decided entirely by dice, which makes it ideal for young children."
+      }
+    ],
+    "image": {
+      "search_query": "snakes and ladders board game",
+      "wikimedia_commons_category": "Snakes and ladders",
+      "alt": "A colourful snakes and ladders board with dice"
+    },
+    "tags": [
+      "board games",
+      "india",
+      "children",
+      "dice"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "jungle-gym",
+    "name": "Jungle gym",
+    "category": "Toys, games & sports",
+    "invention": {
+      "display": "1920",
+      "year": 1920,
+      "approximate": true,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "Winnetka, Illinois",
+      "modern_country": "United States",
+      "notes": "Lawyer Sebastian Hinton designed the climbing frame and patented it in the early 1920s; he named it the Junglegym."
+    },
+    "inventor": "Sebastian Hinton",
+    "short_description": "A climbing frame of interconnected bars for children's play.",
+    "description": "Sebastian Hinton designed the jungle gym around 1920, inspired by a bamboo frame his father, mathematician Charles Howard Hinton, built to teach children three-dimensional thinking. He patented it as the Junglegym, and the first one was installed at a school in Winnetka, Illinois. Its grid of climbing bars remains a playground fixture.",
+    "why_unchanged": "A lattice of bars gives endless climbing routes, so the structure has never needed to change.",
+    "materials": [
+      "steel",
+      "wood",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the jungle gym?",
+        "answer": "Sebastian Hinton invented and patented it in the early 1920s."
+      },
+      {
+        "question": "What inspired the jungle gym?",
+        "answer": "His father's bamboo frame, used to teach children to think in three dimensions."
+      },
+      {
+        "question": "What do people in Britain call it?",
+        "answer": "In Britain it is usually called a climbing frame."
+      }
+    ],
+    "image": {
+      "search_query": "jungle gym climbing frame playground",
+      "wikimedia_commons_category": "Jungle gyms",
+      "alt": "Children climbing a metal jungle gym"
+    },
+    "tags": [
+      "playground",
+      "children",
+      "modern",
+      "patent"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "table-football",
+    "name": "Table football",
+    "category": "Toys, games & sports",
+    "invention": {
+      "display": "1921",
+      "year": 1921,
+      "approximate": true,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "England",
+      "modern_country": "United Kingdom",
+      "notes": "Harold Searles Thornton filed a British patent in 1921 (granted 1923); other claimants include Lucien Rosengart in France and Alejandro Finisterre in Spain."
+    },
+    "inventor": "Harold Searles Thornton",
+    "short_description": "A table game with rows of rotating rods holding player figures that kick a ball.",
+    "description": "Harold Searles Thornton patented table football in Britain in the early 1920s, reportedly inspired by matchbox players. The game spread across Europe in the following decades and became known as foosball in the US. It still uses the same layout of eight rods with fixed figures over a pitch.",
+    "why_unchanged": "Rods with fixed figures turned by handles are the game's entire mechanism, so its design endures.",
+    "materials": [
+      "wood",
+      "steel",
+      "plastic",
+      "aluminum"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented table football?",
+        "answer": "Harold Searles Thornton patented it in Britain in the early 1920s, though others also claim it."
+      },
+      {
+        "question": "Why is it called foosball?",
+        "answer": "The name comes from the German 'Fußball', meaning football."
+      },
+      {
+        "question": "Is spinning the rods allowed?",
+        "answer": "In most official rules, spinning the rod more than 360 degrees before or after striking is not allowed."
+      }
+    ],
+    "image": {
+      "search_query": "foosball table football",
+      "wikimedia_commons_category": "Table football",
+      "alt": "A foosball table with red and blue players"
+    },
+    "tags": [
+      "games",
+      "football",
+      "modern",
+      "patent"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "chinese-checkers-board",
+    "name": "Chinese checkers board",
+    "category": "Toys, games & sports",
+    "invention": {
+      "display": "1892",
+      "year": 1892,
+      "approximate": false,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Germany",
+      "modern_country": "Germany",
+      "notes": "The game was published by Ravensburger in 1892 as Stern-Halma, a star-shaped variant of Halma (invented in 1883 by George Howard Monks); it was renamed Chinese checkers in the US in the 1920s."
+    },
+    "inventor": null,
+    "short_description": "A six-pointed star board with holes and marbles or pegs, used in a race game.",
+    "description": "Despite its name, Chinese checkers was invented in Germany, published by Ravensburger in 1892 as Stern-Halma. It was based on Halma, an American game by George Howard Monks. The name Chinese checkers was a 1920s US marketing choice, and the star-shaped board is unchanged.",
+    "why_unchanged": "The six-pointed star with its triangular corners is the game, so the board has stayed the same.",
+    "materials": [
+      "wood",
+      "metal",
+      "plastic",
+      "glass marbles"
+    ],
+    "faqs": [
+      {
+        "question": "Is Chinese checkers from China?",
+        "answer": "No. It was invented in Germany in 1892 and given its name in the US in the 1920s."
+      },
+      {
+        "question": "How many people can play?",
+        "answer": "It can be played by two, three, four or six players."
+      },
+      {
+        "question": "What is the goal?",
+        "answer": "The goal is to move all your pieces into the opposite point of the star."
+      }
+    ],
+    "image": {
+      "search_query": "chinese checkers star board marbles",
+      "wikimedia_commons_category": "Chinese checkers",
+      "alt": "A star-shaped Chinese checkers board with marbles"
+    },
+    "tags": [
+      "board games",
+      "marbles",
+      "industrial",
+      "germany"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "rubber-duck",
+    "name": "Rubber duck",
+    "category": "Toys, games & sports",
+    "invention": {
+      "display": "late 19th century",
+      "year": 1890,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "United States",
+      "modern_country": "United States",
+      "notes": "Rubber toys became possible after vulcanization; rubber ducks appeared in the late 19th century, and Peter Ganine patented a well-known floating duck design in 1949. No single inventor is credited."
+    },
+    "inventor": null,
+    "short_description": "A small yellow duck-shaped bath toy that floats.",
+    "description": "Rubber ducks appeared in the late 19th century after vulcanized rubber made it possible to mould toys. The familiar floating yellow duck was popularized in the 20th century, helped by sculptor Peter Ganine's 1949 patent and later by Sesame Street's Ernie song 'Rubber Duckie' in 1970. Most modern ducks are made of vinyl rather than rubber.",
+    "why_unchanged": "A buoyant, cheerful duck shape does its job perfectly, so it has never needed to change.",
+    "materials": [
+      "rubber",
+      "vinyl",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "Why are rubber ducks yellow?",
+        "answer": "Yellow is cheerful and resembles a duckling, and it became the classic colour."
+      },
+      {
+        "question": "Are rubber ducks really made of rubber?",
+        "answer": "Most modern ones are made of vinyl, though the name stuck."
+      },
+      {
+        "question": "What is rubber duck debugging?",
+        "answer": "It is a programming technique of explaining code line by line to a rubber duck to find mistakes."
+      }
+    ],
+    "image": {
+      "search_query": "yellow rubber duck bath toy",
+      "wikimedia_commons_category": "Rubber ducks",
+      "alt": "A yellow rubber duck floating in water"
+    },
+    "tags": [
+      "toys",
+      "bath",
+      "children",
+      "rubber"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "whip-top",
+    "name": "Whip top",
+    "category": "Toys, games & sports",
+    "invention": {
+      "display": "c. 500 BCE",
+      "year": -500,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Ancient Mediterranean",
+      "modern_country": "Greece",
+      "notes": "Whipping tops were known in ancient Greece and Rome (Virgil's Aeneid compares a character to a top whipped by boys) and in ancient Egypt and China; the origin is unknown."
+    },
+    "inventor": null,
+    "short_description": "A top kept spinning by lashing it with a small whip.",
+    "description": "The whip top is spun by hand or by a cord, then kept going by striking its side with a small whip. It was a familiar children's toy in ancient Greece and Rome, and versions are known from Egypt, China and medieval Europe. Wooden whip tops are still played with in parts of Asia and Europe.",
+    "why_unchanged": "A simple top and whip work perfectly together, so the toy has stayed the same for over two thousand years.",
+    "materials": [
+      "wood",
+      "string",
+      "leather"
+    ],
+    "faqs": [
+      {
+        "question": "How do you keep a whip top spinning?",
+        "answer": "You strike its side with a short whip, which adds spin every time."
+      },
+      {
+        "question": "How old is the whip top?",
+        "answer": "It was known in ancient Greece and Rome and appears in Virgil's Aeneid."
+      },
+      {
+        "question": "Is the whip top still played?",
+        "answer": "Yes. It is a traditional game in China and parts of Europe and Asia."
+      }
+    ],
+    "image": {
+      "search_query": "whipping top toy wooden",
+      "wikimedia_commons_category": "Whipping tops",
+      "alt": "A wooden whip top with a small whip"
+    },
+    "tags": [
+      "toys",
+      "ancient",
+      "children",
+      "wood"
+    ],
+    "confidence": "low"
+  }
+]

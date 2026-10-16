@@ -1,0 +1,314 @@
+[
+  {
+    "slug": "barbed-wire",
+    "name": "Barbed wire",
+    "category": "Tools & hardware",
+    "invention": { "display": "1874", "year": 1874, "approximate": false, "era": "Industrial" },
+    "place_of_invention": {
+      "region": "DeKalb, Illinois",
+      "modern_country": "United States",
+      "notes": "Several designs were patented in the early 1870s; Glidden's 1874 double-strand design became the standard."
+    },
+    "inventor": "Joseph Glidden",
+    "short_description": "Twisted steel wire with sharp barbs spaced along it, used for fencing.",
+    "description": "Barbed wire made it cheap to fence huge areas of open land, which transformed ranching on the American plains. Glidden's design twists two strands together so the barbs, wrapped around one strand, stay locked in place. Factories in DeKalb were soon producing it by the ton.",
+    "why_unchanged": "Two twisted strands holding short barbs in place is already the cheapest, strongest way to make a fence animals respect.",
+    "materials": ["galvanized steel"],
+    "faqs": [
+      { "question": "Why is barbed wire made from two twisted strands?", "answer": "Twisting the strands together locks the barbs in position and lets the wire flex with temperature changes without snapping." },
+      { "question": "Who invented barbed wire?", "answer": "Several inventors patented versions in the 1860s and 1870s, but Joseph Glidden's 1874 patent from DeKalb, Illinois, became the commercial standard." },
+      { "question": "How did barbed wire change the American West?", "answer": "It allowed ranchers and farmers to fence land cheaply where timber was scarce, ending much of the open-range cattle drive era." }
+    ],
+    "image": { "search_query": "barbed wire fence close up", "wikimedia_commons_category": "Barbed wire", "alt": "Close-up of a twisted barbed wire strand on a fence" },
+    "tags": ["fencing", "farming", "steel", "patent"],
+    "confidence": "high"
+  },
+  {
+    "slug": "potters-wheel",
+    "name": "Potter's wheel",
+    "category": "Tools & hardware",
+    "invention": { "display": "c. 3500 BCE", "year": -3500, "approximate": true, "era": "Prehistoric" },
+    "place_of_invention": {
+      "region": "Mesopotamia",
+      "modern_country": "Iraq",
+      "notes": "Slow-turning wheels (tournettes) appear earlier in the Near East; fast wheels for throwing pots spread from around 3500–3000 BCE."
+    },
+    "inventor": null,
+    "short_description": "A spinning turntable on which clay is shaped into round vessels.",
+    "description": "The potter's wheel let craftspeople make symmetrical pots far faster than by hand-building with coils. Early wheels were turned by hand or foot; a heavy wheel keeps spinning by momentum while the potter shapes the clay. Modern wheels add an electric motor, but the turning disc and the throwing technique are the same.",
+    "why_unchanged": "A flat disc that spins at a steady speed is all that's needed to turn a lump of clay into a round vessel.",
+    "materials": ["wood", "stone", "steel"],
+    "faqs": [
+      { "question": "Is the potter's wheel older than the wheel on carts?", "answer": "Most historians think so: the potter's wheel appears in Mesopotamia a few centuries before wheeled vehicles." },
+      { "question": "What does 'throwing' a pot mean?", "answer": "It is the term for shaping clay on a spinning wheel; it comes from an Old English word meaning to twist or turn." },
+      { "question": "How do kick wheels work?", "answer": "The potter pushes a heavy flywheel at foot level with one foot, and its momentum keeps the wheel head turning." }
+    ],
+    "image": { "search_query": "potter's wheel throwing clay", "wikimedia_commons_category": "Potter's wheels", "alt": "Hands shaping clay on a spinning potter's wheel" },
+    "tags": ["pottery", "craft", "ancient", "clay"],
+    "confidence": "medium"
+  },
+  {
+    "slug": "pocket-knife",
+    "name": "Pocket knife",
+    "category": "Tools & hardware",
+    "invention": { "display": "c. 1st century CE", "year": 50, "approximate": true, "era": "Ancient" },
+    "place_of_invention": {
+      "region": "Roman Empire",
+      "modern_country": "Italy",
+      "notes": "Folding knives are attested earlier in Iron Age Europe; Roman examples are the first found in large numbers."
+    },
+    "inventor": null,
+    "short_description": "A small knife whose blade folds into its handle so it can be carried safely.",
+    "description": "Romans carried folding knives with bronze or bone handles, some decorated with animals and gladiators. The pivoting blade that tucks into the handle made a sharp tool safe to keep in a pouch or pocket. Later multi-tool versions added more blades, but the basic folding knife is the same.",
+    "why_unchanged": "A blade on a pivot that hides inside its own handle solves the problem of carrying a knife, and nothing simpler has been found.",
+    "materials": ["steel", "wood", "bone", "brass"],
+    "faqs": [
+      { "question": "How old is the pocket knife?", "answer": "Folding knives date back at least to Iron Age Europe, and the Romans made them widely, around 2,000 years ago." },
+      { "question": "What is a slipjoint?", "answer": "It's the classic pocket-knife mechanism where a spring holds the blade open or closed without locking it." },
+      { "question": "Are pocket knives legal to carry?", "answer": "It depends on the country and blade length; many places allow small non-locking folding knives but restrict larger ones." }
+    ],
+    "image": { "search_query": "folding pocket knife open", "wikimedia_commons_category": "Pocketknives", "alt": "An open folding pocket knife with a wooden handle" },
+    "tags": ["knife", "everyday-carry", "roman", "tool"],
+    "confidence": "medium"
+  },
+  {
+    "slug": "balance-scale",
+    "name": "Balance scale",
+    "category": "Tools & hardware",
+    "invention": { "display": "c. 2500 BCE", "year": -2500, "approximate": true, "era": "Ancient" },
+    "place_of_invention": {
+      "region": "Egypt and the Indus Valley",
+      "modern_country": "Egypt",
+      "notes": "Balance beams and standard weights appear around the same period in Egypt, Mesopotamia and the Indus Valley."
+    },
+    "inventor": null,
+    "short_description": "A beam with two pans that weighs objects by comparing them with known weights.",
+    "description": "The balance scale hangs two pans from a beam pivoted at its center; when both sides weigh the same, the beam sits level. Ancient traders used it with sets of standard stone or metal weights to measure grain, metals and spices. The same principle is still used in laboratories and as the universal symbol of justice.",
+    "why_unchanged": "Comparing an unknown weight against a known one on a level beam is exact and needs no calibration beyond the weights themselves.",
+    "materials": ["bronze", "brass", "wood", "steel"],
+    "faqs": [
+      { "question": "Why is the balance scale a symbol of justice?", "answer": "It stands for weighing evidence fairly; Egyptian art already shows a heart being weighed against a feather in judgment of the dead." },
+      { "question": "Does a balance scale work on the Moon?", "answer": "Yes. Because it compares two masses under the same gravity, it gives the same reading anywhere." },
+      { "question": "How did people know their weights were accurate?", "answer": "Ancient states kept official reference weights, and the Indus Valley used a remarkably consistent system of cube-shaped stone weights." }
+    ],
+    "image": { "search_query": "brass balance scale two pans", "wikimedia_commons_category": "Balance scales", "alt": "A brass balance scale with two hanging pans" },
+    "tags": ["measurement", "trade", "ancient", "weights"],
+    "confidence": "medium"
+  },
+  {
+    "slug": "steelyard",
+    "name": "Steelyard",
+    "category": "Tools & hardware",
+    "invention": { "display": "c. 4th century BCE", "year": -350, "approximate": true, "era": "Ancient" },
+    "place_of_invention": {
+      "region": "Mediterranean (Greece and Rome) and China",
+      "modern_country": "Italy",
+      "notes": "Unequal-arm balances appear in the Greco-Roman world and in Warring States China at roughly the same time."
+    },
+    "inventor": null,
+    "short_description": "A lever scale with one sliding weight that moves along a marked arm.",
+    "description": "The steelyard hangs the load from a short arm and balances it with a single counterweight slid along a long, graduated arm. Roman markets used bronze steelyards, many of which survive at Pompeii. Market traders in many countries still use the same design today.",
+    "why_unchanged": "One sliding weight on a marked lever can measure a wide range of loads, so there's no need to carry a full set of weights.",
+    "materials": ["bronze", "iron", "steel"],
+    "faqs": [
+      { "question": "How does a steelyard work?", "answer": "It uses the lever principle: a small weight far from the pivot balances a heavy load close to it, and the position of the weight gives the reading." },
+      { "question": "Why is it called a steelyard?", "answer": "The English name likely comes from the Steelyard, the Hanseatic merchants' trading base in medieval London." },
+      { "question": "Is a steelyard still used today?", "answer": "Yes, hand-held steelyards remain common in markets in parts of Asia, Africa and Latin America." }
+    ],
+    "image": { "search_query": "roman bronze steelyard scale", "wikimedia_commons_category": "Steelyard balances", "alt": "A bronze steelyard scale with a hanging hook and counterweight" },
+    "tags": ["measurement", "lever", "roman", "market"],
+    "confidence": "low"
+  },
+  {
+    "slug": "bread-clip",
+    "name": "Bread clip",
+    "category": "Tableware & containers",
+    "invention": { "display": "1952", "year": 1952, "approximate": false, "era": "Modern" },
+    "place_of_invention": {
+      "region": "Yakima, Washington",
+      "modern_country": "United States",
+      "notes": "Paxton first cut the clip by hand from plastic to close a fruit bag; his company, Kwik Lok, still makes it."
+    },
+    "inventor": "Floyd G. Paxton",
+    "short_description": "A small flat plastic tab with a slot that closes the neck of a plastic bag.",
+    "description": "Floyd Paxton made the first bread clip in the early 1950s to close a bag of fruit, then built machines to produce and apply them. Bakeries adopted the clips because they are fast to put on and can be reused. Clip colors often indicate the day the bread was baked.",
+    "why_unchanged": "A flat tab with a notch is fast to apply, reusable and costs a fraction of a cent, so there was nothing to improve.",
+    "materials": ["polystyrene plastic"],
+    "faqs": [
+      { "question": "What do the colors of bread clips mean?", "answer": "Many bakeries use a color per day of the week so staff can rotate stock; the code varies by company." },
+      { "question": "Who invented the bread clip?", "answer": "Floyd G. Paxton of Yakima, Washington, in 1952; his company Kwik Lok still produces them." },
+      { "question": "Why not use a twist tie instead?", "answer": "Clips are faster to apply by machine and easier to reopen and reuse by hand." }
+    ],
+    "image": { "search_query": "plastic bread bag clip", "wikimedia_commons_category": "Bread clips", "alt": "A small plastic bread clip on a bag of bread" },
+    "tags": ["packaging", "plastic", "bread", "patent"],
+    "confidence": "high"
+  },
+  {
+    "slug": "toast-rack",
+    "name": "Toast rack",
+    "category": "Tableware & containers",
+    "invention": { "display": "c. 1770s", "year": 1775, "approximate": true, "era": "Early Modern" },
+    "place_of_invention": {
+      "region": "England",
+      "modern_country": "United Kingdom",
+      "notes": "Silver toast racks appear in English silversmiths' work in the late 18th century."
+    },
+    "inventor": null,
+    "short_description": "A rack of upright dividers that holds slices of toast apart on the table.",
+    "description": "The toast rack became a fixture of British breakfast tables in the late 18th century. Standing slices upright lets steam escape so the toast stays crisp instead of going soggy. Designs range from Georgian silver to modern stainless steel, but they all use the same row of dividers.",
+    "why_unchanged": "Keeping slices upright and apart is all a toast rack has to do, and a row of wire dividers does it perfectly.",
+    "materials": ["silver", "silver plate", "stainless steel", "ceramic"],
+    "faqs": [
+      { "question": "Why use a toast rack?", "answer": "Standing toast upright lets moisture escape, so it stays crisp rather than steaming itself soft on a plate." },
+      { "question": "Doesn't the toast get cold?", "answer": "Yes, a little faster; traditional British breakfasts favored crisp toast over hot toast." },
+      { "question": "Where did the toast rack originate?", "answer": "In late-18th-century England, where silversmiths made them for fashionable breakfast tables." }
+    ],
+    "image": { "search_query": "silver toast rack with toast", "wikimedia_commons_category": "Toast racks", "alt": "A silver toast rack holding slices of toast" },
+    "tags": ["breakfast", "british", "silverware", "table"],
+    "confidence": "medium"
+  },
+  {
+    "slug": "tea-strainer",
+    "name": "Tea strainer",
+    "category": "Tableware & containers",
+    "invention": { "display": "17th–18th century", "year": 1700, "approximate": true, "era": "Early Modern" },
+    "place_of_invention": {
+      "region": "Netherlands and Britain",
+      "modern_country": "Netherlands",
+      "notes": "Strainers for wine and other drinks are much older; the dedicated tea strainer spread with European tea drinking."
+    },
+    "inventor": null,
+    "short_description": "A small mesh or perforated cup held over a teacup to catch loose tea leaves.",
+    "description": "As loose-leaf tea became popular in Europe, hosts needed a way to pour tea without leaves in the cup. The tea strainer is a fine mesh or pierced metal bowl that rests on the cup or is held by a handle. Silver strainers were often sold as part of a tea service.",
+    "why_unchanged": "A fine mesh catches leaves and lets liquid through, and no design does that more simply.",
+    "materials": ["stainless steel", "silver", "bamboo"],
+    "faqs": [
+      { "question": "What's the difference between a tea strainer and an infuser?", "answer": "A strainer catches leaves while you pour; an infuser holds the leaves inside the pot or cup while the tea steeps." },
+      { "question": "Did tea bags replace tea strainers?", "answer": "Largely, after the mid-20th century, but loose-leaf drinkers still use strainers for better-quality tea." },
+      { "question": "When did tea strainers appear in Europe?", "answer": "They spread in the 17th and 18th centuries alongside tea drinking in the Netherlands and Britain." }
+    ],
+    "image": { "search_query": "silver tea strainer over teacup", "wikimedia_commons_category": "Tea strainers", "alt": "A mesh tea strainer resting on a teacup" },
+    "tags": ["tea", "kitchen", "mesh", "tableware"],
+    "confidence": "low"
+  },
+  {
+    "slug": "paper-plate",
+    "name": "Paper plate",
+    "category": "Tableware & containers",
+    "invention": { "display": "1904", "year": 1904, "approximate": false, "era": "Modern" },
+    "place_of_invention": {
+      "region": "Shirley, Massachusetts",
+      "modern_country": "United States",
+      "notes": "Flat paper plates existed slightly earlier; Keyes patented a machine for molded pulp plates in 1904."
+    },
+    "inventor": "Martin L. Keyes",
+    "short_description": "A light, disposable plate pressed from paper or molded paper pulp.",
+    "description": "Martin Keyes developed a machine to mold plates from wood pulp, founding the company that later became Keyes Fibre in Maine. Paper plates made picnics, parties and fast-food service easier because nobody had to wash up. Today's coated plates use the same shallow, rimmed shape.",
+    "why_unchanged": "A cheap rimmed disc of pressed paper does the job of a plate once, and that's all it needs to do.",
+    "materials": ["paper", "molded pulp", "plastic coating"],
+    "faqs": [
+      { "question": "Who invented the paper plate?", "answer": "Martin L. Keyes patented a machine for molded pulp plates in 1904, though simpler flat paper plates existed shortly before." },
+      { "question": "Can paper plates be recycled?", "answer": "Clean uncoated ones often can, but food grease and plastic coatings usually send them to compost or landfill." },
+      { "question": "Why do paper plates have ridges?", "answer": "The pleated rim adds stiffness so the plate doesn't fold under the weight of food." }
+    ],
+    "image": { "search_query": "white paper plate", "wikimedia_commons_category": "Paper plates", "alt": "A white disposable paper plate with a ridged rim" },
+    "tags": ["disposable", "picnic", "paper", "patent"],
+    "confidence": "medium"
+  },
+  {
+    "slug": "cardigan",
+    "name": "Cardigan",
+    "category": "Clothing, accessories & sewing",
+    "invention": { "display": "c. 1850s", "year": 1854, "approximate": true, "era": "Industrial" },
+    "place_of_invention": {
+      "region": "Britain",
+      "modern_country": "United Kingdom",
+      "notes": "Named after James Brudenell, 7th Earl of Cardigan, who popularized the knitted waistcoat around the Crimean War."
+    },
+    "inventor": null,
+    "short_description": "A knitted sweater that opens down the front and fastens with buttons.",
+    "description": "The cardigan takes its name from the Earl of Cardigan, whose officers wore knitted wool waistcoats during the Crimean War. Its front opening made it easy to put on and take off over other clothes. Coco Chanel later helped make it a fashion staple, but the shape is still the same.",
+    "why_unchanged": "A warm knit layer that opens down the front is easy to put on and adjust, and that's why people wear it.",
+    "materials": ["wool", "cotton", "cashmere", "acrylic"],
+    "faqs": [
+      { "question": "Why is it called a cardigan?", "answer": "It's named after the 7th Earl of Cardigan, a British commander in the Crimean War whose troops wore knitted waistcoats." },
+      { "question": "What's the difference between a cardigan and a sweater?", "answer": "A cardigan opens down the front, usually with buttons, while a pullover sweater goes on over the head." },
+      { "question": "Who made the cardigan fashionable?", "answer": "Coco Chanel adopted it in the early 20th century, and it later became associated with everyone from golfers to Mister Rogers." }
+    ],
+    "image": { "search_query": "button front knitted cardigan", "wikimedia_commons_category": "Cardigans", "alt": "A knitted wool cardigan with buttons down the front" },
+    "tags": ["knitwear", "wool", "british", "clothing"],
+    "confidence": "medium"
+  },
+  {
+    "slug": "plunger",
+    "name": "Plunger",
+    "category": "Household & furniture",
+    "invention": { "display": "Late 19th century", "year": 1875, "approximate": true, "era": "Industrial" },
+    "place_of_invention": {
+      "region": "North America",
+      "modern_country": "United States",
+      "notes": "The rubber force cup spread with indoor plumbing; no single inventor is reliably documented."
+    },
+    "inventor": null,
+    "short_description": "A rubber suction cup on a stick used to clear blocked drains and toilets.",
+    "description": "The plunger appeared alongside indoor plumbing and vulcanized rubber in the late 19th century. Pushing and pulling the cup creates pressure and suction that dislodge a blockage in the pipe. Flanged versions for toilets were added later, but the basic cup-on-a-handle is unchanged.",
+    "why_unchanged": "A flexible cup that seals over a drain and pumps pressure into it clears most clogs without tools or chemicals.",
+    "materials": ["rubber", "wood", "plastic"],
+    "faqs": [
+      { "question": "How does a plunger work?", "answer": "The cup seals over the drain, and pushing and pulling it alternates pressure and suction, which loosens the clog." },
+      { "question": "Why are there different plunger shapes?", "answer": "A flat cup suits sinks and tubs, while a flanged plunger has an extra lip that fits into a toilet's curved drain." },
+      { "question": "Who invented the plunger?", "answer": "No single inventor is reliably credited; the rubber force cup spread in the late 19th century with indoor plumbing." }
+    ],
+    "image": { "search_query": "rubber toilet plunger", "wikimedia_commons_category": "Plungers", "alt": "A red rubber plunger with a wooden handle" },
+    "tags": ["plumbing", "cleaning", "rubber", "bathroom"],
+    "confidence": "low"
+  },
+  {
+    "slug": "paper-towel",
+    "name": "Paper towel",
+    "category": "Household & furniture",
+    "invention": { "display": "1907", "year": 1907, "approximate": false, "era": "Modern" },
+    "place_of_invention": {
+      "region": "Philadelphia, Pennsylvania",
+      "modern_country": "United States",
+      "notes": "The Scott Paper Company sold 'Sani-Towels' for public washrooms from 1907; kitchen rolls followed in 1931."
+    },
+    "inventor": "Arthur Hoyt Scott",
+    "short_description": "A disposable sheet of absorbent paper, usually torn from a perforated roll.",
+    "description": "The Scott Paper Company introduced paper towels in 1907 as a more hygienic alternative to shared cloth towels in schools and washrooms. A perforated kitchen roll followed in 1931 and became a household staple. Paper towels still come as perforated rolls of absorbent paper.",
+    "why_unchanged": "A roll of absorbent, tear-off sheets is about as convenient as cleaning up a spill can get.",
+    "materials": ["paper pulp"],
+    "faqs": [
+      { "question": "Why were paper towels invented?", "answer": "To replace shared cloth roller towels, which spread germs in schools and public washrooms." },
+      { "question": "When did paper towels come to kitchens?", "answer": "Scott Paper launched a kitchen roll in 1931, and it became common after World War II." },
+      { "question": "Are paper towels recyclable?", "answer": "Usually not, because the fibers are short and often contaminated, but used ones can be composted." }
+    ],
+    "image": { "search_query": "paper towel roll", "wikimedia_commons_category": "Paper towels", "alt": "A roll of white paper towels on a holder" },
+    "tags": ["cleaning", "kitchen", "paper", "hygiene"],
+    "confidence": "medium"
+  },
+  {
+    "slug": "flower-pot",
+    "name": "Flower pot",
+    "category": "Outdoor, farming & travel",
+    "invention": { "display": "c. 1500 BCE", "year": -1500, "approximate": true, "era": "Ancient" },
+    "place_of_invention": {
+      "region": "Ancient Egypt",
+      "modern_country": "Egypt",
+      "notes": "Egyptians moved plants in containers; the Greeks grew 'Gardens of Adonis' in pots. Exact origins are uncertain."
+    },
+    "inventor": null,
+    "short_description": "A container, usually with a drainage hole, for growing plants.",
+    "description": "Ancient Egyptians carried plants in containers, and Greek households grew herbs and seedlings in clay pots for festivals. Romans used pots to move plants and decorate courtyards. The terracotta pot with a hole in the bottom is still the gardener's standard.",
+    "why_unchanged": "Porous clay with a drainage hole keeps roots moist without rotting them, so the basic pot has never needed rethinking.",
+    "materials": ["terracotta", "ceramic", "plastic", "stone"],
+    "faqs": [
+      { "question": "Why do flower pots have a hole in the bottom?", "answer": "It lets excess water drain away so roots don't sit in water and rot." },
+      { "question": "Why are classic pots made of terracotta?", "answer": "Unglazed clay is porous, letting air and moisture pass through the walls, which keeps roots healthy." },
+      { "question": "How old are flower pots?", "answer": "Plants were grown and moved in containers in ancient Egypt and Greece more than 3,000 years ago." }
+    ],
+    "image": { "search_query": "terracotta flower pot", "wikimedia_commons_category": "Flower pots", "alt": "A terracotta flower pot with a green plant" },
+    "tags": ["gardening", "clay", "plants", "ancient"],
+    "confidence": "low"
+  }
+]

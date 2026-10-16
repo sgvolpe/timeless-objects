@@ -1,0 +1,1280 @@
+[
+  {
+    "slug": "archimedes-screw",
+    "name": "Archimedes' screw",
+    "category": "Outdoor, farming & travel",
+    "invention": {
+      "display": "c. 250 BCE",
+      "year": -250,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Hellenistic Mediterranean (Syracuse or Egypt)",
+      "modern_country": "Italy",
+      "notes": "Traditionally attributed to Archimedes of Syracuse in the 3rd century BCE; some historians argue a similar device was used earlier in Assyria, so the attribution is disputed."
+    },
+    "inventor": null,
+    "short_description": "A helical screw inside a tube that lifts water when turned.",
+    "description": "The Archimedes screw is a spiral inside a sloping cylinder; turning it carries water upward in pockets from one end to the other. Greek writers credited Archimedes with it, and it was used to irrigate fields and drain mines in the Roman world. The same principle is still used for irrigation, wastewater pumping and even small hydropower plants.",
+    "why_unchanged": "A turning helix lifts water continuously with no valves or seals, a principle so efficient that only the scale and power source have changed.",
+    "materials": [
+      "wood",
+      "steel",
+      "bronze"
+    ],
+    "faqs": [
+      {
+        "question": "Did Archimedes really invent the screw pump?",
+        "answer": "Ancient writers credited him, but some historians argue a similar device watered gardens in Assyria centuries earlier, so the origin is debated."
+      },
+      {
+        "question": "How does an Archimedes screw lift water?",
+        "answer": "As the screw turns, pockets of water trapped between the spiral blades are pushed up the incline until they spill out at the top."
+      },
+      {
+        "question": "Is the Archimedes screw still used?",
+        "answer": "Yes. Large screw pumps move water in sewage plants and polders, and reversed screws are used as fish-friendly hydropower turbines."
+      }
+    ],
+    "image": {
+      "search_query": "archimedes screw water pump",
+      "wikimedia_commons_category": "Archimedes' screws",
+      "alt": "A large Archimedes screw lifting water in a channel"
+    },
+    "tags": [
+      "irrigation",
+      "water",
+      "farming",
+      "ancient"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "garden-cloche",
+    "name": "Garden cloche",
+    "category": "Outdoor, farming & travel",
+    "invention": {
+      "display": "17th century",
+      "year": 1650,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "France",
+      "modern_country": "France",
+      "notes": "Glass bell jars were widely used by French market gardeners, especially around Paris, from the 17th century; exact origins are unrecorded."
+    },
+    "inventor": null,
+    "short_description": "A bell-shaped glass or plastic cover that protects individual plants from cold.",
+    "description": "The cloche, French for \"bell\", is a glass dome placed over a young plant to trap warmth and shield it from frost and wind. French market gardeners used rows of glass cloches to grow early vegetables for city markets. Gardeners still use glass and plastic cloches for seedlings and tender plants.",
+    "why_unchanged": "A transparent dome traps heat and lets in light, which is all a small seedling needs, so the shape has never changed.",
+    "materials": [
+      "glass",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "What is a garden cloche used for?",
+        "answer": "It protects seedlings and tender plants from frost, wind and pests while letting light through, acting like a tiny greenhouse."
+      },
+      {
+        "question": "Why is it called a cloche?",
+        "answer": "Cloche is the French word for bell, describing the classic bell-jar shape."
+      },
+      {
+        "question": "Do cloches need ventilation?",
+        "answer": "Yes. On sunny days a cloche can overheat, so gardeners lift or prop it open to let air circulate."
+      }
+    ],
+    "image": {
+      "search_query": "glass garden cloche seedling",
+      "wikimedia_commons_category": "Cloches (gardening)",
+      "alt": "A glass bell cloche covering a seedling in a garden bed"
+    },
+    "tags": [
+      "gardening",
+      "glass",
+      "early-modern",
+      "france"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "cold-frame",
+    "name": "Cold frame",
+    "category": "Outdoor, farming & travel",
+    "invention": {
+      "display": "17th–18th century",
+      "year": 1700,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Europe",
+      "modern_country": "Unknown",
+      "notes": "Glazed frames became common in European gardens in the 17th and 18th centuries; Roman gardeners had earlier used beds covered with translucent stone sheets to force vegetables."
+    },
+    "inventor": null,
+    "short_description": "A low, glass-topped box that shelters plants outdoors.",
+    "description": "A cold frame is a bottomless box with a transparent lid set on the ground to create a sheltered, sun-warmed environment. It lets gardeners harden off seedlings and extend the growing season without heating. Wooden frames with glass lids, often made from old windows, are still built today.",
+    "why_unchanged": "A box with a sloping glass lid captures solar warmth with no moving parts, so it remains the cheapest way to protect plants.",
+    "materials": [
+      "wood",
+      "glass",
+      "brick",
+      "polycarbonate"
+    ],
+    "faqs": [
+      {
+        "question": "What is the difference between a cold frame and a greenhouse?",
+        "answer": "A cold frame is a low box you reach into from outside, while a greenhouse is a structure you walk into; both trap solar heat."
+      },
+      {
+        "question": "Why does a cold frame lid slope?",
+        "answer": "The slope faces the sun to catch more light and lets rain run off."
+      },
+      {
+        "question": "What is \"hardening off\"?",
+        "answer": "It is gradually exposing indoor-raised seedlings to outdoor conditions, and a cold frame is a classic place to do it."
+      }
+    ],
+    "image": {
+      "search_query": "wooden cold frame glass lid garden",
+      "wikimedia_commons_category": "Cold frames",
+      "alt": "A wooden cold frame with an open glass lid full of seedlings"
+    },
+    "tags": [
+      "gardening",
+      "glass",
+      "early-modern"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "dutch-hoe",
+    "name": "Dutch hoe",
+    "category": "Outdoor, farming & travel",
+    "invention": {
+      "display": "By the 18th century",
+      "year": 1700,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Low Countries",
+      "modern_country": "Netherlands",
+      "notes": "The name suggests a Dutch origin, but there is no clear record of when or where the push-style hoe first appeared."
+    },
+    "inventor": null,
+    "short_description": "A push hoe with a flat blade that slices weeds just below the soil surface.",
+    "description": "Unlike a draw hoe, which is chopped toward the user, the Dutch hoe is pushed forward so its flat blade slides just under the soil surface and cuts weeds at the root. The gardener walks backward and never treads on the freshly hoed ground. It remains a favorite tool for keeping vegetable beds clean.",
+    "why_unchanged": "A sharp, flat blade pushed at a shallow angle does the job perfectly, so the tool has stayed the same.",
+    "materials": [
+      "steel",
+      "wood"
+    ],
+    "faqs": [
+      {
+        "question": "How is a Dutch hoe different from a regular hoe?",
+        "answer": "A Dutch hoe is pushed away from you with the blade almost parallel to the ground, while a draw hoe is chopped and pulled toward you."
+      },
+      {
+        "question": "When is the best time to use a Dutch hoe?",
+        "answer": "On a dry, sunny day, when cut weeds will quickly wither instead of re-rooting."
+      },
+      {
+        "question": "Why does the user walk backward?",
+        "answer": "Walking backward means you never step on the ground you have just hoed, leaving the soil loose and without footprints."
+      }
+    ],
+    "image": {
+      "search_query": "dutch push hoe weeding",
+      "wikimedia_commons_category": "Dutch hoes",
+      "alt": "A Dutch hoe slicing weeds in a vegetable bed"
+    },
+    "tags": [
+      "gardening",
+      "weeding",
+      "early-modern"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "shepherds-crook",
+    "name": "Shepherd's crook",
+    "category": "Outdoor, farming & travel",
+    "invention": {
+      "display": "Antiquity (c. 3000 BCE)",
+      "year": -3000,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Near East",
+      "modern_country": "Unknown",
+      "notes": "Hooked herding staffs are as old as herding itself; the crook already appears as a symbol of rule in early Egyptian art. The date is an estimate."
+    },
+    "inventor": null,
+    "short_description": "A long staff with a hook at the top used to catch and guide sheep.",
+    "description": "The shepherd's crook is a walking staff with a hooked end used to catch a sheep by the neck or leg and guide the flock. It became a powerful symbol of leadership in ancient Egypt and later of Christian bishops. Shepherds and sheepdog handlers still carry crooks today.",
+    "why_unchanged": "A hook on a staff is exactly the right shape for catching an animal at arm's length, so no change was needed.",
+    "materials": [
+      "wood",
+      "hazel",
+      "horn",
+      "aluminum"
+    ],
+    "faqs": [
+      {
+        "question": "What is the hook on a shepherd's crook for?",
+        "answer": "It is used to catch a sheep around the neck or hind leg so it can be held for inspection or treatment."
+      },
+      {
+        "question": "Why do bishops carry a crook?",
+        "answer": "The bishop's crosier is modeled on the shepherd's crook, symbolizing a pastor caring for a flock."
+      },
+      {
+        "question": "Are crooks still made by hand?",
+        "answer": "Yes. Stick dressing, the craft of carving crooks from wood and ram's horn, is a living tradition with competitions in Britain."
+      }
+    ],
+    "image": {
+      "search_query": "shepherd crook with sheep",
+      "wikimedia_commons_category": "Shepherd's crooks",
+      "alt": "A shepherd holding a wooden crook beside a flock of sheep"
+    },
+    "tags": [
+      "animal-husbandry",
+      "sheep",
+      "herding",
+      "ancient"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "cowbell",
+    "name": "Cowbell",
+    "category": "Outdoor, farming & travel",
+    "invention": {
+      "display": "Antiquity (c. 1000 BCE)",
+      "year": -1000,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Unknown; widespread across Europe, Asia and Africa",
+      "modern_country": "Unknown",
+      "notes": "Animal bells were used in many ancient herding cultures; the origin cannot be traced and the date is an estimate."
+    },
+    "inventor": null,
+    "short_description": "A bell hung from a livestock collar so herders can locate grazing animals.",
+    "description": "Cowbells are hung around the necks of grazing animals so that herders can hear where they are in forests, fog or mountain pastures. Herding cultures in Europe, Asia and Africa have used animal bells since antiquity. They remain common in Alpine pastures and have also become a percussion instrument.",
+    "why_unchanged": "A bell needs no power and makes a distinctive sound that carries far, so it is still the simplest way to track grazing herds.",
+    "materials": [
+      "iron",
+      "brass",
+      "bronze",
+      "copper"
+    ],
+    "faqs": [
+      {
+        "question": "Why do cows wear bells?",
+        "answer": "The bells help farmers find animals grazing in large pastures, forests or fog by sound."
+      },
+      {
+        "question": "Can each cowbell sound different?",
+        "answer": "Yes. Bells are made in different sizes and tones, and herders can often recognize individual animals by their bell."
+      },
+      {
+        "question": "Is the cowbell a musical instrument?",
+        "answer": "Yes. Clapperless cowbells are struck with a stick in Latin, rock and orchestral music."
+      }
+    ],
+    "image": {
+      "search_query": "alpine cow with large bell",
+      "wikimedia_commons_category": "Cowbells",
+      "alt": "A cow in an Alpine meadow wearing a large bell"
+    },
+    "tags": [
+      "animal-husbandry",
+      "cattle",
+      "bells",
+      "ancient"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "milking-stool",
+    "name": "Milking stool",
+    "category": "Outdoor, farming & travel",
+    "invention": {
+      "display": "Antiquity (c. 2500 BCE)",
+      "year": -2500,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Near East",
+      "modern_country": "Unknown",
+      "notes": "Dairying is depicted in Mesopotamian art around 2500 BCE, but no single origin for the milking stool is known; the date is an estimate."
+    },
+    "inventor": null,
+    "short_description": "A low stool, often three-legged, for sitting while milking by hand.",
+    "description": "The milking stool lets a farmer sit low beside a cow, goat or sheep while milking by hand. The classic three-legged design stands firmly on uneven barn floors. It is still used by smallholders and remains a common rustic furniture piece.",
+    "why_unchanged": "Three legs always rest stably on uneven ground, so the simplest possible stool was already the perfect one.",
+    "materials": [
+      "wood",
+      "oak",
+      "metal"
+    ],
+    "faqs": [
+      {
+        "question": "Why do milking stools have three legs?",
+        "answer": "Three legs always touch the ground evenly, so the stool does not wobble on rough barn floors."
+      },
+      {
+        "question": "Why is a milking stool so low?",
+        "answer": "Its low height places the milker at the level of the animal's udder."
+      },
+      {
+        "question": "What is the \"three-legged stool\" metaphor?",
+        "answer": "It describes something that needs all three of its parts to stand, a figure of speech inspired by such stools."
+      }
+    ],
+    "image": {
+      "search_query": "three legged wooden milking stool",
+      "wikimedia_commons_category": "Milking stools",
+      "alt": "A three-legged wooden milking stool in a barn"
+    },
+    "tags": [
+      "animal-husbandry",
+      "dairy",
+      "furniture",
+      "ancient"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "branding-iron",
+    "name": "Branding iron",
+    "category": "Outdoor, farming & travel",
+    "invention": {
+      "display": "c. 2700 BCE",
+      "year": -2700,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Ancient Egypt",
+      "modern_country": "Egypt",
+      "notes": "Ancient Egyptian tomb art is often cited as early evidence of cattle branding; the exact date is approximate."
+    },
+    "inventor": null,
+    "short_description": "A heated metal stamp used to mark ownership on livestock.",
+    "description": "A branding iron is a metal symbol on a long handle, heated and pressed onto an animal's hide to leave a permanent mark of ownership. Branding is depicted in ancient Egyptian art and became iconic on the cattle ranges of the Americas. It is still used, alongside freeze branding and ear tags, to identify livestock.",
+    "why_unchanged": "A shaped metal stamp on a handle is the most direct way to make a permanent mark, so the tool itself is unchanged.",
+    "materials": [
+      "iron",
+      "steel",
+      "copper"
+    ],
+    "faqs": [
+      {
+        "question": "Why do ranchers brand cattle?",
+        "answer": "A brand provides permanent, visible proof of ownership that deters theft and helps sort mixed herds."
+      },
+      {
+        "question": "What is freeze branding?",
+        "answer": "Freeze branding uses an iron chilled in liquid nitrogen or dry ice, which makes the hair grow back white in the shape of the brand."
+      },
+      {
+        "question": "Are brands registered?",
+        "answer": "Yes. In many cattle-raising regions brands must be officially registered, much like a trademark."
+      }
+    ],
+    "image": {
+      "search_query": "cattle branding iron ranch",
+      "wikimedia_commons_category": "Branding irons",
+      "alt": "A metal branding iron with a ranch symbol"
+    },
+    "tags": [
+      "animal-husbandry",
+      "cattle",
+      "ranching",
+      "ancient"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "sheep-shears",
+    "name": "Sheep shears",
+    "category": "Outdoor, farming & travel",
+    "invention": {
+      "display": "Iron Age (c. 1000 BCE)",
+      "year": -1000,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Near East and Europe",
+      "modern_country": "Unknown",
+      "notes": "Spring-type shears appear in the Iron Age, replacing the older practice of plucking wool; the exact place and date are uncertain."
+    },
+    "inventor": null,
+    "short_description": "Spring-loaded blade shears used to clip wool from sheep.",
+    "description": "Sheep shears are two blades joined by a U-shaped spring at the end, so squeezing them closes the blades and releasing lets them spring open. They made it possible to shear wool rather than pluck it, and the design has hardly changed in nearly 3,000 years. Blade shears are still used, especially in cold climates where they leave more wool on the sheep.",
+    "why_unchanged": "A single piece of springy steel gives a fast, self-opening cut with no pivot to wear out, so the design was complete from the start.",
+    "materials": [
+      "steel",
+      "iron"
+    ],
+    "faqs": [
+      {
+        "question": "How did people get wool before shears?",
+        "answer": "Early sheep shed their fleece naturally, and people plucked or combed the wool out by hand."
+      },
+      {
+        "question": "Are hand shears still used?",
+        "answer": "Yes. Many shepherds use blade shears for small flocks, show sheep and in cold regions where a longer remaining fleece protects the animal."
+      },
+      {
+        "question": "How are spring shears different from scissors?",
+        "answer": "Spring shears are one piece of metal bent into a U, with no pivot screw; the spring opens the blades after each cut."
+      }
+    ],
+    "image": {
+      "search_query": "hand sheep shears wool",
+      "wikimedia_commons_category": "Sheep shears",
+      "alt": "A pair of steel spring-type sheep shears"
+    },
+    "tags": [
+      "animal-husbandry",
+      "sheep",
+      "wool",
+      "ancient"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "ox-goad",
+    "name": "Ox goad",
+    "category": "Outdoor, farming & travel",
+    "invention": {
+      "display": "Antiquity (c. 3000 BCE)",
+      "year": -3000,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Near East",
+      "modern_country": "Unknown",
+      "notes": "Goads were used wherever cattle pulled plows; they appear in ancient Near Eastern texts and art. The date is an estimate."
+    },
+    "inventor": null,
+    "short_description": "A long pointed stick used to drive and guide draft animals.",
+    "description": "The goad is a long staff with a pointed end, sometimes with a small blade for cleaning the plow, used to urge and steer oxen. It has accompanied draft farming since its beginnings in the Near East. Herders and ox drivers in many countries still use simple goads.",
+    "why_unchanged": "A long stick extends the driver's reach to signal the animal, and nothing more is required.",
+    "materials": [
+      "wood",
+      "iron"
+    ],
+    "faqs": [
+      {
+        "question": "What is an ox goad?",
+        "answer": "It is a long stick, often tipped with a point, used to drive oxen and other draft animals."
+      },
+      {
+        "question": "What does \"kicking against the goads\" mean?",
+        "answer": "The phrase, found in ancient Greek literature and the Bible, means resisting something pointlessly, like an ox kicking at the driver's stick."
+      },
+      {
+        "question": "Why does \"goad\" mean to provoke?",
+        "answer": "The verb comes from the tool, which prodded animals into action."
+      }
+    ],
+    "image": {
+      "search_query": "farmer driving oxen with stick",
+      "wikimedia_commons_category": "Goads",
+      "alt": "A farmer with a long goad walking behind a pair of oxen"
+    },
+    "tags": [
+      "animal-husbandry",
+      "oxen",
+      "farming",
+      "ancient"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "horseshoe",
+    "name": "Horseshoe",
+    "category": "Outdoor, farming & travel",
+    "invention": {
+      "display": "Early medieval (c. 500 CE)",
+      "year": 500,
+      "approximate": true,
+      "era": "Medieval"
+    },
+    "place_of_invention": {
+      "region": "Europe",
+      "modern_country": "Unknown",
+      "notes": "Romans used strap-on iron \"hipposandals\"; when nailed horseshoes first appeared is disputed, with claims ranging from Iron Age Gaul to the early Middle Ages. They were common in Europe by about 1000 CE."
+    },
+    "inventor": null,
+    "short_description": "A U-shaped metal plate nailed to a horse's hoof to protect it.",
+    "description": "The horseshoe protects the hoof wall from wear and cracking on hard or rocky ground. Nailed iron shoes became widespread in medieval Europe, where farriers forged them by hand. Steel shoes of the same shape are still fitted to working, sport and leisure horses.",
+    "why_unchanged": "A U-shaped plate following the hoof rim protects the wearing edge while leaving the frog free, and no better shape exists.",
+    "materials": [
+      "iron",
+      "steel",
+      "aluminum"
+    ],
+    "faqs": [
+      {
+        "question": "Does nailing a horseshoe hurt the horse?",
+        "answer": "No. The nails go into the outer hoof wall, which has no nerves, much like trimming a fingernail."
+      },
+      {
+        "question": "Why is a horseshoe considered lucky?",
+        "answer": "Iron was believed to ward off evil, and folklore links the horseshoe to stories such as St Dunstan and the devil."
+      },
+      {
+        "question": "How often are horseshoes replaced?",
+        "answer": "Typically every 4 to 8 weeks, because the hoof keeps growing and must be trimmed."
+      }
+    ],
+    "image": {
+      "search_query": "farrier horseshoe hoof",
+      "wikimedia_commons_category": "Horseshoes",
+      "alt": "An iron horseshoe being fitted to a hoof by a farrier"
+    },
+    "tags": [
+      "horses",
+      "animal-husbandry",
+      "iron",
+      "medieval"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "saddle",
+    "name": "Saddle",
+    "category": "Outdoor, farming & travel",
+    "invention": {
+      "display": "c. 700 BCE",
+      "year": -700,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Eurasian Steppe",
+      "modern_country": "Unknown",
+      "notes": "Padded saddles are known from Scythian burials around the 7th–5th centuries BCE; Assyrian riders used saddle cloths earlier. Solid-tree saddles developed later in Rome and Han China."
+    },
+    "inventor": null,
+    "short_description": "A padded seat strapped to a horse's back for the rider.",
+    "description": "The saddle spreads a rider's weight across the horse's back and gives the rider a stable seat. Steppe nomads such as the Scythians used padded saddles, and later cultures added a rigid frame, or tree. Modern English and Western saddles keep the same essential structure.",
+    "why_unchanged": "A padded frame shaped to the horse's back is the only practical way to carry a rider comfortably, so the layout is unchanged.",
+    "materials": [
+      "leather",
+      "wood",
+      "wool",
+      "synthetic materials"
+    ],
+    "faqs": [
+      {
+        "question": "What is a saddle tree?",
+        "answer": "The tree is the rigid internal frame of a saddle that spreads the rider's weight and keeps pressure off the horse's spine."
+      },
+      {
+        "question": "What is the difference between English and Western saddles?",
+        "answer": "English saddles are lighter and close-contact, while Western saddles are larger, with a horn and deep seat for long hours of ranch work."
+      },
+      {
+        "question": "Who used the first saddles?",
+        "answer": "The earliest surviving padded saddles come from Scythian burials on the Eurasian steppe, about 2,500 years ago."
+      }
+    ],
+    "image": {
+      "search_query": "leather horse saddle",
+      "wikimedia_commons_category": "Saddles",
+      "alt": "A brown leather saddle on a horse"
+    },
+    "tags": [
+      "horses",
+      "riding",
+      "leather",
+      "ancient"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "stirrup",
+    "name": "Stirrup",
+    "category": "Outdoor, farming & travel",
+    "invention": {
+      "display": "c. 322 CE",
+      "year": 322,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Jin dynasty China",
+      "modern_country": "China",
+      "notes": "The earliest known pair of stirrups comes from a Jin dynasty tomb near Nanjing dated 322 CE; earlier single mounting stirrups and Indian toe-loops existed."
+    },
+    "inventor": null,
+    "short_description": "A frame hung from each side of a saddle to support the rider's foot.",
+    "description": "Stirrups give the rider a firm place for the feet, improving balance, mounting and control. Paired metal stirrups appeared in China in the 4th century CE and spread across Asia and into Europe by the 8th century. Their basic form is the same on every saddle today.",
+    "why_unchanged": "A loop for the foot hung from the saddle gives all the needed support, and only safety details have been added since.",
+    "materials": [
+      "iron",
+      "steel",
+      "aluminum",
+      "wood"
+    ],
+    "faqs": [
+      {
+        "question": "Where were stirrups invented?",
+        "answer": "The earliest known pair comes from China around 322 CE, though single mounting stirrups and toe-loops in India came earlier."
+      },
+      {
+        "question": "Did stirrups change warfare?",
+        "answer": "Historians have argued that stirrups helped mounted warriors fight more effectively, though how much they changed medieval society is debated."
+      },
+      {
+        "question": "Why do some stirrups have safety features?",
+        "answer": "Safety stirrups release the foot in a fall so the rider is not dragged by the horse."
+      }
+    ],
+    "image": {
+      "search_query": "metal stirrup on saddle",
+      "wikimedia_commons_category": "Stirrups",
+      "alt": "A metal stirrup hanging from a leather saddle"
+    },
+    "tags": [
+      "horses",
+      "riding",
+      "ancient",
+      "china"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "bridle",
+    "name": "Bridle",
+    "category": "Outdoor, farming & travel",
+    "invention": {
+      "display": "c. 3500 BCE",
+      "year": -3500,
+      "approximate": true,
+      "era": "Prehistoric"
+    },
+    "place_of_invention": {
+      "region": "Central Asian steppe",
+      "modern_country": "Kazakhstan",
+      "notes": "Possible bit wear on horse teeth from the Botai culture suggests bridling around 3500 BCE, but this evidence is debated."
+    },
+    "inventor": null,
+    "short_description": "The headgear of straps used to control a horse, holding the bit and reins.",
+    "description": "The bridle is the set of straps fitted around a horse's head that holds the bit and attaches to the reins. Early riders and charioteers used rope or leather versions soon after horses were domesticated. The modern bridle has the same headpiece, browband, noseband and reins.",
+    "why_unchanged": "Straps that hold a mouthpiece and connect it to reins are all that is needed to communicate with a horse, so the design is stable.",
+    "materials": [
+      "leather",
+      "nylon",
+      "rope",
+      "metal buckles"
+    ],
+    "faqs": [
+      {
+        "question": "What are the parts of a bridle?",
+        "answer": "A typical bridle has a headpiece, browband, cheekpieces, noseband, throatlatch, bit and reins."
+      },
+      {
+        "question": "What is a bitless bridle?",
+        "answer": "A bitless bridle controls the horse through pressure on the nose and head instead of a mouthpiece."
+      },
+      {
+        "question": "How is a bridle different from a halter?",
+        "answer": "A bridle is used for riding and driving and usually holds a bit, while a halter is used for leading and tying a horse."
+      }
+    ],
+    "image": {
+      "search_query": "leather horse bridle",
+      "wikimedia_commons_category": "Bridles",
+      "alt": "A leather bridle on a horse's head"
+    },
+    "tags": [
+      "horses",
+      "riding",
+      "leather",
+      "prehistoric"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "snaffle-bit",
+    "name": "Snaffle bit",
+    "category": "Outdoor, farming & travel",
+    "invention": {
+      "display": "c. 1500 BCE",
+      "year": -1500,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Near East",
+      "modern_country": "Unknown",
+      "notes": "Bronze bits appear in the Near East in the 2nd millennium BCE; earlier bits were probably made of rope, bone or wood."
+    },
+    "inventor": null,
+    "short_description": "A metal mouthpiece with rings at each end, connected to the reins.",
+    "description": "The snaffle bit is a mouthpiece, often jointed in the middle, with a ring on each side for the reins. Bronze bits of this type were used by chariot horses in the ancient Near East, and later in iron and steel. It remains the most common bit in riding.",
+    "why_unchanged": "A simple mouthpiece with rings gives direct, gentle rein contact, and only materials and mouthpiece shapes have varied.",
+    "materials": [
+      "steel",
+      "stainless steel",
+      "copper",
+      "rubber"
+    ],
+    "faqs": [
+      {
+        "question": "What is a snaffle bit?",
+        "answer": "It is a bit that acts directly on the horse's mouth without leverage, with the reins attached to rings at each end."
+      },
+      {
+        "question": "Does a bit hurt the horse?",
+        "answer": "A well-fitted bit used with light hands should not hurt; problems come from poor fit or harsh handling."
+      },
+      {
+        "question": "How do archaeologists know when bits were used?",
+        "answer": "Bits leave characteristic wear on horses' teeth, and bronze bits survive in ancient graves."
+      }
+    ],
+    "image": {
+      "search_query": "jointed snaffle bit horse",
+      "wikimedia_commons_category": "Snaffle bits",
+      "alt": "A jointed steel snaffle bit with round rings"
+    },
+    "tags": [
+      "horses",
+      "riding",
+      "bronze-age",
+      "ancient"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "horse-collar",
+    "name": "Horse collar",
+    "category": "Outdoor, farming & travel",
+    "invention": {
+      "display": "5th century CE",
+      "year": 450,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "China",
+      "modern_country": "China",
+      "notes": "The padded horse collar is generally dated to China around the 5th century CE; it reached Europe by around the 10th century."
+    },
+    "inventor": null,
+    "short_description": "A padded ring around a horse's neck that lets it pull heavy loads with its shoulders.",
+    "description": "Earlier throat-and-girth harnesses pressed on a horse's windpipe, limiting how much it could pull. The padded collar rests on the shoulders instead, letting the horse use its full strength. Its arrival in Europe helped horses replace oxen for plowing, and draft horses still wear the same design.",
+    "why_unchanged": "Resting the load on the shoulders lets the horse pull without choking, and that solution cannot be improved upon.",
+    "materials": [
+      "leather",
+      "straw",
+      "wood",
+      "metal"
+    ],
+    "faqs": [
+      {
+        "question": "Why was the horse collar important?",
+        "answer": "It moved the pulling load from the throat to the shoulders, so a horse could pull much heavier loads such as plows."
+      },
+      {
+        "question": "Where was the horse collar invented?",
+        "answer": "It is generally traced to China around the 5th century CE, spreading to Europe by around the 10th century."
+      },
+      {
+        "question": "Are horse collars still used?",
+        "answer": "Yes. Draft horses used in farming, logging and for carriages still wear padded collars."
+      }
+    ],
+    "image": {
+      "search_query": "draft horse padded collar harness",
+      "wikimedia_commons_category": "Horse collars",
+      "alt": "A draft horse wearing a padded leather collar"
+    },
+    "tags": [
+      "horses",
+      "farming",
+      "harness",
+      "ancient",
+      "china"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "halter",
+    "name": "Halter",
+    "category": "Outdoor, farming & travel",
+    "invention": {
+      "display": "c. 3500 BCE",
+      "year": -3500,
+      "approximate": true,
+      "era": "Prehistoric"
+    },
+    "place_of_invention": {
+      "region": "Eurasian steppe",
+      "modern_country": "Unknown",
+      "notes": "Halters were probably among the first pieces of tack after domestication; organic materials rarely survive, so this is an estimate."
+    },
+    "inventor": null,
+    "short_description": "A simple head harness with a lead rope for leading and tying animals.",
+    "description": "The halter is a loop of rope or straps around an animal's head and nose, attached to a lead rope. It was probably one of the first tools used to handle domesticated horses, cattle and camels. It remains the everyday way to lead and tie livestock.",
+    "why_unchanged": "A loop around the head and nose gives control without a bit, so the simple rope halter has stayed the same.",
+    "materials": [
+      "rope",
+      "leather",
+      "nylon"
+    ],
+    "faqs": [
+      {
+        "question": "What is a halter used for?",
+        "answer": "It is used to lead, tie up and handle horses, cattle and other livestock, but generally not for riding."
+      },
+      {
+        "question": "Can you make a halter from rope?",
+        "answer": "Yes. A rope halter can be tied from a single length of rope, a skill many horse handlers learn."
+      },
+      {
+        "question": "Should a horse wear a halter in the field?",
+        "answer": "Many experts advise against leaving one on unsupervised, or recommend breakaway halters, because it can catch on fences."
+      }
+    ],
+    "image": {
+      "search_query": "rope halter horse lead",
+      "wikimedia_commons_category": "Halters",
+      "alt": "A horse wearing a rope halter with a lead rope"
+    },
+    "tags": [
+      "horses",
+      "animal-husbandry",
+      "rope",
+      "prehistoric"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "spurs",
+    "name": "Spurs",
+    "category": "Outdoor, farming & travel",
+    "invention": {
+      "display": "c. 400 BCE",
+      "year": -400,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Iron Age Europe (Celtic La Tène culture)",
+      "modern_country": "Unknown",
+      "notes": "Early spurs are known from Celtic La Tène sites and were used by Greeks and Romans; rowel spurs appeared in medieval Europe."
+    },
+    "inventor": null,
+    "short_description": "Small metal points worn on a rider's heels to cue the horse.",
+    "description": "Spurs attach to the back of a rider's boots and allow precise leg aids. Early prick spurs were a single point, while medieval Europe introduced the rowel, a small spinning wheel. Riders in dressage and Western riding still wear spurs of the same basic types.",
+    "why_unchanged": "A small point on the heel gives a precise signal with minimal movement, which is all the tool needs to do.",
+    "materials": [
+      "steel",
+      "iron",
+      "brass",
+      "silver"
+    ],
+    "faqs": [
+      {
+        "question": "What are spurs used for?",
+        "answer": "Spurs give refined cues to a horse through the rider's leg, and are meant to support aids rather than punish."
+      },
+      {
+        "question": "What is a rowel?",
+        "answer": "A rowel is the small spinning, toothed wheel on some spurs, introduced in medieval Europe."
+      },
+      {
+        "question": "What does \"earning your spurs\" mean?",
+        "answer": "It comes from medieval knighthood, when a new knight was awarded spurs, and now means proving yourself."
+      }
+    ],
+    "image": {
+      "search_query": "riding spurs on boots",
+      "wikimedia_commons_category": "Spurs",
+      "alt": "A pair of metal spurs on leather riding boots"
+    },
+    "tags": [
+      "horses",
+      "riding",
+      "ancient"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "whip",
+    "name": "Whip",
+    "category": "Outdoor, farming & travel",
+    "invention": {
+      "display": "Antiquity (c. 3000 BCE)",
+      "year": -3000,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Near East and Egypt",
+      "modern_country": "Unknown",
+      "notes": "Whips appear in ancient Egyptian and Mesopotamian art, especially with chariots; the origin cannot be pinned down."
+    },
+    "inventor": null,
+    "short_description": "A flexible lash on a handle used to guide and drive animals.",
+    "description": "The whip has been used since antiquity by herders and drivers to signal and guide animals, often by sound rather than contact. Charioteers in Egypt and Mesopotamia carried whips, and later drovers developed long stock whips. Riding crops, lunge whips and bullwhips still follow the same basic form.",
+    "why_unchanged": "A flexible lash extends reach and makes a loud crack with a flick of the wrist, so there was nothing to change.",
+    "materials": [
+      "leather",
+      "wood",
+      "fiberglass",
+      "nylon"
+    ],
+    "faqs": [
+      {
+        "question": "Why does a whip crack?",
+        "answer": "The tip of a cracked whip moves faster than the speed of sound and makes a small sonic boom."
+      },
+      {
+        "question": "What is the difference between a riding crop and a whip?",
+        "answer": "A riding crop is short and stiff with a small leather flap, while drover's whips have a long flexible lash."
+      },
+      {
+        "question": "Are whips used to hurt animals?",
+        "answer": "In good practice, whips are mainly signals or extensions of the arm, and the crack is often enough to move livestock."
+      }
+    ],
+    "image": {
+      "search_query": "leather stock whip",
+      "wikimedia_commons_category": "Whips",
+      "alt": "A coiled leather stock whip"
+    },
+    "tags": [
+      "animal-husbandry",
+      "horses",
+      "leather",
+      "ancient"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "dog-collar",
+    "name": "Dog collar",
+    "category": "Outdoor, farming & travel",
+    "invention": {
+      "display": "Antiquity (c. 3000 BCE)",
+      "year": -3000,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Ancient Egypt and Mesopotamia",
+      "modern_country": "Egypt",
+      "notes": "Collared dogs appear in ancient Egyptian and Mesopotamian art; decorated collars have survived from Egyptian burials. The date is an estimate."
+    },
+    "inventor": null,
+    "short_description": "A band worn around a dog's neck for identification and control.",
+    "description": "The dog collar holds identification and gives a point to attach a leash. Ancient Egyptians gave their dogs decorated leather collars, and Greek and Roman guard dogs wore spiked collars to protect their throats from wolves. Today's collars of leather or nylon with a buckle are essentially the same.",
+    "why_unchanged": "A band around the neck with a ring is the simplest way to identify and hold a dog, so it has stayed unchanged.",
+    "materials": [
+      "leather",
+      "nylon",
+      "metal"
+    ],
+    "faqs": [
+      {
+        "question": "Why did ancient dog collars have spikes?",
+        "answer": "Spiked collars protected guard dogs' throats from wolves and other predators."
+      },
+      {
+        "question": "How tight should a dog collar be?",
+        "answer": "A common rule is that you should be able to fit two fingers between the collar and the dog's neck."
+      },
+      {
+        "question": "Did ancient Egyptians put names on dog collars?",
+        "answer": "Some Egyptian dogs were given names, and surviving collars and inscriptions show how much they were valued."
+      }
+    ],
+    "image": {
+      "search_query": "leather dog collar",
+      "wikimedia_commons_category": "Dog collars",
+      "alt": "A dog wearing a leather collar with a tag"
+    },
+    "tags": [
+      "animals",
+      "dogs",
+      "leather",
+      "ancient"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "leash",
+    "name": "Leash",
+    "category": "Outdoor, farming & travel",
+    "invention": {
+      "display": "Antiquity (c. 2500 BCE)",
+      "year": -2500,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Ancient Egypt and Mesopotamia",
+      "modern_country": "Unknown",
+      "notes": "Dogs on leads are depicted in ancient Egyptian and Mesopotamian art; the exact origin is unknown."
+    },
+    "inventor": null,
+    "short_description": "A cord or strap attached to a collar to lead and restrain an animal.",
+    "description": "The leash, or lead, lets a person walk, restrain and guide a dog or other animal. Ancient art shows hunting dogs held on leads, and medieval hunters used leashes to manage packs. Today's leashes use nylon and clip hooks but keep the same simple design.",
+    "why_unchanged": "A length of cord between hand and collar does the job perfectly, so only the clasps and materials have changed.",
+    "materials": [
+      "leather",
+      "nylon",
+      "rope",
+      "chain"
+    ],
+    "faqs": [
+      {
+        "question": "How old is the dog leash?",
+        "answer": "Dogs on leads appear in ancient Egyptian and Mesopotamian art from thousands of years ago."
+      },
+      {
+        "question": "What is the difference between a leash and a lead?",
+        "answer": "They mean the same thing; \"lead\" is more common in British English and \"leash\" in American English."
+      },
+      {
+        "question": "Are retractable leashes a good idea?",
+        "answer": "They give dogs freedom but offer less control, and many trainers prefer a fixed-length leash for busy areas."
+      }
+    ],
+    "image": {
+      "search_query": "dog on leather leash walking",
+      "wikimedia_commons_category": "Leashes",
+      "alt": "A person walking a dog on a leather leash"
+    },
+    "tags": [
+      "animals",
+      "dogs",
+      "ancient"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "curry-comb",
+    "name": "Curry comb",
+    "category": "Outdoor, farming & travel",
+    "invention": {
+      "display": "Medieval (c. 1300)",
+      "year": 1300,
+      "approximate": true,
+      "era": "Medieval"
+    },
+    "place_of_invention": {
+      "region": "Europe",
+      "modern_country": "Unknown",
+      "notes": "The name comes from the Old French word for preparing or grooming a horse; the tool's precise origin and date are unknown."
+    },
+    "inventor": null,
+    "short_description": "A grooming tool with short teeth or ridges that loosens dirt and hair from a horse's coat.",
+    "description": "The curry comb is rubbed in circles over a horse's coat to lift dirt, loose hair and scurf before brushing. Metal curry combs were used for centuries, and rubber versions are now common. It is one of the basic tools in every grooming kit.",
+    "why_unchanged": "Short ridges rubbed in circles lift dirt from the coat, which is all grooming requires.",
+    "materials": [
+      "rubber",
+      "metal",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "How do you use a curry comb?",
+        "answer": "Rub it in small circles over the horse's muscled areas to loosen dirt and hair, then follow with a brush."
+      },
+      {
+        "question": "Should a curry comb be used on the legs?",
+        "answer": "Rubber curry combs are gentle enough for the body, but bony areas like the legs and face are usually brushed instead."
+      },
+      {
+        "question": "Where does the phrase \"curry favor\" come from?",
+        "answer": "It comes from an old French phrase about grooming Fauvel, a fictional horse, and has nothing to do with the spice."
+      }
+    ],
+    "image": {
+      "search_query": "rubber curry comb horse grooming",
+      "wikimedia_commons_category": "Curry combs",
+      "alt": "A rubber curry comb grooming a horse's coat"
+    },
+    "tags": [
+      "horses",
+      "grooming",
+      "medieval"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "hoof-pick",
+    "name": "Hoof pick",
+    "category": "Outdoor, farming & travel",
+    "invention": {
+      "display": "Medieval (date uncertain)",
+      "year": 1000,
+      "approximate": true,
+      "era": "Medieval"
+    },
+    "place_of_invention": {
+      "region": "Europe",
+      "modern_country": "Unknown",
+      "notes": "Hoof picks are a simple farrier and stable tool whose history is not well documented; the date given is a rough estimate."
+    },
+    "inventor": null,
+    "short_description": "A small hooked tool for cleaning dirt and stones from a horse's hoof.",
+    "description": "The hoof pick is a short metal hook used to clean packed mud, manure and stones out of the underside of a horse's hoof. Daily cleaning prevents bruising and infection. Every rider and stable keeps one, and the design is little more than a hook on a handle.",
+    "why_unchanged": "A blunt hook on a grip is the right tool for scraping out a hoof, so nothing has needed to change.",
+    "materials": [
+      "steel",
+      "plastic",
+      "wood"
+    ],
+    "faqs": [
+      {
+        "question": "Why do horses need their hooves picked?",
+        "answer": "Stones and packed dirt can cause bruising, and trapped moisture can cause infections such as thrush."
+      },
+      {
+        "question": "How often should hooves be picked?",
+        "answer": "Ideally before and after every ride and at least once a day."
+      },
+      {
+        "question": "Which direction should you pick a hoof?",
+        "answer": "Work from heel to toe, avoiding the sensitive frog in the center."
+      }
+    ],
+    "image": {
+      "search_query": "hoof pick cleaning horse hoof",
+      "wikimedia_commons_category": "Hoof picks",
+      "alt": "A hoof pick cleaning the underside of a horse's hoof"
+    },
+    "tags": [
+      "horses",
+      "grooming",
+      "medieval"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "saddlebag",
+    "name": "Saddlebag",
+    "category": "Outdoor, farming & travel",
+    "invention": {
+      "display": "Antiquity (date uncertain)",
+      "year": -500,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Eurasian steppe and the Near East",
+      "modern_country": "Unknown",
+      "notes": "Riders and pack-animal drivers have used bags slung across saddles since antiquity; no clear origin is recorded."
+    },
+    "inventor": null,
+    "short_description": "A pair of bags hung over a saddle for carrying gear.",
+    "description": "Saddlebags hang in pairs on either side of a horse or pack animal to carry food, tools and personal belongings. Nomads, soldiers and travelers relied on them for millennia. Leather and canvas saddlebags are still used by riders, and the same idea is used on bicycles and motorcycles.",
+    "why_unchanged": "Two balanced bags draped over the animal keep the load stable and easy to reach, so the design never had to change.",
+    "materials": [
+      "leather",
+      "canvas",
+      "nylon",
+      "wool"
+    ],
+    "faqs": [
+      {
+        "question": "Why do saddlebags come in pairs?",
+        "answer": "Pairs balance the weight on both sides of the animal so the saddle does not slip."
+      },
+      {
+        "question": "What did travelers carry in saddlebags?",
+        "answer": "Food, water, spare clothing, tools and documents, essentially everything needed for a journey on horseback."
+      },
+      {
+        "question": "Are bicycle panniers related to saddlebags?",
+        "answer": "Yes. Bicycle and motorcycle panniers adapt the same idea of balanced side bags."
+      }
+    ],
+    "image": {
+      "search_query": "leather saddlebags on horse",
+      "wikimedia_commons_category": "Saddlebags",
+      "alt": "Leather saddlebags hanging from a horse saddle"
+    },
+    "tags": [
+      "horses",
+      "travel",
+      "leather",
+      "ancient"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "fish-hook",
+    "name": "Fish hook",
+    "category": "Outdoor, farming & travel",
+    "invention": {
+      "display": "c. 21,000 BCE",
+      "year": -21000,
+      "approximate": true,
+      "era": "Prehistoric"
+    },
+    "place_of_invention": {
+      "region": "Okinawa",
+      "modern_country": "Japan",
+      "notes": "Shell fish hooks from Sakitari Cave, Okinawa, are dated to about 23,000 years ago; similar-aged hooks are known from Jerimalai, East Timor."
+    },
+    "inventor": null,
+    "short_description": "A small curved and pointed hook used to catch fish on a line.",
+    "description": "The fish hook is one of humanity's oldest tools, carved from shell, bone or wood long before metal. The earliest known examples come from Okinawa and East Timor and are more than 20,000 years old. Modern hooks are steel, but the curved shank and point are the same.",
+    "why_unchanged": "A curved point that holds once set is the essential shape for catching a fish on a line, so only the material changed.",
+    "materials": [
+      "steel",
+      "bone",
+      "shell",
+      "bronze"
+    ],
+    "faqs": [
+      {
+        "question": "How old is the fish hook?",
+        "answer": "The oldest known fish hooks, made of shell, are about 23,000 years old and come from Okinawa, Japan."
+      },
+      {
+        "question": "What is a barb on a hook for?",
+        "answer": "The barb is a small backward point that helps keep the fish from slipping off; barbless hooks are easier to remove for catch-and-release."
+      },
+      {
+        "question": "Why do hooks come in so many sizes?",
+        "answer": "Different fish have different mouth sizes and feeding habits, so anglers match hook size and shape to the target species."
+      }
+    ],
+    "image": {
+      "search_query": "fish hooks close up",
+      "wikimedia_commons_category": "Fish hooks",
+      "alt": "Several steel fish hooks of different sizes"
+    },
+    "tags": [
+      "fishing",
+      "prehistoric",
+      "japan"
+    ],
+    "confidence": "medium"
+  }
+]

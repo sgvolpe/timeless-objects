@@ -1,0 +1,1303 @@
+[
+  {
+    "slug": "dice",
+    "name": "Dice",
+    "category": "Toys, games & sports",
+    "invention": {
+      "display": "c. 2600 BCE",
+      "year": -2600,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Persian plateau and Indus Valley",
+      "modern_country": "Iran",
+      "notes": "Some of the oldest cubic dice come from Shahr-e Sukhteh (Iran) and Indus Valley sites; earlier games used animal knucklebones as lots."
+    },
+    "inventor": null,
+    "short_description": "Small cubes marked with one to six pips, rolled to generate random numbers in games.",
+    "description": "Six-sided dice have been found at Bronze Age sites in Iran and the Indus Valley, and they spread across the ancient world as tools for gambling, games and divination. Opposite faces on most standard dice add up to seven, a convention already common in antiquity. Today they are used in board games, casino games and tabletop role-playing.",
+    "why_unchanged": "A cube is the simplest fair shape to roll, so nothing about the basic form needed improving.",
+    "materials": [
+      "bone",
+      "ivory",
+      "wood",
+      "plastic",
+      "resin"
+    ],
+    "faqs": [
+      {
+        "question": "How old are dice?",
+        "answer": "Cubic dice date back at least to around the mid-3rd millennium BCE, with finds in Iran and the Indus Valley. Earlier people cast animal knucklebones in a similar way."
+      },
+      {
+        "question": "Why do opposite sides of a die add up to seven?",
+        "answer": "It is a long-standing convention that balances the pips around the cube. Many ancient dice already followed it, though not all did."
+      },
+      {
+        "question": "Why are casino dice sharp-cornered and transparent?",
+        "answer": "Precision casino dice are made with sharp edges and clear material so that they roll fairly and can be checked for hidden weights."
+      }
+    ],
+    "image": {
+      "search_query": "six-sided dice close up",
+      "wikimedia_commons_category": "Dice",
+      "alt": "Several white six-sided dice with black pips"
+    },
+    "tags": [
+      "games",
+      "gambling",
+      "ancient",
+      "board games"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "playing-cards",
+    "name": "Playing cards",
+    "category": "Toys, games & sports",
+    "invention": {
+      "display": "9th century",
+      "year": 850,
+      "approximate": true,
+      "era": "Medieval"
+    },
+    "place_of_invention": {
+      "region": "Tang dynasty China",
+      "modern_country": "China",
+      "notes": "A Chinese text of the 9th century mentions a 'leaf game'; cards reached Europe through the Mamluk world in the 1370s."
+    },
+    "inventor": null,
+    "short_description": "A deck of printed cards with suits and ranks, used for countless games of chance and skill.",
+    "description": "Playing cards are generally traced to Tang dynasty China, where paper and woodblock printing made them possible. They travelled west through the Islamic world and appeared in Europe in the late 14th century, where suits eventually settled into the French hearts, diamonds, clubs and spades. A standard deck of 52 cards plus jokers is now used worldwide.",
+    "why_unchanged": "A stack of identical-backed, thin, printable cards is already the ideal format for shuffling and dealing.",
+    "materials": [
+      "paper",
+      "card stock",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "Where were playing cards invented?",
+        "answer": "Most historians place their origin in China around the 9th century, during the Tang dynasty. They reached Europe by the 1370s."
+      },
+      {
+        "question": "Why does a deck have 52 cards?",
+        "answer": "The 52-card deck of four suits with 13 ranks became standard in Europe by the 15th and 16th centuries. Popular theories linking it to weeks of the year are later inventions."
+      },
+      {
+        "question": "Where did the French suits come from?",
+        "answer": "Hearts, diamonds, clubs and spades were adopted in France in the late 15th century because the simple shapes were cheap to print with stencils."
+      }
+    ],
+    "image": {
+      "search_query": "deck of playing cards fanned out",
+      "wikimedia_commons_category": "Playing cards",
+      "alt": "A fanned-out deck of playing cards showing the four suits"
+    },
+    "tags": [
+      "cards",
+      "games",
+      "paper",
+      "medieval"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "chess-set",
+    "name": "Chess set",
+    "category": "Toys, games & sports",
+    "invention": {
+      "display": "c. 600 CE",
+      "year": 600,
+      "approximate": true,
+      "era": "Medieval"
+    },
+    "place_of_invention": {
+      "region": "Northern India (Gupta era)",
+      "modern_country": "India",
+      "notes": "Chess descends from the Indian game chaturanga; it passed through Persia (shatranj) and its modern rules settled in southern Europe around 1475."
+    },
+    "inventor": null,
+    "short_description": "A checkered 8x8 board with 32 pieces for the strategy game of chess.",
+    "description": "Chess emerged in India around the 6th century as chaturanga, was adopted in Persia as shatranj and spread to Europe through the Islamic world. By the late 15th century the queen and bishop gained their modern powers, giving the game its current form. The familiar Staunton piece design was introduced in 1849 and remains the tournament standard.",
+    "why_unchanged": "The 64-square board and two armies of 16 pieces have defined the game for over 500 years, so the set has no reason to change.",
+    "materials": [
+      "wood",
+      "plastic",
+      "ivory",
+      "stone",
+      "metal"
+    ],
+    "faqs": [
+      {
+        "question": "Where was chess invented?",
+        "answer": "Chess is generally traced to India around the 6th century CE. It then spread through Persia and the Arab world to Europe."
+      },
+      {
+        "question": "What are Staunton chess pieces?",
+        "answer": "Staunton is the standard piece design introduced in 1849 and named after English player Howard Staunton. It is required in most official tournaments."
+      },
+      {
+        "question": "Why is the queen the most powerful piece?",
+        "answer": "The queen gained her long-range moves in Europe in the late 15th century, a change that made the game faster and more aggressive."
+      }
+    ],
+    "image": {
+      "search_query": "wooden chess set on board",
+      "wikimedia_commons_category": "Chess sets",
+      "alt": "A wooden chess set arranged on a checkered board"
+    },
+    "tags": [
+      "board games",
+      "strategy",
+      "medieval",
+      "wood"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "checkers-set",
+    "name": "Checkers set",
+    "category": "Toys, games & sports",
+    "invention": {
+      "display": "c. 1100",
+      "year": 1100,
+      "approximate": true,
+      "era": "Medieval"
+    },
+    "place_of_invention": {
+      "region": "Southern France",
+      "modern_country": "France",
+      "notes": "Draughts likely arose in southern France by combining the older game of alquerque with a chessboard; exact dating is uncertain."
+    },
+    "inventor": null,
+    "short_description": "A checkered board with 24 round, flat pieces used to play checkers (draughts).",
+    "description": "Checkers, called draughts in Britain, is thought to have developed in medieval France when players moved alquerque-style captures onto a chessboard. The compulsory-capture rule was added in the 16th century, and the game has been played with the same board and disc-shaped pieces ever since. Variants include the 10x10 international draughts popular in Europe and Africa.",
+    "why_unchanged": "Flat stackable discs on a squared board are all the game needs, including the ability to crown a piece by stacking.",
+    "materials": [
+      "wood",
+      "plastic",
+      "bone",
+      "stone"
+    ],
+    "faqs": [
+      {
+        "question": "Is checkers the same as draughts?",
+        "answer": "Yes. Americans call it checkers and British players call it draughts; the standard game uses an 8x8 board and 12 pieces per side."
+      },
+      {
+        "question": "How is a king made in checkers?",
+        "answer": "When a piece reaches the opponent's back row, another piece is stacked on top to show it can now move backwards."
+      },
+      {
+        "question": "Has checkers been solved?",
+        "answer": "Yes. In 2007 a computer program called Chinook proved that perfect play from both sides leads to a draw."
+      }
+    ],
+    "image": {
+      "search_query": "checkers board game pieces",
+      "wikimedia_commons_category": "Draughts",
+      "alt": "A checkers board with red and black disc pieces"
+    },
+    "tags": [
+      "board games",
+      "strategy",
+      "medieval"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "backgammon-board",
+    "name": "Backgammon board",
+    "category": "Toys, games & sports",
+    "invention": {
+      "display": "c. 500 CE",
+      "year": 500,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Persia (Sasanian Empire)",
+      "modern_country": "Iran",
+      "notes": "Backgammon belongs to the ancient 'tables' family; the Roman game tabula and the Persian nard are close ancestors, and the exact origin is debated."
+    },
+    "inventor": null,
+    "short_description": "A board of 24 triangular points on which two players race 15 checkers each using dice.",
+    "description": "Backgammon descends from tables games played in the Roman world and in Sasanian Persia, where the game of nard was described in a 6th-century text. Its board of 24 points arranged in four quarters became widespread across the Middle East and Europe. The doubling cube, added in the 1920s in New York, is the only major modern addition.",
+    "why_unchanged": "The race-and-block mechanics depend on the 24-point layout, so the board has stayed the same for well over a millennium.",
+    "materials": [
+      "wood",
+      "leather",
+      "inlaid wood",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "How old is backgammon?",
+        "answer": "Its direct ancestors, such as Roman tabula and Persian nard, were played at least 1,500 years ago. Even older Near Eastern race games share the idea of moving pieces by dice."
+      },
+      {
+        "question": "What is the doubling cube?",
+        "answer": "It is a die marked 2 to 64 introduced in the 1920s that lets players raise the stakes during a game."
+      },
+      {
+        "question": "How many checkers does each player use?",
+        "answer": "Each player has 15 checkers that must all be moved home and borne off to win."
+      }
+    ],
+    "image": {
+      "search_query": "backgammon board with checkers and dice",
+      "wikimedia_commons_category": "Backgammon",
+      "alt": "An open backgammon board with checkers and dice"
+    },
+    "tags": [
+      "board games",
+      "dice",
+      "ancient"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "go-board",
+    "name": "Go board",
+    "category": "Toys, games & sports",
+    "invention": {
+      "display": "c. 500 BCE",
+      "year": -500,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Ancient China",
+      "modern_country": "China",
+      "notes": "Go is mentioned in Chinese texts from around the 6th–4th centuries BCE; early boards were 17x17 before the 19x19 grid became standard."
+    },
+    "inventor": null,
+    "short_description": "A grid board with black and white stones used for the territory game Go.",
+    "description": "Go, known as weiqi in China and baduk in Korea, is among the oldest board games still played, with literary references dating to the first millennium BCE. Players place black and white stones on the intersections of a grid to surround territory. The 19x19 board has been standard for well over a thousand years, and Japanese go boards are often thick blocks of kaya wood.",
+    "why_unchanged": "Stones on a simple grid already give near-infinite strategic depth, so the equipment never needed refinement.",
+    "materials": [
+      "wood",
+      "slate",
+      "shell",
+      "glass",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "How old is Go?",
+        "answer": "Go is mentioned in Chinese writings from roughly 2,500 years ago, making it one of the oldest board games still played in its original form."
+      },
+      {
+        "question": "Why are stones placed on the lines and not in the squares?",
+        "answer": "In Go, the intersections are the playing points, which is why a 19x19 board has 361 positions."
+      },
+      {
+        "question": "What made Go famous in AI history?",
+        "answer": "In 2016 the program AlphaGo defeated top professional Lee Sedol, a milestone many experts had expected to be a decade away."
+      }
+    ],
+    "image": {
+      "search_query": "go board with black and white stones",
+      "wikimedia_commons_category": "Go boards",
+      "alt": "A wooden Go board with black and white stones"
+    },
+    "tags": [
+      "board games",
+      "strategy",
+      "ancient",
+      "china"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "mancala-board",
+    "name": "Mancala board",
+    "category": "Toys, games & sports",
+    "invention": {
+      "display": "c. 600 CE",
+      "year": 600,
+      "approximate": true,
+      "era": "Medieval"
+    },
+    "place_of_invention": {
+      "region": "Horn of Africa (Aksumite Ethiopia and Eritrea)",
+      "modern_country": "Ethiopia",
+      "notes": "Some of the oldest secure mancala boards come from Aksumite sites; older claims from the Near East are disputed."
+    },
+    "inventor": null,
+    "short_description": "A board of rows of pits in which seeds or stones are sown around in a counting game.",
+    "description": "Mancala is a family of 'sowing' games in which players pick up seeds from one pit and drop them one by one into following pits. Boards carved into stone have been found at Aksumite sites in Ethiopia and Eritrea, and the games spread throughout Africa, the Middle East and Asia under names such as oware, bao and congkak. Many boards are still simply rows of hollows in wood or even in the ground.",
+    "why_unchanged": "Rows of cups and a handful of seeds are the whole game, so there was nothing to improve.",
+    "materials": [
+      "wood",
+      "stone",
+      "seeds",
+      "shells",
+      "pebbles"
+    ],
+    "faqs": [
+      {
+        "question": "What does mancala mean?",
+        "answer": "The word comes from Arabic naqala, meaning to move, and is used as a family name for hundreds of sowing games."
+      },
+      {
+        "question": "How do you play mancala?",
+        "answer": "Players take all the seeds from one pit and sow them one at a time into the next pits, capturing seeds according to the rules of the local variant."
+      },
+      {
+        "question": "Do you need a board to play?",
+        "answer": "No. Many people play by scooping pits into the ground and using pebbles or seeds."
+      }
+    ],
+    "image": {
+      "search_query": "wooden mancala board with seeds",
+      "wikimedia_commons_category": "Mancala",
+      "alt": "A carved wooden mancala board with pits holding seeds"
+    },
+    "tags": [
+      "board games",
+      "africa",
+      "counting",
+      "wood"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "dominoes",
+    "name": "Dominoes",
+    "category": "Toys, games & sports",
+    "invention": {
+      "display": "c. 1200",
+      "year": 1200,
+      "approximate": true,
+      "era": "Medieval"
+    },
+    "place_of_invention": {
+      "region": "Song dynasty China",
+      "modern_country": "China",
+      "notes": "Chinese dominoes are recorded around the 12th–13th centuries; European dominoes appeared in Italy in the 18th century, possibly independently."
+    },
+    "inventor": null,
+    "short_description": "Rectangular tiles each divided into two ends marked with pips, used in matching games.",
+    "description": "Dominoes appear in Chinese sources from the Song dynasty and were closely related to dice. European dominoes surfaced in 18th-century Italy and France and spread quickly, with the standard double-six set of 28 tiles. They are used both for matching games and, famously, for toppling in long chains.",
+    "why_unchanged": "Each tile simply records a pair of dice results, a perfect and unchanging way to encode the game.",
+    "materials": [
+      "bone",
+      "ebony",
+      "wood",
+      "plastic",
+      "stone"
+    ],
+    "faqs": [
+      {
+        "question": "How many tiles are in a domino set?",
+        "answer": "A standard double-six set has 28 tiles, one for each possible pair of numbers from blank to six."
+      },
+      {
+        "question": "Where do dominoes come from?",
+        "answer": "They are first recorded in China around the 12th to 13th centuries, and appeared in Europe in the 18th century."
+      },
+      {
+        "question": "What is the domino effect?",
+        "answer": "It is the chain reaction seen when one falling tile knocks over the next; the term is used for any cascading series of events."
+      }
+    ],
+    "image": {
+      "search_query": "set of dominoes tiles",
+      "wikimedia_commons_category": "Dominoes",
+      "alt": "A set of black dominoes with white pips"
+    },
+    "tags": [
+      "tiles",
+      "games",
+      "medieval",
+      "china"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "marbles",
+    "name": "Marbles",
+    "category": "Toys, games & sports",
+    "invention": {
+      "display": "c. 3000 BCE",
+      "year": -3000,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Ancient Egypt and the Indus Valley",
+      "modern_country": "Egypt",
+      "notes": "Small clay and stone balls interpreted as marbles are known from Egypt, Mesopotamia and the Indus Valley; their use as toys is likely but not always certain."
+    },
+    "inventor": null,
+    "short_description": "Small hard spheres flicked with the thumb in a variety of children's games.",
+    "description": "Small balls of clay, stone and polished pebbles have been found in ancient Egypt, the Indus Valley and Mesopotamia, and Roman writers describe games with nuts that work like marbles. Clay marbles were mass-produced in the 19th century, and German glassmakers popularized swirled glass marbles from the 1840s. The game of knocking marbles out of a ring is still played in tournaments today.",
+    "why_unchanged": "A small sphere rolls and collides predictably, so the toy is already perfect in its simplest form.",
+    "materials": [
+      "glass",
+      "clay",
+      "stone",
+      "agate",
+      "steel"
+    ],
+    "faqs": [
+      {
+        "question": "How old are marbles?",
+        "answer": "Small balls likely used as marbles date back thousands of years to Egypt and the Indus Valley. Glass marbles became common only in the 19th century."
+      },
+      {
+        "question": "What is a 'shooter'?",
+        "answer": "A shooter is a slightly larger marble that a player flicks with the thumb to knock other marbles out of the ring."
+      },
+      {
+        "question": "Where does the phrase 'losing your marbles' come from?",
+        "answer": "It is an early 20th-century American expression; one idea links it to the distress of a child losing a prized marble collection."
+      }
+    ],
+    "image": {
+      "search_query": "glass marbles colorful",
+      "wikimedia_commons_category": "Marbles (toys)",
+      "alt": "A handful of colorful glass marbles"
+    },
+    "tags": [
+      "toys",
+      "children",
+      "glass",
+      "ancient"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "spinning-top",
+    "name": "Spinning top",
+    "category": "Toys, games & sports",
+    "invention": {
+      "display": "c. 3500 BCE",
+      "year": -3500,
+      "approximate": true,
+      "era": "Prehistoric"
+    },
+    "place_of_invention": {
+      "region": "Mesopotamia",
+      "modern_country": "Iraq",
+      "notes": "Clay tops are reported from early Mesopotamian sites; tops were invented independently in many cultures."
+    },
+    "inventor": null,
+    "short_description": "A toy that spins on a point, balancing by gyroscopic motion until it slows down.",
+    "description": "Spinning tops are among the oldest known toys, with clay examples from ancient Mesopotamia and later finds from Egypt, Greece, China and the Americas. They are set spinning by twisting a stem, pulling a string or whipping them. The physics of angular momentum keeps a fast top upright until friction slows it down.",
+    "why_unchanged": "A weighted body with a central point is all a top needs to spin, so its shape has never had to change.",
+    "materials": [
+      "wood",
+      "clay",
+      "metal",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "Why does a spinning top stay upright?",
+        "answer": "Its angular momentum resists changes in its orientation, so it remains balanced while spinning fast enough."
+      },
+      {
+        "question": "How old is the spinning top?",
+        "answer": "Tops date back several thousand years, with ancient examples from Mesopotamia, Egypt, Greece and China."
+      },
+      {
+        "question": "How do you launch a string top?",
+        "answer": "You wind a string tightly around the top, then throw it forward while pulling the string back so it unwinds and spins the top."
+      }
+    ],
+    "image": {
+      "search_query": "wooden spinning top toy",
+      "wikimedia_commons_category": "Spinning tops",
+      "alt": "A painted wooden spinning top on a table"
+    },
+    "tags": [
+      "toys",
+      "physics",
+      "ancient",
+      "wood"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "yo-yo",
+    "name": "Yo-yo",
+    "category": "Toys, games & sports",
+    "invention": {
+      "display": "c. 500 BCE",
+      "year": -500,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Ancient Greece",
+      "modern_country": "Greece",
+      "notes": "A Greek vase of about 440 BCE shows a boy with a yo-yo, and terracotta disks survive; similar toys may have existed in China. The modern name was popularized in the 1920s USA."
+    },
+    "inventor": null,
+    "short_description": "Two joined discs with a string wound around the axle that spin down and climb back up.",
+    "description": "Ancient Greek vase paintings and clay discs show that yo-yos were played with around 2,500 years ago. The toy was popular in 18th-century Europe as the bandalore, and the name yo-yo was brought to the United States by Filipino-American Pedro Flores, who began manufacturing them in 1928. Later Donald Duncan's company turned it into a worldwide craze.",
+    "why_unchanged": "Two discs on an axle with a string are the whole mechanism, and that design already works perfectly.",
+    "materials": [
+      "wood",
+      "terracotta",
+      "plastic",
+      "aluminum",
+      "string"
+    ],
+    "faqs": [
+      {
+        "question": "How old is the yo-yo?",
+        "answer": "There is evidence of yo-yo-like toys in ancient Greece around 500 BCE, making it one of the oldest toys."
+      },
+      {
+        "question": "Where does the name yo-yo come from?",
+        "answer": "It was popularized by Pedro Flores in 1920s California; the word is generally linked to the Philippines."
+      },
+      {
+        "question": "What is a 'sleeper'?",
+        "answer": "A sleeper is the basic trick where the yo-yo stays spinning at the bottom of the string before being called back up."
+      }
+    ],
+    "image": {
+      "search_query": "wooden yo-yo toy",
+      "wikimedia_commons_category": "Yo-yos",
+      "alt": "A classic wooden yo-yo with its string"
+    },
+    "tags": [
+      "toys",
+      "string",
+      "ancient"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "kite",
+    "name": "Kite",
+    "category": "Toys, games & sports",
+    "invention": {
+      "display": "5th century BCE",
+      "year": -450,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Ancient China",
+      "modern_country": "China",
+      "notes": "Chinese tradition credits the philosophers Mozi and Lu Ban with early kites; the attribution is legendary rather than documented."
+    },
+    "inventor": null,
+    "short_description": "A light frame covered with fabric or paper that flies on the wind at the end of a line.",
+    "description": "Kites are traditionally said to have been invented in China around the 5th century BCE, first made of wood and silk and later of bamboo and paper. They were used for signalling and measuring as well as play, and spread across Asia and later to Europe. Kites also played a role in science, including Benjamin Franklin's famous electricity experiment.",
+    "why_unchanged": "A light sail held at an angle by a tethered line is the core aerodynamic principle, and it has not changed.",
+    "materials": [
+      "bamboo",
+      "silk",
+      "paper",
+      "nylon",
+      "carbon fiber"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the kite?",
+        "answer": "Chinese tradition credits the philosophers Mozi and Lu Ban around the 5th century BCE, though this is legend rather than record."
+      },
+      {
+        "question": "How does a kite stay in the air?",
+        "answer": "Wind pushing against the angled surface creates lift, while the line holds the kite in place."
+      },
+      {
+        "question": "Were kites used for anything besides fun?",
+        "answer": "Yes. They have been used for military signalling, weather measurements and early aviation research."
+      }
+    ],
+    "image": {
+      "search_query": "colorful kite flying in sky",
+      "wikimedia_commons_category": "Kites",
+      "alt": "A colorful diamond kite flying in a blue sky"
+    },
+    "tags": [
+      "toys",
+      "wind",
+      "outdoor",
+      "ancient"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "jump-rope",
+    "name": "Jump rope",
+    "category": "Toys, games & sports",
+    "invention": {
+      "display": "c. 1600",
+      "year": 1600,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Europe",
+      "modern_country": "Netherlands",
+      "notes": "Rope skipping appears in European sources by the 17th century; claims of ancient Egyptian or Chinese origin are often repeated but poorly documented."
+    },
+    "inventor": null,
+    "short_description": "A length of rope swung over the head and under the feet while the jumper skips over it.",
+    "description": "Skipping over a swinging rope is an old children's game across many cultures, documented in Europe from at least the early modern period. It became a playground staple in the 19th century and later a key training tool for boxers. Double Dutch, using two ropes turned in opposite directions, is a popular team version.",
+    "why_unchanged": "A rope with optional handles is all that skipping requires, so the object has stayed the same.",
+    "materials": [
+      "rope",
+      "leather",
+      "PVC",
+      "wood"
+    ],
+    "faqs": [
+      {
+        "question": "Why do boxers use jump ropes?",
+        "answer": "Skipping builds footwork, coordination and endurance in a small space, which is why it is a classic boxing exercise."
+      },
+      {
+        "question": "What is Double Dutch?",
+        "answer": "It is a game in which two people turn two ropes in opposite directions while one or more jumpers skip between them."
+      },
+      {
+        "question": "How long should a jump rope be?",
+        "answer": "A common rule is that the handles should reach about the armpits when you stand on the middle of the rope."
+      }
+    ],
+    "image": {
+      "search_query": "child skipping rope playground",
+      "wikimedia_commons_category": "Skipping ropes",
+      "alt": "A jump rope with wooden handles"
+    },
+    "tags": [
+      "toys",
+      "fitness",
+      "children",
+      "outdoor"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "hoop-and-stick",
+    "name": "Hoop and stick",
+    "category": "Toys, games & sports",
+    "invention": {
+      "display": "c. 500 BCE",
+      "year": -500,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Ancient Greece",
+      "modern_country": "Greece",
+      "notes": "Hoop rolling is shown on Greek vases and described by ancient writers; it was also known in ancient Egypt and Rome."
+    },
+    "inventor": null,
+    "short_description": "A large hoop rolled along the ground and kept moving by striking it with a stick.",
+    "description": "Children in ancient Greece rolled hoops guided by a short stick, a game depicted on painted vases and later popular in Rome. Hoop trundling remained a common street game in Europe and North America into the early 20th century. Wooden or metal hoops are still used in traditional games and school celebrations.",
+    "why_unchanged": "A simple ring and a stick are all the game needs, so the toy has never been redesigned.",
+    "materials": [
+      "wood",
+      "iron",
+      "steel"
+    ],
+    "faqs": [
+      {
+        "question": "How do you play hoop and stick?",
+        "answer": "You set the hoop rolling and tap or push it with the stick to keep it upright and steer it."
+      },
+      {
+        "question": "How old is hoop rolling?",
+        "answer": "It was already a common game in ancient Greece and Rome more than 2,000 years ago."
+      },
+      {
+        "question": "Is it related to the hula hoop?",
+        "answer": "Both use a large hoop, but the hula hoop is spun around the body, whereas the trundling hoop is rolled along the ground."
+      }
+    ],
+    "image": {
+      "search_query": "child rolling hoop with stick vintage",
+      "wikimedia_commons_category": "Hoop rolling",
+      "alt": "A child rolling a wooden hoop with a stick"
+    },
+    "tags": [
+      "toys",
+      "outdoor",
+      "ancient",
+      "children"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "rocking-horse",
+    "name": "Rocking horse",
+    "category": "Toys, games & sports",
+    "invention": {
+      "display": "c. 1600",
+      "year": 1600,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "England",
+      "modern_country": "United Kingdom",
+      "notes": "Wooden rocking horses on bow rockers are known from 17th-century England; the safety-stand version was patented in the US in the late 19th century."
+    },
+    "inventor": null,
+    "short_description": "A toy horse mounted on curved rockers or a swinging stand that a child can ride.",
+    "description": "Rocking horses developed from earlier hobby horses and became popular children's toys in 17th-century England, carved from wood on bow-shaped rockers. In the Victorian era they were often dappled and fitted with real hair manes and tails. A swinging safety stand was introduced in the late 19th century, but the horse itself kept its familiar form.",
+    "why_unchanged": "A rideable horse figure that rocks back and forth needs nothing more than its curved base.",
+    "materials": [
+      "wood",
+      "horsehair",
+      "leather",
+      "paint"
+    ],
+    "faqs": [
+      {
+        "question": "When did rocking horses appear?",
+        "answer": "They became common in England in the 17th century, developing from earlier hobby horses and barrel horses."
+      },
+      {
+        "question": "Why are many rocking horses dappled grey?",
+        "answer": "Dapple grey horses were fashionable in Victorian Britain, and Queen Victoria's liking for them is often credited."
+      },
+      {
+        "question": "What is a safety stand?",
+        "answer": "It is a frame on which the horse swings on metal hangers, which takes up less room and is less likely to tip than bow rockers."
+      }
+    ],
+    "image": {
+      "search_query": "antique wooden rocking horse",
+      "wikimedia_commons_category": "Rocking horses",
+      "alt": "A dapple grey wooden rocking horse"
+    },
+    "tags": [
+      "toys",
+      "children",
+      "wood",
+      "early modern"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "doll",
+    "name": "Doll",
+    "category": "Toys, games & sports",
+    "invention": {
+      "display": "c. 2000 BCE",
+      "year": -2000,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Ancient Egypt",
+      "modern_country": "Egypt",
+      "notes": "Wooden 'paddle dolls' from Middle Kingdom Egypt are often cited; whether some ancient figurines were toys or ritual objects is debated."
+    },
+    "inventor": null,
+    "short_description": "A small model of a human figure used as a plaything.",
+    "description": "Doll-like figures are among the oldest toys, with wooden and clay examples from ancient Egypt, Greece and Rome, although some may have had religious purposes. Roman children played with jointed dolls of bone and ivory. Rag, porcelain, celluloid and vinyl dolls followed, but the human figure has remained the core of the toy.",
+    "why_unchanged": "A child-sized human figure meets the same need for imaginative play in every era.",
+    "materials": [
+      "wood",
+      "cloth",
+      "clay",
+      "porcelain",
+      "plastic",
+      "vinyl"
+    ],
+    "faqs": [
+      {
+        "question": "What are the oldest known dolls?",
+        "answer": "Some of the oldest are wooden figures from ancient Egypt around 2000 BCE, though their purpose is debated."
+      },
+      {
+        "question": "Did Roman children have jointed dolls?",
+        "answer": "Yes. Jointed dolls of bone, ivory and wood have been found in Roman children's graves."
+      },
+      {
+        "question": "What is a rag doll?",
+        "answer": "A rag doll is a soft doll made of cloth and stuffing, often homemade, and is one of the most widespread types."
+      }
+    ],
+    "image": {
+      "search_query": "antique doll",
+      "wikimedia_commons_category": "Dolls",
+      "alt": "An old-fashioned cloth doll"
+    },
+    "tags": [
+      "toys",
+      "children",
+      "ancient"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "teddy-bear",
+    "name": "Teddy bear",
+    "category": "Toys, games & sports",
+    "invention": {
+      "display": "1902",
+      "year": 1902,
+      "approximate": true,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "United States and Germany",
+      "modern_country": "United States",
+      "notes": "Morris Michtom in Brooklyn and the Steiff company in Germany both produced toy bears in 1902–1903, and both are credited."
+    },
+    "inventor": null,
+    "short_description": "A soft stuffed toy bear, usually jointed and covered in plush fabric.",
+    "description": "The teddy bear was named after US President Theodore Roosevelt after a 1902 hunting incident and cartoon. In the same years Morris Michtom of Brooklyn and Richard Steiff of the German Steiff company each created stuffed bears independently. The toy became an instant craze and remains a classic comfort object for children worldwide.",
+    "why_unchanged": "A soft, huggable bear is valued for comfort rather than function, so its basic form has endured.",
+    "materials": [
+      "mohair",
+      "plush",
+      "cotton",
+      "polyester stuffing"
+    ],
+    "faqs": [
+      {
+        "question": "Why is it called a teddy bear?",
+        "answer": "It is named after President Theodore 'Teddy' Roosevelt, who in 1902 refused to shoot a bear tied up for him on a hunt."
+      },
+      {
+        "question": "Who made the first teddy bear?",
+        "answer": "Morris Michtom in the US and the Steiff company in Germany both made stuffed bears around 1902–1903, and both are credited."
+      },
+      {
+        "question": "Why do some old teddy bears have humps?",
+        "answer": "Early bears, especially Steiff models, were designed to look like real bears with long snouts and shoulder humps."
+      }
+    ],
+    "image": {
+      "search_query": "classic teddy bear",
+      "wikimedia_commons_category": "Teddy bears",
+      "alt": "A brown jointed teddy bear sitting upright"
+    },
+    "tags": [
+      "toys",
+      "children",
+      "stuffed toys",
+      "modern"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "kaleidoscope",
+    "name": "Kaleidoscope",
+    "category": "Toys, games & sports",
+    "invention": {
+      "display": "1816",
+      "year": 1816,
+      "approximate": false,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Edinburgh, Scotland",
+      "modern_country": "United Kingdom",
+      "notes": "Brewster invented the kaleidoscope in 1816 and patented it in 1817."
+    },
+    "inventor": "David Brewster",
+    "short_description": "A tube of mirrors that creates symmetrical patterns from loose coloured pieces as it is rotated.",
+    "description": "Scottish physicist Sir David Brewster invented the kaleidoscope in 1816 while studying light polarization, and patented it in 1817. It became a huge craze, with hundreds of thousands sold in a few months, many by copiers. The basic design of angled mirrors inside a tube with a chamber of coloured objects is still used today.",
+    "why_unchanged": "The optical principle of reflecting mirrors at fixed angles is complete in itself, so there was nothing to change.",
+    "materials": [
+      "cardboard",
+      "glass",
+      "mirrors",
+      "metal",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the kaleidoscope?",
+        "answer": "Sir David Brewster invented it in Scotland in 1816 and patented it in 1817."
+      },
+      {
+        "question": "What does the word mean?",
+        "answer": "It comes from Greek words meaning 'beautiful form' and 'to look at'."
+      },
+      {
+        "question": "How does a kaleidoscope make patterns?",
+        "answer": "Two or more mirrors set at an angle reflect a small group of objects many times, producing a symmetrical image."
+      }
+    ],
+    "image": {
+      "search_query": "kaleidoscope toy tube",
+      "wikimedia_commons_category": "Kaleidoscopes",
+      "alt": "A brass kaleidoscope tube"
+    },
+    "tags": [
+      "toys",
+      "optics",
+      "industrial",
+      "patent"
+    ],
+    "confidence": "high"
+  },
+  {
+    "slug": "jigsaw-puzzle",
+    "name": "Jigsaw puzzle",
+    "category": "Toys, games & sports",
+    "invention": {
+      "display": "c. 1766",
+      "year": 1766,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "London, England",
+      "modern_country": "United Kingdom",
+      "notes": "London engraver and mapmaker John Spilsbury is credited with the first 'dissected maps' in the 1760s."
+    },
+    "inventor": "John Spilsbury",
+    "short_description": "A picture cut into interlocking pieces that must be reassembled.",
+    "description": "The jigsaw puzzle began in the 1760s when John Spilsbury mounted maps on wood and cut them along country borders as teaching aids. Puzzles became a popular pastime, and in the early 20th century interlocking pieces and die-cut cardboard made them cheap to mass-produce. The name comes from the jigsaw or fretsaw used to cut wooden puzzles.",
+    "why_unchanged": "Cutting a picture into pieces that fit back together is the whole idea, and it needs no improvement.",
+    "materials": [
+      "wood",
+      "cardboard",
+      "paper"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the jigsaw puzzle?",
+        "answer": "John Spilsbury, a London mapmaker, is credited with making the first ones in the 1760s as geography teaching aids."
+      },
+      {
+        "question": "Why is it called a jigsaw puzzle?",
+        "answer": "Wooden puzzles were cut with a jigsaw or fretsaw, which gave the toy its name."
+      },
+      {
+        "question": "What is the best strategy to solve one?",
+        "answer": "Most people sort the edge pieces first, build the border, and then group the remaining pieces by colour."
+      }
+    ],
+    "image": {
+      "search_query": "jigsaw puzzle pieces",
+      "wikimedia_commons_category": "Jigsaw puzzles",
+      "alt": "A partly completed jigsaw puzzle"
+    },
+    "tags": [
+      "puzzles",
+      "games",
+      "early modern"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "flying-disc",
+    "name": "Flying disc",
+    "category": "Toys, games & sports",
+    "invention": {
+      "display": "1948",
+      "year": 1948,
+      "approximate": false,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "California",
+      "modern_country": "United States",
+      "notes": "Morrison and Warren Franscioni sold the plastic Flyin-Saucer in 1948; Wham-O bought the design and named it Frisbee in 1957."
+    },
+    "inventor": "Walter Frederick Morrison",
+    "short_description": "A plastic disc with a curved lip that glides when thrown with a spin.",
+    "description": "After years of tossing metal pie tins and cake pans, Walter Frederick Morrison and Warren Franscioni produced a plastic flying disc in 1948. Morrison's improved Pluto Platter was bought by Wham-O, which renamed it Frisbee in 1957 after the Frisbie Pie Company tins. The disc is used in casual play and in sports like ultimate and disc golf.",
+    "why_unchanged": "The rounded lip and spin-stabilized shape already provide excellent flight, so the design has remained.",
+    "materials": [
+      "plastic",
+      "polyethylene"
+    ],
+    "faqs": [
+      {
+        "question": "Why is it called a Frisbee?",
+        "answer": "The name was taken from the Frisbie Pie Company, whose pie tins students used to throw before plastic discs existed."
+      },
+      {
+        "question": "Who invented the flying disc?",
+        "answer": "Walter Frederick Morrison, with Warren Franscioni, created the first plastic flying disc in 1948."
+      },
+      {
+        "question": "Why does a flying disc fly so well?",
+        "answer": "Its curved upper surface generates lift, and spinning keeps it stable in the air."
+      }
+    ],
+    "image": {
+      "search_query": "frisbee flying disc in park",
+      "wikimedia_commons_category": "Flying discs",
+      "alt": "A plastic flying disc in mid-air"
+    },
+    "tags": [
+      "sports",
+      "outdoor",
+      "plastic",
+      "modern"
+    ],
+    "confidence": "high"
+  },
+  {
+    "slug": "boomerang",
+    "name": "Boomerang",
+    "category": "Toys, games & sports",
+    "invention": {
+      "display": "c. 8000 BCE",
+      "year": -8000,
+      "approximate": true,
+      "era": "Prehistoric"
+    },
+    "place_of_invention": {
+      "region": "South Australia",
+      "modern_country": "Australia",
+      "notes": "Wooden boomerangs from Wyrie Swamp are about 10,000 years old; an even older ivory throwing stick is known from Obłazowa Cave in Poland. The returning type is associated with Aboriginal Australians."
+    },
+    "inventor": null,
+    "short_description": "A curved, wing-shaped throwing stick, some types of which return to the thrower.",
+    "description": "Throwing sticks are among humanity's oldest tools, and the oldest preserved Australian boomerangs, from Wyrie Swamp, date back roughly 10,000 years. Aboriginal Australians made both returning boomerangs, used for play and sport, and heavier non-returning ones for hunting. Today sport boomerangs are thrown in competitions for accuracy, distance and catching.",
+    "why_unchanged": "Its aerofoil arms and spin create the returning flight, and that shape cannot be simplified further.",
+    "materials": [
+      "wood",
+      "plywood",
+      "plastic",
+      "carbon fiber"
+    ],
+    "faqs": [
+      {
+        "question": "Do all boomerangs come back?",
+        "answer": "No. Many traditional boomerangs were made for hunting and fly straight; only the lighter returning type comes back."
+      },
+      {
+        "question": "Why does a boomerang return?",
+        "answer": "Its spinning, wing-shaped arms create uneven lift that makes it turn in a circle and come back to the thrower."
+      },
+      {
+        "question": "How old is the boomerang?",
+        "answer": "Australian boomerangs are about 10,000 years old, and throwing sticks elsewhere are even older."
+      }
+    ],
+    "image": {
+      "search_query": "wooden boomerang",
+      "wikimedia_commons_category": "Boomerangs",
+      "alt": "A carved wooden boomerang"
+    },
+    "tags": [
+      "sports",
+      "throwing",
+      "prehistoric",
+      "australia"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "slingshot",
+    "name": "Slingshot",
+    "category": "Toys, games & sports",
+    "invention": {
+      "display": "c. 1860",
+      "year": 1860,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "United States",
+      "modern_country": "United States",
+      "notes": "Y-shaped slingshots depended on vulcanized rubber, patented by Charles Goodyear in 1844; no single inventor is known."
+    },
+    "inventor": null,
+    "short_description": "A Y-shaped frame with elastic bands and a pouch used to shoot small projectiles.",
+    "description": "The slingshot became possible after vulcanized rubber was developed in the 1840s, which made strong, durable elastic bands. By the second half of the 19th century boys in America and Europe were making them from forked branches. Modern sport slingshots use metal frames and flat latex bands but keep the same fork-and-pouch design.",
+    "why_unchanged": "A fork, two bands and a pouch are the minimum needed, so the form has not changed.",
+    "materials": [
+      "wood",
+      "rubber",
+      "leather",
+      "metal",
+      "latex"
+    ],
+    "faqs": [
+      {
+        "question": "How is a slingshot different from a sling?",
+        "answer": "A sling is an ancient weapon made of cords and a pouch swung by hand, while a slingshot uses a forked frame and elastic bands."
+      },
+      {
+        "question": "When was the slingshot invented?",
+        "answer": "It appeared in the mid-19th century after vulcanized rubber made strong elastic bands possible."
+      },
+      {
+        "question": "Is there a slingshot sport?",
+        "answer": "Yes. Target shooting with slingshots is a recognized hobby with clubs and competitions."
+      }
+    ],
+    "image": {
+      "search_query": "wooden slingshot catapult",
+      "wikimedia_commons_category": "Slingshots",
+      "alt": "A wooden Y-shaped slingshot with rubber bands"
+    },
+    "tags": [
+      "toys",
+      "outdoor",
+      "rubber",
+      "industrial"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "pogo-stick",
+    "name": "Pogo stick",
+    "category": "Toys, games & sports",
+    "invention": {
+      "display": "1919",
+      "year": 1919,
+      "approximate": true,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "United States and Germany",
+      "modern_country": "United States",
+      "notes": "Early spring-stilt patents include George H. Herrington (US, 1891); George Hansburg patented a design in 1919, and Max Pohlig and Ernst Gottschall patented one in Germany around 1920. Credit is disputed."
+    },
+    "inventor": null,
+    "short_description": "A spring-loaded pole with footrests that lets the rider bounce upright.",
+    "description": "Spring-loaded jumping sticks were patented in the late 19th century, and the pogo stick took its familiar form around 1919–1920 in the US and Germany. It became a popular fad in the 1920s and again in later decades. Modern extreme pogo sticks use air or elastomer springs but keep the same pole, handlebars and foot pegs.",
+    "why_unchanged": "A pole with a spring, handles and footrests is all bouncing requires.",
+    "materials": [
+      "steel",
+      "rubber",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the pogo stick?",
+        "answer": "Several inventors patented similar devices; George Hansburg in the US and Max Pohlig and Ernst Gottschall in Germany are most often credited."
+      },
+      {
+        "question": "Why is it called pogo?",
+        "answer": "The name is often linked to the German inventors Pohlig and Gottschall, combining the first letters of their surnames."
+      },
+      {
+        "question": "How high can you jump on a pogo stick?",
+        "answer": "Extreme pogo athletes using powerful springs have cleared bars more than three metres high."
+      }
+    ],
+    "image": {
+      "search_query": "pogo stick",
+      "wikimedia_commons_category": "Pogo sticks",
+      "alt": "A metal pogo stick with foot pegs"
+    },
+    "tags": [
+      "toys",
+      "outdoor",
+      "springs",
+      "modern"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "stilts",
+    "name": "Stilts",
+    "category": "Toys, games & sports",
+    "invention": {
+      "display": "c. 500 BCE",
+      "year": -500,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Ancient Greece",
+      "modern_country": "Greece",
+      "notes": "Stilts are mentioned in ancient Greek sources and also have long traditions in China and Africa; the origin is unknown."
+    },
+    "inventor": null,
+    "short_description": "A pair of poles with footrests that raise the walker above the ground.",
+    "description": "Stilts have been used for play, work and performance since antiquity, with references in ancient Greece and long traditions in China and Africa. In 19th-century France, shepherds of the Landes region walked on stilts to cross marshy ground. Today they appear in circuses, parades and as children's toys.",
+    "why_unchanged": "A pole with a step is the simplest way to extend the leg, so no redesign was ever needed.",
+    "materials": [
+      "wood",
+      "aluminum",
+      "bamboo"
+    ],
+    "faqs": [
+      {
+        "question": "Why did shepherds use stilts?",
+        "answer": "Shepherds in the marshy Landes region of France used tall stilts to cross wet ground and watch their flocks."
+      },
+      {
+        "question": "Are stilts used in performances?",
+        "answer": "Yes. Stilt walkers are a traditional part of carnivals, circuses and street festivals around the world."
+      },
+      {
+        "question": "Are stilts still used for work?",
+        "answer": "Yes. Drywall installers and plasterers often wear strap-on stilts to reach ceilings."
+      }
+    ],
+    "image": {
+      "search_query": "wooden stilts children",
+      "wikimedia_commons_category": "Stilts",
+      "alt": "A child walking on wooden stilts"
+    },
+    "tags": [
+      "toys",
+      "outdoor",
+      "ancient",
+      "performance"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "bow-and-arrow",
+    "name": "Bow and arrow",
+    "category": "Toys, games & sports",
+    "invention": {
+      "display": "c. 8000 BCE",
+      "year": -8000,
+      "approximate": true,
+      "era": "Prehistoric"
+    },
+    "place_of_invention": {
+      "region": "Northern Europe",
+      "modern_country": "Denmark",
+      "notes": "Holmegaard bows from Denmark (c. 7000 BCE) are among the oldest complete bows; arrow shafts from Stellmoor, Germany are older, and stone points suggest bow use in Africa more than 60,000 years ago."
+    },
+    "inventor": null,
+    "short_description": "A flexible stave with a string that launches arrows, used today for sport archery.",
+    "description": "The bow and arrow is one of the oldest human inventions, with complete wooden bows surviving from Mesolithic Denmark and evidence of earlier use in Africa. It was a key hunting and war tool for millennia before becoming a sport. Modern archery uses longbows, recurves and compound bows, but the stave-and-string principle is unchanged.",
+    "why_unchanged": "Storing energy in a bent stave and releasing it through a string is the essence of the bow and cannot be simplified.",
+    "materials": [
+      "wood",
+      "horn",
+      "sinew",
+      "fiberglass",
+      "carbon fiber"
+    ],
+    "faqs": [
+      {
+        "question": "How old is the bow and arrow?",
+        "answer": "Complete bows survive from about 9,000 years ago, and stone points from Africa suggest bows were used more than 60,000 years ago."
+      },
+      {
+        "question": "What is the difference between a longbow and a recurve bow?",
+        "answer": "A longbow has straight limbs, while a recurve's tips curve away from the archer to store more energy."
+      },
+      {
+        "question": "Is archery an Olympic sport?",
+        "answer": "Yes. Recurve archery has been in every Summer Olympics since 1972."
+      }
+    ],
+    "image": {
+      "search_query": "recurve bow and arrows archery",
+      "wikimedia_commons_category": "Bows (weapons)",
+      "alt": "A wooden recurve bow with arrows"
+    },
+    "tags": [
+      "sports",
+      "archery",
+      "prehistoric",
+      "outdoor"
+    ],
+    "confidence": "medium"
+  }
+]

@@ -1,0 +1,1271 @@
+[
+  {
+    "slug": "mason-jar",
+    "name": "Mason jar",
+    "category": "Tableware & containers",
+    "invention": {
+      "display": "1858",
+      "year": 1858,
+      "approximate": false,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Philadelphia, Pennsylvania",
+      "modern_country": "United States",
+      "notes": "John Landis Mason received US Patent 22,186 on 30 November 1858 for a glass jar with a threaded neck and screw-on lid."
+    },
+    "inventor": "John Landis Mason",
+    "short_description": "A glass jar with a threaded neck and screw-on lid, used for home canning.",
+    "description": "John Landis Mason patented a glass jar with a molded thread at its mouth and a screw-on metal lid in 1858. It allowed home cooks to seal preserves airtight, transforming food storage. Later improvements like the two-piece lid kept the same jar.",
+    "why_unchanged": "A threaded glass jar seals reliably and is reusable, so it has remained essentially unchanged.",
+    "materials": [
+      "glass",
+      "tinplate",
+      "rubber"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the Mason jar?",
+        "answer": "John Landis Mason patented it in 1858."
+      },
+      {
+        "question": "Why is the Mason jar so popular for canning?",
+        "answer": "Its threaded mouth and lid create an airtight seal for preserves."
+      },
+      {
+        "question": "Why is '1858' on many Mason jars?",
+        "answer": "Many jars were embossed 'Patent Nov 30th 1858' long after it was granted, referring to Mason's patent."
+      }
+    ],
+    "image": {
+      "search_query": "mason jar preserves",
+      "wikimedia_commons_category": "Mason jars",
+      "alt": "A glass Mason jar with a metal lid"
+    },
+    "tags": [
+      "storage",
+      "glass",
+      "patent",
+      "industrial",
+      "canning"
+    ],
+    "confidence": "high"
+  },
+  {
+    "slug": "crown-cork",
+    "name": "Crown cork",
+    "category": "Tableware & containers",
+    "invention": {
+      "display": "1892",
+      "year": 1892,
+      "approximate": false,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Baltimore, Maryland",
+      "modern_country": "United States",
+      "notes": "William Painter patented the crown cork bottle cap in 1892 and founded the Crown Cork & Seal Company."
+    },
+    "inventor": "William Painter",
+    "short_description": "A crimped metal bottle cap lined with a seal.",
+    "description": "Before the crown cork, bottles were sealed with corks or wire stoppers that often leaked. William Painter's 1892 crimped metal cap sealed carbonated drinks tightly and cheaply. The 21-toothed bottle cap is still used today.",
+    "why_unchanged": "A crimped metal disk seals pressure cheaply and quickly, so the design hasn't needed to change.",
+    "materials": [
+      "steel",
+      "cork",
+      "plastic liner"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the bottle cap?",
+        "answer": "William Painter of Baltimore patented the crown cork in 1892."
+      },
+      {
+        "question": "How many teeth does a bottle cap have?",
+        "answer": "Modern standard crown caps have 21 teeth."
+      },
+      {
+        "question": "Why is it called a crown cork?",
+        "answer": "Its crimped edge resembles a crown, and early caps were lined with cork."
+      }
+    ],
+    "image": {
+      "search_query": "metal bottle caps",
+      "wikimedia_commons_category": "Bottle caps",
+      "alt": "A pile of crimped metal bottle caps"
+    },
+    "tags": [
+      "closure",
+      "patent",
+      "industrial",
+      "beverage"
+    ],
+    "confidence": "high"
+  },
+  {
+    "slug": "tin-can",
+    "name": "Tin can",
+    "category": "Tableware & containers",
+    "invention": {
+      "display": "1810",
+      "year": 1810,
+      "approximate": false,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "London",
+      "modern_country": "United Kingdom",
+      "notes": "Peter Durand received a British patent in 1810 for preserving food in tin containers; Bryan Donkin and John Hall opened the first commercial canning factory in 1812–1813."
+    },
+    "inventor": "Peter Durand",
+    "short_description": "A sealed metal container for preserving food.",
+    "description": "Peter Durand patented the use of tin-coated iron containers for preserved food in 1810. Donkin and Hall began commercial production soon after, supplying the British Navy. The cylindrical sealed can is still used worldwide.",
+    "why_unchanged": "A sealed cylinder of metal keeps food safe for years, so the design has stayed the same.",
+    "materials": [
+      "tinplate",
+      "steel",
+      "aluminum"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the tin can?",
+        "answer": "Peter Durand patented it in 1810 in Britain."
+      },
+      {
+        "question": "Was the can opener invented at the same time?",
+        "answer": "No, the dedicated can opener came decades later; early cans were opened with chisels and hammers."
+      },
+      {
+        "question": "Are tin cans made of tin?",
+        "answer": "Mostly steel coated with a thin layer of tin, or aluminum."
+      }
+    ],
+    "image": {
+      "search_query": "tin cans food",
+      "wikimedia_commons_category": "Tin cans",
+      "alt": "A row of metal food cans"
+    },
+    "tags": [
+      "storage",
+      "metal",
+      "patent",
+      "industrial",
+      "preservation"
+    ],
+    "confidence": "high"
+  },
+  {
+    "slug": "vacuum-flask",
+    "name": "Vacuum flask",
+    "category": "Tableware & containers",
+    "invention": {
+      "display": "1892",
+      "year": 1892,
+      "approximate": false,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "London",
+      "modern_country": "United Kingdom",
+      "notes": "Scientist James Dewar devised a double-walled vacuum flask in 1892 for laboratory use; German glassblowers Reinhold Burger and Albert Aschenbrenner commercialized it as Thermos in 1904."
+    },
+    "inventor": "James Dewar",
+    "short_description": "A double-walled insulated bottle that keeps drinks hot or cold.",
+    "description": "James Dewar invented a double-walled flask with a vacuum between the walls to store cold gases. Thermos GmbH began selling vacuum flasks for drinks in 1904. Modern stainless steel flasks keep the same double-wall vacuum design.",
+    "why_unchanged": "A vacuum between two walls blocks heat transfer, so the principle needs no improvement.",
+    "materials": [
+      "glass",
+      "stainless steel"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the vacuum flask?",
+        "answer": "Scottish scientist James Dewar invented it in 1892 to keep laboratory gases cold; he never patented it."
+      },
+      {
+        "question": "Why is it often called a Thermos?",
+        "answer": "Thermos was the trademark of the German company that sold vacuum flasks for drinks from 1904, and the name became generic in everyday speech."
+      },
+      {
+        "question": "How does a vacuum flask work?",
+        "answer": "The vacuum between the two walls stops heat moving by conduction and convection, and reflective surfaces reduce heat lost by radiation."
+      }
+    ],
+    "image": {
+      "search_query": "vacuum flask thermos",
+      "wikimedia_commons_category": "Vacuum flasks",
+      "alt": "A stainless steel vacuum flask"
+    },
+    "tags": [
+      "drink",
+      "insulation",
+      "industrial",
+      "science"
+    ],
+    "confidence": "high"
+  },
+  {
+    "slug": "paper-cup",
+    "name": "Paper cup",
+    "category": "Tableware & containers",
+    "invention": {
+      "display": "1907",
+      "year": 1907,
+      "approximate": false,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "Boston, Massachusetts",
+      "modern_country": "United States",
+      "notes": "Lawrence Luellen developed the disposable paper cup around 1907 to replace shared drinking cups; with Hugh Moore it later became the Dixie Cup."
+    },
+    "inventor": "Lawrence Luellen",
+    "short_description": "A disposable cup made of paper.",
+    "description": "Public water fountains used shared tin cups that spread disease. Lawrence Luellen invented a disposable paper cup to solve this, which became the Dixie Cup. Paper cups with wax or plastic lining are still widely used.",
+    "why_unchanged": "A rolled paper cone or cylinder is cheap and disposable, so the form stayed the same.",
+    "materials": [
+      "paper",
+      "wax",
+      "plastic lining"
+    ],
+    "faqs": [
+      {
+        "question": "Why was the paper cup invented?",
+        "answer": "Shared tin dippers at public water sources spread disease, so a single-use paper cup offered a hygienic alternative."
+      },
+      {
+        "question": "What is a Dixie Cup?",
+        "answer": "Dixie Cup became the brand name for Luellen and Hugh Moore's paper cups, taken from a line of dolls made by a neighboring company."
+      },
+      {
+        "question": "Are paper cups recyclable?",
+        "answer": "Often not easily, because most have a thin plastic or wax lining that must be separated from the paper."
+      }
+    ],
+    "image": {
+      "search_query": "paper cup",
+      "wikimedia_commons_category": "Paper cups",
+      "alt": "A white paper cup"
+    },
+    "tags": [
+      "drinkware",
+      "paper",
+      "modern",
+      "disposable"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "flat-bottomed-paper-bag",
+    "name": "Flat-bottomed paper bag",
+    "category": "Tableware & containers",
+    "invention": {
+      "display": "1871",
+      "year": 1871,
+      "approximate": false,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Springfield, Massachusetts",
+      "modern_country": "United States",
+      "notes": "Francis Wolle patented a paper bag machine in 1852; Margaret E. Knight patented a machine to make flat-bottomed paper bags in 1871."
+    },
+    "inventor": "Margaret E. Knight",
+    "short_description": "A paper bag with a flat base that stands upright.",
+    "description": "Margaret Knight designed a machine to fold and glue flat-bottomed paper bags in 1871. The bags could stand on their own and hold more goods than earlier envelope-style bags. They are still used at grocery stores.",
+    "why_unchanged": "A flat base lets the bag stand upright and hold more, so the design remains unchanged.",
+    "materials": [
+      "paper",
+      "kraft paper"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the flat-bottomed paper bag?",
+        "answer": "Margaret E. Knight patented a machine to make them in 1871."
+      },
+      {
+        "question": "Did someone try to steal Knight's idea?",
+        "answer": "Yes, Charles Annan claimed it, but Knight won the patent dispute."
+      },
+      {
+        "question": "Why are flat-bottomed bags better?",
+        "answer": "They stand on their own and carry more."
+      }
+    ],
+    "image": {
+      "search_query": "paper grocery bag",
+      "wikimedia_commons_category": "Paper bags",
+      "alt": "A brown paper grocery bag"
+    },
+    "tags": [
+      "bag",
+      "paper",
+      "patent",
+      "industrial"
+    ],
+    "confidence": "high"
+  },
+  {
+    "slug": "egg-carton",
+    "name": "Egg carton",
+    "category": "Tableware & containers",
+    "invention": {
+      "display": "1911",
+      "year": 1911,
+      "approximate": false,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "Smithers, British Columbia",
+      "modern_country": "Canada",
+      "notes": "Newspaper editor Joseph Coyle is credited with inventing a paper egg carton in 1911 to prevent eggs from breaking during delivery."
+    },
+    "inventor": "Joseph Coyle",
+    "short_description": "A container with individual cups to protect eggs.",
+    "description": "Joseph Coyle invented a paper carton to stop eggs from breaking. Molded pulp cartons were later developed, but the individual-cell design remains. Egg cartons are used worldwide.",
+    "why_unchanged": "Separate cups protect each egg, so the design has not needed to change.",
+    "materials": [
+      "paper pulp",
+      "cardboard",
+      "polystyrene",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the egg carton?",
+        "answer": "Joseph Coyle, a newspaper editor in Smithers, British Columbia, is credited with the paper egg carton in 1911."
+      },
+      {
+        "question": "Why was the egg carton invented?",
+        "answer": "According to the usual account, Coyle wanted to settle a dispute between a farmer and a hotel owner over eggs that kept arriving broken."
+      },
+      {
+        "question": "Are egg cartons recyclable?",
+        "answer": "Molded paper pulp cartons are usually recyclable or compostable, while polystyrene ones are much harder to recycle."
+      }
+    ],
+    "image": {
+      "search_query": "egg carton",
+      "wikimedia_commons_category": "Egg boxes",
+      "alt": "A paper pulp egg carton with eggs"
+    },
+    "tags": [
+      "packaging",
+      "eggs",
+      "modern"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "folding-cardboard-box",
+    "name": "Folding cardboard box",
+    "category": "Tableware & containers",
+    "invention": {
+      "display": "1879",
+      "year": 1879,
+      "approximate": false,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Brooklyn, New York",
+      "modern_country": "United States",
+      "notes": "Robert Gair discovered how to cut and crease paperboard in one operation in 1879, producing pre-cut folding cartons."
+    },
+    "inventor": "Robert Gair",
+    "short_description": "A paperboard box cut and creased to fold flat.",
+    "description": "Robert Gair discovered that cutting and creasing paperboard in one step made boxes that could be shipped flat and folded. Folding cartons became the standard for packaged goods. The die-cut box design remains the same.",
+    "why_unchanged": "A box that ships flat and folds quickly is efficient, so its design has stayed the same.",
+    "materials": [
+      "paperboard",
+      "cardboard"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the folding cardboard box?",
+        "answer": "Robert Gair, a Brooklyn paper-bag maker, developed the pre-cut folding carton in 1879."
+      },
+      {
+        "question": "How was the folding box discovered?",
+        "answer": "According to the usual account, a metal rule meant to crease paper bags shifted in the press and cut them instead, giving Gair the idea to cut and crease in one step."
+      },
+      {
+        "question": "What is the difference between cardboard and corrugated board?",
+        "answer": "Corrugated board has a wavy fluted layer between two flat liners, making it much stronger for shipping than plain paperboard."
+      }
+    ],
+    "image": {
+      "search_query": "cardboard box",
+      "wikimedia_commons_category": "Cardboard boxes",
+      "alt": "A brown cardboard box"
+    },
+    "tags": [
+      "packaging",
+      "paper",
+      "industrial",
+      "patent"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "jerrycan",
+    "name": "Jerrycan",
+    "category": "Tableware & containers",
+    "invention": {
+      "display": "1937",
+      "year": 1937,
+      "approximate": false,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "Germany",
+      "modern_country": "Germany",
+      "notes": "The jerrycan was developed in Germany in the 1930s by the Müller company; design credit is often given to engineer Vinzenz Grünvogel, though attributions vary."
+    },
+    "inventor": null,
+    "short_description": "A pressed-steel container for fuel or water with three handles.",
+    "description": "The Germans developed a sturdy steel fuel can with three handles and a cam-lock spout. Allied forces copied it during World War II, calling it the 'jerrycan'. The basic design is still used for fuel and water.",
+    "why_unchanged": "Three handles and a pressed-steel body make carrying and pouring easy, so the design stays unchanged.",
+    "materials": [
+      "steel",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "Why is it called a jerrycan?",
+        "answer": "'Jerry' was British and Allied slang for Germans during World War II, and the soldiers named the captured German cans after them."
+      },
+      {
+        "question": "Why does a jerrycan have three handles?",
+        "answer": "Three handles let one person carry two cans, two people share one, or soldiers pass cans hand to hand along a line."
+      },
+      {
+        "question": "Is the jerrycan still used?",
+        "answer": "Yes, the same basic design is used worldwide for fuel and water, in both steel and plastic."
+      }
+    ],
+    "image": {
+      "search_query": "jerrycan",
+      "wikimedia_commons_category": "Jerrycans",
+      "alt": "A metal jerrycan"
+    },
+    "tags": [
+      "container",
+      "fuel",
+      "modern",
+      "germany"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "swing-top-bottle",
+    "name": "Swing-top bottle",
+    "category": "Tableware & containers",
+    "invention": {
+      "display": "1875",
+      "year": 1875,
+      "approximate": false,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "United States",
+      "modern_country": "United States",
+      "notes": "Charles de Quillfeldt patented a wire-and-porcelain bottle stopper in 1875 (the 'Lightning' stopper)."
+    },
+    "inventor": "Charles de Quillfeldt",
+    "short_description": "A bottle sealed with a hinged wire stopper.",
+    "description": "Charles de Quillfeldt patented the swing-top stopper in 1875. It was used widely for beer and soda before the crown cap. It remains popular for craft beer and homemade drinks.",
+    "why_unchanged": "A wire lever and rubber gasket reseals the bottle repeatedly, so the design hasn't changed.",
+    "materials": [
+      "glass",
+      "porcelain",
+      "rubber",
+      "wire"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the swing-top stopper?",
+        "answer": "Charles de Quillfeldt patented the wire-and-porcelain 'Lightning' stopper in the United States in 1875."
+      },
+      {
+        "question": "Why are swing-top bottles still popular?",
+        "answer": "They can be opened and resealed many times without tools, which makes them ideal for home brewing, lemonade and oils."
+      },
+      {
+        "question": "How do you replace the seal on a swing-top bottle?",
+        "answer": "The rubber gasket simply stretches over the stopper and can be swapped when it wears out, so the bottle lasts for years."
+      }
+    ],
+    "image": {
+      "search_query": "swing top bottle",
+      "wikimedia_commons_category": "Swing-top bottles",
+      "alt": "A glass bottle with swing-top stopper"
+    },
+    "tags": [
+      "closure",
+      "beer",
+      "patent",
+      "industrial"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "corkscrew",
+    "name": "Corkscrew",
+    "category": "Tableware & containers",
+    "invention": {
+      "display": "17th century",
+      "year": 1650,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "England",
+      "modern_country": "United Kingdom",
+      "notes": "Corkscrews developed from the 'steel worm' used to extract bullets and wadding from gun barrels and appear in 17th-century English records; Reverend Samuel Henshall took out the first corkscrew patent in 1795."
+    },
+    "inventor": null,
+    "short_description": "A spiral metal tool used to pull corks from bottles.",
+    "description": "Once corks were pushed fully into glass bottle necks in the 17th century, a tool was needed to remove them. The answer was a steel spiral, or worm, with a handle, probably adapted from a gun-cleaning tool. Countless lever and winged variations followed, but nearly all still rely on the same helical worm.",
+    "why_unchanged": "A sharp helix grips cork firmly without crumbling it, so every corkscrew still uses that spiral.",
+    "materials": [
+      "steel",
+      "wood",
+      "brass"
+    ],
+    "faqs": [
+      {
+        "question": "Who patented the first corkscrew?",
+        "answer": "Reverend Samuel Henshall of England received the first corkscrew patent in 1795."
+      },
+      {
+        "question": "Where did the corkscrew idea come from?",
+        "answer": "It is thought to derive from the 'gun worm', a spiral tool used to clean musket barrels."
+      },
+      {
+        "question": "What is a waiter's friend?",
+        "answer": "A compact folding corkscrew with a lever and small knife, patented in Germany by Karl Wienke in 1882 and still used by sommeliers."
+      }
+    ],
+    "image": {
+      "search_query": "corkscrew wine bottle",
+      "wikimedia_commons_category": "Corkscrews",
+      "alt": "A corkscrew pulling a cork from a wine bottle"
+    },
+    "tags": [
+      "wine",
+      "tool",
+      "early modern",
+      "bar"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "bendy-straw",
+    "name": "Bendy straw",
+    "category": "Tableware & containers",
+    "invention": {
+      "display": "1937",
+      "year": 1937,
+      "approximate": false,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "San Francisco, California",
+      "modern_country": "United States",
+      "notes": "Joseph B. Friedman patented the flexible drinking straw, with a corrugated hinge section, in 1937."
+    },
+    "inventor": "Joseph B. Friedman",
+    "short_description": "A drinking straw with a flexible corrugated joint that bends.",
+    "description": "Joseph Friedman watched his young daughter struggle to drink from a straight straw at a soda fountain. He inserted a screw into a paper straw, wrapped floss around the threads to create corrugations, and patented the flexible straw in 1937. Hospitals were among its first major customers, and bendy straws still use the same accordion joint.",
+    "why_unchanged": "An accordion-like section bends without collapsing, so the corrugated joint is unchanged.",
+    "materials": [
+      "paper",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the bendy straw?",
+        "answer": "Joseph B. Friedman patented the flexible drinking straw in 1937."
+      },
+      {
+        "question": "What inspired the bendy straw?",
+        "answer": "Friedman saw his daughter struggling to reach a straight straw in a tall glass and invented a bendable one."
+      },
+      {
+        "question": "Who were the first big users of bendy straws?",
+        "answer": "Hospitals, because patients could drink while lying down."
+      }
+    ],
+    "image": {
+      "search_query": "bendy drinking straws",
+      "wikimedia_commons_category": "Flexible drinking straws",
+      "alt": "Colorful bendy drinking straws in a glass"
+    },
+    "tags": [
+      "drinkware",
+      "patent",
+      "modern"
+    ],
+    "confidence": "high"
+  },
+  {
+    "slug": "demijohn",
+    "name": "Demijohn",
+    "category": "Tableware & containers",
+    "invention": {
+      "display": "18th century",
+      "year": 1700,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Europe (Mediterranean)",
+      "modern_country": null,
+      "notes": "Large bulbous glass bottles encased in wicker were used across Europe by the 18th century; the name is thought to come from French 'dame-jeanne', though its origin is debated."
+    },
+    "inventor": null,
+    "short_description": "A large narrow-necked glass bottle, often wrapped in wicker.",
+    "description": "Demijohns are large glass bottles used to store and transport wine, oil and other liquids. Their wicker or straw covering protected the glass and made them easier to carry. Home winemakers still use them for fermentation.",
+    "why_unchanged": "A large glass body with a narrow neck seals easily and stores liquids well, so the form persists.",
+    "materials": [
+      "glass",
+      "wicker",
+      "straw",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "What is a demijohn used for?",
+        "answer": "Today mainly for home winemaking and brewing, as a fermentation vessel."
+      },
+      {
+        "question": "Why are demijohns covered in wicker?",
+        "answer": "The wicker protects the glass from knocks and provides handles for carrying."
+      },
+      {
+        "question": "Where does the word demijohn come from?",
+        "answer": "It probably comes from French 'dame-jeanne' ('Lady Jane'), but the origin is uncertain."
+      }
+    ],
+    "image": {
+      "search_query": "glass demijohn wicker",
+      "wikimedia_commons_category": "Demijohns",
+      "alt": "A large glass demijohn in a wicker basket"
+    },
+    "tags": [
+      "storage",
+      "wine",
+      "glass",
+      "early modern"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "pithos",
+    "name": "Pithos",
+    "category": "Tableware & containers",
+    "invention": {
+      "display": "c. 1700 BCE",
+      "year": -1700,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Crete (Minoan civilization)",
+      "modern_country": "Greece",
+      "notes": "Large storage jars were made in the Aegean and Near East from the Neolithic onward; the famous pithoi of the Minoan palace of Knossos date to the Middle and Late Bronze Age."
+    },
+    "inventor": null,
+    "short_description": "A very large ceramic storage jar for grain, oil or wine.",
+    "description": "Pithoi were giant storage jars used in the ancient Aegean, often taller than a person. The storerooms of the Minoan palace at Knossos held rows of them for oil and grain. Similar large jars are still made by potters in Crete today.",
+    "why_unchanged": "A thick clay jar keeps contents cool and dry, so the design has been used for millennia.",
+    "materials": [
+      "terracotta",
+      "clay"
+    ],
+    "faqs": [
+      {
+        "question": "What is a pithos?",
+        "answer": "A large ancient Greek storage jar for oil, grain or wine."
+      },
+      {
+        "question": "Was Pandora's box really a jar?",
+        "answer": "Yes. In Hesiod's original story Pandora opened a pithos, a large jar; 'box' is a later mistranslation."
+      },
+      {
+        "question": "Are pithoi still made?",
+        "answer": "Yes, potters in Crete, such as in the village of Thrapsano, still make large jars in the traditional way."
+      }
+    ],
+    "image": {
+      "search_query": "minoan pithos knossos",
+      "wikimedia_commons_category": "Pithoi",
+      "alt": "Large clay pithoi at the palace of Knossos"
+    },
+    "tags": [
+      "storage",
+      "ancient",
+      "greece",
+      "ceramic"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "waterskin",
+    "name": "Waterskin",
+    "category": "Tableware & containers",
+    "invention": {
+      "display": "Prehistoric",
+      "year": -5000,
+      "approximate": true,
+      "era": "Prehistoric"
+    },
+    "place_of_invention": {
+      "region": "Various",
+      "modern_country": null,
+      "notes": "Animal-skin containers for liquids were used by many prehistoric and nomadic cultures; due to poor preservation, dating is uncertain."
+    },
+    "inventor": null,
+    "short_description": "A container made from animal hide used to carry water.",
+    "description": "People sewed or tied animal skins into bags for carrying water long before pottery or glass. Waterskins appear in ancient Egyptian and Mesopotamian art and remained essential for nomads and travelers. They are still used in some desert regions.",
+    "why_unchanged": "An animal skin is light, flexible and waterproof, so the design has remained the same.",
+    "materials": [
+      "goatskin",
+      "leather",
+      "hide"
+    ],
+    "faqs": [
+      {
+        "question": "How is a waterskin made?",
+        "answer": "Traditionally from a whole goat or sheep hide, sewn closed with the neck or a leg used as the spout."
+      },
+      {
+        "question": "Why did water in skins stay cool?",
+        "answer": "Some water seeps through and evaporates, cooling the contents."
+      },
+      {
+        "question": "Are waterskins still used?",
+        "answer": "Yes, especially among nomadic peoples in deserts."
+      }
+    ],
+    "image": {
+      "search_query": "leather waterskin",
+      "wikimedia_commons_category": "Waterskins",
+      "alt": "A leather waterskin hanging from a hook"
+    },
+    "tags": [
+      "water",
+      "leather",
+      "prehistoric",
+      "portable"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "tiffin-carrier",
+    "name": "Tiffin carrier",
+    "category": "Tableware & containers",
+    "invention": {
+      "display": "19th century",
+      "year": 1850,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Indian subcontinent",
+      "modern_country": "India",
+      "notes": "Stacked metal lunch containers became common in colonial India in the 19th century; similar stacking food containers exist in Southeast Asia, and the exact origin is undocumented."
+    },
+    "inventor": null,
+    "short_description": "A set of stacked metal containers held together by a clasp, used to carry a meal.",
+    "description": "Tiffin carriers became widespread in India during the colonial era, when 'tiffin' meant a light midday meal. Each tier holds a different dish, and a clasp holds them together. Mumbai's dabbawalas deliver hundreds of thousands of them daily.",
+    "why_unchanged": "Stacked tiers keep dishes separate and portable, so the design hasn't changed.",
+    "materials": [
+      "stainless steel",
+      "aluminum",
+      "enamel",
+      "brass"
+    ],
+    "faqs": [
+      {
+        "question": "What does 'tiffin' mean?",
+        "answer": "It is an Anglo-Indian word for a light meal, especially lunch."
+      },
+      {
+        "question": "Who are the dabbawalas?",
+        "answer": "Mumbai lunchbox delivery workers who deliver tiffins from homes to offices with remarkable accuracy."
+      },
+      {
+        "question": "Why is a tiffin carrier stacked?",
+        "answer": "Each tier holds a different dish, keeping curries, rice and bread apart."
+      }
+    ],
+    "image": {
+      "search_query": "stainless steel tiffin carrier",
+      "wikimedia_commons_category": "Tiffin carriers",
+      "alt": "A stacked stainless steel tiffin carrier"
+    },
+    "tags": [
+      "lunch",
+      "india",
+      "industrial",
+      "metal"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "lunch-pail",
+    "name": "Lunch pail",
+    "category": "Tableware & containers",
+    "invention": {
+      "display": "19th century",
+      "year": 1850,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "United States and Britain",
+      "modern_country": null,
+      "notes": "Metal dinner pails were carried by industrial workers in the 19th century; their exact origin is undocumented."
+    },
+    "inventor": null,
+    "short_description": "A small metal pail or box with a handle used to carry a worker's meal.",
+    "description": "Industrial workers carried their meals in simple metal pails or tins in the 19th century. Some had compartments for drinks and food. The handled lunch pail evolved into the lunchbox but remains a simple container.",
+    "why_unchanged": "A lidded container with a handle carries a meal easily, so the basic form has stayed the same.",
+    "materials": [
+      "tinplate",
+      "steel",
+      "aluminum"
+    ],
+    "faqs": [
+      {
+        "question": "What is a dinner pail?",
+        "answer": "In the 19th century, 'dinner' meant the midday meal, so workers carried dinner pails."
+      },
+      {
+        "question": "Why did miners' lunch pails have compartments?",
+        "answer": "Many had a bottom section for water or tea and a tray above for food."
+      },
+      {
+        "question": "Is the lunch pail the ancestor of the lunchbox?",
+        "answer": "Yes, metal lunchboxes evolved from workers' lunch pails."
+      }
+    ],
+    "image": {
+      "search_query": "vintage metal lunch pail",
+      "wikimedia_commons_category": "Lunch boxes",
+      "alt": "A vintage metal lunch pail with a handle"
+    },
+    "tags": [
+      "lunch",
+      "metal",
+      "industrial",
+      "portable"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "picnic-hamper",
+    "name": "Picnic hamper",
+    "category": "Tableware & containers",
+    "invention": {
+      "display": "19th century",
+      "year": 1850,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "England",
+      "modern_country": "United Kingdom",
+      "notes": "Wicker hampers have been used for centuries; the fitted picnic hamper became popular in Victorian England as picnics became fashionable."
+    },
+    "inventor": null,
+    "short_description": "A lidded wicker basket for carrying food and tableware outdoors.",
+    "description": "Wicker hampers were long used to carry food and goods, and the fitted picnic hamper became fashionable in Victorian England as outdoor dining grew popular. Many include plates, cutlery and glasses held by straps inside the lid. The woven case with a hinged lid is unchanged.",
+    "why_unchanged": "A light woven case with a hinged lid carries food and tableware well, so it hasn't changed.",
+    "materials": [
+      "wicker",
+      "willow",
+      "leather",
+      "cotton"
+    ],
+    "faqs": [
+      {
+        "question": "What is the difference between a hamper and a basket?",
+        "answer": "A hamper is usually a larger basket with a hinged lid, often fitted for carrying food and tableware."
+      },
+      {
+        "question": "Why are hampers given at Christmas?",
+        "answer": "Hampers filled with food and drink are a long-standing British gift tradition, especially from department stores and grocers."
+      },
+      {
+        "question": "Why is wicker used for hampers?",
+        "answer": "Wicker is light, strong and lets air circulate, which helps keep food fresh outdoors."
+      }
+    ],
+    "image": {
+      "search_query": "wicker picnic hamper",
+      "wikimedia_commons_category": "Picnic hampers",
+      "alt": "A wicker picnic hamper on a blanket"
+    },
+    "tags": [
+      "picnic",
+      "wicker",
+      "industrial",
+      "basket"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "tea-caddy",
+    "name": "Tea caddy",
+    "category": "Tableware & containers",
+    "invention": {
+      "display": "Early 18th century",
+      "year": 1720,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Europe (notably England)",
+      "modern_country": null,
+      "notes": "Containers for storing tea arrived with tea from China; lockable decorative tea caddies became common in 18th-century England. The word comes from the Malay 'kati', a unit of weight."
+    },
+    "inventor": null,
+    "short_description": "A lidded box or canister for storing tea leaves.",
+    "description": "Tea was expensive in 18th-century England, so it was kept in lockable boxes. Tea caddies were made of wood, silver, porcelain and tin, often with compartments for different teas. Tin or ceramic caddies are still used to keep tea fresh.",
+    "why_unchanged": "A tight-lidded container keeps tea dry and fresh, so it has stayed unchanged.",
+    "materials": [
+      "wood",
+      "tin",
+      "silver",
+      "porcelain"
+    ],
+    "faqs": [
+      {
+        "question": "Why did tea caddies have locks?",
+        "answer": "Tea was very expensive in the 18th century, so the lady of the house kept the key."
+      },
+      {
+        "question": "Where does the word caddy come from?",
+        "answer": "From 'kati', a Malay unit of weight used in the tea trade."
+      },
+      {
+        "question": "How should tea be stored?",
+        "answer": "In an airtight, opaque container away from heat, light and moisture."
+      }
+    ],
+    "image": {
+      "search_query": "antique tea caddy",
+      "wikimedia_commons_category": "Tea caddies",
+      "alt": "A wooden tea caddy with a lock"
+    },
+    "tags": [
+      "tea",
+      "storage",
+      "early modern"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "stoneware-crock",
+    "name": "Stoneware crock",
+    "category": "Tableware & containers",
+    "invention": {
+      "display": "15th century (salt-glazed)",
+      "year": 1450,
+      "approximate": true,
+      "era": "Medieval"
+    },
+    "place_of_invention": {
+      "region": "Rhineland",
+      "modern_country": "Germany",
+      "notes": "Stoneware was first developed in China; salt-glazed stoneware storage crocks were produced in the Rhineland in the late Middle Ages and spread to Britain and North America."
+    },
+    "inventor": null,
+    "short_description": "A sturdy, glazed stoneware jar used to store and ferment foods.",
+    "description": "Stoneware fired at high temperatures is waterproof and strong, ideal for storing food. Rhineland potters produced salt-glazed stoneware from the late Middle Ages. Crocks were essential for pickling, salting and fermenting in 18th- and 19th-century households and are still used.",
+    "why_unchanged": "A thick stoneware jar is impermeable and acid-resistant, so it has stayed unchanged.",
+    "materials": [
+      "stoneware",
+      "salt glaze"
+    ],
+    "faqs": [
+      {
+        "question": "What is salt glazing?",
+        "answer": "Salt is thrown into the hot kiln; it vaporizes and forms a glassy coating on the pots."
+      },
+      {
+        "question": "Are crocks used for fermentation?",
+        "answer": "Yes. Stoneware crocks are still a favorite vessel for fermenting sauerkraut, pickles and kimchi at home."
+      },
+      {
+        "question": "Why is stoneware used for crocks?",
+        "answer": "High-fired stoneware is non-porous and resists acids and salt, so it does not taint or absorb the food."
+      }
+    ],
+    "image": {
+      "search_query": "stoneware crock",
+      "wikimedia_commons_category": "Stoneware crocks",
+      "alt": "A salt-glazed stoneware crock"
+    },
+    "tags": [
+      "storage",
+      "fermentation",
+      "medieval",
+      "ceramic"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "bota-bag",
+    "name": "Bota bag",
+    "category": "Tableware & containers",
+    "invention": {
+      "display": "Medieval period",
+      "year": 1200,
+      "approximate": true,
+      "era": "Medieval"
+    },
+    "place_of_invention": {
+      "region": "Iberian Peninsula",
+      "modern_country": "Spain",
+      "notes": "Leather wine bags have been used in Spain for centuries; their exact age is undocumented."
+    },
+    "inventor": null,
+    "short_description": "A traditional Spanish leather wine bag.",
+    "description": "The bota is a teardrop-shaped bag of leather lined with pitch or latex for carrying wine. Spaniards squirt wine into their mouths from it, a skill admired at festivals. The form has stayed the same for centuries.",
+    "why_unchanged": "A soft leather pouch with a nozzle is portable and unbreakable, so it remains unchanged.",
+    "materials": [
+      "leather",
+      "goatskin",
+      "pitch",
+      "latex"
+    ],
+    "faqs": [
+      {
+        "question": "How do you drink from a bota?",
+        "answer": "Hold it at arm's length and squeeze to send a thin stream into your mouth."
+      },
+      {
+        "question": "What is a bota lined with?",
+        "answer": "Traditionally pitch or resin; modern ones often use latex."
+      },
+      {
+        "question": "Where is the bota used?",
+        "answer": "Especially in Spain at festivals such as San Fermín in Pamplona."
+      }
+    ],
+    "image": {
+      "search_query": "spanish bota bag",
+      "wikimedia_commons_category": "Botas (wine skins)",
+      "alt": "A leather bota bag"
+    },
+    "tags": [
+      "wine",
+      "spain",
+      "leather",
+      "portable"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "trencher",
+    "name": "Trencher",
+    "category": "Tableware & containers",
+    "invention": {
+      "display": "Medieval period",
+      "year": 1300,
+      "approximate": true,
+      "era": "Medieval"
+    },
+    "place_of_invention": {
+      "region": "Europe",
+      "modern_country": null,
+      "notes": "Medieval Europeans used thick slices of stale bread as plates (trenchers), later replaced by wooden boards; the practice was widespread and not tied to one place."
+    },
+    "inventor": null,
+    "short_description": "A flat wooden board or slice of bread used as a plate.",
+    "description": "In medieval Europe diners ate from trenchers, thick slices of stale bread that soaked up the juices of the meal. Over time, flat square or round wooden boards, also called trenchers, replaced the bread. Simple wooden plates and serving boards of the same form are still made and used.",
+    "why_unchanged": "A flat board is the simplest plate, so the form has not changed.",
+    "materials": [
+      "wood",
+      "bread"
+    ],
+    "faqs": [
+      {
+        "question": "What happened to bread trenchers after the meal?",
+        "answer": "The gravy-soaked bread was sometimes eaten, but in wealthy households it was often given to the poor or to dogs."
+      },
+      {
+        "question": "Why is a hearty eater called a 'good trencherman'?",
+        "answer": "The expression comes from the trencher, the medieval plate, so a trencherman is someone who eats heartily from it."
+      },
+      {
+        "question": "Are trenchers still used?",
+        "answer": "Wooden plates and serving boards based on the trencher are still made, especially for rustic and traditional dining."
+      }
+    ],
+    "image": {
+      "search_query": "wooden trencher plate",
+      "wikimedia_commons_category": "Trenchers",
+      "alt": "A square wooden trencher"
+    },
+    "tags": [
+      "tableware",
+      "medieval",
+      "wood"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "porringer",
+    "name": "Porringer",
+    "category": "Tableware & containers",
+    "invention": {
+      "display": "17th century",
+      "year": 1650,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "England and colonial America",
+      "modern_country": null,
+      "notes": "Shallow handled bowls existed in medieval Europe; the flat-handled porringer was common in 17th–18th century England and America."
+    },
+    "inventor": null,
+    "short_description": "A shallow bowl with a flat handle for porridge or soup.",
+    "description": "Porringers were shallow bowls with one or two flat, often pierced handles, used for porridge, soup and stew. Pewter and silver examples were common household items in 17th- and 18th-century England and colonial America, where silversmiths such as Paul Revere made them. They are still made as children's bowls and christening gifts.",
+    "why_unchanged": "A shallow bowl with a flat handle is easy to hold, so the form remains.",
+    "materials": [
+      "pewter",
+      "silver",
+      "ceramic"
+    ],
+    "faqs": [
+      {
+        "question": "What was a porringer used for?",
+        "answer": "It held porridge, soups, stews and other soft foods, and was often used to feed children."
+      },
+      {
+        "question": "Why do porringers have flat handles?",
+        "answer": "The flat handle, often pierced with decorative holes, lets you hold the bowl level without touching the hot sides."
+      },
+      {
+        "question": "Are porringers still made?",
+        "answer": "Yes, especially in silver or pewter as traditional christening and baby gifts."
+      }
+    ],
+    "image": {
+      "search_query": "pewter porringer",
+      "wikimedia_commons_category": "Porringers",
+      "alt": "A pewter porringer with a pierced handle"
+    },
+    "tags": [
+      "tableware",
+      "early modern",
+      "pewter"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "tankard",
+    "name": "Tankard",
+    "category": "Tableware & containers",
+    "invention": {
+      "display": "Medieval period",
+      "year": 1400,
+      "approximate": true,
+      "era": "Medieval"
+    },
+    "place_of_invention": {
+      "region": "Northern Europe",
+      "modern_country": null,
+      "notes": "Lidded and open drinking vessels called tankards were used in medieval northern Europe, initially wooden stave vessels and later pewter and silver."
+    },
+    "inventor": null,
+    "short_description": "A large drinking vessel with a handle, often with a hinged lid.",
+    "description": "Tankards began as wooden stave vessels in medieval northern Europe and were later made of pewter, silver and glass. They were the standard drinking vessel in English taverns for centuries, and many had hinged lids to keep out dirt and flies. The tall handled cylinder is unchanged in today's pewter and glass versions.",
+    "why_unchanged": "A large handled cylinder holds a lot of beer comfortably, so the design stays the same.",
+    "materials": [
+      "pewter",
+      "silver",
+      "wood",
+      "glass"
+    ],
+    "faqs": [
+      {
+        "question": "Why do some tankards have glass bottoms?",
+        "answer": "A popular legend says it let drinkers see a coin dropped by a press-gang, but this is not documented."
+      },
+      {
+        "question": "What is the difference between a tankard and a stein?",
+        "answer": "A stein is a German stoneware beer mug, while tankards are typically pewter or silver."
+      },
+      {
+        "question": "Are tankards still used today?",
+        "answer": "Yes. Pewter and glass tankards are still used in pubs and are popular engraved gifts and sporting trophies."
+      }
+    ],
+    "image": {
+      "search_query": "pewter tankard",
+      "wikimedia_commons_category": "Tankards",
+      "alt": "A pewter tankard on a bar"
+    },
+    "tags": [
+      "beer",
+      "drinkware",
+      "medieval",
+      "pewter"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "shot-glass",
+    "name": "Shot glass",
+    "category": "Tableware & containers",
+    "invention": {
+      "display": "18th century (small spirit glass)",
+      "year": 1750,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Europe and North America",
+      "modern_country": null,
+      "notes": "Small glasses for spirits were made in 18th-century Europe; the term 'shot glass' appears in the 20th century, and its origin is disputed."
+    },
+    "inventor": null,
+    "short_description": "A small glass for a single serving of spirits.",
+    "description": "Small, sturdy glasses for single servings of spirits were made in 18th-century Europe, including heavy-based 'firing glasses' that drinking clubs rapped on tables after toasts. The name 'shot glass' became common in 20th-century America, where it doubled as a rough measure for bartenders. Its small, thick-walled form is unchanged.",
+    "why_unchanged": "A small thick glass measures a single serving, so it has stayed the same.",
+    "materials": [
+      "glass"
+    ],
+    "faqs": [
+      {
+        "question": "Where does the term 'shot glass' come from?",
+        "answer": "Its origin is uncertain; popular stories link it to a 'shot' of drink paid for with a bullet, but none is documented."
+      },
+      {
+        "question": "How much does a shot glass hold?",
+        "answer": "There is no single standard; most hold roughly 25–50 milliliters depending on the country and local serving rules."
+      },
+      {
+        "question": "Why do shot glasses have thick bases?",
+        "answer": "A heavy base makes the glass stable and durable, and it echoes 18th-century firing glasses designed to be banged on the table after a toast."
+      }
+    ],
+    "image": {
+      "search_query": "shot glass",
+      "wikimedia_commons_category": "Shot glasses",
+      "alt": "A shot glass on a bar"
+    },
+    "tags": [
+      "drinkware",
+      "glass",
+      "spirits"
+    ],
+    "confidence": "low"
+  }
+]

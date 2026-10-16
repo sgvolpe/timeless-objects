@@ -1,0 +1,1260 @@
+[
+  {
+    "slug": "accordion",
+    "name": "Accordion",
+    "category": "Music, sound & signaling",
+    "invention": {
+      "display": "1829",
+      "year": 1829,
+      "approximate": false,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Vienna",
+      "modern_country": "Austria",
+      "notes": "Cyrill Demian patented the 'Accordion' in Vienna in 1829; related free-reed instruments appeared around the same time."
+    },
+    "inventor": "Cyrill Demian",
+    "short_description": "A portable free-reed instrument played by squeezing bellows and pressing buttons or keys.",
+    "description": "The accordion uses bellows to push air across metal reeds, with buttons or keys on each side selecting notes and chords. Patented in Vienna in 1829, it spread worldwide in folk music from tango to polka.",
+    "why_unchanged": "Bellows, reeds and buttons still form its core, with keyboards and layouts added on the same plan.",
+    "materials": [
+      "wood",
+      "metal",
+      "leather",
+      "celluloid"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the accordion?",
+        "answer": "Cyrill Demian received a patent for it in Vienna in 1829."
+      },
+      {
+        "question": "What is the difference between piano and button accordions?",
+        "answer": "Piano accordions have a piano-style keyboard on the right; button accordions use rows of buttons."
+      },
+      {
+        "question": "Where is it most popular?",
+        "answer": "It is central to many styles including French musette, Argentine tango, polka and Colombian vallenato."
+      }
+    ],
+    "image": {
+      "search_query": "piano accordion",
+      "wikimedia_commons_category": "Accordions",
+      "alt": "An accordion with its bellows extended"
+    },
+    "tags": [
+      "free reed",
+      "folk",
+      "industrial"
+    ],
+    "confidence": "high"
+  },
+  {
+    "slug": "concertina",
+    "name": "Concertina",
+    "category": "Music, sound & signaling",
+    "invention": {
+      "display": "1829–1834",
+      "year": 1830,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "England and Germany",
+      "modern_country": "United Kingdom",
+      "notes": "Charles Wheatstone patented an English 'symphonium' in 1829 and the English concertina in 1844, while Carl Friedrich Uhlig developed the German concertina around 1834; credit is shared."
+    },
+    "inventor": null,
+    "short_description": "A small hexagonal bellows instrument with buttons on both ends.",
+    "description": "The concertina is a free-reed instrument with bellows between two usually hexagonal ends carrying buttons. English and German versions appeared almost simultaneously, and it remains popular in Irish, English and South African folk music.",
+    "why_unchanged": "Its compact bellows-and-buttons form already suits portable folk playing perfectly.",
+    "materials": [
+      "wood",
+      "leather",
+      "metal",
+      "cardboard"
+    ],
+    "faqs": [
+      {
+        "question": "How is a concertina different from an accordion?",
+        "answer": "It is smaller, its buttons run parallel to the bellows, and it lacks the accordion's pre-set chord buttons."
+      },
+      {
+        "question": "What is an Anglo concertina?",
+        "answer": "A type that plays different notes on push and pull, popular in Irish music."
+      },
+      {
+        "question": "Why is it hexagonal?",
+        "answer": "Six-sided ends are compact and fit the button layout and bellows folds well."
+      }
+    ],
+    "image": {
+      "search_query": "hexagonal concertina",
+      "wikimedia_commons_category": "Concertinas",
+      "alt": "A hexagonal concertina with leather bellows"
+    },
+    "tags": [
+      "free reed",
+      "folk",
+      "industrial"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "kazoo",
+    "name": "Kazoo",
+    "category": "Music, sound & signaling",
+    "invention": {
+      "display": "19th century",
+      "year": 1850,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "United States",
+      "modern_country": "United States",
+      "notes": "A popular story credits Alabama Vest in Macon, Georgia, in the 1840s, but this is unverified; Warren Herbert Frost received a patent in 1883."
+    },
+    "inventor": null,
+    "short_description": "A small tube with a membrane that buzzes when you hum into it.",
+    "description": "The kazoo is a tube with a hole covered by a thin membrane that vibrates when the player hums. It adds a buzzing tone to the voice and was mass-produced in the United States from the early 20th century, especially in Eden, New York.",
+    "why_unchanged": "A tube and a membrane are all it needs, so it has not changed.",
+    "materials": [
+      "metal",
+      "plastic",
+      "wax paper"
+    ],
+    "faqs": [
+      {
+        "question": "Do you blow into a kazoo?",
+        "answer": "No. You hum or sing into it; the voice makes the membrane buzz."
+      },
+      {
+        "question": "Where were kazoos mass-produced?",
+        "answer": "Eden, New York, has made metal kazoos since the early 20th century and has a kazoo museum."
+      },
+      {
+        "question": "Is the kazoo related to older instruments?",
+        "answer": "Yes. African mirlitons, which buzz the voice with a membrane, are similar."
+      }
+    ],
+    "image": {
+      "search_query": "metal kazoo",
+      "wikimedia_commons_category": "Kazoos",
+      "alt": "A metal kazoo"
+    },
+    "tags": [
+      "wind",
+      "toy",
+      "membrane"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "jaw-harp",
+    "name": "Jaw harp",
+    "category": "Music, sound & signaling",
+    "invention": {
+      "display": "c. 4th century BCE",
+      "year": -300,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Asia",
+      "modern_country": "China",
+      "notes": "Early examples are reported from China and Central Asia; the origin is uncertain."
+    },
+    "inventor": null,
+    "short_description": "A small frame with a flexible tongue plucked in front of the open mouth.",
+    "description": "The jaw harp, or Jew's harp, consists of a metal or bamboo frame with a flexible reed that the player plucks while holding the frame against the parted teeth. The mouth acts as a resonator, changing the overtones; it is found from Siberia to Europe and Southeast Asia.",
+    "why_unchanged": "The mouth does the tuning, so the frame-and-reed design has never needed change.",
+    "materials": [
+      "iron",
+      "steel",
+      "brass",
+      "bamboo"
+    ],
+    "faqs": [
+      {
+        "question": "How do you play a jaw harp?",
+        "answer": "Hold the frame against your parted teeth and pluck the reed while changing your mouth shape and breathing."
+      },
+      {
+        "question": "Where is it especially popular?",
+        "answer": "It has strong traditions in Siberia (the khomus), Central Asia and the Alps."
+      },
+      {
+        "question": "Why is it called a Jew's harp?",
+        "answer": "The origin of the name is unclear, and there is no proven link to Jewish people."
+      }
+    ],
+    "image": {
+      "search_query": "jaw harp jews harp",
+      "wikimedia_commons_category": "Jew's harps",
+      "alt": "A metal jaw harp"
+    },
+    "tags": [
+      "wind",
+      "folk",
+      "ancient"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "didgeridoo",
+    "name": "Didgeridoo",
+    "category": "Music, sound & signaling",
+    "invention": {
+      "display": "At least c. 1,000–1,500 years ago",
+      "year": 500,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Northern Australia (Arnhem Land)",
+      "modern_country": "Australia",
+      "notes": "Based on rock art in northern Australia; estimates vary and some claim a much older origin."
+    },
+    "inventor": null,
+    "short_description": "A long wooden tube played with buzzing lips and circular breathing.",
+    "description": "The didgeridoo is a long wooden tube hollowed out naturally by termites and played by vibrating the lips to produce a continuous drone. It originated among Aboriginal peoples of northern Australia, where it is called yidaki among the Yolŋu.",
+    "why_unchanged": "Termite-hollowed eucalyptus is used as found, so the form is set by nature.",
+    "materials": [
+      "eucalyptus",
+      "beeswax",
+      "bamboo"
+    ],
+    "faqs": [
+      {
+        "question": "How is a didgeridoo hollowed?",
+        "answer": "Traditionally termites eat out the heartwood of eucalyptus branches, which are then cut and cleaned."
+      },
+      {
+        "question": "What is circular breathing?",
+        "answer": "Players breathe in through the nose while pushing air out from the cheeks, keeping the drone continuous."
+      },
+      {
+        "question": "Is the name Aboriginal?",
+        "answer": "No. 'Didgeridoo' is probably an English imitation of the sound; Aboriginal languages have their own names."
+      }
+    ],
+    "image": {
+      "search_query": "aboriginal didgeridoo",
+      "wikimedia_commons_category": "Didgeridoos",
+      "alt": "A painted wooden didgeridoo"
+    },
+    "tags": [
+      "wind",
+      "australia",
+      "aboriginal"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "shofar",
+    "name": "Shofar",
+    "category": "Music, sound & signaling",
+    "invention": {
+      "display": "Iron Age",
+      "year": -1000,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Ancient Israel",
+      "modern_country": "Israel",
+      "notes": "Mentioned frequently in the Hebrew Bible; the date reflects biblical-era use rather than a precise origin."
+    },
+    "inventor": null,
+    "short_description": "A ram's horn trumpet used in Jewish religious services.",
+    "description": "The shofar is a hollowed animal horn, usually from a ram, blown like a trumpet. It is sounded at Rosh Hashanah and the end of Yom Kippur, and in ancient times it signaled gatherings and battles.",
+    "why_unchanged": "Religious law requires a natural horn, so the design has stayed the same.",
+    "materials": [
+      "ram's horn",
+      "kudu horn"
+    ],
+    "faqs": [
+      {
+        "question": "When is the shofar blown?",
+        "answer": "Mainly during Rosh Hashanah and at the end of Yom Kippur."
+      },
+      {
+        "question": "Can any horn be used?",
+        "answer": "Jewish law generally requires the horn of a kosher animal, most often a ram; a cow horn is not allowed."
+      },
+      {
+        "question": "What are the shofar calls?",
+        "answer": "The main calls are tekiah, shevarim and teruah."
+      }
+    ],
+    "image": {
+      "search_query": "ram horn shofar",
+      "wikimedia_commons_category": "Shofars",
+      "alt": "A curved ram's horn shofar"
+    },
+    "tags": [
+      "wind",
+      "religion",
+      "ancient"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "conch-trumpet",
+    "name": "Conch trumpet",
+    "category": "Music, sound & signaling",
+    "invention": {
+      "display": "c. 18,000 years ago",
+      "year": -16000,
+      "approximate": true,
+      "era": "Prehistoric"
+    },
+    "place_of_invention": {
+      "region": "Southwestern France (Marsoulas cave)",
+      "modern_country": "France",
+      "notes": "A conch from Marsoulas cave, studied in 2021, is the oldest known; conch trumpets also arose independently in India, Oceania and the Americas."
+    },
+    "inventor": null,
+    "short_description": "A large seashell with its tip removed, blown like a trumpet.",
+    "description": "The conch trumpet is made by cutting or drilling the tip of a large sea snail shell so it can be blown with buzzing lips. It is used in Hindu and Buddhist rituals as the shankha, in Pacific islands as a signal, and in Mesoamerica.",
+    "why_unchanged": "The shell's spiral is already a natural horn, so only a mouthpiece hole is needed.",
+    "materials": [
+      "seashell"
+    ],
+    "faqs": [
+      {
+        "question": "How old is the oldest conch trumpet?",
+        "answer": "A modified shell from Marsoulas cave in France is about 18,000 years old."
+      },
+      {
+        "question": "What is a shankha?",
+        "answer": "It is the conch shell blown in Hindu ceremonies and associated with the god Vishnu."
+      },
+      {
+        "question": "Can you play notes on a conch?",
+        "answer": "Players can vary pitch slightly with lips and hand, but it mostly produces one strong tone."
+      }
+    ],
+    "image": {
+      "search_query": "conch shell trumpet",
+      "wikimedia_commons_category": "Conch trumpets",
+      "alt": "A conch shell trumpet"
+    },
+    "tags": [
+      "wind",
+      "prehistoric",
+      "signal"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "bugle",
+    "name": "Bugle",
+    "category": "Music, sound & signaling",
+    "invention": {
+      "display": "Mid-18th century",
+      "year": 1760,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Hanover",
+      "modern_country": "Germany",
+      "notes": "Developed from the Halbmondbläser semicircular horn in Hanover; the folded copper bugle was standardized in Britain around 1800."
+    },
+    "inventor": null,
+    "short_description": "A simple valveless brass horn used for military calls.",
+    "description": "The bugle is a conical brass tube without valves, so it can play only the notes of the harmonic series. Armies used it to signal commands, and calls such as Reveille and Taps are still played today.",
+    "why_unchanged": "Valveless simplicity is the point, because its few notes suffice for signals.",
+    "materials": [
+      "brass",
+      "copper"
+    ],
+    "faqs": [
+      {
+        "question": "Why does a bugle have no valves?",
+        "answer": "Military calls use only a few notes, so valves were unnecessary and would add weight."
+      },
+      {
+        "question": "What is Taps?",
+        "answer": "A bugle call played at US military funerals and at the end of the day."
+      },
+      {
+        "question": "How do players change notes?",
+        "answer": "By changing lip tension and air speed to select different harmonics."
+      }
+    ],
+    "image": {
+      "search_query": "brass military bugle",
+      "wikimedia_commons_category": "Bugles",
+      "alt": "A brass bugle"
+    },
+    "tags": [
+      "wind",
+      "military",
+      "signal"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "hunting-horn",
+    "name": "Hunting horn",
+    "category": "Music, sound & signaling",
+    "invention": {
+      "display": "Medieval period",
+      "year": 1100,
+      "approximate": true,
+      "era": "Medieval"
+    },
+    "place_of_invention": {
+      "region": "Europe",
+      "modern_country": null,
+      "notes": "Animal-horn signals are ancient; the brass hunting horn developed in medieval and early modern Europe, with the coiled French form appearing in the late 17th century."
+    },
+    "inventor": null,
+    "short_description": "A simple valveless horn used to signal during hunts.",
+    "description": "The hunting horn evolved from animal horns into brass horns used to coordinate hunters and hounds. The coiled French trompe de chasse and the small English hunting horn still follow their early forms and are used in traditional hunts.",
+    "why_unchanged": "Its only job is to sound a few signals loudly, which the simple horn does.",
+    "materials": [
+      "brass",
+      "copper",
+      "animal horn"
+    ],
+    "faqs": [
+      {
+        "question": "Why were horns used in hunting?",
+        "answer": "Their calls carried far and told hunters and dogs where the quarry was and what to do."
+      },
+      {
+        "question": "Is the hunting horn related to the orchestral horn?",
+        "answer": "Yes. The modern French horn developed from coiled hunting horns."
+      },
+      {
+        "question": "Are hunting horns still played?",
+        "answer": "Yes, in traditional hunts and as ceremonial music in France and Germany."
+      }
+    ],
+    "image": {
+      "search_query": "brass hunting horn",
+      "wikimedia_commons_category": "Hunting horns",
+      "alt": "A coiled brass hunting horn"
+    },
+    "tags": [
+      "wind",
+      "hunting",
+      "signal"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "alphorn",
+    "name": "Alphorn",
+    "category": "Music, sound & signaling",
+    "invention": {
+      "display": "16th century",
+      "year": 1550,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Swiss Alps",
+      "modern_country": "Switzerland",
+      "notes": "Described by Conrad Gessner in 1555; it was likely in use earlier."
+    },
+    "inventor": null,
+    "short_description": "A very long wooden horn with an upturned bell, played in the Alps.",
+    "description": "The alphorn is a conical wooden tube, often over three meters long, resting on the ground and played with a cup mouthpiece. Herders used it for signaling across valleys, and it remains a national symbol of Switzerland.",
+    "why_unchanged": "Its length and wooden construction are what give it its sound and range.",
+    "materials": [
+      "spruce",
+      "pine",
+      "rattan"
+    ],
+    "faqs": [
+      {
+        "question": "How long is an alphorn?",
+        "answer": "Typically around 3 to 4 meters."
+      },
+      {
+        "question": "What was it used for?",
+        "answer": "Herders used it to call cattle and signal across mountain valleys."
+      },
+      {
+        "question": "Can it play melodies?",
+        "answer": "Yes, using natural harmonics, much like a bugle."
+      }
+    ],
+    "image": {
+      "search_query": "swiss alphorn",
+      "wikimedia_commons_category": "Alphorns",
+      "alt": "Musicians playing long wooden alphorns"
+    },
+    "tags": [
+      "wind",
+      "switzerland",
+      "signal"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "post-horn",
+    "name": "Post horn",
+    "category": "Music, sound & signaling",
+    "invention": {
+      "display": "16th–17th century",
+      "year": 1600,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Central Europe",
+      "modern_country": "Germany",
+      "notes": "Used by postal riders and coaches, especially in German-speaking lands; it remains a postal symbol across Europe."
+    },
+    "inventor": null,
+    "short_description": "A small valveless horn sounded by mail coaches to announce their arrival.",
+    "description": "The post horn is a simple circular or straight brass horn used by postal couriers to signal arrival and departure. Its shape survives as the logo of many European postal services.",
+    "why_unchanged": "Announcing arrivals needs only a few loud notes, which the simple horn delivers.",
+    "materials": [
+      "brass",
+      "copper"
+    ],
+    "faqs": [
+      {
+        "question": "Why did mail coaches carry horns?",
+        "answer": "To warn of their approach, clear the road and announce arrival at post stations."
+      },
+      {
+        "question": "Is the post horn still a symbol?",
+        "answer": "Yes. Many European postal services, including Deutsche Post, use a post horn logo."
+      },
+      {
+        "question": "Did composers use it?",
+        "answer": "Mozart's Posthorn Serenade and Mahler's Third Symphony feature the post horn."
+      }
+    ],
+    "image": {
+      "search_query": "brass post horn",
+      "wikimedia_commons_category": "Post horns",
+      "alt": "A circular brass post horn"
+    },
+    "tags": [
+      "wind",
+      "postal",
+      "signal"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "bagpipes",
+    "name": "Bagpipes",
+    "category": "Music, sound & signaling",
+    "invention": {
+      "display": "Antiquity",
+      "year": 100,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Ancient Near East and Mediterranean",
+      "modern_country": null,
+      "notes": "Mentioned in Greek and Roman sources around the 1st century CE; the exact origin is unknown and they spread widely in medieval Europe."
+    },
+    "inventor": null,
+    "short_description": "A wind instrument with a bag that feeds air to chanter and drone pipes.",
+    "description": "Bagpipes have an air bag, filled by mouth or bellows, which supplies reeds in a melody pipe (chanter) and drone pipes. They are found from Scotland and Ireland to Spain, the Balkans and India.",
+    "why_unchanged": "The bag-and-reed system already provides continuous sound and has kept its basic form.",
+    "materials": [
+      "wood",
+      "leather",
+      "cane",
+      "synthetic fabric"
+    ],
+    "faqs": [
+      {
+        "question": "Are bagpipes Scottish?",
+        "answer": "They are strongly associated with Scotland, but bagpipes existed long before in many regions."
+      },
+      {
+        "question": "Why do bagpipes never stop?",
+        "answer": "The bag stores air, so sound continues while the piper breathes."
+      },
+      {
+        "question": "What are drones?",
+        "answer": "Pipes that sound a constant note under the melody."
+      }
+    ],
+    "image": {
+      "search_query": "great highland bagpipes",
+      "wikimedia_commons_category": "Bagpipes",
+      "alt": "A set of bagpipes with drones"
+    },
+    "tags": [
+      "wind",
+      "folk",
+      "ancient"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "duck-call",
+    "name": "Duck call",
+    "category": "Music, sound & signaling",
+    "invention": {
+      "display": "1870 (first patent)",
+      "year": 1870,
+      "approximate": false,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "United States",
+      "modern_country": "United States",
+      "notes": "Elam Fisher received the first US patent for a duck call in 1870; hand-made calls existed earlier."
+    },
+    "inventor": "Elam Fisher",
+    "short_description": "A small reed whistle that imitates the quack of a duck.",
+    "description": "The duck call is a barrel and stopper with a reed inside, blown to mimic duck sounds and attract birds. It has remained essentially unchanged since its 19th-century patenting.",
+    "why_unchanged": "A reed and a resonant barrel are all needed to mimic a duck.",
+    "materials": [
+      "wood",
+      "acrylic",
+      "plastic",
+      "mylar"
+    ],
+    "faqs": [
+      {
+        "question": "Who patented the duck call?",
+        "answer": "Elam Fisher received the first US patent for it in 1870."
+      },
+      {
+        "question": "How does a duck call work?",
+        "answer": "Air vibrates a reed against a tone board, and the barrel shapes the sound."
+      },
+      {
+        "question": "Are duck call competitions real?",
+        "answer": "Yes. Calling contests are held, including the World Championship Duck Calling Contest in Stuttgart, Arkansas."
+      }
+    ],
+    "image": {
+      "search_query": "wooden duck call",
+      "wikimedia_commons_category": "Duck calls",
+      "alt": "A wooden duck call"
+    },
+    "tags": [
+      "signal",
+      "hunting",
+      "reed"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "ney",
+    "name": "Ney",
+    "category": "Music, sound & signaling",
+    "invention": {
+      "display": "c. 3rd millennium BCE",
+      "year": -2800,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Ancient Near East",
+      "modern_country": "Iran",
+      "notes": "End-blown flutes appear in ancient Egyptian and Mesopotamian art; dates are approximate and the instrument has many regional forms."
+    },
+    "inventor": null,
+    "short_description": "An end-blown cane flute central to Persian, Arab and Turkish music.",
+    "description": "The ney is a reed tube with finger holes, blown across the rim at an angle. It is one of the oldest instruments still in use and is closely associated with Sufi music.",
+    "why_unchanged": "A simple reed tube has remained ideal for its breathy, expressive sound.",
+    "materials": [
+      "cane",
+      "reed",
+      "wood"
+    ],
+    "faqs": [
+      {
+        "question": "How is the ney played?",
+        "answer": "The player blows against the sharp edge of the open end while holding it at an angle."
+      },
+      {
+        "question": "Why is the ney important in Sufism?",
+        "answer": "It is a symbol of the soul's longing, as in the poetry of Rumi."
+      },
+      {
+        "question": "How many finger holes does it have?",
+        "answer": "Usually six on the front and one thumb hole on the back."
+      }
+    ],
+    "image": {
+      "search_query": "persian ney flute",
+      "wikimedia_commons_category": "Neys",
+      "alt": "A cane ney flute"
+    },
+    "tags": [
+      "wind",
+      "middle east",
+      "ancient"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "duduk",
+    "name": "Duduk",
+    "category": "Music, sound & signaling",
+    "invention": {
+      "display": "Disputed (possibly c. 1,500 years)",
+      "year": 500,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Armenia",
+      "modern_country": "Armenia",
+      "notes": "Armenian tradition claims great antiquity; scholars debate dates, and related instruments exist across the Caucasus and Middle East."
+    },
+    "inventor": null,
+    "short_description": "A double-reed woodwind made of apricot wood.",
+    "description": "The duduk is a cylindrical apricot-wood pipe with a large double reed, giving a warm, mournful tone. It is the national instrument of Armenia and its music is recognized by UNESCO as Intangible Cultural Heritage.",
+    "why_unchanged": "The apricot body and large reed define its sound, so it has stayed unchanged.",
+    "materials": [
+      "apricot wood",
+      "cane"
+    ],
+    "faqs": [
+      {
+        "question": "Why apricot wood?",
+        "answer": "Apricot wood resonates well and is traditional in Armenia."
+      },
+      {
+        "question": "Has UNESCO recognized the duduk?",
+        "answer": "Yes. Duduk music was proclaimed a Masterpiece of the Oral and Intangible Heritage in 2005."
+      },
+      {
+        "question": "Is it in film soundtracks?",
+        "answer": "Yes. It is featured in films such as Gladiator."
+      }
+    ],
+    "image": {
+      "search_query": "armenian duduk",
+      "wikimedia_commons_category": "Duduks",
+      "alt": "An apricot-wood duduk with its reed"
+    },
+    "tags": [
+      "wind",
+      "armenia",
+      "reed"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "lyre",
+    "name": "Lyre",
+    "category": "Music, sound & signaling",
+    "invention": {
+      "display": "c. 2500 BCE",
+      "year": -2500,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Mesopotamia (Ur)",
+      "modern_country": "Iraq",
+      "notes": "The Lyres of Ur from the royal cemetery are among the oldest surviving stringed instruments."
+    },
+    "inventor": null,
+    "short_description": "A stringed instrument with strings attached to a crossbar between two arms.",
+    "description": "The lyre has strings stretched from a sound box to a crossbar held by two arms. Known from the royal tombs of Ur and central in ancient Greek music, it is still played in forms such as the Ethiopian krar.",
+    "why_unchanged": "The box-arms-crossbar design already provides resonance and tuning.",
+    "materials": [
+      "wood",
+      "gut",
+      "nylon",
+      "tortoiseshell"
+    ],
+    "faqs": [
+      {
+        "question": "What are the Lyres of Ur?",
+        "answer": "Richly decorated lyres excavated from royal tombs at Ur, dating to about 2500 BCE."
+      },
+      {
+        "question": "What is the difference between a lyre and a harp?",
+        "answer": "A lyre's strings run parallel to the soundboard to a crossbar; harp strings run at an angle away from it."
+      },
+      {
+        "question": "Is the lyre still played?",
+        "answer": "Yes, including the Ethiopian krar and begena."
+      }
+    ],
+    "image": {
+      "search_query": "ancient greek lyre replica",
+      "wikimedia_commons_category": "Lyres",
+      "alt": "A wooden lyre"
+    },
+    "tags": [
+      "strings",
+      "ancient",
+      "mesopotamia"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "harp",
+    "name": "Harp",
+    "category": "Music, sound & signaling",
+    "invention": {
+      "display": "c. 3000 BCE",
+      "year": -3000,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Mesopotamia and Egypt",
+      "modern_country": "Iraq",
+      "notes": "Arched harps appear in Mesopotamian and Egyptian art around 3000 BCE; the modern pedal harp is a later mechanical development."
+    },
+    "inventor": null,
+    "short_description": "A stringed instrument with strings running at an angle to a soundboard.",
+    "description": "The harp has strings stretched between a soundboard and a neck, plucked with the fingers. Ancient arched and angular harps developed into the frame harp of medieval Europe, which survives in Celtic and folk harps.",
+    "why_unchanged": "Strings of graded length on a frame are its essence, from ancient to folk harps.",
+    "materials": [
+      "wood",
+      "gut",
+      "nylon",
+      "wire"
+    ],
+    "faqs": [
+      {
+        "question": "How old is the harp?",
+        "answer": "Harps are depicted in Mesopotamia and Egypt from about 3000 BCE."
+      },
+      {
+        "question": "What is a pedal harp?",
+        "answer": "A concert harp with pedals that change string pitches, developed in the 18th and 19th centuries."
+      },
+      {
+        "question": "Is the harp a national symbol?",
+        "answer": "Yes. It is the national symbol of Ireland."
+      }
+    ],
+    "image": {
+      "search_query": "celtic harp",
+      "wikimedia_commons_category": "Harps",
+      "alt": "A wooden Celtic harp"
+    },
+    "tags": [
+      "strings",
+      "ancient",
+      "harp"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "lute",
+    "name": "Lute",
+    "category": "Music, sound & signaling",
+    "invention": {
+      "display": "13th century",
+      "year": 1250,
+      "approximate": true,
+      "era": "Medieval"
+    },
+    "place_of_invention": {
+      "region": "Europe via Al-Andalus",
+      "modern_country": "Spain",
+      "notes": "The European lute derives from the Arab oud, introduced via Moorish Spain and Sicily; lute-type instruments in general are much older."
+    },
+    "inventor": null,
+    "short_description": "A plucked stringed instrument with a pear-shaped body and bent-back pegbox.",
+    "description": "The lute has a rounded back made of wooden ribs, a flat soundboard with a carved rose, and a pegbox angled back. It was the leading instrument of Renaissance Europe.",
+    "why_unchanged": "Its rounded body and angled pegbox are unchanged in modern reproductions.",
+    "materials": [
+      "spruce",
+      "maple",
+      "gut",
+      "nylon"
+    ],
+    "faqs": [
+      {
+        "question": "Is the lute related to the oud?",
+        "answer": "Yes. The word lute comes from Arabic al-'ud."
+      },
+      {
+        "question": "Why is the pegbox bent back?",
+        "answer": "It helps keep strings under tension and balances the instrument."
+      },
+      {
+        "question": "Who wrote for the lute?",
+        "answer": "John Dowland and J.S. Bach wrote music for it."
+      }
+    ],
+    "image": {
+      "search_query": "renaissance lute",
+      "wikimedia_commons_category": "Lutes",
+      "alt": "A Renaissance lute with a carved rose"
+    },
+    "tags": [
+      "strings",
+      "renaissance",
+      "medieval"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "oud",
+    "name": "Oud",
+    "category": "Music, sound & signaling",
+    "invention": {
+      "display": "c. 7th century",
+      "year": 700,
+      "approximate": true,
+      "era": "Medieval"
+    },
+    "place_of_invention": {
+      "region": "Middle East and Persia",
+      "modern_country": "Iraq",
+      "notes": "Developed from the Persian barbat; lute-type instruments in the region are far older, so dating is approximate."
+    },
+    "inventor": null,
+    "short_description": "A short-necked fretless lute central to Arabic and Turkish music.",
+    "description": "The oud has a pear-shaped body, short fretless neck and usually eleven strings in courses. It is played with a plectrum called a risha and is central to Arabic, Turkish and Persian music.",
+    "why_unchanged": "The fretless neck and rounded body suit Middle Eastern scales perfectly.",
+    "materials": [
+      "wood",
+      "nylon",
+      "gut"
+    ],
+    "faqs": [
+      {
+        "question": "Why does the oud have no frets?",
+        "answer": "Fretless necks allow microtones in Arabic maqam scales."
+      },
+      {
+        "question": "How many strings?",
+        "answer": "Usually eleven, arranged in five pairs and a single bass string."
+      },
+      {
+        "question": "What is a risha?",
+        "answer": "A long plectrum, historically an eagle feather."
+      }
+    ],
+    "image": {
+      "search_query": "arabic oud",
+      "wikimedia_commons_category": "Ouds",
+      "alt": "A wooden oud with rounded back"
+    },
+    "tags": [
+      "strings",
+      "middle east",
+      "lute"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "sitar",
+    "name": "Sitar",
+    "category": "Music, sound & signaling",
+    "invention": {
+      "display": "18th century",
+      "year": 1750,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "North India",
+      "modern_country": "India",
+      "notes": "Most scholars date the sitar to the 18th century; attribution to Amir Khusrau is legendary."
+    },
+    "inventor": null,
+    "short_description": "A long-necked Indian lute with sympathetic strings and a gourd body.",
+    "description": "The sitar has a long neck with movable frets, playing strings and a set of sympathetic strings that resonate. Ravi Shankar made it famous worldwide in the 1960s.",
+    "why_unchanged": "Its gourd resonator and sympathetic strings define its sound and have not changed.",
+    "materials": [
+      "gourd",
+      "teak",
+      "steel",
+      "brass"
+    ],
+    "faqs": [
+      {
+        "question": "What are sympathetic strings?",
+        "answer": "Strings that vibrate in response to the played strings."
+      },
+      {
+        "question": "Who popularized it in the West?",
+        "answer": "Ravi Shankar, who influenced George Harrison of the Beatles."
+      },
+      {
+        "question": "Why are frets curved?",
+        "answer": "They let players bend strings to slide between notes."
+      }
+    ],
+    "image": {
+      "search_query": "indian sitar",
+      "wikimedia_commons_category": "Sitars",
+      "alt": "A sitar with a gourd body"
+    },
+    "tags": [
+      "strings",
+      "india",
+      "classical"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "zither",
+    "name": "Zither",
+    "category": "Music, sound & signaling",
+    "invention": {
+      "display": "Early 19th century",
+      "year": 1830,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Bavaria and Austria",
+      "modern_country": "Germany",
+      "notes": "The concert zither developed in the Alpine region in the early 19th century; the broader zither family is ancient."
+    },
+    "inventor": null,
+    "short_description": "A flat wooden box with many strings, plucked while lying on a table.",
+    "description": "The Alpine zither has a fretted fingerboard for melody and many open strings for accompaniment. It became famous through Anton Karas's theme for the 1949 film The Third Man.",
+    "why_unchanged": "Its flat soundbox and fret layout have remained the standard.",
+    "materials": [
+      "spruce",
+      "maple",
+      "steel"
+    ],
+    "faqs": [
+      {
+        "question": "How is it played?",
+        "answer": "Laid flat; the thumb uses a pick on melody strings while fingers pluck accompaniment."
+      },
+      {
+        "question": "What film made it famous?",
+        "answer": "The Third Man (1949), with music by Anton Karas."
+      },
+      {
+        "question": "What is the zither family?",
+        "answer": "Instruments whose strings run the length of a body with no neck."
+      }
+    ],
+    "image": {
+      "search_query": "alpine concert zither",
+      "wikimedia_commons_category": "Zithers",
+      "alt": "A wooden concert zither"
+    },
+    "tags": [
+      "strings",
+      "alpine",
+      "folk"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "banjo",
+    "name": "Banjo",
+    "category": "Music, sound & signaling",
+    "invention": {
+      "display": "17th–18th century",
+      "year": 1700,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Caribbean and North America",
+      "modern_country": "United States",
+      "notes": "Developed by enslaved Africans in the Caribbean and North America from African instruments; the addition of a fifth string is often credited to Joel Sweeney, which is disputed."
+    },
+    "inventor": null,
+    "short_description": "A stringed instrument with a drum-like body and long neck.",
+    "description": "The banjo has a membrane over a round frame, producing a bright, percussive sound. It descends from African lutes, and became central to American folk, bluegrass and early jazz.",
+    "why_unchanged": "The drumhead body gives its sound and remains the defining feature.",
+    "materials": [
+      "wood",
+      "metal",
+      "plastic head",
+      "steel"
+    ],
+    "faqs": [
+      {
+        "question": "What are the banjo's origins?",
+        "answer": "It developed from West African instruments made by enslaved Africans in the Americas."
+      },
+      {
+        "question": "What is a five-string banjo?",
+        "answer": "A banjo with a short fifth drone string, common in bluegrass."
+      },
+      {
+        "question": "Who popularized bluegrass banjo?",
+        "answer": "Earl Scruggs popularized three-finger picking in the 1940s."
+      }
+    ],
+    "image": {
+      "search_query": "five string banjo",
+      "wikimedia_commons_category": "Banjos",
+      "alt": "A five-string banjo"
+    },
+    "tags": [
+      "strings",
+      "american",
+      "folk"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "ukulele",
+    "name": "Ukulele",
+    "category": "Music, sound & signaling",
+    "invention": {
+      "display": "1880s",
+      "year": 1880,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Hawaii",
+      "modern_country": "United States",
+      "notes": "Developed from the Portuguese machete brought by Madeiran immigrants in 1879; makers Manuel Nunes, Augusto Dias and José do Espírito Santo are associated with it."
+    },
+    "inventor": null,
+    "short_description": "A small four-string guitar-like instrument from Hawaii.",
+    "description": "The ukulele is a small, four-stringed instrument with a guitar-like body. It developed in Hawaii from Portuguese instruments in the 1880s and spread worldwide.",
+    "why_unchanged": "Its small body and four strings remain the standard form.",
+    "materials": [
+      "koa",
+      "mahogany",
+      "nylon"
+    ],
+    "faqs": [
+      {
+        "question": "What does ukulele mean?",
+        "answer": "It is often translated from Hawaiian as 'jumping flea'."
+      },
+      {
+        "question": "What are the sizes?",
+        "answer": "Soprano, concert, tenor and baritone."
+      },
+      {
+        "question": "Who popularized it?",
+        "answer": "King Kalākaua supported it, and it spread with Hawaiian music in the 1910s."
+      }
+    ],
+    "image": {
+      "search_query": "soprano ukulele",
+      "wikimedia_commons_category": "Ukuleles",
+      "alt": "A wooden ukulele"
+    },
+    "tags": [
+      "strings",
+      "hawaii",
+      "industrial"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "acoustic-guitar",
+    "name": "Acoustic guitar",
+    "category": "Music, sound & signaling",
+    "invention": {
+      "display": "c. 1850s (modern form)",
+      "year": 1855,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Spain",
+      "modern_country": "Spain",
+      "notes": "Guitars existed in Spain from the 15th–16th centuries; Antonio de Torres Jurado established the modern classical guitar form in the mid-19th century."
+    },
+    "inventor": null,
+    "short_description": "A six-string wooden instrument with a hollow body.",
+    "description": "The acoustic guitar has a hollow body, a sound hole and a fretted neck. Torres standardized the modern classical guitar; steel-string guitars followed similar principles.",
+    "why_unchanged": "The hollow body and fretted neck have remained the basis of all acoustic guitars.",
+    "materials": [
+      "spruce",
+      "rosewood",
+      "mahogany",
+      "nylon",
+      "steel"
+    ],
+    "faqs": [
+      {
+        "question": "Who shaped the modern guitar?",
+        "answer": "Antonio de Torres Jurado developed the modern classical guitar design in the 1850s."
+      },
+      {
+        "question": "What is the difference between classical and steel-string guitars?",
+        "answer": "Classical guitars use nylon strings; steel-string guitars are brighter and louder."
+      },
+      {
+        "question": "Why is there a sound hole?",
+        "answer": "It allows sound to project from the body."
+      }
+    ],
+    "image": {
+      "search_query": "classical acoustic guitar",
+      "wikimedia_commons_category": "Classical guitars",
+      "alt": "An acoustic guitar"
+    },
+    "tags": [
+      "strings",
+      "spain",
+      "guitar"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "violin",
+    "name": "Violin",
+    "category": "Music, sound & signaling",
+    "invention": {
+      "display": "c. 1530s",
+      "year": 1535,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Northern Italy",
+      "modern_country": "Italy",
+      "notes": "Andrea Amati of Cremona made some of the earliest surviving violins; no single inventor is known."
+    },
+    "inventor": null,
+    "short_description": "A four-string bowed instrument held under the chin.",
+    "description": "The violin has a hollow wooden body with f-holes, four strings and is played with a bow. Makers like Amati, Stradivari and Guarneri perfected the design.",
+    "why_unchanged": "The proportions set by Cremonese makers are still copied today.",
+    "materials": [
+      "spruce",
+      "maple",
+      "ebony",
+      "gut",
+      "steel"
+    ],
+    "faqs": [
+      {
+        "question": "Who made the first violins?",
+        "answer": "Andrea Amati of Cremona made some of the earliest surviving violins in the 16th century."
+      },
+      {
+        "question": "Why are Stradivarius violins valuable?",
+        "answer": "They are among the finest instruments ever made and are very rare."
+      },
+      {
+        "question": "How many strings?",
+        "answer": "Four, tuned G, D, A and E."
+      }
+    ],
+    "image": {
+      "search_query": "violin with bow",
+      "wikimedia_commons_category": "Violins",
+      "alt": "A violin with bow"
+    },
+    "tags": [
+      "strings",
+      "italy",
+      "orchestra"
+    ],
+    "confidence": "medium"
+  }
+]

@@ -1,0 +1,1295 @@
+[
+  {
+    "slug": "chisel",
+    "name": "Chisel",
+    "category": "Tools & hardware",
+    "invention": {
+      "display": "c. 3000 BCE (metal chisels)",
+      "year": -3000,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Ancient Egypt and Mesopotamia",
+      "modern_country": "Egypt",
+      "notes": "Copper chisels are known from early Egypt and Mesopotamia; stone and bone chisel-like tools are far older."
+    },
+    "inventor": null,
+    "short_description": "A tool with a sharpened, flat-edged blade on a handle, struck or pushed to cut and shape wood or stone.",
+    "description": "Chisels in copper were used by early Egyptian builders and woodworkers, who paired them with wooden mallets. Bronze, iron and finally hardened steel improved the edge, but the shape of a bevelled blade on a handle is unchanged. Woodworkers, carvers and masons still rely on it.",
+    "why_unchanged": "A sharp bevelled edge driven by hand or mallet is already the simplest way to pare and cut material precisely.",
+    "materials": [
+      "copper",
+      "bronze",
+      "iron",
+      "steel",
+      "wood"
+    ],
+    "faqs": [
+      {
+        "question": "How did ancient Egyptians cut stone with copper chisels?",
+        "answer": "Copper chisels worked soft stones like limestone directly; harder stones were worked mainly with stone pounders and abrasives such as sand."
+      },
+      {
+        "question": "What is the bevel on a chisel for?",
+        "answer": "The angled bevel creates a thin cutting edge; the flat back is used as a reference so cuts stay straight."
+      },
+      {
+        "question": "How do you keep a chisel sharp?",
+        "answer": "Hone it regularly on a sharpening stone, keeping the bevel angle consistent, and never use it as a screwdriver or pry bar."
+      }
+    ],
+    "image": {
+      "search_query": "wood chisels set on workbench",
+      "wikimedia_commons_category": "Chisels",
+      "alt": "A set of wood chisels with wooden handles"
+    },
+    "tags": [
+      "hand tool",
+      "woodworking",
+      "ancient egypt",
+      "cutting"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "gouge",
+    "name": "Gouge",
+    "category": "Tools & hardware",
+    "invention": {
+      "display": "c. 1st century CE",
+      "year": 50,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Roman Empire",
+      "modern_country": "Italy",
+      "notes": "Gouges with curved blades are known from Roman-era woodworking finds; earlier origins are possible but poorly documented."
+    },
+    "inventor": null,
+    "short_description": "A chisel with a curved, U- or V-shaped cutting edge used for carving and hollowing wood.",
+    "description": "The gouge is a chisel whose blade curves across its width, letting it scoop out hollows and carve rounded shapes. It was used by Roman woodworkers and became central to woodcarving and turning. Its curved blade on a handle is unchanged.",
+    "why_unchanged": "A curved edge is the only way to cut a curved hollow cleanly, so the shape cannot really change.",
+    "materials": [
+      "iron",
+      "steel",
+      "wood"
+    ],
+    "faqs": [
+      {
+        "question": "What is the difference between a gouge and a chisel?",
+        "answer": "A chisel has a flat edge for straight cuts, while a gouge has a curved edge for hollows and rounded cuts."
+      },
+      {
+        "question": "What do 'sweep' numbers mean on gouges?",
+        "answer": "The sweep number describes how curved the edge is, with higher numbers meaning a deeper curve."
+      },
+      {
+        "question": "Where are gouges used?",
+        "answer": "In woodcarving, spoon and bowl making, and on the lathe in woodturning."
+      }
+    ],
+    "image": {
+      "search_query": "woodcarving gouges set",
+      "wikimedia_commons_category": "Gouges",
+      "alt": "A set of woodcarving gouges with curved blades"
+    },
+    "tags": [
+      "hand tool",
+      "woodcarving",
+      "roman",
+      "cutting"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "axe",
+    "name": "Axe",
+    "category": "Tools & hardware",
+    "invention": {
+      "display": "c. 45,000 years ago (hafted)",
+      "year": -43000,
+      "approximate": true,
+      "era": "Prehistoric"
+    },
+    "place_of_invention": {
+      "region": "Kimberley, Western Australia",
+      "modern_country": "Australia",
+      "notes": "The oldest known hafted axe fragments come from Carpenter's Gap 1 in Australia; unhafted stone hand axes are far older (about 1.7 million years)."
+    },
+    "inventor": null,
+    "short_description": "A tool with a heavy sharpened blade mounted on a handle, used for chopping wood.",
+    "description": "Unhafted stone hand axes were used for well over a million years before people began mounting blades on handles. The oldest known hafted axe fragments, from northern Australia, are about 45,000 years old. Copper, bronze, iron and steel later replaced stone, but the wedge-shaped head on a handle has stayed the same.",
+    "why_unchanged": "A wedge-shaped blade on a lever-handle is the most efficient way to split and chop wood by hand.",
+    "materials": [
+      "stone",
+      "copper",
+      "bronze",
+      "iron",
+      "steel",
+      "wood"
+    ],
+    "faqs": [
+      {
+        "question": "How old is the axe?",
+        "answer": "Hafted axes with handles go back at least 45,000 years, and handheld stone hand axes are about 1.7 million years old."
+      },
+      {
+        "question": "What is the difference between a chopping axe and a splitting axe?",
+        "answer": "A chopping (felling) axe has a thinner blade for cutting across the grain, while a splitting axe has a wider wedge to force wood apart along the grain."
+      },
+      {
+        "question": "Why are axe handles often curved?",
+        "answer": "A curved handle improves grip and the angle of the swing, and hickory or ash is used because it absorbs shock."
+      }
+    ],
+    "image": {
+      "search_query": "felling axe in chopping block",
+      "wikimedia_commons_category": "Axes",
+      "alt": "An axe stuck in a wooden chopping block"
+    },
+    "tags": [
+      "hand tool",
+      "woodcutting",
+      "prehistoric",
+      "forestry"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "hatchet",
+    "name": "Hatchet",
+    "category": "Tools & hardware",
+    "invention": {
+      "display": "Prehistoric (with hafted axes)",
+      "year": -43000,
+      "approximate": true,
+      "era": "Prehistoric"
+    },
+    "place_of_invention": {
+      "region": "Worldwide",
+      "modern_country": "Unknown",
+      "notes": "Small one-handed axes are as old as hafted axes themselves; no separate origin can be identified."
+    },
+    "inventor": null,
+    "short_description": "A small, short-handled axe used with one hand.",
+    "description": "The hatchet is a compact axe for one-handed use, ideal for splitting kindling, trimming branches and camp work. Small hafted axes appear throughout prehistory alongside larger ones. Some hatchets have a flat poll on the back of the head that can be used as a hammer.",
+    "why_unchanged": "It is simply a scaled-down axe, and its size already suits one-handed tasks.",
+    "materials": [
+      "stone",
+      "iron",
+      "steel",
+      "wood",
+      "fiberglass"
+    ],
+    "faqs": [
+      {
+        "question": "What is the difference between a hatchet and an axe?",
+        "answer": "A hatchet is smaller and used with one hand, while an axe has a longer handle for two-handed swings."
+      },
+      {
+        "question": "Where does the word 'hatchet' come from?",
+        "answer": "It comes from the Old French 'hachette', a diminutive of 'hache', meaning axe."
+      },
+      {
+        "question": "What does 'bury the hatchet' mean?",
+        "answer": "It means to make peace, a phrase linked to accounts of Indigenous North American peace ceremonies."
+      }
+    ],
+    "image": {
+      "search_query": "camping hatchet splitting kindling",
+      "wikimedia_commons_category": "Hatchets",
+      "alt": "A hatchet next to split kindling"
+    },
+    "tags": [
+      "hand tool",
+      "woodcutting",
+      "camping",
+      "prehistoric"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "adze",
+    "name": "Adze",
+    "category": "Tools & hardware",
+    "invention": {
+      "display": "Neolithic (c. 8000 BCE)",
+      "year": -8000,
+      "approximate": true,
+      "era": "Prehistoric"
+    },
+    "place_of_invention": {
+      "region": "Near East",
+      "modern_country": "Unknown",
+      "notes": "Ground stone adzes appear with early Neolithic woodworking in the Near East and elsewhere; independent development in many regions is likely."
+    },
+    "inventor": null,
+    "short_description": "A cutting tool with a blade set at a right angle to the handle, used to shape and smooth wood.",
+    "description": "Unlike an axe, the adze blade is turned crosswise to the handle, so it is swung downward to dress and hollow timber. Stone adzes were vital Neolithic tools for building houses and dugout canoes. Shipwrights, timber framers and carvers still use the same form in steel.",
+    "why_unchanged": "Its crosswise blade suits surfacing and hollowing timber, a task the axe cannot do as well.",
+    "materials": [
+      "stone",
+      "bronze",
+      "iron",
+      "steel",
+      "wood"
+    ],
+    "faqs": [
+      {
+        "question": "How is an adze different from an axe?",
+        "answer": "An axe's blade is parallel to the handle, while an adze's blade is perpendicular to it for shaving and hollowing wood."
+      },
+      {
+        "question": "What were adzes used for in prehistory?",
+        "answer": "They shaped timbers, planks and dugout canoes, which made them key tools of early farming societies."
+      },
+      {
+        "question": "Is the adze still used?",
+        "answer": "Yes, by timber framers, boat builders, bowl carvers and traditional craftspeople."
+      }
+    ],
+    "image": {
+      "search_query": "woodworking adze hewing timber",
+      "wikimedia_commons_category": "Adzes",
+      "alt": "A steel adze resting on a hewn log"
+    },
+    "tags": [
+      "hand tool",
+      "woodworking",
+      "neolithic",
+      "carving"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "drawknife",
+    "name": "Drawknife",
+    "category": "Tools & hardware",
+    "invention": {
+      "display": "Medieval (possibly earlier)",
+      "year": 1000,
+      "approximate": true,
+      "era": "Medieval"
+    },
+    "place_of_invention": {
+      "region": "Europe",
+      "modern_country": "Unknown",
+      "notes": "The drawknife appears in medieval European craft contexts such as coopering and wheelwrighting; earlier origins are possible but not well documented."
+    },
+    "inventor": null,
+    "short_description": "A blade with a handle at each end, pulled toward the user to shave wood.",
+    "description": "The drawknife is pulled with both hands to remove wood quickly, making it ideal for debarking logs and shaping chair legs, spokes and barrel staves. Coopers, chairmakers and wheelwrights relied on it for centuries. Green woodworkers still use the identical design.",
+    "why_unchanged": "Two handles on a long blade give strong, controlled cuts that no other hand tool matches.",
+    "materials": [
+      "steel",
+      "wood"
+    ],
+    "faqs": [
+      {
+        "question": "How do you use a drawknife?",
+        "answer": "Hold the workpiece in a shaving horse or vise and pull the blade toward you at a shallow angle with both hands."
+      },
+      {
+        "question": "Should the bevel face up or down?",
+        "answer": "Bevel down allows deeper scooping cuts, while bevel up gives flatter, more controlled shavings."
+      },
+      {
+        "question": "What is a drawknife used for?",
+        "answer": "Removing bark, roughing out shapes and making items such as chair parts, tool handles and barrel staves."
+      }
+    ],
+    "image": {
+      "search_query": "drawknife shaving wood on shaving horse",
+      "wikimedia_commons_category": "Drawknives",
+      "alt": "A drawknife shaving a piece of wood"
+    },
+    "tags": [
+      "hand tool",
+      "woodworking",
+      "medieval",
+      "green woodworking"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "hand-plane",
+    "name": "Hand plane",
+    "category": "Tools & hardware",
+    "invention": {
+      "display": "Roman period (c. 1st century CE)",
+      "year": 1,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Roman Empire",
+      "modern_country": "Italy",
+      "notes": "Roman planes, including examples from Pompeii, are the earliest well-known; some scholars suggest Greek origins."
+    },
+    "inventor": null,
+    "short_description": "A tool with a blade set in a body, pushed along wood to shave it flat and smooth.",
+    "description": "The hand plane holds a chisel-like blade at a fixed angle in a flat body, producing thin shavings and flat, smooth surfaces. Roman planes had iron soles on wooden bodies and work just like today's. Plane-making flourished through the centuries, and many woodworkers still prefer hand planes for fine work.",
+    "why_unchanged": "A blade fixed at an angle in a flat sole already gives control and flatness, so only materials have changed.",
+    "materials": [
+      "wood",
+      "iron",
+      "steel",
+      "cast iron"
+    ],
+    "faqs": [
+      {
+        "question": "Did the Romans use planes?",
+        "answer": "Yes, Roman planes have been found at sites such as Pompeii, and they work on the same principle as modern ones."
+      },
+      {
+        "question": "Why does a plane leave a smoother surface than sandpaper?",
+        "answer": "It slices wood fibers cleanly rather than abrading them, leaving a crisp, often shiny surface."
+      },
+      {
+        "question": "What are the main types of bench plane?",
+        "answer": "Smoothing planes are short, jack planes are medium for general work, and jointer planes are long for straightening edges."
+      }
+    ],
+    "image": {
+      "search_query": "hand plane wood shavings",
+      "wikimedia_commons_category": "Hand planes",
+      "alt": "A hand plane producing curled wood shavings"
+    },
+    "tags": [
+      "hand tool",
+      "woodworking",
+      "roman",
+      "finishing"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "bailey-bench-plane",
+    "name": "Bailey bench plane",
+    "category": "Tools & hardware",
+    "invention": {
+      "display": "1850s–1860s",
+      "year": 1867,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Boston, Massachusetts",
+      "modern_country": "United States",
+      "notes": "Leonard Bailey patented his plane improvements between the 1850s and 1867; Stanley Rule & Level acquired the patents in 1869."
+    },
+    "inventor": "Leonard Bailey",
+    "short_description": "A metal bench plane with an adjustable blade, frog and lever cap.",
+    "description": "Leonard Bailey's metal bench plane introduced a lever cap and a screw adjuster that let woodworkers set the blade depth quickly. Stanley acquired his patents and made it the world's standard plane design. Modern makers still produce Bailey-pattern planes with almost no changes.",
+    "why_unchanged": "Bailey's adjuster and lever cap solved blade setting so well that it became the permanent template.",
+    "materials": [
+      "cast iron",
+      "steel",
+      "wood",
+      "brass"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the modern metal bench plane?",
+        "answer": "Leonard Bailey patented the key features in the mid-19th century, and Stanley made his design famous."
+      },
+      {
+        "question": "What do plane numbers like No. 4 or No. 5 mean?",
+        "answer": "They are Stanley-Bailey size numbers, with No. 4 a common smoothing plane and No. 5 a jack plane."
+      },
+      {
+        "question": "Are old Bailey planes still useful?",
+        "answer": "Yes, vintage Stanley-Bailey planes are widely restored and used, since the design hasn't changed."
+      }
+    ],
+    "image": {
+      "search_query": "stanley bailey no 4 plane",
+      "wikimedia_commons_category": "Stanley planes",
+      "alt": "A cast-iron Bailey-pattern bench plane"
+    },
+    "tags": [
+      "hand tool",
+      "woodworking",
+      "patent",
+      "industrial"
+    ],
+    "confidence": "high"
+  },
+  {
+    "slug": "file",
+    "name": "File",
+    "category": "Tools & hardware",
+    "invention": {
+      "display": "c. 1200 BCE",
+      "year": -1200,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Ancient Egypt and Near East",
+      "modern_country": "Egypt",
+      "notes": "Bronze files are reported from ancient Egypt and iron files from Assyria; abrasive stones were used earlier. Dating evidence is limited."
+    },
+    "inventor": null,
+    "short_description": "A hardened steel bar with rows of fine teeth, used to shape and smooth metal, wood and plastic.",
+    "description": "Files remove material in small amounts and are used to shape, deburr and sharpen. Bronze and later iron files appear in the ancient Near East, and hand-cut steel files were a major craft before machine cutting in the 19th century. Their rows of cutting teeth on a hardened bar are unchanged.",
+    "why_unchanged": "Hardened teeth on a bar remain the simplest way to remove small, controlled amounts of material by hand.",
+    "materials": [
+      "bronze",
+      "iron",
+      "steel"
+    ],
+    "faqs": [
+      {
+        "question": "What is the difference between a file and a rasp?",
+        "answer": "A file has fine rows of teeth for metal and smooth finishes, while a rasp has individual raised teeth for fast cutting of wood."
+      },
+      {
+        "question": "How should a file be used?",
+        "answer": "Files cut on the push stroke; lift slightly on the return and keep the teeth clean with a file card."
+      },
+      {
+        "question": "What do 'bastard' and 'second cut' mean?",
+        "answer": "They are traditional grades of coarseness, from coarser bastard files to finer second-cut and smooth files."
+      }
+    ],
+    "image": {
+      "search_query": "metal hand files set",
+      "wikimedia_commons_category": "Files (tools)",
+      "alt": "A set of metal hand files of different shapes"
+    },
+    "tags": [
+      "hand tool",
+      "metalworking",
+      "ancient",
+      "finishing"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "sandpaper",
+    "name": "Sandpaper",
+    "category": "Tools & hardware",
+    "invention": {
+      "display": "13th century",
+      "year": 1250,
+      "approximate": true,
+      "era": "Medieval"
+    },
+    "place_of_invention": {
+      "region": "China",
+      "modern_country": "China",
+      "notes": "Commonly cited as originating in 13th-century China, using crushed shells, seeds and sand glued to parchment; glass paper was later produced industrially in 19th-century Britain."
+    },
+    "inventor": null,
+    "short_description": "Paper or cloth coated with abrasive grit, used to smooth surfaces.",
+    "description": "Abrasive grit glued to a flexible backing allows smooth sanding of wood, metal and paint. Early versions in medieval China used crushed shells or sand on parchment, and Britain later mass-produced 'glass paper'. Today's sheets use aluminum oxide or silicon carbide but follow the same idea.",
+    "why_unchanged": "Grit glued to a flexible sheet is already the simplest abrasive tool, so only the grit has changed.",
+    "materials": [
+      "paper",
+      "cloth",
+      "sand",
+      "glass",
+      "aluminum oxide",
+      "silicon carbide"
+    ],
+    "faqs": [
+      {
+        "question": "Where was sandpaper invented?",
+        "answer": "It is usually traced to 13th-century China, where crushed shells, seeds and sand were glued to parchment."
+      },
+      {
+        "question": "What do grit numbers mean?",
+        "answer": "Higher numbers mean finer grit; around 60–80 is coarse, 120–180 medium, and 220 or more is fine."
+      },
+      {
+        "question": "Does sandpaper contain sand?",
+        "answer": "Rarely today; modern papers use manufactured abrasives such as aluminum oxide or silicon carbide."
+      }
+    ],
+    "image": {
+      "search_query": "sandpaper sheets different grits",
+      "wikimedia_commons_category": "Sandpaper",
+      "alt": "Sheets of sandpaper in different grits"
+    },
+    "tags": [
+      "abrasive",
+      "woodworking",
+      "medieval",
+      "china"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "whetstone",
+    "name": "Whetstone",
+    "category": "Tools & hardware",
+    "invention": {
+      "display": "Prehistoric",
+      "year": -3000,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Eurasia",
+      "modern_country": "Unknown",
+      "notes": "Stones were used to sharpen tools throughout prehistory; perforated whetstones are common finds from the Bronze Age. No single origin exists."
+    },
+    "inventor": null,
+    "short_description": "A flat abrasive stone used to sharpen and hone the edges of blades and tools.",
+    "description": "Whetstones have sharpened knives, axes and chisels since prehistory. Natural sandstone and fine-grained stones were used for millennia, while modern stones may be synthetic ceramics or diamond plates. The technique of drawing a blade across a flat abrasive surface is unchanged.",
+    "why_unchanged": "A flat abrasive surface is the basic requirement for sharpening, and nothing simpler works better.",
+    "materials": [
+      "sandstone",
+      "novaculite",
+      "ceramic",
+      "diamond"
+    ],
+    "faqs": [
+      {
+        "question": "Does 'whetstone' mean it must be wet?",
+        "answer": "No; 'whet' is an old word meaning to sharpen. Many stones are used with water or oil, but the name doesn't refer to wetness."
+      },
+      {
+        "question": "What angle should I sharpen at?",
+        "answer": "Many kitchen knives use about 15 to 20 degrees per side; chisels and plane blades are often around 25 to 30 degrees."
+      },
+      {
+        "question": "Why do whetstones need flattening?",
+        "answer": "Stones wear unevenly over time, and a dished stone produces rounded edges."
+      }
+    ],
+    "image": {
+      "search_query": "whetstone sharpening knife",
+      "wikimedia_commons_category": "Whetstones",
+      "alt": "A knife being sharpened on a whetstone"
+    },
+    "tags": [
+      "sharpening",
+      "abrasive",
+      "prehistoric",
+      "maintenance"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "grindstone",
+    "name": "Grindstone",
+    "category": "Tools & hardware",
+    "invention": {
+      "display": "c. 830 CE (earliest European depiction)",
+      "year": 830,
+      "approximate": true,
+      "era": "Medieval"
+    },
+    "place_of_invention": {
+      "region": "Carolingian Francia",
+      "modern_country": "France",
+      "notes": "The Utrecht Psalter (c. 830) shows a crank-turned rotary grindstone; rotary devices appear earlier in China, so the true origin is uncertain."
+    },
+    "inventor": null,
+    "short_description": "A rotating abrasive stone wheel used to sharpen tools.",
+    "description": "A grindstone spins an abrasive wheel against which tools are sharpened, much faster than hand rubbing on a flat stone. One of the earliest European images of a crank-turned grindstone appears in a Carolingian manuscript of about 830. Treadle and crank grindstones were used on farms and in workshops for centuries, and the principle lives on in bench grinders.",
+    "why_unchanged": "A spinning abrasive wheel is still the fastest way to restore a tool edge.",
+    "materials": [
+      "sandstone",
+      "iron",
+      "wood"
+    ],
+    "faqs": [
+      {
+        "question": "How old is the rotary grindstone?",
+        "answer": "A crank-turned grindstone is depicted in the Utrecht Psalter of about 830 CE, and similar devices may be older in China."
+      },
+      {
+        "question": "Why are old grindstones used with water?",
+        "answer": "Water keeps the tool cool, preventing it from losing its temper, and carries away metal particles."
+      },
+      {
+        "question": "What does 'nose to the grindstone' mean?",
+        "answer": "It means to work hard and continuously, possibly referring to bending close over a grindstone while sharpening."
+      }
+    ],
+    "image": {
+      "search_query": "antique sandstone grindstone wheel",
+      "wikimedia_commons_category": "Grindstones",
+      "alt": "An antique sandstone grindstone on a wooden frame"
+    },
+    "tags": [
+      "sharpening",
+      "rotary",
+      "medieval",
+      "workshop"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "awl",
+    "name": "Awl",
+    "category": "Tools & hardware",
+    "invention": {
+      "display": "c. 75,000 years ago",
+      "year": -73000,
+      "approximate": true,
+      "era": "Prehistoric"
+    },
+    "place_of_invention": {
+      "region": "Southern Africa",
+      "modern_country": "South Africa",
+      "notes": "Bone awls are known from Middle Stone Age sites such as Blombos Cave; awls likely developed in many places."
+    },
+    "inventor": null,
+    "short_description": "A pointed tool used to pierce holes in leather, wood and other materials.",
+    "description": "The awl is one of the oldest tools, used by early humans to pierce hides for sewing clothing. Bone points from southern African caves are tens of thousands of years old. Today steel awls mark and start holes in wood and pierce leather.",
+    "why_unchanged": "A sharp point on a handle is all that piercing requires.",
+    "materials": [
+      "bone",
+      "iron",
+      "steel",
+      "wood"
+    ],
+    "faqs": [
+      {
+        "question": "How old is the awl?",
+        "answer": "Bone awls from southern African sites such as Blombos Cave are around 70,000 to 75,000 years old."
+      },
+      {
+        "question": "What do woodworkers use an awl for?",
+        "answer": "To mark layout points and start small pilot holes so screws and drill bits don't wander."
+      },
+      {
+        "question": "What is a bradawl?",
+        "answer": "A type of awl with a small chisel-like tip that cuts across wood fibers to start screw holes."
+      }
+    ],
+    "image": {
+      "search_query": "steel awl wooden handle",
+      "wikimedia_commons_category": "Awls",
+      "alt": "A steel awl with a wooden handle"
+    },
+    "tags": [
+      "hand tool",
+      "leatherwork",
+      "prehistoric",
+      "piercing"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "auger",
+    "name": "Auger",
+    "category": "Tools & hardware",
+    "invention": {
+      "display": "c. 1st century CE",
+      "year": 50,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Roman Empire",
+      "modern_country": "Italy",
+      "notes": "Spoon-shaped augers were used by Roman carpenters; spiral (twist) augers were developed much later in Europe."
+    },
+    "inventor": null,
+    "short_description": "A large hand tool with a T-handle and a cutting bit, used to bore holes in wood.",
+    "description": "The auger bores deep holes in timber for pegs and joints, turned by a crosswise handle. Roman carpenters used spoon augers, and spiral augers that clear chips automatically were developed later. Timber framers and boatbuilders still use T-handled augers.",
+    "why_unchanged": "A T-handle for torque and a cutting shank for depth already perfectly suit boring by hand.",
+    "materials": [
+      "iron",
+      "steel",
+      "wood"
+    ],
+    "faqs": [
+      {
+        "question": "What is the difference between an auger and a drill?",
+        "answer": "An auger is generally a large boring tool, often with a spiral to remove chips, used for deep holes in wood or soil."
+      },
+      {
+        "question": "How did Romans drill large holes?",
+        "answer": "They used spoon augers turned by a crosswise handle, sometimes with a bow or strap for smaller holes."
+      },
+      {
+        "question": "Where are hand augers used today?",
+        "answer": "In timber framing, traditional boatbuilding, and in a different form for drilling into ice or soil."
+      }
+    ],
+    "image": {
+      "search_query": "antique t-handle auger",
+      "wikimedia_commons_category": "Augers",
+      "alt": "An antique T-handled wood auger"
+    },
+    "tags": [
+      "hand tool",
+      "drilling",
+      "roman",
+      "timber framing"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "brace-and-bit",
+    "name": "Brace and bit",
+    "category": "Tools & hardware",
+    "invention": {
+      "display": "early 15th century",
+      "year": 1420,
+      "approximate": true,
+      "era": "Medieval"
+    },
+    "place_of_invention": {
+      "region": "Flanders",
+      "modern_country": "Belgium",
+      "notes": "The carpenter's brace appears in Flemish art of the early 15th century, among the earliest depictions of a crank in a hand tool."
+    },
+    "inventor": null,
+    "short_description": "A cranked hand drill whose bent frame lets the user turn a bit continuously.",
+    "description": "The brace uses a crank-shaped frame, so the user can rotate it continuously while pressing on the head. It appeared in northern Europe in the early 15th century and was the main drilling tool for carpenters until electric drills. Ratcheting braces were added later, but the cranked form remains the same.",
+    "why_unchanged": "A crank gives continuous rotation and leverage without gears, so the design never needed changing.",
+    "materials": [
+      "wood",
+      "iron",
+      "steel",
+      "brass"
+    ],
+    "faqs": [
+      {
+        "question": "When was the brace invented?",
+        "answer": "It appears in Flemish paintings from the early 15th century."
+      },
+      {
+        "question": "What is the 'sweep' of a brace?",
+        "answer": "Sweep is the diameter of the circle the handle makes; a larger sweep gives more torque."
+      },
+      {
+        "question": "Why do some people still use a brace?",
+        "answer": "It is quiet, needs no electricity and gives excellent control for boring large holes."
+      }
+    ],
+    "image": {
+      "search_query": "carpenter's brace and bit",
+      "wikimedia_commons_category": "Braces (tools)",
+      "alt": "An antique carpenter's brace with an auger bit"
+    },
+    "tags": [
+      "hand tool",
+      "drilling",
+      "medieval",
+      "woodworking"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "bow-drill",
+    "name": "Bow drill",
+    "category": "Tools & hardware",
+    "invention": {
+      "display": "c. 7000 BCE or earlier",
+      "year": -7000,
+      "approximate": true,
+      "era": "Prehistoric"
+    },
+    "place_of_invention": {
+      "region": "Indus Valley region",
+      "modern_country": "Pakistan",
+      "notes": "Evidence of bow-drilled beads and teeth comes from Mehrgarh; the tool may be older and was used independently in many places."
+    },
+    "inventor": null,
+    "short_description": "A drill spun by the string of a bow wrapped around the shaft.",
+    "description": "The bow drill wraps a bowstring around a spindle, so sawing the bow back and forth spins it rapidly. It was used to drill beads, wood and even teeth at Neolithic Mehrgarh, and to start fires. Woodworkers and bushcraft enthusiasts still make and use them.",
+    "why_unchanged": "The bow-and-string converts back-and-forth motion into fast spinning with no gears, which still works perfectly.",
+    "materials": [
+      "wood",
+      "cord",
+      "stone",
+      "bone"
+    ],
+    "faqs": [
+      {
+        "question": "How does a bow drill work?",
+        "answer": "The bowstring is looped around the spindle, and moving the bow back and forth spins it; a handheld block presses down on top."
+      },
+      {
+        "question": "Was the bow drill used for dentistry?",
+        "answer": "Yes, teeth drilled during life were found at Neolithic Mehrgarh in present-day Pakistan."
+      },
+      {
+        "question": "Can a bow drill start a fire?",
+        "answer": "Yes, spinning a wooden spindle against a wooden board creates friction and an ember."
+      }
+    ],
+    "image": {
+      "search_query": "bow drill wooden spindle",
+      "wikimedia_commons_category": "Bow drills",
+      "alt": "A wooden bow drill used to drill a hole"
+    },
+    "tags": [
+      "hand tool",
+      "drilling",
+      "neolithic",
+      "fire"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "twist-drill-bit",
+    "name": "Twist drill bit",
+    "category": "Tools & hardware",
+    "invention": {
+      "display": "1861",
+      "year": 1861,
+      "approximate": false,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "East Bridgewater, Massachusetts",
+      "modern_country": "United States",
+      "notes": "Steven A. Morse developed the twist drill in 1861 and patented it in 1863, founding the Morse Twist Drill company."
+    },
+    "inventor": "Steven A. Morse",
+    "short_description": "A cylindrical drill bit with spiral flutes that clear chips while cutting.",
+    "description": "The twist drill bit has helical flutes that carry chips out of the hole as it cuts. Steven A. Morse invented it in the 1860s, and it soon became the standard bit for metal and wood. Today almost every drill bit in a household toolbox follows his design.",
+    "why_unchanged": "Spiral flutes cut and clear chips at once, so later changes were only to materials and point angles.",
+    "materials": [
+      "steel",
+      "high-speed steel",
+      "cobalt steel",
+      "tungsten carbide"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the twist drill?",
+        "answer": "Steven A. Morse of Massachusetts invented it in 1861 and patented it in 1863."
+      },
+      {
+        "question": "Why do drill bits have spiral grooves?",
+        "answer": "The flutes channel chips out of the hole and let coolant or air reach the cutting edges."
+      },
+      {
+        "question": "What is the typical point angle?",
+        "answer": "General-purpose bits commonly have a 118-degree point, while harder metals often use 135 degrees."
+      }
+    ],
+    "image": {
+      "search_query": "twist drill bits set",
+      "wikimedia_commons_category": "Twist drills",
+      "alt": "A set of steel twist drill bits"
+    },
+    "tags": [
+      "drilling",
+      "patent",
+      "industrial",
+      "metalworking"
+    ],
+    "confidence": "high"
+  },
+  {
+    "slug": "forstner-bit",
+    "name": "Forstner bit",
+    "category": "Tools & hardware",
+    "invention": {
+      "display": "late 19th century",
+      "year": 1880,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "United States",
+      "modern_country": "United States",
+      "notes": "Named after Benjamin Forstner, who patented the design; sources differ on the exact patent year."
+    },
+    "inventor": "Benjamin Forstner",
+    "short_description": "A drill bit with a rim cutter that bores clean, flat-bottomed holes in wood.",
+    "description": "The Forstner bit cuts with a sharp circular rim, producing clean, flat-bottomed holes that can overlap or sit near an edge. It was patented by American gunsmith Benjamin Forstner and is widely used for cabinet hinges and joinery. Modern versions look much like the original.",
+    "why_unchanged": "Its rim-guided cutting already produces perfect flat holes, so the design hasn't needed to change.",
+    "materials": [
+      "steel",
+      "high-speed steel",
+      "carbide"
+    ],
+    "faqs": [
+      {
+        "question": "What is a Forstner bit used for?",
+        "answer": "Boring clean, flat-bottomed holes, especially for concealed cabinet hinges, dowels and decorative work."
+      },
+      {
+        "question": "Can it drill overlapping holes?",
+        "answer": "Yes, because the rim guides the bit, it can cut overlapping holes and partial holes at edges."
+      },
+      {
+        "question": "Should you use it in a drill press?",
+        "answer": "A drill press gives the best control, though it can be used carefully in a handheld drill."
+      }
+    ],
+    "image": {
+      "search_query": "forstner bit hole in wood",
+      "wikimedia_commons_category": "Forstner bits",
+      "alt": "A Forstner bit next to a flat-bottomed hole in wood"
+    },
+    "tags": [
+      "drilling",
+      "woodworking",
+      "patent",
+      "industrial"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "drill-chuck",
+    "name": "Drill chuck",
+    "category": "Tools & hardware",
+    "invention": {
+      "display": "1902",
+      "year": 1902,
+      "approximate": false,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "Hartford, Connecticut",
+      "modern_country": "United States",
+      "notes": "Arthur I. Jacobs patented the geared, key-operated three-jaw chuck in 1902; the 'Jacobs chuck' name is still used."
+    },
+    "inventor": "Arthur I. Jacobs",
+    "short_description": "A three-jaw clamp on a drill that grips bits, tightened with a geared key.",
+    "description": "The keyed three-jaw drill chuck holds round bits centered and tight, letting the same drill take many sizes. Arthur I. Jacobs patented the geared key version in 1902, and his company's design became standard. Keyless chucks were added later, but the keyed Jacobs-style chuck remains common.",
+    "why_unchanged": "Three self-centering jaws and a geared key grip firmly and accurately, so the design endured.",
+    "materials": [
+      "steel"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the drill chuck key?",
+        "answer": "Arthur I. Jacobs patented the geared, key-operated chuck in 1902."
+      },
+      {
+        "question": "Why does a chuck have three jaws?",
+        "answer": "Three jaws automatically center a round shank and grip it evenly."
+      },
+      {
+        "question": "Should a keyed chuck be tightened in all three holes?",
+        "answer": "Tightening in more than one hole helps the bit grip evenly and prevents slipping."
+      }
+    ],
+    "image": {
+      "search_query": "keyed drill chuck with key",
+      "wikimedia_commons_category": "Drill chucks",
+      "alt": "A keyed drill chuck with its key"
+    },
+    "tags": [
+      "drilling",
+      "patent",
+      "industrial",
+      "power tools"
+    ],
+    "confidence": "high"
+  },
+  {
+    "slug": "spirit-level",
+    "name": "Spirit level",
+    "category": "Tools & hardware",
+    "invention": {
+      "display": "1661",
+      "year": 1661,
+      "approximate": false,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Paris",
+      "modern_country": "France",
+      "notes": "Melchisédech Thévenot described a bubble level in 1661 correspondence; it came into wider use in the 18th century."
+    },
+    "inventor": "Melchisédech Thévenot",
+    "short_description": "A tool with a liquid-filled vial containing a bubble that shows when a surface is level.",
+    "description": "The spirit level uses an air bubble trapped in a slightly curved, liquid-filled vial, which centers when the tool is level. French scientist Melchisédech Thévenot described it in 1661. It replaced the plumb-line A-frame levels used since antiquity.",
+    "why_unchanged": "A bubble in a vial is a cheap, accurate and power-free indicator of level, so it is still standard.",
+    "materials": [
+      "glass",
+      "alcohol",
+      "wood",
+      "aluminum",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "Why is it called a spirit level?",
+        "answer": "The vial is filled with spirit (alcohol), which resists freezing and moves freely."
+      },
+      {
+        "question": "Who invented the bubble level?",
+        "answer": "Melchisédech Thévenot described it in 1661."
+      },
+      {
+        "question": "How do you check if a level is accurate?",
+        "answer": "Place it on a surface, note the bubble, then rotate it 180 degrees; if the bubble position changes, the level needs adjusting."
+      }
+    ],
+    "image": {
+      "search_query": "spirit level on wooden shelf",
+      "wikimedia_commons_category": "Spirit levels",
+      "alt": "A spirit level with a centered bubble on a shelf"
+    },
+    "tags": [
+      "measuring",
+      "construction",
+      "early modern",
+      "france"
+    ],
+    "confidence": "high"
+  },
+  {
+    "slug": "plumb-bob",
+    "name": "Plumb bob",
+    "category": "Tools & hardware",
+    "invention": {
+      "display": "c. 2500 BCE",
+      "year": -2500,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Ancient Egypt",
+      "modern_country": "Egypt",
+      "notes": "Egyptian builders used plumb bobs; similar tools were used throughout the ancient Near East."
+    },
+    "inventor": null,
+    "short_description": "A weight hung on a string to show a true vertical line.",
+    "description": "A plumb bob uses gravity to create a perfectly vertical reference line, essential for building walls. Ancient Egyptian builders used plumb bobs, and the tool has been used ever since. Surveyors and builders still use them, sometimes alongside lasers.",
+    "why_unchanged": "Gravity always pulls straight down, so a weight on a string can never be improved for finding vertical.",
+    "materials": [
+      "stone",
+      "lead",
+      "bronze",
+      "brass",
+      "steel"
+    ],
+    "faqs": [
+      {
+        "question": "Why is it called a plumb bob?",
+        "answer": "From the Latin 'plumbum' for lead, a traditional material; 'plumber' comes from the same word."
+      },
+      {
+        "question": "How was it used in ancient construction?",
+        "answer": "Egyptian and other ancient builders hung plumb bobs to check that walls and columns were vertical."
+      },
+      {
+        "question": "Is it still used?",
+        "answer": "Yes, carpenters, surveyors and masons use them to transfer points vertically or check walls."
+      }
+    ],
+    "image": {
+      "search_query": "brass plumb bob hanging",
+      "wikimedia_commons_category": "Plumb bobs",
+      "alt": "A brass plumb bob hanging on a string"
+    },
+    "tags": [
+      "measuring",
+      "construction",
+      "ancient egypt",
+      "gravity"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "try-square",
+    "name": "Try square",
+    "category": "Tools & hardware",
+    "invention": {
+      "display": "c. 1300 BCE (Egyptian examples)",
+      "year": -1300,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Ancient Egypt",
+      "modern_country": "Egypt",
+      "notes": "A wooden square was found among the tools in the tomb of Sennedjem at Deir el-Medina; right-angle squares were also used by Roman builders."
+    },
+    "inventor": null,
+    "short_description": "An L-shaped tool used to mark and check right angles.",
+    "description": "The try square checks that edges and corners are at exactly 90 degrees. Squares were used by Egyptian builders, and one was found with other tools in a workman's tomb at Deir el-Medina. Woodworkers still use the same right-angled design.",
+    "why_unchanged": "A fixed right angle is all that checking square requires.",
+    "materials": [
+      "wood",
+      "brass",
+      "steel"
+    ],
+    "faqs": [
+      {
+        "question": "Why is it called a 'try' square?",
+        "answer": "Because it is used to 'try', meaning test, whether a surface or edge is square."
+      },
+      {
+        "question": "How do you check a square is accurate?",
+        "answer": "Draw a line along its blade, flip it over and draw again; if the lines don't match, it isn't square."
+      },
+      {
+        "question": "How old are squares?",
+        "answer": "Ancient Egyptians used squares over 3,000 years ago."
+      }
+    ],
+    "image": {
+      "search_query": "try square woodworking",
+      "wikimedia_commons_category": "Try squares",
+      "alt": "A try square on a wooden board"
+    },
+    "tags": [
+      "measuring",
+      "woodworking",
+      "ancient egypt",
+      "layout"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "framing-square",
+    "name": "Framing square",
+    "category": "Tools & hardware",
+    "invention": {
+      "display": "1819",
+      "year": 1819,
+      "approximate": false,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Vermont",
+      "modern_country": "United States",
+      "notes": "Silas Hawes patented a one-piece steel square in 1819; large carpenters' squares existed before in wood and iron."
+    },
+    "inventor": "Silas Hawes",
+    "short_description": "A large L-shaped steel square with printed scales, used in carpentry layout.",
+    "description": "The framing square, or steel square, is a large flat L of steel marked with measurements and tables for laying out rafters, stairs and joints. Silas Hawes patented a one-piece steel version in 1819. Carpenters still use the same tool for roof and stair calculations.",
+    "why_unchanged": "A flat steel right angle with scales is already a durable, multipurpose layout tool.",
+    "materials": [
+      "steel",
+      "aluminum"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the steel framing square?",
+        "answer": "Silas Hawes patented the one-piece steel square in 1819."
+      },
+      {
+        "question": "What are the tables on a framing square?",
+        "answer": "They include rafter tables and other scales that let carpenters calculate roof pitches and lengths."
+      },
+      {
+        "question": "What is the long arm called?",
+        "answer": "The longer arm is the body or blade and the shorter arm is the tongue."
+      }
+    ],
+    "image": {
+      "search_query": "steel framing square carpentry",
+      "wikimedia_commons_category": "Steel squares",
+      "alt": "A steel framing square on lumber"
+    },
+    "tags": [
+      "measuring",
+      "carpentry",
+      "patent",
+      "industrial"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "combination-square",
+    "name": "Combination square",
+    "category": "Tools & hardware",
+    "invention": {
+      "display": "late 1870s",
+      "year": 1878,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Athol, Massachusetts",
+      "modern_country": "United States",
+      "notes": "Laroy S. Starrett is credited with inventing the combination square; the exact patent year is cited variously."
+    },
+    "inventor": "Laroy S. Starrett",
+    "short_description": "A sliding ruler with an adjustable head, used for 90-degree and 45-degree layout and measurement.",
+    "description": "The combination square combines a steel rule with a sliding head that marks 90 and 45 degrees, measures depth and checks squareness. It is credited to Laroy S. Starrett, whose company became a famous toolmaker. Its design is essentially unchanged.",
+    "why_unchanged": "One rule and a sliding head do several jobs at once, so nothing needed adding.",
+    "materials": [
+      "steel",
+      "cast iron"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the combination square?",
+        "answer": "Laroy S. Starrett is credited with inventing it in the late 1870s."
+      },
+      {
+        "question": "What can a combination square do?",
+        "answer": "It marks square and 45-degree lines, measures depths and can act as a marking gauge."
+      },
+      {
+        "question": "What is the small vial in the head for?",
+        "answer": "Many combination squares include a spirit vial to check level."
+      }
+    ],
+    "image": {
+      "search_query": "combination square layout",
+      "wikimedia_commons_category": "Combination squares",
+      "alt": "A combination square marking a line on wood"
+    },
+    "tags": [
+      "measuring",
+      "woodworking",
+      "patent",
+      "industrial"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "speed-square",
+    "name": "Speed square",
+    "category": "Tools & hardware",
+    "invention": {
+      "display": "1925",
+      "year": 1925,
+      "approximate": false,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "United States",
+      "modern_country": "United States",
+      "notes": "Albert J. Swanson designed the rafter square and founded Swanson Tool Company in 1925."
+    },
+    "inventor": "Albert J. Swanson",
+    "short_description": "A triangular carpenter's square used for marking angles and rafter cuts.",
+    "description": "The speed square is a triangle with a lip that hooks on lumber, letting carpenters mark square lines and angles quickly. Albert J. Swanson designed it in 1925. It is now a standard framing tool.",
+    "why_unchanged": "Its triangular shape is compact and rugged, already ideal for framing work.",
+    "materials": [
+      "aluminum",
+      "steel",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the speed square?",
+        "answer": "Albert J. Swanson designed it in 1925 and founded a company to sell it."
+      },
+      {
+        "question": "What is the 'pivot' point for?",
+        "answer": "It lets you rotate the square to mark rafter angles read from the degree scale."
+      },
+      {
+        "question": "Can it guide a circular saw?",
+        "answer": "Yes, carpenters often hold it against a board as a fence for square crosscuts."
+      }
+    ],
+    "image": {
+      "search_query": "speed square rafter square",
+      "wikimedia_commons_category": "Speed squares",
+      "alt": "An aluminum speed square on a board"
+    },
+    "tags": [
+      "measuring",
+      "carpentry",
+      "modern",
+      "patent"
+    ],
+    "confidence": "high"
+  }
+]

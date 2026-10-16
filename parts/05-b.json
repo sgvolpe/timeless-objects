@@ -1,0 +1,1296 @@
+[
+  {
+    "slug": "button",
+    "name": "Button",
+    "category": "Clothing, accessories & sewing",
+    "invention": {
+      "display": "c. 2000 BCE",
+      "year": -2000,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Indus Valley",
+      "modern_country": "Pakistan",
+      "notes": "Ornamental shell buttons are known from Mohenjo-daro in the Indus Valley; buttons used as fasteners with buttonholes appear in 13th-century Europe."
+    },
+    "inventor": null,
+    "short_description": "A small disc with holes or a shank, sewn to a garment and passed through a slit or loop to fasten it.",
+    "description": "The earliest buttons were decorative pieces of shell and stone sewn onto clothing. Once paired with buttonholes in medieval Europe, they became a practical fastener and a fashion statement. Buttons today come in countless materials but keep the same disc-with-holes or shank form.",
+    "why_unchanged": "A disc passing through a slit is a cheap, strong and easily repaired fastener.",
+    "materials": [
+      "shell",
+      "bone",
+      "wood",
+      "metal",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "How old are buttons?",
+        "answer": "Decorative buttons date back to about 2000 BCE in the Indus Valley. Their use as fasteners became widespread in Europe in the 13th century."
+      },
+      {
+        "question": "Why are men's and women's buttons on opposite sides?",
+        "answer": "A common explanation is that wealthy women were dressed by servants, but this is not proven. The convention is long-standing and its origin is uncertain."
+      },
+      {
+        "question": "Why do some buttons have two holes and others four?",
+        "answer": "Both are sewn through the holes; four holes spread the stress across more thread, while shank buttons sit higher on thick fabrics."
+      }
+    ],
+    "image": {
+      "search_query": "assorted sewing buttons",
+      "wikimedia_commons_category": "Buttons",
+      "alt": "A pile of colorful clothing buttons"
+    },
+    "tags": [
+      "fastener",
+      "ancient",
+      "clothing",
+      "sewing"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "buttonhole",
+    "name": "Buttonhole",
+    "category": "Clothing, accessories & sewing",
+    "invention": {
+      "display": "13th century",
+      "year": 1250,
+      "approximate": true,
+      "era": "Medieval"
+    },
+    "place_of_invention": {
+      "region": "Germany",
+      "modern_country": "Germany",
+      "notes": "Buttonholes appear in 13th-century Europe and are often associated with Germany; documentation of the earliest use is limited."
+    },
+    "inventor": null,
+    "short_description": "A reinforced slit in fabric through which a button passes.",
+    "description": "The buttonhole turned the button from an ornament into a true fastener. It allowed close-fitting garments that could be opened and closed easily, transforming medieval fashion. Buttonholes are still finished with tight stitching to stop the edges fraying.",
+    "why_unchanged": "A stitched slit is the simplest way to catch a button securely.",
+    "materials": [
+      "fabric",
+      "thread"
+    ],
+    "faqs": [
+      {
+        "question": "When did buttonholes appear?",
+        "answer": "They spread in Europe during the 13th century, allowing garments to be fitted closely to the body."
+      },
+      {
+        "question": "How are buttonholes made today?",
+        "answer": "Most sewing machines have a buttonhole setting that sews a dense zigzag around a slit, which is then cut open."
+      },
+      {
+        "question": "What is a keyhole buttonhole?",
+        "answer": "A buttonhole with a rounded end that gives room for a button's shank, often used on coats and jeans."
+      }
+    ],
+    "image": {
+      "search_query": "buttonhole stitch on fabric",
+      "wikimedia_commons_category": "Buttonholes",
+      "alt": "A button passing through a stitched buttonhole"
+    },
+    "tags": [
+      "fastener",
+      "medieval",
+      "sewing",
+      "clothing"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "zipper",
+    "name": "Zipper",
+    "category": "Clothing, accessories & sewing",
+    "invention": {
+      "display": "1913",
+      "year": 1913,
+      "approximate": false,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "Hoboken, New Jersey",
+      "modern_country": "United States",
+      "notes": "Gideon Sundback's 'Hookless Fastener No. 2' (1913, patented 1917) is the basis of the modern zipper; Whitcomb Judson's earlier 1893 clasp locker worked differently."
+    },
+    "inventor": "Gideon Sundback",
+    "short_description": "A fastener of interlocking teeth joined or separated by a sliding pull.",
+    "description": "Swedish-American engineer Gideon Sundback, working for the Universal Fastener Company, developed interlocking teeth closed by a slider. The name 'zipper' was popularized by the B.F. Goodrich company in the 1920s for rubber boots. The same tooth-and-slider design is found on clothing, bags and tents today.",
+    "why_unchanged": "Interlocking teeth meshed by a wedge-shaped slider make a fast, strong closure that has never needed a new principle.",
+    "materials": [
+      "metal",
+      "plastic",
+      "fabric tape"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the zipper?",
+        "answer": "Gideon Sundback created the modern design in 1913, building on Whitcomb Judson's earlier clasp locker."
+      },
+      {
+        "question": "Where did the name 'zipper' come from?",
+        "answer": "B.F. Goodrich used the name for its rubber boots with the fastener in the 1920s, and it stuck."
+      },
+      {
+        "question": "What do the letters YKK on zippers mean?",
+        "answer": "YKK is a Japanese manufacturer, Yoshida Kogyo Kabushikikaisha, which produces a large share of the world's zippers."
+      }
+    ],
+    "image": {
+      "search_query": "metal zipper close up",
+      "wikimedia_commons_category": "Zippers",
+      "alt": "A partly open metal zipper on fabric"
+    },
+    "tags": [
+      "fastener",
+      "patent",
+      "20th-century",
+      "metal"
+    ],
+    "confidence": "high"
+  },
+  {
+    "slug": "snap-fastener",
+    "name": "Snap fastener",
+    "category": "Clothing, accessories & sewing",
+    "invention": {
+      "display": "1885",
+      "year": 1885,
+      "approximate": false,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Germany",
+      "modern_country": "Germany",
+      "notes": "Heribert Bauer of Pforzheim patented an early press stud in 1885; Danish and other inventors are also credited, and Prym later industrialized it."
+    },
+    "inventor": null,
+    "short_description": "A pair of interlocking discs that press together to fasten clothing.",
+    "description": "Snap fasteners use a stud that pushes into a socket and is held by a spring or a tight fit. They were patented in Germany in the 1880s and soon used on gloves, children's clothing and workwear. Modern snaps, from metal to plastic, use the same press-and-pull principle.",
+    "why_unchanged": "A stud and socket that click together offer a quick, one-handed closure with no moving parts to wear out.",
+    "materials": [
+      "brass",
+      "steel",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the snap fastener?",
+        "answer": "Heribert Bauer patented a press stud in Germany in 1885, though other inventors also developed similar designs."
+      },
+      {
+        "question": "What are snaps also called?",
+        "answer": "They are known as press studs, poppers or snaps, depending on the country."
+      },
+      {
+        "question": "Where are snaps commonly used?",
+        "answer": "On baby clothes, western shirts, jackets, bags and gloves where quick opening is useful."
+      }
+    ],
+    "image": {
+      "search_query": "metal snap fasteners press studs",
+      "wikimedia_commons_category": "Snap fasteners",
+      "alt": "Open metal snap fasteners on a denim jacket"
+    },
+    "tags": [
+      "fastener",
+      "patent",
+      "19th-century",
+      "metal"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "hook-and-eye",
+    "name": "Hook-and-eye",
+    "category": "Clothing, accessories & sewing",
+    "invention": {
+      "display": "c. 14th century",
+      "year": 1350,
+      "approximate": true,
+      "era": "Medieval"
+    },
+    "place_of_invention": {
+      "region": "England",
+      "modern_country": "United Kingdom",
+      "notes": "Hooks and eyes are documented in 14th-century England; similar clasps are probably older."
+    },
+    "inventor": null,
+    "short_description": "A small metal hook that catches a matching loop to close a garment.",
+    "description": "The hook-and-eye gives a nearly invisible closure that holds well under tension. It was used on medieval and early modern clothing and remains standard at the top of zippers and on bras and waistbands. The bent-wire design has hardly changed.",
+    "why_unchanged": "A wire hook in a wire loop holds firmly under tension and stays hidden, which is exactly what it is for.",
+    "materials": [
+      "steel",
+      "brass"
+    ],
+    "faqs": [
+      {
+        "question": "Where are hooks and eyes used today?",
+        "answer": "Typically at the top of dress zippers, on waistbands, bra backs and corsets."
+      },
+      {
+        "question": "Why use a hook-and-eye instead of a button?",
+        "answer": "It lies flat and is nearly invisible, and holds well where fabric edges meet under tension."
+      },
+      {
+        "question": "What is the 'eye' exactly?",
+        "answer": "It is a small wire loop or bar sewn to the opposite edge, which the hook catches."
+      }
+    ],
+    "image": {
+      "search_query": "sewing hooks and eyes",
+      "wikimedia_commons_category": "Hooks and eyes",
+      "alt": "Metal hook-and-eye fasteners on fabric"
+    },
+    "tags": [
+      "fastener",
+      "medieval",
+      "sewing",
+      "metal"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "hook-and-loop-fastener",
+    "name": "Hook-and-loop fastener",
+    "category": "Clothing, accessories & sewing",
+    "invention": {
+      "display": "1955",
+      "year": 1955,
+      "approximate": false,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "Switzerland",
+      "modern_country": "Switzerland",
+      "notes": "George de Mestral was inspired by burdock burrs on his dog after a 1941 walk and patented the fastener in Switzerland in the 1950s."
+    },
+    "inventor": "George de Mestral",
+    "short_description": "Two fabric strips, one with tiny hooks and one with loops, that grip when pressed together.",
+    "description": "After noticing how burrs clung to fabric and fur, Swiss engineer George de Mestral developed a nylon fastener with hooks on one side and loops on the other. He named it Velcro, from the French words for velvet and hook. It is used on shoes, clothing, bags and even spacesuits, in the same form.",
+    "why_unchanged": "Thousands of tiny hooks catching loops give strong, reusable grip without any precise alignment.",
+    "materials": [
+      "nylon",
+      "polyester"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented hook-and-loop fasteners?",
+        "answer": "Swiss engineer George de Mestral, inspired by burdock burrs, patented the design in the 1950s."
+      },
+      {
+        "question": "Is Velcro the same thing?",
+        "answer": "Velcro is the brand name de Mestral created; hook-and-loop fastener is the generic term."
+      },
+      {
+        "question": "Was it used in space?",
+        "answer": "Yes, NASA used hook-and-loop fasteners to keep items from floating away in spacecraft, which helped popularize it."
+      }
+    ],
+    "image": {
+      "search_query": "hook and loop fastener close up",
+      "wikimedia_commons_category": "Hook-and-loop fasteners",
+      "alt": "Close-up of hook-and-loop fastener strips"
+    },
+    "tags": [
+      "fastener",
+      "patent",
+      "20th-century",
+      "biomimicry"
+    ],
+    "confidence": "high"
+  },
+  {
+    "slug": "buckle",
+    "name": "Buckle",
+    "category": "Clothing, accessories & sewing",
+    "invention": {
+      "display": "Antiquity",
+      "year": -500,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Europe and the Mediterranean",
+      "modern_country": "Unknown",
+      "notes": "Buckles were widely used in the Roman world and among Iron Age peoples; their earliest origin is unclear."
+    },
+    "inventor": null,
+    "short_description": "A frame with a pin that holds the end of a strap or belt.",
+    "description": "A buckle secures a strap by passing it through a frame and catching it with a hinged prong. Roman soldiers used ornate buckles on belts and armor straps. Belts, shoes, bags and harnesses still use the same frame-and-prong design.",
+    "why_unchanged": "A frame and a prong through a hole in the strap give adjustable, secure fastening with one simple part.",
+    "materials": [
+      "bronze",
+      "iron",
+      "brass",
+      "steel",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "How old is the belt buckle?",
+        "answer": "Buckles were in wide use in Roman times and among Iron Age Europeans, and may be older."
+      },
+      {
+        "question": "What is the pointed part called?",
+        "answer": "It is called the prong or tongue, which passes through a hole in the strap."
+      },
+      {
+        "question": "Why were buckles once on shoes?",
+        "answer": "Before shoelaces became common in the late 18th century, shoe buckles were a fashionable way to fasten shoes."
+      }
+    ],
+    "image": {
+      "search_query": "metal belt buckle close up",
+      "wikimedia_commons_category": "Buckles",
+      "alt": "A metal buckle on a leather belt"
+    },
+    "tags": [
+      "fastener",
+      "ancient",
+      "belt",
+      "metal"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "toggle",
+    "name": "Toggle",
+    "category": "Clothing, accessories & sewing",
+    "invention": {
+      "display": "Prehistoric (no firm date)",
+      "year": -4000,
+      "approximate": true,
+      "era": "Prehistoric"
+    },
+    "place_of_invention": {
+      "region": "Eurasia",
+      "modern_country": "Unknown",
+      "notes": "Bone, horn and wooden toggles were used by many early peoples; no firm date or place of origin can be given."
+    },
+    "inventor": null,
+    "short_description": "A short bar sewn to a garment that passes through a loop to fasten it.",
+    "description": "Toggles are elongated pegs that pass through a loop of cord or leather. They are easy to use with cold or gloved hands, which made them practical for outerwear. The duffle coat made wooden or horn toggles famous, and the design remains unchanged.",
+    "why_unchanged": "A peg through a loop works with mittens on and never needs precise alignment.",
+    "materials": [
+      "bone",
+      "horn",
+      "wood",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "Why do duffle coats use toggles?",
+        "answer": "Toggles can be fastened with gloved hands, which suited fishermen and sailors who wore these coats."
+      },
+      {
+        "question": "How is a toggle different from a button?",
+        "answer": "A toggle is a bar passed through a loop rather than a disc passed through a slit."
+      },
+      {
+        "question": "Are toggles used outside clothing?",
+        "answer": "Yes, on bags, tents and cord locks, wherever a quick, robust fastening is needed."
+      }
+    ],
+    "image": {
+      "search_query": "duffle coat toggles horn",
+      "wikimedia_commons_category": "Toggles",
+      "alt": "Horn toggles fastened with rope loops on a coat"
+    },
+    "tags": [
+      "fastener",
+      "prehistoric",
+      "outerwear",
+      "horn"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "fibula-brooch",
+    "name": "Fibula brooch",
+    "category": "Clothing, accessories & sewing",
+    "invention": {
+      "display": "c. 1300 BCE",
+      "year": -1300,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Mycenaean Greece and northern Italy",
+      "modern_country": "Greece",
+      "notes": "The earliest fibulae date to the Late Bronze Age in the Aegean and Italy; which came first is debated."
+    },
+    "inventor": null,
+    "short_description": "An ancient brooch with a spring, pin and catch, used to fasten cloaks.",
+    "description": "The fibula worked like a decorative safety pin, with a coiled spring, a pin and a catch plate. It was the main garment fastener across the ancient Mediterranean and Europe for over a thousand years. Similar pin brooches are still worn as jewelry and scarf pins.",
+    "why_unchanged": "Its spring-and-catch mechanism is so effective that the safety pin reuses it almost exactly.",
+    "materials": [
+      "bronze",
+      "iron",
+      "gold",
+      "silver"
+    ],
+    "faqs": [
+      {
+        "question": "What was a fibula used for?",
+        "answer": "It fastened cloaks and tunics at the shoulder, and was often highly decorated to show status."
+      },
+      {
+        "question": "Is the fibula related to the safety pin?",
+        "answer": "Yes, both use a coiled spring and catch; the safety pin added a cover over the point."
+      },
+      {
+        "question": "Why do archaeologists value fibulae?",
+        "answer": "Their styles changed in recognizable ways, so they help date sites and trace cultural contacts."
+      }
+    ],
+    "image": {
+      "search_query": "ancient bronze fibula brooch",
+      "wikimedia_commons_category": "Fibulae",
+      "alt": "An ancient bronze fibula brooch"
+    },
+    "tags": [
+      "jewelry",
+      "fastener",
+      "ancient",
+      "bronze"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "penannular-brooch",
+    "name": "Penannular brooch",
+    "category": "Clothing, accessories & sewing",
+    "invention": {
+      "display": "Iron Age",
+      "year": -300,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Britain and Ireland",
+      "modern_country": "United Kingdom",
+      "notes": "Penannular brooches appear in Iron Age Britain and Ireland and flourished in the early medieval period; precise dates vary."
+    },
+    "inventor": null,
+    "short_description": "A brooch shaped like an open ring with a long pin that swivels across the gap.",
+    "description": "The penannular brooch has an incomplete ring with a pin hinged on it. The pin is pushed through fabric, then the ring is turned so the pin rests on it and locks. The design is still used today as a shawl and kilt brooch.",
+    "why_unchanged": "Rotating the ring locks the pin without any spring or catch, a clever design that needs no improvement.",
+    "materials": [
+      "bronze",
+      "silver",
+      "iron"
+    ],
+    "faqs": [
+      {
+        "question": "What does penannular mean?",
+        "answer": "It means 'almost a ring', describing the circle with a gap."
+      },
+      {
+        "question": "How does it fasten?",
+        "answer": "The pin passes through the cloth, then the ring is rotated so the pin rests across the ring and holds."
+      },
+      {
+        "question": "What is the Tara Brooch?",
+        "answer": "An elaborate early medieval Irish brooch of this family, made around 700 CE, now in the National Museum of Ireland."
+      }
+    ],
+    "image": {
+      "search_query": "celtic penannular brooch shawl",
+      "wikimedia_commons_category": "Penannular brooches",
+      "alt": "A silver Celtic penannular brooch on wool cloth"
+    },
+    "tags": [
+      "jewelry",
+      "fastener",
+      "celtic",
+      "ancient"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "cufflink",
+    "name": "Cufflink",
+    "category": "Clothing, accessories & sewing",
+    "invention": {
+      "display": "17th century",
+      "year": 1650,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Western Europe",
+      "modern_country": "France",
+      "notes": "Linked sleeve buttons appear in 17th-century Europe; the name 'cufflink' is later, and mass production followed in the 19th century."
+    },
+    "inventor": null,
+    "short_description": "A decorative fastener that joins the two sides of a shirt cuff.",
+    "description": "Early cufflinks were pairs of decorative buttons joined by a chain, replacing ribbons that tied shirt cuffs. Industrial production in the 19th century made them widely available. Cufflinks with a bar or chain are still worn with French-cuff shirts.",
+    "why_unchanged": "Joining two buttonholes with a linked ornament remains the simplest way to close a double cuff.",
+    "materials": [
+      "silver",
+      "gold",
+      "brass",
+      "enamel"
+    ],
+    "faqs": [
+      {
+        "question": "What shirts need cufflinks?",
+        "answer": "Shirts with French or double cuffs, which have buttonholes on both sides and no button."
+      },
+      {
+        "question": "When were cufflinks invented?",
+        "answer": "Linked sleeve buttons appear in 17th-century Europe and became widespread in the 19th century."
+      },
+      {
+        "question": "Are cufflinks only for men?",
+        "answer": "No, they are worn by anyone wearing a shirt with link cuffs."
+      }
+    ],
+    "image": {
+      "search_query": "silver cufflinks on shirt cuff",
+      "wikimedia_commons_category": "Cufflinks",
+      "alt": "A pair of silver cufflinks on a white shirt cuff"
+    },
+    "tags": [
+      "jewelry",
+      "fastener",
+      "early-modern",
+      "formalwear"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "tie-clip",
+    "name": "Tie clip",
+    "category": "Clothing, accessories & sewing",
+    "invention": {
+      "display": "Early 20th century",
+      "year": 1920,
+      "approximate": true,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "Western Europe and North America",
+      "modern_country": "United States",
+      "notes": "Tie clips and bars became fashionable in the early 20th century; no inventor is recorded."
+    },
+    "inventor": null,
+    "short_description": "A clip that holds a necktie against the shirt front.",
+    "description": "The tie clip keeps a necktie neatly in place and out of soup or wind. It became popular as neckties took their modern long shape in the 20th century. The simple spring clip or slide bar has not changed.",
+    "why_unchanged": "A spring clip attaching tie to placket solves the problem completely.",
+    "materials": [
+      "silver",
+      "steel",
+      "gold",
+      "brass"
+    ],
+    "faqs": [
+      {
+        "question": "Where should a tie clip be worn?",
+        "answer": "Usually between the third and fourth shirt buttons, roughly mid-chest."
+      },
+      {
+        "question": "What is the difference between a tie clip and a tie pin?",
+        "answer": "A clip clamps the tie to the shirt, while a tie pin pierces the tie and is held by a back."
+      },
+      {
+        "question": "Should a tie clip be wider than the tie?",
+        "answer": "No, it is generally recommended to be narrower than the tie."
+      }
+    ],
+    "image": {
+      "search_query": "silver tie clip on necktie",
+      "wikimedia_commons_category": "Tie clips",
+      "alt": "A silver tie clip on a striped necktie"
+    },
+    "tags": [
+      "accessory",
+      "formalwear",
+      "20th-century",
+      "metal"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "shoelace",
+    "name": "Shoelace",
+    "category": "Clothing, accessories & sewing",
+    "invention": {
+      "display": "c. 3500 BCE",
+      "year": -3500,
+      "approximate": true,
+      "era": "Prehistoric"
+    },
+    "place_of_invention": {
+      "region": "Areni-1 cave",
+      "modern_country": "Armenia",
+      "notes": "The world's oldest known leather shoe, found in Areni-1 cave and dated to about 3500 BCE, was laced with a leather cord."
+    },
+    "inventor": null,
+    "short_description": "A cord threaded through eyelets to tighten and tie a shoe.",
+    "description": "Laces let a shoe be tightened to the foot and opened to put it on. The Areni-1 shoe and Ötzi's footwear show lacing was used over 5,000 years ago. Modern laces end in plastic aglets and are threaded through metal eyelets, but work the same way.",
+    "why_unchanged": "A cord pulled through holes and tied adapts to any foot with nothing to break.",
+    "materials": [
+      "leather",
+      "cotton",
+      "polyester",
+      "nylon"
+    ],
+    "faqs": [
+      {
+        "question": "How old are shoelaces?",
+        "answer": "The oldest leather shoe, from Armenia and about 5,500 years old, was laced with a leather cord."
+      },
+      {
+        "question": "Why do shoelaces come undone?",
+        "answer": "Research suggests the impact of the foot loosens the knot while swinging legs pull the free ends, until it fails suddenly."
+      },
+      {
+        "question": "What is the most secure way to tie laces?",
+        "answer": "Many recommend the 'Ian knot' or making sure the standard bow is balanced, not a granny knot, which twists and loosens."
+      }
+    ],
+    "image": {
+      "search_query": "shoelaces tied on sneaker",
+      "wikimedia_commons_category": "Shoelaces",
+      "alt": "A shoe with tied laces"
+    },
+    "tags": [
+      "footwear",
+      "fastener",
+      "prehistoric",
+      "leather"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "aglet",
+    "name": "Aglet",
+    "category": "Clothing, accessories & sewing",
+    "invention": {
+      "display": "Late Middle Ages",
+      "year": 1400,
+      "approximate": true,
+      "era": "Medieval"
+    },
+    "place_of_invention": {
+      "region": "Europe",
+      "modern_country": "Unknown",
+      "notes": "Metal-tipped laces called aiglets were common on 15th–16th century European clothing; earlier use is likely but unclear."
+    },
+    "inventor": null,
+    "short_description": "The small sheath at the end of a lace that keeps it from fraying.",
+    "description": "Aglets stiffen the end of a lace so it can be threaded through eyelets. In the late Middle Ages, laces called points held clothing together and their metal tips were often decorative. Today aglets are usually plastic or metal on shoelaces and drawstrings.",
+    "why_unchanged": "A stiff tube on a cord end prevents fraying and aids threading, a job it does perfectly.",
+    "materials": [
+      "brass",
+      "silver",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "What is an aglet?",
+        "answer": "The plastic or metal tip on the end of a shoelace or drawstring."
+      },
+      {
+        "question": "Where does the word come from?",
+        "answer": "It comes from the French aiguillette, meaning a small needle."
+      },
+      {
+        "question": "How can a broken aglet be fixed?",
+        "answer": "Wrap the end tightly in tape, dip it in glue, or use heat-shrink tubing to restore a stiff tip."
+      }
+    ],
+    "image": {
+      "search_query": "shoelace aglet close up",
+      "wikimedia_commons_category": "Aglets",
+      "alt": "Close-up of plastic aglets on shoelaces"
+    },
+    "tags": [
+      "footwear",
+      "fastener",
+      "medieval",
+      "lace"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "bolo-tie",
+    "name": "Bolo tie",
+    "category": "Clothing, accessories & sewing",
+    "invention": {
+      "display": "1940s",
+      "year": 1945,
+      "approximate": true,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "Arizona",
+      "modern_country": "United States",
+      "notes": "Silversmith Victor Cedarstaff of Wickenburg, Arizona, claimed to have invented it in the 1940s; others point to earlier Native American and cowboy neckwear, so the origin is disputed."
+    },
+    "inventor": null,
+    "short_description": "A cord necktie held by a decorative sliding clasp.",
+    "description": "The bolo tie is a braided leather cord with metal tips, fastened at the collar by an ornamental slide. It is closely associated with the American Southwest, often set with turquoise and silver. It became the official neckwear of Arizona in 1971.",
+    "why_unchanged": "A slide on a cord is simple and adjustable, so it has remained a fixed design.",
+    "materials": [
+      "leather",
+      "silver",
+      "turquoise"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the bolo tie?",
+        "answer": "Victor Cedarstaff of Arizona claimed to have invented it in the 1940s, but earlier origins are debated."
+      },
+      {
+        "question": "Which state made it official?",
+        "answer": "Arizona adopted the bolo as its official state neckwear in 1971, and New Mexico followed later."
+      },
+      {
+        "question": "How do you wear a bolo tie?",
+        "answer": "Place the cord under the collar and slide the clasp up to the desired height at the throat."
+      }
+    ],
+    "image": {
+      "search_query": "bolo tie turquoise silver",
+      "wikimedia_commons_category": "Bolo ties",
+      "alt": "A bolo tie with a turquoise and silver slide"
+    },
+    "tags": [
+      "neckwear",
+      "accessory",
+      "20th-century",
+      "southwest"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "suspenders",
+    "name": "Suspenders",
+    "category": "Clothing, accessories & sewing",
+    "invention": {
+      "display": "c. 1820s",
+      "year": 1822,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "London",
+      "modern_country": "United Kingdom",
+      "notes": "Albert Thurston of London is often credited with popularizing button-on braces in the 1820s; simpler braces existed in the 18th century."
+    },
+    "inventor": null,
+    "short_description": "Straps worn over the shoulders to hold up trousers.",
+    "description": "Suspenders, called braces in British English, hold trousers by the shoulders rather than the waist. Button-on and clip-on versions became popular in the 19th century as high-waisted trousers spread. Their Y- or X-back strap design is unchanged.",
+    "why_unchanged": "Straps over the shoulders carry trousers comfortably without cinching the waist.",
+    "materials": [
+      "leather",
+      "elastic",
+      "cotton"
+    ],
+    "faqs": [
+      {
+        "question": "What is the difference between suspenders and braces?",
+        "answer": "They are the same thing; Americans say suspenders, while Britons say braces."
+      },
+      {
+        "question": "Did Mark Twain patent suspenders?",
+        "answer": "In 1871 Mark Twain received a patent for adjustable and detachable straps for garments, intended to replace suspenders."
+      },
+      {
+        "question": "Should you wear suspenders and a belt together?",
+        "answer": "Traditionally no, since both do the same job; suspenders work best with trousers designed for them."
+      }
+    ],
+    "image": {
+      "search_query": "button on suspenders braces",
+      "wikimedia_commons_category": "Suspenders",
+      "alt": "Leather-ended suspenders attached to trousers"
+    },
+    "tags": [
+      "accessory",
+      "19th-century",
+      "trousers",
+      "elastic"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "belt",
+    "name": "Belt",
+    "category": "Clothing, accessories & sewing",
+    "invention": {
+      "display": "c. 3300 BCE",
+      "year": -3300,
+      "approximate": true,
+      "era": "Prehistoric"
+    },
+    "place_of_invention": {
+      "region": "Otztal Alps",
+      "modern_country": "Italy",
+      "notes": "Ötzi the Iceman, who died around 3300 BCE, wore a leather belt with a pouch; belts are likely much older."
+    },
+    "inventor": null,
+    "short_description": "A strap worn around the waist to hold clothing or carry items.",
+    "description": "Belts hold garments up and give a place to hang tools and pouches. Ötzi's leather belt is among the oldest surviving examples. Modern belts with buckles differ only in materials and decoration.",
+    "why_unchanged": "A strap closed around the waist is the simplest way to secure clothing.",
+    "materials": [
+      "leather",
+      "fabric",
+      "rope",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "How old is the belt?",
+        "answer": "Ötzi the Iceman wore a leather belt about 5,300 years ago, and belts are likely even older."
+      },
+      {
+        "question": "What did Ötzi keep on his belt?",
+        "answer": "His belt had a pouch holding small tools such as a scraper, a drill and a bone awl."
+      },
+      {
+        "question": "Should a belt match shoes?",
+        "answer": "A traditional guideline in formal wear is to match the belt's leather color to the shoes."
+      }
+    ],
+    "image": {
+      "search_query": "leather belt with buckle",
+      "wikimedia_commons_category": "Belts",
+      "alt": "A brown leather belt with a metal buckle"
+    },
+    "tags": [
+      "accessory",
+      "prehistoric",
+      "leather",
+      "otzi"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "ring",
+    "name": "Ring",
+    "category": "Clothing, accessories & sewing",
+    "invention": {
+      "display": "Ancient Egypt (by c. 2500 BCE)",
+      "year": -2500,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Ancient Egypt",
+      "modern_country": "Egypt",
+      "notes": "Finger rings appear in early Egyptian and Mesopotamian contexts; simpler rings of bone or stone are likely older."
+    },
+    "inventor": null,
+    "short_description": "A circular band worn on the finger as jewelry or a symbol.",
+    "description": "Rings have been worn as ornaments, symbols of status and tokens of commitment for thousands of years. Ancient Egyptians wore rings of gold, stone and faience. The plain band remains the same today in gold, silver, steel and other materials.",
+    "why_unchanged": "A band around the finger is the simplest piece of jewelry, so its form has never changed.",
+    "materials": [
+      "gold",
+      "silver",
+      "stone",
+      "steel",
+      "titanium"
+    ],
+    "faqs": [
+      {
+        "question": "Why are wedding rings worn on the fourth finger?",
+        "answer": "An ancient belief, recorded by Romans, held that a vein ran from that finger to the heart."
+      },
+      {
+        "question": "How old are rings?",
+        "answer": "Rings were worn in Ancient Egypt and Mesopotamia by the 3rd millennium BCE, and simple ones are probably older."
+      },
+      {
+        "question": "What does ring size depend on?",
+        "answer": "It depends on the inner circumference of the band, measured by charts or a ring sizer."
+      }
+    ],
+    "image": {
+      "search_query": "gold rings on a hand",
+      "wikimedia_commons_category": "Rings (jewellery)",
+      "alt": "Gold rings on a hand"
+    },
+    "tags": [
+      "jewelry",
+      "ancient",
+      "gold",
+      "symbol"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "signet-ring",
+    "name": "Signet ring",
+    "category": "Clothing, accessories & sewing",
+    "invention": {
+      "display": "c. 2nd millennium BCE",
+      "year": -1800,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Ancient Egypt and Mesopotamia",
+      "modern_country": "Egypt",
+      "notes": "Signet rings developed from Mesopotamian seals; Egyptian examples are known from the Middle Kingdom; exact dating varies."
+    },
+    "inventor": null,
+    "short_description": "A ring with an engraved face used to stamp a seal in wax or clay.",
+    "description": "Signet rings carried a personal emblem, name or crest used to sign documents by pressing into wax or clay. They were vital for authentication in Egypt, Rome and medieval Europe. Many people still wear signet rings engraved with initials or family crests.",
+    "why_unchanged": "A flat engraved face on a ring is the most portable seal possible, so the design endures.",
+    "materials": [
+      "gold",
+      "silver",
+      "carnelian",
+      "steel"
+    ],
+    "faqs": [
+      {
+        "question": "What is a signet ring for?",
+        "answer": "It was used to stamp a seal on wax or clay to authenticate documents and goods."
+      },
+      {
+        "question": "Are signet rings still used?",
+        "answer": "Today they are mostly worn as decorative or heritage rings, often engraved with initials or crests."
+      },
+      {
+        "question": "What happens to the papal ring?",
+        "answer": "The Pope's Fisherman's Ring is traditionally destroyed or defaced at the end of a papacy to prevent forgery."
+      }
+    ],
+    "image": {
+      "search_query": "gold signet ring engraved crest",
+      "wikimedia_commons_category": "Signet rings",
+      "alt": "A gold signet ring engraved with a crest"
+    },
+    "tags": [
+      "jewelry",
+      "ancient",
+      "seal",
+      "gold"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "bracelet",
+    "name": "Bracelet",
+    "category": "Clothing, accessories & sewing",
+    "invention": {
+      "display": "c. 40,000+ years ago",
+      "year": -40000,
+      "approximate": true,
+      "era": "Prehistoric"
+    },
+    "place_of_invention": {
+      "region": "Altai Mountains, Siberia",
+      "modern_country": "Russia",
+      "notes": "A polished stone bracelet fragment from Denisova Cave is often cited as among the oldest; its age and makers are debated."
+    },
+    "inventor": null,
+    "short_description": "An ornamental band or chain worn around the wrist.",
+    "description": "Bracelets are among humanity's oldest jewelry, made from stone, ivory, shells and later metals. A stone bracelet fragment from Denisova Cave in Siberia is often dated to over 40,000 years ago. Today bracelets range from simple bands to chains and charm bracelets.",
+    "why_unchanged": "A loop around the wrist needs no improvement to fulfill its purpose as an ornament.",
+    "materials": [
+      "stone",
+      "ivory",
+      "gold",
+      "silver",
+      "beads"
+    ],
+    "faqs": [
+      {
+        "question": "How old is the bracelet?",
+        "answer": "Stone and ivory bracelets date back tens of thousands of years, including a find from Denisova Cave in Siberia."
+      },
+      {
+        "question": "What is a charm bracelet?",
+        "answer": "A chain bracelet with small pendants, or charms, each representing a personal memory or interest."
+      },
+      {
+        "question": "What is the difference between a bracelet and a bangle?",
+        "answer": "A bangle is a rigid, closed hoop, while bracelet is a broader term including chains and flexible bands."
+      }
+    ],
+    "image": {
+      "search_query": "silver bracelet on wrist",
+      "wikimedia_commons_category": "Bracelets",
+      "alt": "A silver bracelet on a wrist"
+    },
+    "tags": [
+      "jewelry",
+      "prehistoric",
+      "stone",
+      "accessory"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "bangle",
+    "name": "Bangle",
+    "category": "Clothing, accessories & sewing",
+    "invention": {
+      "display": "c. 2600–1900 BCE",
+      "year": -2500,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Indus Valley",
+      "modern_country": "Pakistan",
+      "notes": "Bangles of shell, terracotta and copper are found at Mohenjo-daro and Harappa; the famous 'Dancing Girl' figurine wears many on one arm."
+    },
+    "inventor": null,
+    "short_description": "A rigid ring-shaped bracelet slipped over the hand.",
+    "description": "Bangles were common in the Indus Valley civilization, made of shell, terracotta and metal. They remain a central part of dress in South Asia, where glass and gold bangles are worn daily and at weddings. Their rigid circular form is unchanged.",
+    "why_unchanged": "A rigid hoop slipped over the hand needs no clasp, so the design has stayed as is.",
+    "materials": [
+      "shell",
+      "terracotta",
+      "glass",
+      "gold",
+      "silver"
+    ],
+    "faqs": [
+      {
+        "question": "Where do bangles come from?",
+        "answer": "They are known from the Indus Valley civilization around 2500 BCE and remain central to South Asian dress."
+      },
+      {
+        "question": "What is the 'Dancing Girl' of Mohenjo-daro?",
+        "answer": "A bronze figurine about 4,500 years old that wears a stack of bangles on one arm."
+      },
+      {
+        "question": "How do you put on a tight bangle?",
+        "answer": "Fold the hand narrow, use lotion or a thin plastic bag, and slide it over with gentle rotation."
+      }
+    ],
+    "image": {
+      "search_query": "stack of glass bangles",
+      "wikimedia_commons_category": "Bangles",
+      "alt": "A stack of colorful glass bangles"
+    },
+    "tags": [
+      "jewelry",
+      "ancient",
+      "indus",
+      "glass"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "bead-necklace",
+    "name": "Bead necklace",
+    "category": "Clothing, accessories & sewing",
+    "invention": {
+      "display": "c. 75,000 years ago",
+      "year": -73000,
+      "approximate": true,
+      "era": "Prehistoric"
+    },
+    "place_of_invention": {
+      "region": "Blombos Cave",
+      "modern_country": "South Africa",
+      "notes": "Pierced Nassarius shell beads from Blombos Cave are among the oldest known; older beads have been reported from Morocco and Israel, so dates are still debated."
+    },
+    "inventor": null,
+    "short_description": "A string of beads worn around the neck.",
+    "description": "Shell beads strung on cords are some of the earliest evidence of symbolic behavior in humans. Necklaces of shells, teeth, stone and later glass and metal appear in cultures worldwide. The basic idea of beads on a string has never changed.",
+    "why_unchanged": "Beads threaded on a cord are endlessly adaptable, so the form needs nothing new.",
+    "materials": [
+      "shell",
+      "stone",
+      "glass",
+      "bone",
+      "metal"
+    ],
+    "faqs": [
+      {
+        "question": "How old are necklaces?",
+        "answer": "Pierced shell beads from Blombos Cave in South Africa are about 75,000 years old, and some finds may be older."
+      },
+      {
+        "question": "Why are ancient beads important?",
+        "answer": "They show early humans used symbols and personal ornament, a key sign of modern behavior."
+      },
+      {
+        "question": "What are seed beads?",
+        "answer": "Very small glass beads used for embroidery, beadwork and fine necklaces."
+      }
+    ],
+    "image": {
+      "search_query": "beaded necklace shells",
+      "wikimedia_commons_category": "Necklaces",
+      "alt": "A necklace of strung shell beads"
+    },
+    "tags": [
+      "jewelry",
+      "prehistoric",
+      "beads",
+      "shell"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "earring",
+    "name": "Earring",
+    "category": "Clothing, accessories & sewing",
+    "invention": {
+      "display": "c. 6000 BCE",
+      "year": -6000,
+      "approximate": true,
+      "era": "Prehistoric"
+    },
+    "place_of_invention": {
+      "region": "Northeast China",
+      "modern_country": "China",
+      "notes": "Jade slit-ring earrings from the Xinglongwa culture in northeast China are among the oldest known; metal earrings appear later, for example in the Royal Tombs of Ur."
+    },
+    "inventor": null,
+    "short_description": "A piece of jewelry worn on the ear, usually through a pierced lobe.",
+    "description": "People have pierced ears for ornament for thousands of years. Jade earrings from Neolithic China and gold hoops from Ur show the practice across early cultures. Studs, hoops and drops remain the basic types.",
+    "why_unchanged": "A small ornament hung through the ear is as simple as jewelry gets, so the form has never changed.",
+    "materials": [
+      "jade",
+      "gold",
+      "silver",
+      "steel",
+      "glass"
+    ],
+    "faqs": [
+      {
+        "question": "How old are earrings?",
+        "answer": "Jade earrings from Neolithic China date to about 8,000 years ago."
+      },
+      {
+        "question": "Which earring types are most common?",
+        "answer": "Studs, hoops and drops (or dangles) are the three classic styles."
+      },
+      {
+        "question": "Which metals are best for sensitive ears?",
+        "answer": "Surgical-grade titanium, niobium and high-karat gold are less likely to cause irritation than nickel-containing alloys."
+      }
+    ],
+    "image": {
+      "search_query": "gold hoop earrings",
+      "wikimedia_commons_category": "Earrings",
+      "alt": "A pair of gold hoop earrings"
+    },
+    "tags": [
+      "jewelry",
+      "prehistoric",
+      "jade",
+      "gold"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "anklet",
+    "name": "Anklet",
+    "category": "Clothing, accessories & sewing",
+    "invention": {
+      "display": "Antiquity",
+      "year": -2500,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Ancient Egypt and Mesopotamia",
+      "modern_country": "Egypt",
+      "notes": "Anklets are depicted and found in early Egyptian and Mesopotamian contexts and are traditional in South Asia; no single origin is known."
+    },
+    "inventor": null,
+    "short_description": "A band or chain worn around the ankle.",
+    "description": "Anklets have been worn for ornament and status in many ancient cultures. In India, payal anklets with small bells are still common. Modern anklets range from simple chains to beaded bands.",
+    "why_unchanged": "A loop around the ankle needs nothing more to be an ornament.",
+    "materials": [
+      "gold",
+      "silver",
+      "beads",
+      "fabric"
+    ],
+    "faqs": [
+      {
+        "question": "How old are anklets?",
+        "answer": "They appear in ancient Egyptian and Mesopotamian contexts more than 4,000 years ago."
+      },
+      {
+        "question": "What is a payal?",
+        "answer": "A traditional South Asian silver anklet, often with small bells that chime when walking."
+      },
+      {
+        "question": "Which ankle do you wear an anklet on?",
+        "answer": "Either ankle; meanings attached to left or right vary by culture and are mostly informal."
+      }
+    ],
+    "image": {
+      "search_query": "silver anklet chain",
+      "wikimedia_commons_category": "Anklets",
+      "alt": "A thin silver anklet on an ankle"
+    },
+    "tags": [
+      "jewelry",
+      "ancient",
+      "silver",
+      "accessory"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "locket",
+    "name": "Locket",
+    "category": "Clothing, accessories & sewing",
+    "invention": {
+      "display": "16th century",
+      "year": 1550,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Europe",
+      "modern_country": "United Kingdom",
+      "notes": "Hinged pendants holding keepsakes developed from medieval reliquary pendants; dating is approximate."
+    },
+    "inventor": null,
+    "short_description": "A hinged pendant that opens to hold a small picture or keepsake.",
+    "description": "Lockets carried portraits, locks of hair or relics close to the heart. They were popular in early modern Europe and especially in the Victorian era as mourning jewelry. Modern lockets still open on a hinge to reveal a photo.",
+    "why_unchanged": "A small hinged case is ideal for carrying a keepsake, so it has not changed.",
+    "materials": [
+      "gold",
+      "silver",
+      "enamel"
+    ],
+    "faqs": [
+      {
+        "question": "What do people keep in lockets?",
+        "answer": "Photos, locks of hair or small notes that have sentimental value."
+      },
+      {
+        "question": "Why were lockets used in mourning?",
+        "answer": "Victorians wore lockets containing a loved one's hair as a remembrance."
+      },
+      {
+        "question": "How did lockets develop?",
+        "answer": "They grew out of medieval reliquary pendants that held religious relics."
+      }
+    ],
+    "image": {
+      "search_query": "vintage gold locket open",
+      "wikimedia_commons_category": "Lockets",
+      "alt": "An open gold locket with a small photo"
+    },
+    "tags": [
+      "jewelry",
+      "early-modern",
+      "keepsake",
+      "gold"
+    ],
+    "confidence": "low"
+  }
+]

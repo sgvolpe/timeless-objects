@@ -1,0 +1,1290 @@
+[
+  {
+    "slug": "fishing-net",
+    "name": "Fishing net",
+    "category": "Outdoor, farming & travel",
+    "invention": {
+      "display": "c. 8300 BCE",
+      "year": -8300,
+      "approximate": true,
+      "era": "Prehistoric"
+    },
+    "place_of_invention": {
+      "region": "Karelia (Antrea)",
+      "modern_country": "Russia",
+      "notes": "The Antrea Net, found in 1913 in what was then Finland and is now Russia, dates to around 8300 BCE and is among the oldest known nets; nets were likely used much earlier."
+    },
+    "inventor": null,
+    "short_description": "A mesh of knotted cord used to catch fish.",
+    "description": "Fishing nets let people catch many fish at once by trapping them in a mesh of knotted cord. The Mesolithic Antrea Net, made from willow bark, shows the technique was well developed over 10,000 years ago. Modern nets use nylon, but the knotted mesh is the same.",
+    "why_unchanged": "A knotted mesh lets water through while holding fish, a principle that only changes in materials and scale.",
+    "materials": [
+      "nylon",
+      "cotton",
+      "hemp",
+      "willow bark"
+    ],
+    "faqs": [
+      {
+        "question": "What is the oldest fishing net?",
+        "answer": "One of the oldest is the Antrea Net from Karelia, made of willow bark about 10,000 years ago."
+      },
+      {
+        "question": "Why does mesh size matter?",
+        "answer": "Mesh size decides which fish are caught; larger mesh lets young fish escape, which is why it is regulated."
+      },
+      {
+        "question": "What knot is used in fishing nets?",
+        "answer": "The sheet bend, often called the netting knot, has been used to tie net meshes for thousands of years."
+      }
+    ],
+    "image": {
+      "search_query": "fishing net drying harbor",
+      "wikimedia_commons_category": "Fishing nets",
+      "alt": "Fishing nets drying on a harbor wall"
+    },
+    "tags": [
+      "fishing",
+      "prehistoric",
+      "cordage"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "cast-net",
+    "name": "Cast net",
+    "category": "Outdoor, farming & travel",
+    "invention": {
+      "display": "Antiquity (date uncertain)",
+      "year": -500,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Mediterranean and Asia",
+      "modern_country": "Unknown",
+      "notes": "Circular weighted throw nets were used in the ancient Mediterranean and Asia; the Roman retiarius gladiator fought with one. The precise origin is unknown."
+    },
+    "inventor": null,
+    "short_description": "A round net weighted at the edge, thrown by hand to catch fish.",
+    "description": "The cast net is a circular net with weights around its edge that opens into a disc when thrown and sinks over fish. Pulling a central line closes it like a bag. It has been used since antiquity and remains common for catching bait and small fish in shallow water.",
+    "why_unchanged": "A weighted circle that spreads in flight and closes when pulled is perfectly suited to hand fishing, so it is unchanged.",
+    "materials": [
+      "nylon",
+      "cotton",
+      "lead"
+    ],
+    "faqs": [
+      {
+        "question": "How do you throw a cast net?",
+        "answer": "The net is gathered over the arm and swung so it spreads into a circle in the air, then sinks over the fish before being pulled closed."
+      },
+      {
+        "question": "What is a cast net used for?",
+        "answer": "It is mainly used to catch bait fish, shrimp and small fish in shallow water."
+      },
+      {
+        "question": "Did Roman gladiators use cast nets?",
+        "answer": "Yes. The retiarius fought with a weighted net, a trident and a dagger, imitating a fisherman."
+      }
+    ],
+    "image": {
+      "search_query": "fisherman throwing cast net",
+      "wikimedia_commons_category": "Cast nets",
+      "alt": "A fisherman throwing a circular cast net over water"
+    },
+    "tags": [
+      "fishing",
+      "nets",
+      "ancient"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "seine-net",
+    "name": "Seine net",
+    "category": "Outdoor, farming & travel",
+    "invention": {
+      "display": "Antiquity (c. 2500 BCE)",
+      "year": -2500,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Ancient Egypt",
+      "modern_country": "Egypt",
+      "notes": "Ancient Egyptian tomb art shows fishermen hauling large nets; seining was probably practiced earlier and elsewhere."
+    },
+    "inventor": null,
+    "short_description": "A long wall-like net, weighted below and floated above, pulled to encircle fish.",
+    "description": "A seine is a long net with floats on top and weights on the bottom that hangs like a wall in the water. Fishermen draw it around a shoal and haul it in to shore or a boat. Beach seining has been practiced since ancient Egypt and is still used worldwide.",
+    "why_unchanged": "Floats and weights keep the net upright while it encircles fish, a simple arrangement that still works for beach and boat fishing.",
+    "materials": [
+      "nylon",
+      "cotton",
+      "cork",
+      "lead"
+    ],
+    "faqs": [
+      {
+        "question": "How does a seine net work?",
+        "answer": "Floats hold the top edge up and weights hold the bottom edge down, so the net forms a wall that is pulled around a group of fish."
+      },
+      {
+        "question": "What is beach seining?",
+        "answer": "It is fishing by laying a seine from a boat and hauling both ends onto the beach by hand."
+      },
+      {
+        "question": "How is a seine different from a cast net?",
+        "answer": "A cast net is thrown by one person, while a seine is a long net set and hauled by a team or a boat."
+      }
+    ],
+    "image": {
+      "search_query": "beach seine net fishermen hauling",
+      "wikimedia_commons_category": "Seine fishing",
+      "alt": "Fishermen hauling a seine net onto a beach"
+    },
+    "tags": [
+      "fishing",
+      "nets",
+      "ancient",
+      "egypt"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "fishing-rod",
+    "name": "Fishing rod",
+    "category": "Outdoor, farming & travel",
+    "invention": {
+      "display": "c. 2000 BCE",
+      "year": -2000,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Ancient Egypt",
+      "modern_country": "Egypt",
+      "notes": "Angling with rods is depicted in ancient Egyptian art; rods were also used early in China, and sources differ on which is earliest."
+    },
+    "inventor": null,
+    "short_description": "A long, flexible pole for casting a baited line and landing fish.",
+    "description": "The fishing rod extends the angler's reach and absorbs the struggle of a hooked fish. Ancient Egyptian, Chinese and Greek sources show anglers using rods with a line tied to the tip. Modern rods are made of carbon fiber and fitted with reels, but the flexible tapered pole is the same.",
+    "why_unchanged": "A long tapered pole gives reach and flex that a hand line cannot, so only materials and fittings have changed.",
+    "materials": [
+      "bamboo",
+      "carbon fiber",
+      "fiberglass",
+      "wood"
+    ],
+    "faqs": [
+      {
+        "question": "How old is fishing with a rod?",
+        "answer": "Rod fishing appears in ancient Egyptian art about 4,000 years ago and is recorded early in China."
+      },
+      {
+        "question": "Why are fishing rods flexible?",
+        "answer": "Flexibility absorbs the sudden pulls of a fish, protecting the line from snapping and helping cast the bait."
+      },
+      {
+        "question": "When were reels added to rods?",
+        "answer": "Reels are recorded in China around the 12th century and became common in Europe in the 17th and 18th centuries."
+      }
+    ],
+    "image": {
+      "search_query": "bamboo fishing rod river angler",
+      "wikimedia_commons_category": "Fishing rods",
+      "alt": "An angler holding a fishing rod at a riverbank"
+    },
+    "tags": [
+      "fishing",
+      "angling",
+      "ancient"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "harpoon",
+    "name": "Harpoon",
+    "category": "Outdoor, farming & travel",
+    "invention": {
+      "display": "c. 88,000 BCE",
+      "year": -88000,
+      "approximate": true,
+      "era": "Prehistoric"
+    },
+    "place_of_invention": {
+      "region": "Katanda, Central Africa",
+      "modern_country": "Democratic Republic of the Congo",
+      "notes": "Barbed bone points from Katanda have been dated to around 90,000 years ago, though this dating has been debated; barbed harpoons are widespread in later Upper Palaeolithic sites."
+    },
+    "inventor": null,
+    "short_description": "A barbed spear attached to a line, used to catch fish and sea mammals.",
+    "description": "The harpoon is a barbed point attached to a line so that a struck animal cannot escape. Bone harpoons are among the oldest known fishing tools, and Arctic peoples developed sophisticated toggling harpoons. Hand harpoons are still used by fishers and Indigenous hunters.",
+    "why_unchanged": "A barbed head tethered to a line holds the catch securely, a principle that has not needed improvement.",
+    "materials": [
+      "bone",
+      "antler",
+      "steel",
+      "wood"
+    ],
+    "faqs": [
+      {
+        "question": "How is a harpoon different from a spear?",
+        "answer": "A harpoon has a detachable or barbed head attached to a line, so the hunter can retrieve the catch, while a spear is simply thrust or thrown."
+      },
+      {
+        "question": "What is a toggling harpoon?",
+        "answer": "It is an Arctic design whose head turns sideways inside the animal after striking, making it very hard to pull out."
+      },
+      {
+        "question": "How old are harpoons?",
+        "answer": "Barbed bone points from Katanda in Central Africa may be around 90,000 years old, though the dating is debated."
+      }
+    ],
+    "image": {
+      "search_query": "bone harpoon point archaeology",
+      "wikimedia_commons_category": "Harpoons",
+      "alt": "A barbed bone harpoon point on display"
+    },
+    "tags": [
+      "fishing",
+      "hunting",
+      "prehistoric",
+      "africa"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "spear",
+    "name": "Spear",
+    "category": "Outdoor, farming & travel",
+    "invention": {
+      "display": "c. 300,000 BCE",
+      "year": -300000,
+      "approximate": true,
+      "era": "Prehistoric"
+    },
+    "place_of_invention": {
+      "region": "Schöningen, Lower Saxony",
+      "modern_country": "Germany",
+      "notes": "Wooden spears from Schöningen are around 300,000 years old; stone points from Kathu Pan, South Africa, may indicate hafted spears up to 500,000 years ago."
+    },
+    "inventor": null,
+    "short_description": "A long shaft with a pointed tip, used for hunting and fishing.",
+    "description": "The spear is one of the oldest hunting tools, beginning as a sharpened wooden pole and later fitted with stone, bronze or iron points. The Schöningen spears show that early humans were hunting large animals with well-balanced throwing spears 300,000 years ago. Spears are still used for fishing and hunting in many parts of the world.",
+    "why_unchanged": "A point on a long shaft extends reach and concentrates force, which is as effective now as it was in the Stone Age.",
+    "materials": [
+      "wood",
+      "stone",
+      "iron",
+      "steel"
+    ],
+    "faqs": [
+      {
+        "question": "What are the oldest known spears?",
+        "answer": "The Schöningen spears from Germany, carved from spruce and pine, are about 300,000 years old."
+      },
+      {
+        "question": "Who made the Schöningen spears?",
+        "answer": "They predate modern humans in Europe and were likely made by Homo heidelbergensis or early Neanderthals."
+      },
+      {
+        "question": "Are spears still used for fishing?",
+        "answer": "Yes. Spearfishing with hand spears and pole spears is still practiced in many coastal and river communities."
+      }
+    ],
+    "image": {
+      "search_query": "wooden fishing spear",
+      "wikimedia_commons_category": "Spears",
+      "alt": "A long wooden spear with a sharpened point"
+    },
+    "tags": [
+      "hunting",
+      "fishing",
+      "prehistoric",
+      "germany"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "fishing-float",
+    "name": "Fishing float",
+    "category": "Outdoor, farming & travel",
+    "invention": {
+      "display": "By 1496 (first documented)",
+      "year": 1496,
+      "approximate": true,
+      "era": "Medieval"
+    },
+    "place_of_invention": {
+      "region": "England",
+      "modern_country": "United Kingdom",
+      "notes": "Floats made of cork and quills are described in the \"Treatyse of Fysshynge wyth an Angle\" printed in 1496; they were probably in use earlier."
+    },
+    "inventor": null,
+    "short_description": "A buoyant marker on a fishing line that holds bait at depth and signals a bite.",
+    "description": "The fishing float, or bobber, keeps bait suspended at a chosen depth and dips or moves when a fish bites. Medieval English anglers made floats of cork and feather quills. Modern floats of balsa and plastic work in exactly the same way.",
+    "why_unchanged": "A small buoyant object on the line is the simplest possible bite indicator, so the idea never needed to change.",
+    "materials": [
+      "cork",
+      "balsa wood",
+      "plastic",
+      "quill"
+    ],
+    "faqs": [
+      {
+        "question": "What does a fishing float do?",
+        "answer": "It holds the bait at a set depth and shows a bite by bobbing, sinking or sliding across the surface."
+      },
+      {
+        "question": "Why is it called a bobber?",
+        "answer": "Because it bobs on the surface when a fish nibbles at the bait."
+      },
+      {
+        "question": "What were early floats made of?",
+        "answer": "A 1496 English angling treatise describes floats made from cork and bird quills."
+      }
+    ],
+    "image": {
+      "search_query": "red and white fishing bobber water",
+      "wikimedia_commons_category": "Fishing floats",
+      "alt": "A red and white fishing float on still water"
+    },
+    "tags": [
+      "fishing",
+      "angling",
+      "medieval"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "fishing-sinker",
+    "name": "Fishing sinker",
+    "category": "Outdoor, farming & travel",
+    "invention": {
+      "display": "Prehistoric (c. 8000 BCE)",
+      "year": -8000,
+      "approximate": true,
+      "era": "Prehistoric"
+    },
+    "place_of_invention": {
+      "region": "Unknown; widespread",
+      "modern_country": "Unknown",
+      "notes": "Grooved and perforated stones used as net and line weights are found at many prehistoric sites; no single origin is known."
+    },
+    "inventor": null,
+    "short_description": "A small weight that sinks a fishing line or net.",
+    "description": "Sinkers pull bait and nets down to where fish feed. Prehistoric fishers used notched or perforated stones, and later cultures used clay and lead. Today's sinkers are made of lead, steel or tungsten but serve the same purpose.",
+    "why_unchanged": "A small dense weight is all that is needed to sink a line, so the concept has not changed.",
+    "materials": [
+      "lead",
+      "stone",
+      "steel",
+      "tungsten"
+    ],
+    "faqs": [
+      {
+        "question": "What is a fishing sinker for?",
+        "answer": "It adds weight to a line or net so the bait or net sinks to the right depth."
+      },
+      {
+        "question": "Why are lead sinkers being replaced?",
+        "answer": "Lost lead sinkers can poison water birds that swallow them, so many places encourage or require alternatives."
+      },
+      {
+        "question": "How do archaeologists identify ancient sinkers?",
+        "answer": "They look for stones with grooves or holes worn by cords, often found in groups near ancient shorelines."
+      }
+    ],
+    "image": {
+      "search_query": "fishing sinkers lead weights",
+      "wikimedia_commons_category": "Fishing sinkers",
+      "alt": "An assortment of fishing sinkers of different shapes"
+    },
+    "tags": [
+      "fishing",
+      "prehistoric",
+      "weights"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "lobster-trap",
+    "name": "Lobster trap",
+    "category": "Outdoor, farming & travel",
+    "invention": {
+      "display": "c. 19th century",
+      "year": 1830,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "North Atlantic coasts of Europe and North America",
+      "modern_country": "Unknown",
+      "notes": "Baited wicker pots were used in Europe earlier; the wooden slatted trap became standard in North America in the 19th century, and wire traps from the late 20th century. Dates are uncertain."
+    },
+    "inventor": null,
+    "short_description": "A baited cage with a funnel entrance that lets lobsters in but not out.",
+    "description": "The lobster trap, or pot, is a baited cage lowered to the sea floor with a funnel-shaped entrance. Lobsters crawl in to reach the bait and struggle to find the way out. Wicker, wooden lath and wire versions have all used the same principle.",
+    "why_unchanged": "A funnel entrance into a baited box is an easy one-way trap, so only the building materials have changed.",
+    "materials": [
+      "wood",
+      "wire mesh",
+      "wicker",
+      "rope"
+    ],
+    "faqs": [
+      {
+        "question": "How does a lobster trap work?",
+        "answer": "Lobsters enter through a funnel to reach bait in the \"kitchen\" chamber and then move into the \"parlor\", from which escape is difficult."
+      },
+      {
+        "question": "Why do traps have escape vents?",
+        "answer": "Regulations often require vents so undersized lobsters can escape, protecting future stocks."
+      },
+      {
+        "question": "How are traps found again?",
+        "answer": "Each trap or string of traps is attached to a rope marked by a buoy painted in the fisher's registered colors."
+      }
+    ],
+    "image": {
+      "search_query": "lobster traps stacked on dock",
+      "wikimedia_commons_category": "Lobster traps",
+      "alt": "Stacked lobster traps on a fishing dock"
+    },
+    "tags": [
+      "fishing",
+      "shellfish",
+      "industrial"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "fish-trap",
+    "name": "Fish trap",
+    "category": "Outdoor, farming & travel",
+    "invention": {
+      "display": "c. 5000 BCE",
+      "year": -5000,
+      "approximate": true,
+      "era": "Prehistoric"
+    },
+    "place_of_invention": {
+      "region": "Northern Europe",
+      "modern_country": "Ireland",
+      "notes": "Mesolithic wicker fish traps have been found in Ireland and Denmark; basket traps were invented independently in many parts of the world."
+    },
+    "inventor": null,
+    "short_description": "A woven basket with a funnel entrance that lets fish swim in but not out.",
+    "description": "Basket fish traps use a cone-shaped entrance that guides fish inside, where they cannot find the narrow way out. Mesolithic wicker traps survive in waterlogged sites in Ireland and Denmark. Almost identical traps are still woven and used on rivers across Asia, Africa and South America.",
+    "why_unchanged": "The funnel entrance exploits how fish swim, so a woven trap works as well today as it did 7,000 years ago.",
+    "materials": [
+      "wicker",
+      "bamboo",
+      "rattan",
+      "wire"
+    ],
+    "faqs": [
+      {
+        "question": "How does a basket fish trap work?",
+        "answer": "Fish swim easily through a wide funnel opening but rarely find the narrow inner opening on the way out."
+      },
+      {
+        "question": "How old are fish traps?",
+        "answer": "Wicker fish traps from Mesolithic Ireland and Denmark are about 7,000 years old."
+      },
+      {
+        "question": "Are basket fish traps still used?",
+        "answer": "Yes. Woven bamboo and rattan traps are common in rivers and rice paddies in Asia and elsewhere."
+      }
+    ],
+    "image": {
+      "search_query": "woven bamboo fish trap",
+      "wikimedia_commons_category": "Fish traps",
+      "alt": "A woven bamboo fish trap with a funnel entrance"
+    },
+    "tags": [
+      "fishing",
+      "basketry",
+      "prehistoric"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "gaff",
+    "name": "Gaff",
+    "category": "Outdoor, farming & travel",
+    "invention": {
+      "display": "Antiquity (date uncertain)",
+      "year": -500,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Unknown; widespread",
+      "modern_country": "Unknown",
+      "notes": "Hooked poles for landing large fish are very old and widespread; no clear origin or date is recorded."
+    },
+    "inventor": null,
+    "short_description": "A pole with a large hook used to land heavy fish.",
+    "description": "A gaff is a strong hook on a handle used to lift a large fish out of the water once it has been brought alongside. Fishers have used similar hooked poles since antiquity. Gaffs are still standard on fishing boats for large species such as tuna.",
+    "why_unchanged": "A sturdy hook on a handle gives a secure grip on a heavy fish, and nothing more is needed.",
+    "materials": [
+      "steel",
+      "aluminum",
+      "wood",
+      "fiberglass"
+    ],
+    "faqs": [
+      {
+        "question": "What is a gaff used for?",
+        "answer": "It is used to lift large fish such as tuna and marlin out of the water and onto a boat."
+      },
+      {
+        "question": "Is a gaff used in catch-and-release fishing?",
+        "answer": "Generally no; a landing net or lip grip is used instead to avoid harming fish that will be released."
+      },
+      {
+        "question": "What does \"gaffer\" have to do with a gaff?",
+        "answer": "They are unrelated; \"gaffer\" comes from \"godfather\" or \"grandfather\" and later came to mean a foreman."
+      }
+    ],
+    "image": {
+      "search_query": "fishing gaff hook boat",
+      "wikimedia_commons_category": "Gaffs (fishing)",
+      "alt": "A fishing gaff with a large steel hook"
+    },
+    "tags": [
+      "fishing",
+      "boats",
+      "ancient"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "artificial-fly",
+    "name": "Artificial fly",
+    "category": "Outdoor, farming & travel",
+    "invention": {
+      "display": "c. 200 CE",
+      "year": 200,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Macedonia",
+      "modern_country": "Greece",
+      "notes": "Claudius Aelian described Macedonian anglers catching fish with red wool and feathers tied to a hook around 200 CE; this is often cited as the earliest record of fly fishing."
+    },
+    "inventor": null,
+    "short_description": "A fishing lure tied from feathers, fur and thread to imitate an insect.",
+    "description": "An artificial fly is a hook dressed with feathers, fur and thread to imitate an insect or small creature. The Roman-era writer Aelian described anglers in Macedonia tying red wool and feathers to hooks, and the 1496 English \"Treatyse\" lists fly patterns. Fly tying is still practiced in the same way with the same materials.",
+    "why_unchanged": "Feathers and thread on a hook mimic insects convincingly, so the craft has remained essentially traditional.",
+    "materials": [
+      "feathers",
+      "fur",
+      "thread",
+      "steel hook"
+    ],
+    "faqs": [
+      {
+        "question": "What is fly fishing?",
+        "answer": "It is angling with an artificial fly cast using a weighted line, often in rivers for trout and salmon."
+      },
+      {
+        "question": "What is the earliest record of fly fishing?",
+        "answer": "Around 200 CE, Aelian described Macedonian fishermen using hooks wrapped in red wool and feathers."
+      },
+      {
+        "question": "What is the difference between a dry fly and a wet fly?",
+        "answer": "A dry fly floats on the surface like a landing insect, while a wet fly sinks below it."
+      }
+    ],
+    "image": {
+      "search_query": "hand tied fishing flies",
+      "wikimedia_commons_category": "Fishing flies",
+      "alt": "Colorful hand-tied fishing flies on a wooden surface"
+    },
+    "tags": [
+      "fishing",
+      "angling",
+      "ancient",
+      "greece"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "spoon-lure",
+    "name": "Spoon lure",
+    "category": "Outdoor, farming & travel",
+    "invention": {
+      "display": "Early 19th century",
+      "year": 1830,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Vermont, New England",
+      "modern_country": "United States",
+      "notes": "Julio T. Buel is often credited with the spoon lure around 1830 and patented a spinner in 1852, but similar metal lures were used earlier in Scandinavia, so the attribution is disputed."
+    },
+    "inventor": null,
+    "short_description": "A curved metal lure that wobbles and flashes like a small fish.",
+    "description": "The spoon is a curved, polished piece of metal with a hook, which wobbles and flashes when pulled through water to imitate a wounded baitfish. Popular legend says it was inspired by a spoon dropped into a lake. Spoons remain one of the most effective and widely sold lures.",
+    "why_unchanged": "A curved metal blade naturally wobbles and reflects light, so no additional mechanism is needed.",
+    "materials": [
+      "steel",
+      "brass",
+      "chrome",
+      "copper"
+    ],
+    "faqs": [
+      {
+        "question": "Why does a spoon lure attract fish?",
+        "answer": "Its curve makes it wobble and flash like a struggling small fish, triggering predators to strike."
+      },
+      {
+        "question": "Was the spoon lure really made from a spoon?",
+        "answer": "A popular story says an American angler saw a fish strike a dropped spoon, but metal lures were also used earlier in Scandinavia."
+      },
+      {
+        "question": "What fish are caught with spoons?",
+        "answer": "Spoons are popular for pike, trout, salmon, bass and many saltwater species."
+      }
+    ],
+    "image": {
+      "search_query": "metal spoon fishing lure",
+      "wikimedia_commons_category": "Spoon lures",
+      "alt": "A shiny metal spoon fishing lure with a treble hook"
+    },
+    "tags": [
+      "fishing",
+      "angling",
+      "industrial"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "duck-decoy",
+    "name": "Duck decoy",
+    "category": "Outdoor, farming & travel",
+    "invention": {
+      "display": "c. 2,000 years ago",
+      "year": -100,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Great Basin (Lovelock Cave, Nevada)",
+      "modern_country": "United States",
+      "notes": "Tule reed decoys found in Lovelock Cave, Nevada, are about 2,000 years old and are among the oldest known decoys."
+    },
+    "inventor": null,
+    "short_description": "A model of a duck placed on water to lure wild birds within reach.",
+    "description": "Duck decoys imitate waterfowl to attract wild ducks, which feel safe landing near their own kind. The oldest known examples were made by Native Americans from tule reeds and feathers and found in Lovelock Cave, Nevada. Carved wooden and molded plastic decoys are still used by hunters and are prized as folk art.",
+    "why_unchanged": "A floating duck shape is enough to reassure passing birds, so the essential form has stayed the same.",
+    "materials": [
+      "wood",
+      "tule reed",
+      "cork",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "How old are duck decoys?",
+        "answer": "The oldest known, made from tule reeds and feathers, are about 2,000 years old and come from Lovelock Cave, Nevada."
+      },
+      {
+        "question": "Why do decoys work?",
+        "answer": "Ducks are social and see other ducks on the water as a sign that a place is safe to land and feed."
+      },
+      {
+        "question": "Are decoys collectible?",
+        "answer": "Yes. Hand-carved antique decoys are valued as American folk art and some have sold for very high prices at auction."
+      }
+    ],
+    "image": {
+      "search_query": "wooden duck decoy",
+      "wikimedia_commons_category": "Duck decoys",
+      "alt": "A carved and painted wooden duck decoy"
+    },
+    "tags": [
+      "hunting",
+      "birds",
+      "folk-art",
+      "ancient"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "snare",
+    "name": "Snare",
+    "category": "Outdoor, farming & travel",
+    "invention": {
+      "display": "Prehistoric (date unknown)",
+      "year": -20000,
+      "approximate": true,
+      "era": "Prehistoric"
+    },
+    "place_of_invention": {
+      "region": "Unknown; worldwide",
+      "modern_country": "Unknown",
+      "notes": "Snares were made from perishable cordage and rarely survive; their use is inferred from animal remains and later ethnographic evidence. The date is a rough estimate."
+    },
+    "inventor": null,
+    "short_description": "A noose of cord or wire that tightens around an animal that passes through it.",
+    "description": "The snare is a loop of cord or wire set along an animal trail so that it tightens when an animal pushes through. Prehistoric hunters likely used snares of plant fiber or sinew to catch small game. Snares are still used for trapping and wildlife management, though their use is regulated in many places.",
+    "why_unchanged": "A self-tightening loop uses the animal's own movement, so the trap needs no improvement.",
+    "materials": [
+      "wire",
+      "cord",
+      "sinew",
+      "plant fiber"
+    ],
+    "faqs": [
+      {
+        "question": "How does a snare work?",
+        "answer": "An animal pushes its head or body through the loop and its forward movement tightens the noose."
+      },
+      {
+        "question": "Are snares legal?",
+        "answer": "Rules vary widely; some countries ban snares entirely, while others regulate their type and use."
+      },
+      {
+        "question": "How do we know prehistoric people used snares?",
+        "answer": "Remains of many small animals at ancient sites suggest trapping, though the cordage itself rarely survives."
+      }
+    ],
+    "image": {
+      "search_query": "wire snare trap",
+      "wikimedia_commons_category": "Snares",
+      "alt": "A simple wire snare set along a trail"
+    },
+    "tags": [
+      "hunting",
+      "trapping",
+      "prehistoric"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "creel",
+    "name": "Creel",
+    "category": "Outdoor, farming & travel",
+    "invention": {
+      "display": "Medieval (date uncertain)",
+      "year": 1300,
+      "approximate": true,
+      "era": "Medieval"
+    },
+    "place_of_invention": {
+      "region": "British Isles",
+      "modern_country": "United Kingdom",
+      "notes": "The word \"creel\" is medieval and associated with Scotland and northern England; wicker baskets for fish are much older and widespread."
+    },
+    "inventor": null,
+    "short_description": "A wicker basket used by anglers to carry their catch.",
+    "description": "The creel is a woven wicker basket, often worn on a shoulder strap, in which anglers carry fish. Its open weave lets air circulate to keep the catch cool. Traditional wicker creels are still made and used, especially in fly fishing.",
+    "why_unchanged": "A ventilated woven basket keeps fish cool and is light to carry, so the traditional design remains in use.",
+    "materials": [
+      "willow",
+      "wicker",
+      "leather",
+      "canvas"
+    ],
+    "faqs": [
+      {
+        "question": "What is a creel?",
+        "answer": "A creel is a wicker basket used by anglers to carry fish, often lined with damp grass or moss to keep the catch cool."
+      },
+      {
+        "question": "Why is a creel made of wicker?",
+        "answer": "Wicker lets air circulate and allows water to evaporate, which keeps fish cooler than a closed container."
+      },
+      {
+        "question": "Does \"creel\" mean anything else?",
+        "answer": "In Scotland and Ireland a creel can also mean a basket for carrying peat or a trap for crabs and lobsters."
+      }
+    ],
+    "image": {
+      "search_query": "wicker fishing creel",
+      "wikimedia_commons_category": "Creels",
+      "alt": "A wicker fishing creel with a leather strap"
+    },
+    "tags": [
+      "fishing",
+      "basketry",
+      "medieval"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "compass",
+    "name": "Compass",
+    "category": "Outdoor, farming & travel",
+    "invention": {
+      "display": "11th century",
+      "year": 1088,
+      "approximate": true,
+      "era": "Medieval"
+    },
+    "place_of_invention": {
+      "region": "Song dynasty China",
+      "modern_country": "China",
+      "notes": "Shen Kuo described a magnetized needle compass in 1088, and its use at sea is recorded by about 1117; earlier Chinese lodestone \"south-pointers\" are debated."
+    },
+    "inventor": null,
+    "short_description": "A magnetized needle that points north for direction-finding.",
+    "description": "The magnetic compass uses a magnetized needle that aligns with Earth's magnetic field. Chinese scholars described it in the 11th century, and it spread to Europe and the Islamic world by the late 12th century, transforming navigation. A pivoted needle in a marked case is still the standard hiking and backup navigation tool.",
+    "why_unchanged": "A free-floating magnetized needle needs no power and always points north, so its core has never changed.",
+    "materials": [
+      "steel",
+      "brass",
+      "plastic",
+      "glass"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the compass?",
+        "answer": "It was developed in China; Shen Kuo described a needle compass in 1088, and Chinese sailors used compasses by around 1117."
+      },
+      {
+        "question": "Does a compass point to the North Pole?",
+        "answer": "It points to magnetic north, which differs from true north; the difference is called magnetic declination."
+      },
+      {
+        "question": "Why is liquid inside some compasses?",
+        "answer": "Liquid dampens the needle so it settles quickly instead of swinging back and forth."
+      }
+    ],
+    "image": {
+      "search_query": "magnetic compass on map",
+      "wikimedia_commons_category": "Compasses",
+      "alt": "A magnetic compass resting on a topographic map"
+    },
+    "tags": [
+      "navigation",
+      "travel",
+      "medieval",
+      "china"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "sundial",
+    "name": "Sundial",
+    "category": "Outdoor, farming & travel",
+    "invention": {
+      "display": "c. 1500 BCE",
+      "year": -1500,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Ancient Egypt",
+      "modern_country": "Egypt",
+      "notes": "Egyptian shadow clocks from around 1500 BCE are among the earliest known; Babylonian astronomers also measured time by shadows."
+    },
+    "inventor": null,
+    "short_description": "A device that tells time by the shadow of a pointer cast by the sun.",
+    "description": "A sundial uses a pointer, called a gnomon, to cast a shadow on a marked surface that shows the hour. Egyptian shadow clocks are among the earliest, and Greek and Roman sundials refined the design. Sundials still decorate gardens and public squares and keep time accurately when properly set.",
+    "why_unchanged": "The sun's motion is constant, so a fixed pointer and marked dial will always tell solar time without any mechanism.",
+    "materials": [
+      "stone",
+      "bronze",
+      "brass",
+      "slate"
+    ],
+    "faqs": [
+      {
+        "question": "How does a sundial work?",
+        "answer": "The gnomon casts a shadow that moves across hour markings as the sun crosses the sky."
+      },
+      {
+        "question": "Why must the gnomon point north?",
+        "answer": "For an accurate reading, the gnomon must be parallel to Earth's axis, pointing to the celestial pole."
+      },
+      {
+        "question": "Why does a sundial differ from my watch?",
+        "answer": "Sundials show local solar time, which differs from clock time because of time zones, daylight saving time and the equation of time."
+      }
+    ],
+    "image": {
+      "search_query": "garden sundial shadow",
+      "wikimedia_commons_category": "Sundials",
+      "alt": "A stone garden sundial casting a shadow"
+    },
+    "tags": [
+      "timekeeping",
+      "astronomy",
+      "ancient",
+      "egypt"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "hourglass",
+    "name": "Hourglass",
+    "category": "Outdoor, farming & travel",
+    "invention": {
+      "display": "c. 1338",
+      "year": 1338,
+      "approximate": true,
+      "era": "Medieval"
+    },
+    "place_of_invention": {
+      "region": "Siena, Italy",
+      "modern_country": "Italy",
+      "notes": "The first clear depiction appears in Ambrogio Lorenzetti's fresco \"Allegory of Good and Bad Government\" of 1338; earlier origins are possible but unproven."
+    },
+    "inventor": null,
+    "short_description": "Two glass bulbs connected by a narrow neck through which sand flows to measure time.",
+    "description": "The hourglass measures a fixed interval as sand flows from the upper bulb to the lower one. It appears in 14th-century Europe and was used on ships to time the log line, in churches for sermons and in kitchens. It is still used for games, cooking and as a symbol of passing time.",
+    "why_unchanged": "Sand flows at a steady rate regardless of the amount above it, making the sealed glass timer reliable without any moving parts.",
+    "materials": [
+      "glass",
+      "sand",
+      "wood",
+      "brass"
+    ],
+    "faqs": [
+      {
+        "question": "When was the hourglass invented?",
+        "answer": "The earliest clear image comes from a 1338 fresco in Siena, Italy, though the device may be somewhat older."
+      },
+      {
+        "question": "Why were hourglasses used on ships?",
+        "answer": "Unlike pendulum clocks, they worked on a rolling ship, timing watches and helping measure speed with the log line."
+      },
+      {
+        "question": "Does an hourglass always measure an hour?",
+        "answer": "No. They are made for many intervals, from a few seconds to several hours."
+      }
+    ],
+    "image": {
+      "search_query": "sand hourglass wooden frame",
+      "wikimedia_commons_category": "Hourglasses",
+      "alt": "A sand hourglass in a wooden frame"
+    },
+    "tags": [
+      "timekeeping",
+      "glass",
+      "medieval",
+      "italy"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "water-clock",
+    "name": "Water clock",
+    "category": "Outdoor, farming & travel",
+    "invention": {
+      "display": "c. 1400 BCE",
+      "year": -1400,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Ancient Egypt",
+      "modern_country": "Egypt",
+      "notes": "The oldest surviving water clock, from Karnak, dates to the reign of Amenhotep III; Babylonian texts suggest water clocks may be even older."
+    },
+    "inventor": null,
+    "short_description": "A vessel that measures time by the steady flow of water.",
+    "description": "The water clock, or clepsydra, measures time by water dripping out of or into a marked vessel. The oldest surviving example comes from the temple of Karnak in Egypt. Athenian courts used water clocks to time speeches, and simple outflow bowls were used for irrigation timing until recently.",
+    "why_unchanged": "Water flowing through a small hole is a steady, natural timer, and the marked vessel is all that is needed to read it.",
+    "materials": [
+      "stone",
+      "clay",
+      "bronze",
+      "copper"
+    ],
+    "faqs": [
+      {
+        "question": "What is a clepsydra?",
+        "answer": "Clepsydra is the Greek name for a water clock, meaning \"water thief\"."
+      },
+      {
+        "question": "How were water clocks used in ancient Athens?",
+        "answer": "Law courts used them to limit how long each speaker could talk."
+      },
+      {
+        "question": "Are water clocks still used?",
+        "answer": "Floating bowls with a small hole that sink at a set rate have been used to share irrigation water in places such as Iran and Oman."
+      }
+    ],
+    "image": {
+      "search_query": "ancient egyptian water clock clepsydra",
+      "wikimedia_commons_category": "Water clocks",
+      "alt": "A stone outflow water clock with markings inside"
+    },
+    "tags": [
+      "timekeeping",
+      "water",
+      "ancient",
+      "egypt"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "sextant",
+    "name": "Sextant",
+    "category": "Outdoor, farming & travel",
+    "invention": {
+      "display": "1757",
+      "year": 1757,
+      "approximate": false,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "England",
+      "modern_country": "United Kingdom",
+      "notes": "The sextant was developed in 1757 by John Campbell, extending the reflecting octant created independently by John Hadley in England and Thomas Godfrey in Philadelphia in 1731."
+    },
+    "inventor": null,
+    "short_description": "A navigation instrument that measures the angle between a celestial body and the horizon.",
+    "description": "The sextant uses two mirrors to bring the image of the sun or a star level with the horizon, measuring the angle between them. With an accurate time and tables, navigators can calculate their position at sea. Despite GPS, sextants are still carried as a backup and taught in navy training.",
+    "why_unchanged": "Its double-reflection optics give precise angles from a moving deck, and no simpler instrument can do the same without electronics.",
+    "materials": [
+      "brass",
+      "aluminum",
+      "glass"
+    ],
+    "faqs": [
+      {
+        "question": "Why is it called a sextant?",
+        "answer": "Its arc is one-sixth of a circle, or 60 degrees, though the double reflection lets it measure angles up to 120 degrees."
+      },
+      {
+        "question": "Are sextants still used?",
+        "answer": "Yes. Navies, sailors and pilots still learn celestial navigation with sextants as a backup to satellite systems."
+      },
+      {
+        "question": "What do you need besides a sextant to find your position?",
+        "answer": "An accurate clock and nautical almanac tables are needed to turn the measured angle into latitude and longitude."
+      }
+    ],
+    "image": {
+      "search_query": "brass marine sextant",
+      "wikimedia_commons_category": "Sextants",
+      "alt": "A brass marine sextant on a chart table"
+    },
+    "tags": [
+      "navigation",
+      "sailing",
+      "early-modern",
+      "england"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "refracting-telescope",
+    "name": "Refracting telescope",
+    "category": "Outdoor, farming & travel",
+    "invention": {
+      "display": "1608",
+      "year": 1608,
+      "approximate": false,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Middelburg, Dutch Republic",
+      "modern_country": "Netherlands",
+      "notes": "Hans Lipperhey filed the first known patent application for a telescope in 1608; Jacob Metius and Zacharias Janssen also claimed the invention."
+    },
+    "inventor": "Hans Lipperhey",
+    "short_description": "A tube with lenses that makes distant objects appear closer.",
+    "description": "The refracting telescope uses an objective lens to gather light and an eyepiece to magnify the image. Dutch spectacle maker Hans Lipperhey applied for a patent in 1608, and Galileo turned the instrument to the sky a year later. Handheld spyglasses and refractors for birdwatching and astronomy still use the same lens-in-a-tube design.",
+    "why_unchanged": "Two lenses in a tube are the simplest way to magnify distant objects, and improvements have been in glass quality rather than design.",
+    "materials": [
+      "glass",
+      "brass",
+      "aluminum",
+      "leather"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the telescope?",
+        "answer": "Hans Lipperhey filed the first known patent application in 1608, though Jacob Metius and Zacharias Janssen also claimed it."
+      },
+      {
+        "question": "Did Galileo invent the telescope?",
+        "answer": "No. Galileo built his own improved version in 1609 after hearing of the Dutch invention and was the first to publish astronomical discoveries with it."
+      },
+      {
+        "question": "What is the difference between a refractor and a reflector?",
+        "answer": "A refractor uses lenses to gather light, while a reflecting telescope, invented later by Newton and others, uses mirrors."
+      }
+    ],
+    "image": {
+      "search_query": "brass spyglass telescope",
+      "wikimedia_commons_category": "Refracting telescopes",
+      "alt": "A brass refracting telescope on a tripod"
+    },
+    "tags": [
+      "navigation",
+      "astronomy",
+      "optics",
+      "early-modern",
+      "netherlands"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "weather-vane",
+    "name": "Weather vane",
+    "category": "Outdoor, farming & travel",
+    "invention": {
+      "display": "c. 50 BCE",
+      "year": -50,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Athens",
+      "modern_country": "Greece",
+      "notes": "The Tower of the Winds in Athens, built by Andronicus of Cyrrhus around 50 BCE, carried a bronze Triton weather vane, the earliest well-documented example; Chinese sources describe wind vanes from around the same era."
+    },
+    "inventor": null,
+    "short_description": "A pivoting rooftop figure that turns to show the direction of the wind.",
+    "description": "A weather vane is a flat figure on a pivot that swings so its pointer faces into the wind. The Tower of the Winds in Athens had a bronze Triton vane, and medieval churches adopted the rooster weathercock. Farmers and sailors still read weather vanes, which remain popular on barns and houses.",
+    "why_unchanged": "A balanced pointer with a broad tail always swings into the wind with no power or calibration, so the design is unchanged.",
+    "materials": [
+      "copper",
+      "iron",
+      "steel",
+      "brass"
+    ],
+    "faqs": [
+      {
+        "question": "How does a weather vane work?",
+        "answer": "The tail has more surface area than the pointer, so the wind pushes it away and the pointer turns to face where the wind is coming from."
+      },
+      {
+        "question": "Why are roosters common on weather vanes?",
+        "answer": "A 9th-century papal decree is often said to have encouraged roosters on church steeples as a symbol of St Peter, and the weathercock became traditional."
+      },
+      {
+        "question": "What is the oldest known weather vane?",
+        "answer": "The bronze Triton atop the Tower of the Winds in Athens, around 50 BCE, is the earliest well-documented example."
+      }
+    ],
+    "image": {
+      "search_query": "rooster weather vane on roof",
+      "wikimedia_commons_category": "Weather vanes",
+      "alt": "A copper rooster weather vane on a barn roof"
+    },
+    "tags": [
+      "weather",
+      "farming",
+      "ancient",
+      "greece"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "rain-gauge",
+    "name": "Rain gauge",
+    "category": "Outdoor, farming & travel",
+    "invention": {
+      "display": "1441",
+      "year": 1441,
+      "approximate": false,
+      "era": "Medieval"
+    },
+    "place_of_invention": {
+      "region": "Joseon Korea",
+      "modern_country": "South Korea",
+      "notes": "Standardized rain gauges were distributed across Korea in 1441 under King Sejong, with credit variously given to Crown Prince Munjong and Jang Yeong-sil; earlier rainfall measurement is mentioned in ancient India and Greece."
+    },
+    "inventor": null,
+    "short_description": "An open cylinder that collects rain to measure how much has fallen.",
+    "description": "A rain gauge is an open container that collects rainfall so its depth can be measured. Korea's Joseon court distributed standardized bronze gauges across the country in 1441 to record rainfall for agriculture. Today's manual gauges are still simple graduated cylinders used by farmers and weather networks.",
+    "why_unchanged": "An open cylinder of known size gives a direct, reliable measure of rain, so electronic gauges still follow the same principle.",
+    "materials": [
+      "plastic",
+      "glass",
+      "bronze",
+      "copper"
+    ],
+    "faqs": [
+      {
+        "question": "Who made the first standardized rain gauge?",
+        "answer": "Korea's Joseon dynasty distributed standard rain gauges nationwide in 1441 during the reign of King Sejong."
+      },
+      {
+        "question": "How is rainfall measured with a gauge?",
+        "answer": "The depth of water collected in the cylinder is read in millimeters or inches, often after a funnel magnifies it for accuracy."
+      },
+      {
+        "question": "Why do farmers use rain gauges?",
+        "answer": "Knowing how much rain has fallen helps decide when to irrigate, plant and harvest."
+      }
+    ],
+    "image": {
+      "search_query": "garden rain gauge",
+      "wikimedia_commons_category": "Rain gauges",
+      "alt": "A clear plastic rain gauge on a post in a garden"
+    },
+    "tags": [
+      "weather",
+      "farming",
+      "medieval",
+      "korea"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "mercury-barometer",
+    "name": "Mercury barometer",
+    "category": "Outdoor, farming & travel",
+    "invention": {
+      "display": "1643",
+      "year": 1643,
+      "approximate": false,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Florence",
+      "modern_country": "Italy",
+      "notes": "Evangelista Torricelli is credited with the first mercury barometer in 1643, building on work by Gasparo Berti."
+    },
+    "inventor": "Evangelista Torricelli",
+    "short_description": "A glass tube of mercury whose height shows atmospheric pressure.",
+    "description": "Torricelli filled a glass tube with mercury and upended it in a dish, finding that the column settled at about 76 cm, held up by the weight of the atmosphere. Changes in that height predict changes in the weather. Mercury barometers of the same design were standard for centuries and are still made as precision instruments, although mercury restrictions limit their sale.",
+    "why_unchanged": "A column of mercury balanced against the air is a direct, absolute measure of pressure that needs no calibration, so the design was perfect from the start.",
+    "materials": [
+      "glass",
+      "mercury",
+      "wood",
+      "brass"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the barometer?",
+        "answer": "Evangelista Torricelli made the first mercury barometer in Florence in 1643."
+      },
+      {
+        "question": "How can a barometer predict the weather?",
+        "answer": "Falling pressure often signals approaching storms, while rising pressure usually means fair weather."
+      },
+      {
+        "question": "Why is pressure measured in \"millimeters of mercury\"?",
+        "answer": "The unit comes directly from the height of the mercury column in Torricelli's barometer."
+      }
+    ],
+    "image": {
+      "search_query": "antique mercury barometer",
+      "wikimedia_commons_category": "Mercury barometers",
+      "alt": "A wall-mounted mercury barometer with a wooden case"
+    },
+    "tags": [
+      "weather",
+      "science",
+      "early-modern",
+      "italy"
+    ],
+    "confidence": "high"
+  }
+]

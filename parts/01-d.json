@@ -1,0 +1,1264 @@
+[
+  {
+    "slug": "pizza-cutter",
+    "name": "Pizza cutter",
+    "category": "Kitchen & cooking",
+    "invention": {
+      "display": "20th century",
+      "year": 1950,
+      "approximate": true,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "United States",
+      "modern_country": "United States",
+      "notes": "Rolling pastry wheels are much older; the large-wheel pizza cutter spread with pizzerias in the mid-20th century. Inventor claims are disputed."
+    },
+    "inventor": null,
+    "short_description": "A sharp rotating disc on a handle used to slice pizza.",
+    "description": "The pizza cutter adapts the old pastry wheel with a larger, sharper disc. It spread with the pizzeria boom of the mid-20th century, letting cooks slice through crust and toppings without dragging them. The wheel-and-handle design is the same in homes and restaurants.",
+    "why_unchanged": "A rolling blade slices without pulling toppings, so the simple wheel remains the best solution.",
+    "materials": [
+      "stainless steel",
+      "plastic",
+      "wood"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the pizza cutter?",
+        "answer": "No inventor is clearly credited; it evolved from the much older pastry wheel."
+      },
+      {
+        "question": "Why use a wheel rather than a knife?",
+        "answer": "A rolling blade cuts with downward pressure and does not drag cheese and toppings."
+      },
+      {
+        "question": "What other cutters do pizzerias use?",
+        "answer": "Many use a rocking blade, similar to a large mezzaluna, to cut a pizza in one motion."
+      }
+    ],
+    "image": {
+      "search_query": "pizza cutter wheel",
+      "wikimedia_commons_category": "Pizza cutters",
+      "alt": "A pizza cutter wheel slicing a pizza"
+    },
+    "tags": [
+      "pizza",
+      "cutting",
+      "20th century"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "bundt-pan",
+    "name": "Bundt pan",
+    "category": "Kitchen & cooking",
+    "invention": {
+      "display": "1950",
+      "year": 1950,
+      "approximate": false,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "Minneapolis, Minnesota",
+      "modern_country": "United States",
+      "notes": "H. David Dalquist of Nordic Ware designed the pan in 1950, inspired by the traditional European Gugelhupf mold, and trademarked the name Bundt."
+    },
+    "inventor": "H. David Dalquist",
+    "short_description": "A fluted ring-shaped cake pan with a central tube.",
+    "description": "In 1950 H. David Dalquist of Nordic Ware made a cast-aluminum version of the traditional Gugelhupf mold for a Minneapolis women's society. It became a bestseller after a Bundt cake placed in the 1966 Pillsbury Bake-Off. The original fluted design is still produced today.",
+    "why_unchanged": "The central tube lets dense batter bake evenly and the flutes give a decorative finish, so nothing needs changing.",
+    "materials": [
+      "cast aluminum",
+      "nonstick coating"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the Bundt pan?",
+        "answer": "H. David Dalquist of Nordic Ware created it in 1950."
+      },
+      {
+        "question": "Why does a Bundt pan have a hole in the middle?",
+        "answer": "The tube conducts heat to the center so dense cakes bake through evenly."
+      },
+      {
+        "question": "Is 'Bundt' a brand name?",
+        "answer": "Yes, Bundt is a trademark of Nordic Ware, though it is often used generically."
+      }
+    ],
+    "image": {
+      "search_query": "bundt pan cake",
+      "wikimedia_commons_category": "Bundt cakes",
+      "alt": "A fluted Bundt pan with a ring cake"
+    },
+    "tags": [
+      "baking",
+      "cake",
+      "20th century"
+    ],
+    "confidence": "high"
+  },
+  {
+    "slug": "springform-pan",
+    "name": "Springform pan",
+    "category": "Kitchen & cooking",
+    "invention": {
+      "display": "Late 19th century",
+      "year": 1890,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Europe",
+      "modern_country": "Various",
+      "notes": "Pans with removable sides were used for cheesecakes and tortes in Europe; the exact origin and inventor are not documented."
+    },
+    "inventor": null,
+    "short_description": "A round cake pan with a removable base and a side ring released by a clamp.",
+    "description": "The springform pan has a flat base held inside a ring that opens with a latch. When unlatched, the ring expands and lifts away, leaving delicate cakes intact. It is essential for cheesecakes, tortes and mousse cakes and has kept the same latch design.",
+    "why_unchanged": "Removable sides free delicate cakes without inverting them, which no other design does as simply.",
+    "materials": [
+      "steel",
+      "aluminum",
+      "nonstick coating"
+    ],
+    "faqs": [
+      {
+        "question": "What is a springform pan used for?",
+        "answer": "Cheesecakes, tortes, tarts and layered mousse cakes that cannot be turned out."
+      },
+      {
+        "question": "How do I stop it leaking?",
+        "answer": "Wrap the outside in foil or place it on a baking sheet when the batter is thin."
+      },
+      {
+        "question": "Why is it called springform?",
+        "answer": "The name comes from German and refers to the spring-like latch that opens the ring."
+      }
+    ],
+    "image": {
+      "search_query": "springform pan cheesecake",
+      "wikimedia_commons_category": "Springform pans",
+      "alt": "A springform pan with a cheesecake"
+    },
+    "tags": [
+      "baking",
+      "cake",
+      "cheesecake"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "waffle-iron",
+    "name": "Waffle iron",
+    "category": "Kitchen & cooking",
+    "invention": {
+      "display": "14th century",
+      "year": 1350,
+      "approximate": true,
+      "era": "Medieval"
+    },
+    "place_of_invention": {
+      "region": "Low Countries and Western Europe",
+      "modern_country": "Belgium / Netherlands / France",
+      "notes": "Hinged wafer irons were used in medieval Europe; Cornelius Swartwout received a US patent for a stovetop waffle iron in 1869."
+    },
+    "inventor": null,
+    "short_description": "A pair of hinged, patterned metal plates used to bake batter into waffles.",
+    "description": "Medieval European bakers made thin wafers between hinged iron plates, often engraved with religious images or coats of arms. Deeper grid plates produced the waffles of the Low Countries. Electric irons arrived in the 20th century, but the hinged patterned plates are the same idea.",
+    "why_unchanged": "Two hot hinged plates bake both sides at once and imprint the pattern, so the concept stays unchanged.",
+    "materials": [
+      "cast iron",
+      "aluminum",
+      "steel"
+    ],
+    "faqs": [
+      {
+        "question": "How old is the waffle iron?",
+        "answer": "Hinged wafer irons were used in medieval Europe, at least by the 14th century."
+      },
+      {
+        "question": "Why do waffles have a grid pattern?",
+        "answer": "The grid creates pockets that crisp the batter and hold syrup and butter."
+      },
+      {
+        "question": "What is a stovetop waffle iron?",
+        "answer": "A hinged iron with long handles that is turned over a burner, patented in the US in 1869."
+      }
+    ],
+    "image": {
+      "search_query": "cast iron waffle iron",
+      "wikimedia_commons_category": "Waffle irons",
+      "alt": "A cast-iron waffle iron with a waffle"
+    },
+    "tags": [
+      "baking",
+      "waffles",
+      "medieval"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "toasting-fork",
+    "name": "Toasting fork",
+    "category": "Kitchen & cooking",
+    "invention": {
+      "display": "17th century",
+      "year": 1650,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Europe",
+      "modern_country": "United Kingdom",
+      "notes": "Long-handled forks for toasting bread before an open fire were common in British and European homes; exact origin is undocumented."
+    },
+    "inventor": null,
+    "short_description": "A long-handled fork used to hold bread or marshmallows over a fire.",
+    "description": "Before electric toasters, bread was toasted by holding it on a long-handled fork before an open fire. Toasting forks were common household objects in Britain from at least the 17th century. Campfire roasting sticks for marshmallows and sausages continue the same design.",
+    "why_unchanged": "A long handle keeps hands from the heat, which is still the only requirement.",
+    "materials": [
+      "iron",
+      "brass",
+      "stainless steel",
+      "wood"
+    ],
+    "faqs": [
+      {
+        "question": "How did people make toast before toasters?",
+        "answer": "They held bread on a toasting fork in front of an open fire."
+      },
+      {
+        "question": "Are toasting forks still used?",
+        "answer": "Yes, with fireplaces and campfires, and for roasting marshmallows."
+      },
+      {
+        "question": "Why are some toasting forks telescopic?",
+        "answer": "Extendable handles keep the user farther from intense heat and fold for storage."
+      }
+    ],
+    "image": {
+      "search_query": "toasting fork fireplace bread",
+      "wikimedia_commons_category": "Toasting forks",
+      "alt": "Bread on a toasting fork before a fire"
+    },
+    "tags": [
+      "toast",
+      "fireplace",
+      "bread"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "banneton",
+    "name": "Banneton",
+    "category": "Kitchen & cooking",
+    "invention": {
+      "display": "19th century or earlier",
+      "year": 1850,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "France and Germany",
+      "modern_country": "France / Germany",
+      "notes": "Woven proofing baskets are traditional in French and German baking; their exact origin is not documented."
+    },
+    "inventor": null,
+    "short_description": "A woven cane or wicker basket used to support bread dough while it rises.",
+    "description": "Bannetons, called Gärkörbchen in German, support soft dough during its final rise so it keeps its shape. Flour dusted inside the basket leaves a distinctive spiral pattern on the loaf. Artisan bakers still use the same rattan or cane baskets.",
+    "why_unchanged": "Woven cane wicks moisture and holds shape perfectly, so bakers have never needed an alternative.",
+    "materials": [
+      "rattan",
+      "cane",
+      "wood pulp",
+      "linen"
+    ],
+    "faqs": [
+      {
+        "question": "What is a banneton for?",
+        "answer": "It holds shaped dough during proofing so the loaf keeps its form."
+      },
+      {
+        "question": "How do I prevent sticking?",
+        "answer": "Dust the basket generously with rice flour, which absorbs less moisture than wheat flour."
+      },
+      {
+        "question": "Do I bake bread in the banneton?",
+        "answer": "No, the dough is turned out onto a peel or tray before baking."
+      }
+    ],
+    "image": {
+      "search_query": "banneton proofing basket sourdough",
+      "wikimedia_commons_category": "Bannetons",
+      "alt": "A rattan banneton with sourdough dough"
+    },
+    "tags": [
+      "baking",
+      "bread",
+      "sourdough"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "dough-docker",
+    "name": "Dough docker",
+    "category": "Kitchen & cooking",
+    "invention": {
+      "display": "19th century",
+      "year": 1850,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Europe and North America",
+      "modern_country": "Various",
+      "notes": "Docking tools are associated with commercial baking of crackers, ship's biscuits and flatbreads; origin undocumented."
+    },
+    "inventor": null,
+    "short_description": "A roller or stamp with spikes used to prick holes in dough.",
+    "description": "Bakers prick dough so steam can escape and the crust bakes flat without bubbling. Docking has long been used for crackers and ship's biscuits, and spiked rollers make the job quick for pizza and pastry. The roller-with-spikes design is unchanged.",
+    "why_unchanged": "Rows of spikes vent dough evenly in one pass, which is all docking requires.",
+    "materials": [
+      "plastic",
+      "stainless steel",
+      "wood"
+    ],
+    "faqs": [
+      {
+        "question": "Why dock dough?",
+        "answer": "Holes let steam escape so crusts and crackers bake flat without bubbles."
+      },
+      {
+        "question": "Can I use a fork instead?",
+        "answer": "Yes, a fork works, but a docker is faster for large batches."
+      },
+      {
+        "question": "What breads are docked?",
+        "answer": "Crackers, pizza bases, matzo and pastry shells are commonly docked."
+      }
+    ],
+    "image": {
+      "search_query": "dough docker roller pizza",
+      "wikimedia_commons_category": "Dough dockers",
+      "alt": "A spiked dough docker rolling over pastry"
+    },
+    "tags": [
+      "baking",
+      "dough",
+      "pizza"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "tortilla-press",
+    "name": "Tortilla press",
+    "category": "Kitchen & cooking",
+    "invention": {
+      "display": "Early 20th century",
+      "year": 1900,
+      "approximate": true,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "Mexico",
+      "modern_country": "Mexico",
+      "notes": "Hand-patting tortillas is ancient; metal and wooden lever presses became common in the 20th century. No inventor is credited."
+    },
+    "inventor": null,
+    "short_description": "A hinged press with two flat plates used to flatten balls of masa into tortillas.",
+    "description": "For millennia, tortillas were patted out by hand. Hinged presses of wood and later cast iron or aluminum became common in 20th-century Mexico. A ball of masa is placed between the plates and a lever presses it into a thin, round tortilla.",
+    "why_unchanged": "Two flat plates and a lever produce even rounds instantly, so the press needs no change.",
+    "materials": [
+      "cast iron",
+      "aluminum",
+      "wood"
+    ],
+    "faqs": [
+      {
+        "question": "How do you use a tortilla press?",
+        "answer": "Place a masa ball between two sheets of plastic, close the plates and press the lever."
+      },
+      {
+        "question": "Why use plastic sheets?",
+        "answer": "They stop the dough sticking to the plates and make it easy to peel off."
+      },
+      {
+        "question": "Can it press flour tortillas?",
+        "answer": "It works best for corn masa; flour dough tends to spring back."
+      }
+    ],
+    "image": {
+      "search_query": "cast iron tortilla press",
+      "wikimedia_commons_category": "Tortilla presses",
+      "alt": "A cast-iron tortilla press with masa"
+    },
+    "tags": [
+      "mexican",
+      "tortilla",
+      "lever"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "sushi-rolling-mat",
+    "name": "Sushi rolling mat",
+    "category": "Kitchen & cooking",
+    "invention": {
+      "display": "18th century",
+      "year": 1750,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Japan (Edo period)",
+      "modern_country": "Japan",
+      "notes": "Rolled sushi (makizushi) appears in the Edo period; the bamboo mat is assumed to date from the same era."
+    },
+    "inventor": null,
+    "short_description": "A mat of thin bamboo slats tied with string, used to roll sushi.",
+    "description": "The makisu is a mat of bamboo sticks woven together with cotton string, used to shape makizushi. Rolled sushi appeared in Japan during the Edo period. Pressing the mat around rice and filling gives a tight, even cylinder.",
+    "why_unchanged": "Bamboo slats bend in one direction while staying firm, making them ideal for rolling.",
+    "materials": [
+      "bamboo",
+      "cotton string"
+    ],
+    "faqs": [
+      {
+        "question": "What is a makisu?",
+        "answer": "It is the Japanese name for the bamboo mat used to roll sushi."
+      },
+      {
+        "question": "Why wrap the mat in plastic wrap?",
+        "answer": "It keeps rice from sticking, especially for inside-out rolls."
+      },
+      {
+        "question": "What else can it be used for?",
+        "answer": "Shaping rolled omelettes and squeezing water from cooked vegetables."
+      }
+    ],
+    "image": {
+      "search_query": "bamboo sushi rolling mat makisu",
+      "wikimedia_commons_category": "Makisu",
+      "alt": "A bamboo sushi mat rolling maki"
+    },
+    "tags": [
+      "japanese",
+      "sushi",
+      "bamboo"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "citrus-reamer",
+    "name": "Citrus reamer",
+    "category": "Kitchen & cooking",
+    "invention": {
+      "display": "19th century",
+      "year": 1850,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Europe and North America",
+      "modern_country": "Various",
+      "notes": "Wooden and glass reamers were widely used by the 19th century; many US patents for juicers followed."
+    },
+    "inventor": null,
+    "short_description": "A ridged cone pressed into halved citrus to extract juice.",
+    "description": "Citrus reamers became common in the 19th century, from hand-held wooden cones to glass dishes with a central ridged dome. Twisting the fruit against the ridges breaks open the juice sacs. The same ridged cone sits at the heart of most modern juicers.",
+    "why_unchanged": "A ridged cone extracts juice efficiently with a simple twist, so the design endures.",
+    "materials": [
+      "glass",
+      "wood",
+      "ceramic",
+      "stainless steel",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "How does a reamer work?",
+        "answer": "Pressing and twisting a halved fruit on the ridged cone tears the pulp and releases the juice."
+      },
+      {
+        "question": "How can I get more juice from a lemon?",
+        "answer": "Roll it firmly on the counter or warm it slightly before juicing."
+      },
+      {
+        "question": "Are glass reamers collectible?",
+        "answer": "Yes, colored Depression-era glass reamers are popular with collectors."
+      }
+    ],
+    "image": {
+      "search_query": "glass citrus reamer lemon",
+      "wikimedia_commons_category": "Citrus reamers",
+      "alt": "A glass citrus reamer with lemon halves"
+    },
+    "tags": [
+      "citrus",
+      "juicing",
+      "19th century"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "pepper-mill",
+    "name": "Pepper mill",
+    "category": "Kitchen & cooking",
+    "invention": {
+      "display": "1874",
+      "year": 1874,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Franche-Comte",
+      "modern_country": "France",
+      "notes": "Spice mills are much older, but the Peugeot company's 1874 pepper mill mechanism with grooved steel burrs set the template still used today."
+    },
+    "inventor": null,
+    "short_description": "A hand-turned grinder with steel or ceramic burrs that cracks peppercorns.",
+    "description": "Spices were ground with mortars and hand mills for centuries, but the French Peugeot family introduced a pepper mill in 1874 with a hardened steel mechanism that became a standard. Turning the top drives a grooved burr inside a matching ring. Peugeot still makes mills based on that design.",
+    "why_unchanged": "Burrs turned by hand crack pepper fresh at the table or stove, a mechanism that has needed no change.",
+    "materials": [
+      "wood",
+      "steel",
+      "ceramic",
+      "acrylic"
+    ],
+    "faqs": [
+      {
+        "question": "Why grind pepper fresh?",
+        "answer": "Peppercorns lose their aromatic oils quickly once ground."
+      },
+      {
+        "question": "Is it the same Peugeot as the car company?",
+        "answer": "Yes, the Peugeot family business made pepper mills and tools before it made cars."
+      },
+      {
+        "question": "How do I adjust the grind?",
+        "answer": "Most mills have a knob that changes the burr gap for coarse or fine pepper."
+      }
+    ],
+    "image": {
+      "search_query": "wooden pepper mill peppercorns",
+      "wikimedia_commons_category": "Pepper mills",
+      "alt": "A wooden pepper mill with peppercorns"
+    },
+    "tags": [
+      "spices",
+      "grinding",
+      "french",
+      "19th century"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "butter-churn",
+    "name": "Butter churn",
+    "category": "Kitchen & cooking",
+    "invention": {
+      "display": "Antiquity",
+      "year": -2500,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Mesopotamia",
+      "modern_country": "Iraq",
+      "notes": "A Sumerian frieze from Tell al-Ubaid (c. 2500 BCE) shows dairy work including churning; churning likely began with early dairying and varied by region."
+    },
+    "inventor": null,
+    "short_description": "A vessel in which cream is agitated to separate butterfat from buttermilk.",
+    "description": "Butter making goes back to early dairying, and a Sumerian frieze from about 2500 BCE depicts dairy processing including churning. The tall dasher churn, a barrel with a plunger moved up and down, became the iconic form in Europe and America. Hand churns are still used on small farms.",
+    "why_unchanged": "Repeated agitation is all it takes to turn cream into butter, so the simple churn remains effective.",
+    "materials": [
+      "wood",
+      "ceramic",
+      "glass",
+      "stainless steel"
+    ],
+    "faqs": [
+      {
+        "question": "How does churning make butter?",
+        "answer": "Agitation breaks fat globules in cream so they clump into butter, leaving buttermilk."
+      },
+      {
+        "question": "What is a dasher churn?",
+        "answer": "A tall tub with a plunger, called a dasher, worked up and down by hand."
+      },
+      {
+        "question": "How long does churning take?",
+        "answer": "Depending on temperature and cream, it can take from a few minutes to an hour."
+      }
+    ],
+    "image": {
+      "search_query": "wooden butter churn dasher",
+      "wikimedia_commons_category": "Butter churns",
+      "alt": "A wooden dasher butter churn"
+    },
+    "tags": [
+      "dairy",
+      "butter",
+      "ancient"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "ice-cream-maker",
+    "name": "Ice cream maker",
+    "category": "Kitchen & cooking",
+    "invention": {
+      "display": "1843",
+      "year": 1843,
+      "approximate": false,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Philadelphia, Pennsylvania",
+      "modern_country": "United States",
+      "notes": "Nancy Johnson received a US patent for a hand-cranked ice cream freezer in 1843."
+    },
+    "inventor": "Nancy Johnson",
+    "short_description": "A hand-cranked churn that freezes ice cream in a canister surrounded by ice and salt.",
+    "description": "In 1843 Nancy Johnson patented a hand-cranked freezer that made ice cream easier to produce at home. A metal canister of cream is turned inside a bucket of ice and salt while a dasher stirs it, freezing it smoothly. The hand-cranked bucket freezer is still sold and works the same way.",
+    "why_unchanged": "Salt and ice chill the canister while a dasher stirs, a method that still produces smooth ice cream.",
+    "materials": [
+      "wood",
+      "metal",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the ice cream maker?",
+        "answer": "Nancy Johnson patented the hand-cranked ice cream freezer in 1843."
+      },
+      {
+        "question": "Why add salt to the ice?",
+        "answer": "Salt lowers the melting point of ice, making the brine cold enough to freeze the cream."
+      },
+      {
+        "question": "Why must the mix be stirred?",
+        "answer": "Stirring adds air and prevents large ice crystals, giving a smooth texture."
+      }
+    ],
+    "image": {
+      "search_query": "hand crank ice cream maker",
+      "wikimedia_commons_category": "Ice cream makers",
+      "alt": "A wooden hand-cranked ice cream maker"
+    },
+    "tags": [
+      "ice cream",
+      "crank",
+      "patent",
+      "19th century"
+    ],
+    "confidence": "high"
+  },
+  {
+    "slug": "ice-cream-scoop",
+    "name": "Ice cream scoop",
+    "category": "Kitchen & cooking",
+    "invention": {
+      "display": "1897",
+      "year": 1897,
+      "approximate": false,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Pittsburgh, Pennsylvania",
+      "modern_country": "United States",
+      "notes": "Alfred L. Cralle patented a lever-operated ice cream mold and disher in 1897; other dishers existed earlier and non-mechanical scoops came later."
+    },
+    "inventor": "Alfred L. Cralle",
+    "short_description": "A scoop that forms and releases round portions of ice cream.",
+    "description": "Alfred L. Cralle, an African American inventor working in Pittsburgh, patented a lever-operated scoop in 1897 that formed balls of ice cream and released them with one hand. Lever 'dishers' of this kind are still standard in shops and kitchens. They also portion cookie dough and mashed potatoes.",
+    "why_unchanged": "A lever-driven scraper releases a perfect round portion with one hand, which remains hard to beat.",
+    "materials": [
+      "stainless steel",
+      "aluminum",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the ice cream scoop?",
+        "answer": "Alfred L. Cralle patented a mechanical ice cream scoop in 1897."
+      },
+      {
+        "question": "Why do scoops have numbers?",
+        "answer": "Disher sizes indicate how many scoops fill a quart, so a higher number means a smaller scoop."
+      },
+      {
+        "question": "How do I scoop hard ice cream?",
+        "answer": "Let it soften a few minutes and dip the scoop in warm water between scoops."
+      }
+    ],
+    "image": {
+      "search_query": "ice cream scoop disher",
+      "wikimedia_commons_category": "Ice cream scoops",
+      "alt": "A lever ice cream scoop with a ball of ice cream"
+    },
+    "tags": [
+      "ice cream",
+      "lever",
+      "patent",
+      "19th century"
+    ],
+    "confidence": "high"
+  },
+  {
+    "slug": "melon-baller",
+    "name": "Melon baller",
+    "category": "Kitchen & cooking",
+    "invention": {
+      "display": "19th century",
+      "year": 1850,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "France",
+      "modern_country": "France",
+      "notes": "Known in French as a cuillere parisienne; its origin and date are not documented."
+    },
+    "inventor": null,
+    "short_description": "A small hemispherical scoop used to cut balls from melon and other fruit.",
+    "description": "The melon baller, called a Parisienne scoop in French kitchens, has a small sharp-edged half-sphere on a handle. Twisting it into soft fruit or vegetables produces neat spheres for garnishes and salads. Chefs also use it to core pears and seed cucumbers.",
+    "why_unchanged": "A sharp hemisphere carves round portions with a twist, so the design needs no change.",
+    "materials": [
+      "stainless steel",
+      "plastic",
+      "wood"
+    ],
+    "faqs": [
+      {
+        "question": "What is a Parisienne scoop?",
+        "answer": "It is the French kitchen name for a melon baller, also used for 'pommes parisiennes' potato balls."
+      },
+      {
+        "question": "What else can it do?",
+        "answer": "It can core apples and pears, seed cucumbers and portion cookie dough or butter."
+      },
+      {
+        "question": "How do I get round balls?",
+        "answer": "Press the scoop in firmly, rotate it a full turn and lift out."
+      }
+    ],
+    "image": {
+      "search_query": "melon baller scoop fruit",
+      "wikimedia_commons_category": "Melon ballers",
+      "alt": "A melon baller scooping melon balls"
+    },
+    "tags": [
+      "fruit",
+      "garnish",
+      "french"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "baster",
+    "name": "Baster",
+    "category": "Kitchen & cooking",
+    "invention": {
+      "display": "Early 20th century",
+      "year": 1920,
+      "approximate": true,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "United States",
+      "modern_country": "United States",
+      "notes": "Bulb basters became common in the 20th century; earlier cooks used spoons and ladles. Inventor not documented."
+    },
+    "inventor": null,
+    "short_description": "A tube with a rubber bulb used to suck up and squirt cooking juices over roasting meat.",
+    "description": "Spooning juices over roasting meat is an old technique, and the bulb baster made it quicker. Squeezing and releasing the bulb draws up fat and juices, which are then squirted back over the meat. It is a classic tool for holiday roasts.",
+    "why_unchanged": "A bulb and tube lift and release liquid precisely, with nothing to improve.",
+    "materials": [
+      "stainless steel",
+      "glass",
+      "plastic",
+      "rubber"
+    ],
+    "faqs": [
+      {
+        "question": "What does basting do?",
+        "answer": "It moistens the surface and helps browning, though it does not penetrate deep into the meat."
+      },
+      {
+        "question": "What else can a baster do?",
+        "answer": "It can remove fat from stocks or move liquid between containers."
+      },
+      {
+        "question": "How do you clean a baster?",
+        "answer": "Remove the bulb and use a thin brush to clean the inside of the tube."
+      }
+    ],
+    "image": {
+      "search_query": "turkey baster roasting",
+      "wikimedia_commons_category": "Basters",
+      "alt": "A baster over a roasting turkey"
+    },
+    "tags": [
+      "roasting",
+      "meat",
+      "utensil"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "fish-scaler",
+    "name": "Fish scaler",
+    "category": "Kitchen & cooking",
+    "invention": {
+      "display": "Uncertain (pre-modern)",
+      "year": 1800,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Various",
+      "modern_country": "Various",
+      "notes": "Fish have been scaled with knives and shells since prehistory; the origin of dedicated toothed scalers is not documented."
+    },
+    "inventor": null,
+    "short_description": "A handle with a ridged or toothed head used to scrape scales from fish.",
+    "description": "Removing scales is a basic step in preparing fish, and dedicated scalers with ridged or toothed heads are found in kitchens and on fishing boats worldwide. The tool is scraped from tail to head against the grain of the scales. Its simple scraper form is unchanged.",
+    "why_unchanged": "Scraping against the grain is all scaling requires, and a toothed edge does it best.",
+    "materials": [
+      "stainless steel",
+      "plastic",
+      "wood"
+    ],
+    "faqs": [
+      {
+        "question": "How do you scale a fish?",
+        "answer": "Hold the tail and scrape the scaler from tail toward head against the scales."
+      },
+      {
+        "question": "How do I stop scales flying around?",
+        "answer": "Scale the fish underwater or inside a large plastic bag."
+      },
+      {
+        "question": "Do all fish need scaling?",
+        "answer": "No; some fish, like catfish, have no scales, and others are cooked skin-off."
+      }
+    ],
+    "image": {
+      "search_query": "fish scaler tool",
+      "wikimedia_commons_category": "Fish scalers",
+      "alt": "A fish scaler scraping scales from a fish"
+    },
+    "tags": [
+      "seafood",
+      "fish",
+      "utensil"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "larding-needle",
+    "name": "Larding needle",
+    "category": "Kitchen & cooking",
+    "invention": {
+      "display": "Medieval period",
+      "year": 1400,
+      "approximate": true,
+      "era": "Medieval"
+    },
+    "place_of_invention": {
+      "region": "Europe",
+      "modern_country": "Various",
+      "notes": "Larding lean meat with strips of fat is described in medieval and later European cookery; the tool's origin is undocumented."
+    },
+    "inventor": null,
+    "short_description": "A long hollow or grooved needle used to thread strips of fat into lean meat.",
+    "description": "Medieval and later European cooks enriched lean meats and game by threading strips of fat through them. The larding needle carries the fat, called lardons, through the meat so it bastes from inside during roasting. It is still used in classical French cookery.",
+    "why_unchanged": "A pointed tube carries fat through meat in one pass, so the design has never changed.",
+    "materials": [
+      "stainless steel",
+      "steel",
+      "wood"
+    ],
+    "faqs": [
+      {
+        "question": "What is larding?",
+        "answer": "It is threading strips of fat through lean meat to keep it moist while cooking."
+      },
+      {
+        "question": "What is the difference between larding and barding?",
+        "answer": "Larding inserts fat inside the meat; barding wraps fat around the outside."
+      },
+      {
+        "question": "Which meats are larded?",
+        "answer": "Lean cuts such as venison, beef round and game birds."
+      }
+    ],
+    "image": {
+      "search_query": "larding needle meat",
+      "wikimedia_commons_category": "Larding needles",
+      "alt": "A larding needle threading fat into beef"
+    },
+    "tags": [
+      "meat",
+      "french cuisine",
+      "medieval"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "food-mill",
+    "name": "Food mill",
+    "category": "Kitchen & cooking",
+    "invention": {
+      "display": "1932",
+      "year": 1932,
+      "approximate": false,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "France",
+      "modern_country": "France",
+      "notes": "Jean Mantelet patented the hand-cranked vegetable mill (moulin-legumes) in 1932, the product that launched Moulinex; earlier sieve mills existed."
+    },
+    "inventor": "Jean Mantelet",
+    "short_description": "A hand-cranked bowl with a curved blade that pushes cooked food through a perforated disc.",
+    "description": "In 1932 Frenchman Jean Mantelet patented a vegetable mill, reportedly after being frustrated by lumpy mashed potatoes, and its success led to the company Moulinex. Turning the crank presses cooked food through a perforated plate, leaving skins and seeds behind. It is still the classic tool for passata, applesauce and purees.",
+    "why_unchanged": "A crank-driven blade over a perforated disc purees and strains in one step, which no gadget has bettered.",
+    "materials": [
+      "stainless steel",
+      "tinned steel",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the food mill?",
+        "answer": "Jean Mantelet patented the moulin-legumes in 1932, founding what became Moulinex."
+      },
+      {
+        "question": "Why use a food mill instead of a blender?",
+        "answer": "It removes skins and seeds and avoids making potatoes gluey."
+      },
+      {
+        "question": "What foods is it good for?",
+        "answer": "Tomato sauce, applesauce, mashed potatoes, soups and baby food."
+      }
+    ],
+    "image": {
+      "search_query": "food mill mouli tomato",
+      "wikimedia_commons_category": "Food mills",
+      "alt": "A hand-cranked food mill over a bowl"
+    },
+    "tags": [
+      "puree",
+      "crank",
+      "french",
+      "20th century"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "cheese-slicer",
+    "name": "Cheese slicer",
+    "category": "Kitchen & cooking",
+    "invention": {
+      "display": "1925",
+      "year": 1925,
+      "approximate": false,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "Lillehammer",
+      "modern_country": "Norway",
+      "notes": "Carpenter Thor Bjorklund patented the cheese plane in 1925."
+    },
+    "inventor": "Thor Bjorklund",
+    "short_description": "A flat spatula-like tool with a slot blade used to shave thin slices of cheese.",
+    "description": "Norwegian carpenter Thor Bjorklund patented the cheese slicer in 1925, inspired by his woodworking plane. Pulling the blade across a block of cheese shaves an even, thin slice through the slot. The ostehovel remains a fixture in Scandinavian kitchens and is used worldwide.",
+    "why_unchanged": "A slotted blade like a carpenter's plane gives perfect thin slices, so the design is unchanged.",
+    "materials": [
+      "stainless steel",
+      "wood",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the cheese slicer?",
+        "answer": "Norwegian carpenter Thor Bjorklund patented it in 1925."
+      },
+      {
+        "question": "What cheeses work best?",
+        "answer": "Semi-hard cheeses like Jarlsberg, Gouda and brunost slice best."
+      },
+      {
+        "question": "What is it called in Norwegian?",
+        "answer": "It is called an ostehovel, meaning 'cheese plane'."
+      }
+    ],
+    "image": {
+      "search_query": "cheese slicer plane norwegian",
+      "wikimedia_commons_category": "Cheese slicers",
+      "alt": "A cheese slicer shaving a slice of cheese"
+    },
+    "tags": [
+      "cheese",
+      "norwegian",
+      "patent",
+      "20th century"
+    ],
+    "confidence": "high"
+  },
+  {
+    "slug": "rotisserie-spit",
+    "name": "Rotisserie spit",
+    "category": "Kitchen & cooking",
+    "invention": {
+      "display": "Prehistoric",
+      "year": -10000,
+      "approximate": true,
+      "era": "Prehistoric"
+    },
+    "place_of_invention": {
+      "region": "Various",
+      "modern_country": "Various",
+      "notes": "Roasting meat on a stick over fire is prehistoric; turning spits are well documented in medieval European kitchens."
+    },
+    "inventor": null,
+    "short_description": "A long rod on which meat is skewered and turned over or beside a fire.",
+    "description": "Roasting meat on a rod over fire is one of humanity's oldest cooking methods. In medieval and early modern Europe, large spits were turned by servants, clockwork jacks or even 'turnspit' dogs in wheels. Modern rotisseries add motors but keep the same rotating rod.",
+    "why_unchanged": "Rotating meat over heat cooks it evenly and self-bastes it, so the spit remains unchanged.",
+    "materials": [
+      "iron",
+      "stainless steel"
+    ],
+    "faqs": [
+      {
+        "question": "Why rotate meat while roasting?",
+        "answer": "Turning cooks it evenly and lets the fat baste the surface continually."
+      },
+      {
+        "question": "What was a turnspit dog?",
+        "answer": "A small dog bred to run in a wheel that turned the roasting spit in European kitchens."
+      },
+      {
+        "question": "Is a döner kebab cooked on a spit?",
+        "answer": "Yes, a vertical rotisserie cooks döner, shawarma and gyros."
+      }
+    ],
+    "image": {
+      "search_query": "rotisserie spit roast fire",
+      "wikimedia_commons_category": "Spit roasting",
+      "alt": "Meat roasting on a spit over a fire"
+    },
+    "tags": [
+      "roasting",
+      "meat",
+      "fire",
+      "prehistoric"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "gridiron",
+    "name": "Gridiron",
+    "category": "Kitchen & cooking",
+    "invention": {
+      "display": "Antiquity",
+      "year": 100,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Roman Empire",
+      "modern_country": "Various",
+      "notes": "Iron grills on legs were used in the Roman world; open-fire grilling is far older."
+    },
+    "inventor": null,
+    "short_description": "A metal grate of parallel bars used to grill food over coals.",
+    "description": "Iron grates of parallel bars set on short legs were used in Roman kitchens to grill food over embers. The gridiron's bars hold food over the heat while letting fat drip away. It is the direct ancestor of the barbecue grate.",
+    "why_unchanged": "Parallel bars over coals expose food directly to heat, which is the essence of grilling.",
+    "materials": [
+      "iron",
+      "cast iron",
+      "stainless steel"
+    ],
+    "faqs": [
+      {
+        "question": "What is a gridiron?",
+        "answer": "It is a metal grate of parallel bars used for grilling over fire."
+      },
+      {
+        "question": "Why is an American football field called a gridiron?",
+        "answer": "Its parallel yard lines resemble the bars of a cooking gridiron."
+      },
+      {
+        "question": "Who is St. Lawrence and the gridiron?",
+        "answer": "According to tradition, the deacon Lawrence was martyred on a gridiron in Rome in 258 CE, and he is now a patron saint of cooks."
+      }
+    ],
+    "image": {
+      "search_query": "iron gridiron grill grate",
+      "wikimedia_commons_category": "Gridirons (cooking)",
+      "alt": "An iron gridiron over glowing coals"
+    },
+    "tags": [
+      "grilling",
+      "iron",
+      "roman"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "trivet",
+    "name": "Trivet",
+    "category": "Kitchen & cooking",
+    "invention": {
+      "display": "Antiquity",
+      "year": -500,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Various",
+      "modern_country": "Various",
+      "notes": "Three-legged stands for pots were used in many ancient cultures; the name comes from Latin tripes, 'three-footed'."
+    },
+    "inventor": null,
+    "short_description": "A three-legged stand or mat that holds hot pots and protects surfaces.",
+    "description": "Three-legged stands were used in antiquity to hold pots over fire, and the word trivet comes from the Latin for 'three-footed'. Three legs never wobble, even on uneven ground. Today trivets mostly protect tables and counters from hot cookware.",
+    "why_unchanged": "Three legs are always stable on any surface, so the design remains ideal.",
+    "materials": [
+      "cast iron",
+      "brass",
+      "wood",
+      "cork",
+      "silicone"
+    ],
+    "faqs": [
+      {
+        "question": "Why do trivets have three legs?",
+        "answer": "Three points always rest firmly on any surface, so the stand never wobbles."
+      },
+      {
+        "question": "Where does the word come from?",
+        "answer": "From Latin tripes, meaning three-footed."
+      },
+      {
+        "question": "What is a trivet used for today?",
+        "answer": "It protects tables and counters from hot pots and pans."
+      }
+    ],
+    "image": {
+      "search_query": "cast iron trivet hot pot",
+      "wikimedia_commons_category": "Trivets",
+      "alt": "A cast-iron trivet under a hot pot"
+    },
+    "tags": [
+      "kitchen",
+      "iron",
+      "ancient"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "pasta-machine",
+    "name": "Pasta machine",
+    "category": "Kitchen & cooking",
+    "invention": {
+      "display": "Early 20th century",
+      "year": 1930,
+      "approximate": true,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "Italy",
+      "modern_country": "Italy",
+      "notes": "Hand-cranked pasta rollers became popular in Italian homes in the early-to-mid 20th century; no single inventor is clearly credited."
+    },
+    "inventor": null,
+    "short_description": "A hand-cranked set of steel rollers that flattens dough into sheets and cuts it into noodles.",
+    "description": "Pasta was traditionally rolled by hand with a long rolling pin. Clamp-on hand-cranked machines with adjustable steel rollers became common in Italian homes in the 20th century. Dough is passed through progressively narrower settings, then through cutters for tagliatelle or spaghetti.",
+    "why_unchanged": "Adjustable rollers give thin, even sheets every time, and the crank needs no electricity.",
+    "materials": [
+      "chrome-plated steel",
+      "stainless steel",
+      "aluminum"
+    ],
+    "faqs": [
+      {
+        "question": "How do you use a pasta machine?",
+        "answer": "Feed dough through the widest setting, then narrow it step by step before cutting."
+      },
+      {
+        "question": "Should I wash a pasta machine?",
+        "answer": "No, water can rust the rollers; brush off dry dough instead."
+      },
+      {
+        "question": "Is hand-rolled pasta better?",
+        "answer": "Some say hand-rolled pasta holds sauce better, but machines give consistent thickness."
+      }
+    ],
+    "image": {
+      "search_query": "hand crank pasta machine",
+      "wikimedia_commons_category": "Pasta machines",
+      "alt": "A hand-cranked pasta machine rolling a dough sheet"
+    },
+    "tags": [
+      "pasta",
+      "italian",
+      "crank"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "pie-bird",
+    "name": "Pie bird",
+    "category": "Kitchen & cooking",
+    "invention": {
+      "display": "Late 19th century",
+      "year": 1880,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "England",
+      "modern_country": "United Kingdom",
+      "notes": "Ceramic pie funnels were used in Victorian England; bird-shaped versions became popular later. Exact origin is uncertain."
+    },
+    "inventor": null,
+    "short_description": "A small hollow ceramic funnel placed in a pie to vent steam and support the crust.",
+    "description": "Pie funnels were used in Victorian England to hold up the crust of deep pies and let steam escape. Later versions were shaped like blackbirds, a nod to the nursery rhyme 'Sing a Song of Sixpence'. They are still sold in the same hollow ceramic form.",
+    "why_unchanged": "A hollow vent supports the crust and releases steam, a simple solution that has needed no change.",
+    "materials": [
+      "ceramic",
+      "porcelain",
+      "stoneware"
+    ],
+    "faqs": [
+      {
+        "question": "What does a pie bird do?",
+        "answer": "It vents steam and supports the top crust so it does not sag."
+      },
+      {
+        "question": "Why is it shaped like a bird?",
+        "answer": "Bird designs reference the 'four and twenty blackbirds baked in a pie' nursery rhyme."
+      },
+      {
+        "question": "Do I need one?",
+        "answer": "Not essential, but it helps with deep, juicy fruit or meat pies."
+      }
+    ],
+    "image": {
+      "search_query": "ceramic pie bird funnel",
+      "wikimedia_commons_category": "Pie birds",
+      "alt": "A ceramic pie bird in a pie crust"
+    },
+    "tags": [
+      "baking",
+      "pie",
+      "victorian"
+    ],
+    "confidence": "low"
+  }
+]

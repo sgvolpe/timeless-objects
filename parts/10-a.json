@@ -1,0 +1,1282 @@
+[
+  {
+    "slug": "shovel",
+    "name": "Shovel",
+    "category": "Outdoor, farming & travel",
+    "invention": {
+      "display": "c. 4000 BCE",
+      "year": -4000,
+      "approximate": true,
+      "era": "Prehistoric"
+    },
+    "place_of_invention": {
+      "region": "Neolithic Europe and the Near East",
+      "modern_country": "Unknown",
+      "notes": "Early shovels were made from animal shoulder blades and wood; scapula shovels are known from Neolithic flint mines such as Grimes Graves in England. Iron-bladed shovels became common in the Roman period."
+    },
+    "inventor": null,
+    "short_description": "A broad, slightly scooped blade on a long handle for lifting and moving loose material.",
+    "description": "The shovel began as a wooden board or an animal shoulder blade lashed to a stick, used by early farmers and miners to move soil and rubble. Romans and later blacksmiths gave it an iron blade, and industrial steel made it cheap and universal. Today it is used for everything from gardening and construction to clearing snow.",
+    "why_unchanged": "A curved blade on a lever is the simplest efficient way for a human to lift and throw loose material, so only the materials have improved.",
+    "materials": [
+      "steel",
+      "wood",
+      "fiberglass",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "What is the difference between a shovel and a spade?",
+        "answer": "A shovel has a wider, scooped blade designed for lifting and moving loose material, while a spade has a flatter, straighter blade designed for cutting and digging into soil."
+      },
+      {
+        "question": "What were the first shovels made of?",
+        "answer": "Archaeologists have found Neolithic shovels made from the shoulder blades of cattle and deer, along with wooden versions. Metal blades came much later."
+      },
+      {
+        "question": "How should I lift with a shovel to protect my back?",
+        "answer": "Keep the load small, bend at the knees rather than the waist, and pivot your feet instead of twisting your spine when throwing material."
+      }
+    ],
+    "image": {
+      "search_query": "steel garden shovel in soil",
+      "wikimedia_commons_category": "Shovels",
+      "alt": "A steel shovel with a wooden handle stuck in a pile of soil"
+    },
+    "tags": [
+      "farming",
+      "gardening",
+      "digging",
+      "prehistoric"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "spade",
+    "name": "Spade",
+    "category": "Outdoor, farming & travel",
+    "invention": {
+      "display": "c. 5000 BCE",
+      "year": -5000,
+      "approximate": true,
+      "era": "Prehistoric"
+    },
+    "place_of_invention": {
+      "region": "Neolithic Europe and the Near East",
+      "modern_country": "Unknown",
+      "notes": "Wooden digging spades are associated with early farming communities; exact origins are unknown and the tool probably developed in many places. Iron-shod spades appear in the Iron Age and Roman period."
+    },
+    "inventor": null,
+    "short_description": "A flat-bladed digging tool pushed into the ground with the foot.",
+    "description": "The spade developed alongside early agriculture as a way to break and turn soil. Early versions were carved entirely from wood, later fitted with an iron edge, and finally made fully of steel. It remains the standard tool for digging trenches, edging beds and transplanting shrubs.",
+    "why_unchanged": "A flat blade with a step for the foot turns body weight into cutting force, a principle that cannot be bettered for small-scale digging.",
+    "materials": [
+      "steel",
+      "wood",
+      "ash wood",
+      "fiberglass"
+    ],
+    "faqs": [
+      {
+        "question": "Why does a spade have a flat blade?",
+        "answer": "The flat, sharp-edged blade slices cleanly into compact soil and roots, making neat vertical cuts that a scooped shovel cannot."
+      },
+      {
+        "question": "Were early spades made of metal?",
+        "answer": "No. Early spades were usually carved from wood, and later ones had a thin iron edge fitted to a wooden blade to save precious metal."
+      },
+      {
+        "question": "What is the step on top of the blade for?",
+        "answer": "It gives your foot a place to push down, so you can use body weight instead of arm strength to drive the blade into the soil."
+      }
+    ],
+    "image": {
+      "search_query": "garden spade digging soil",
+      "wikimedia_commons_category": "Spades",
+      "alt": "A flat garden spade pushed into a vegetable bed"
+    },
+    "tags": [
+      "farming",
+      "gardening",
+      "digging",
+      "prehistoric"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "hoe",
+    "name": "Hoe",
+    "category": "Outdoor, farming & travel",
+    "invention": {
+      "display": "c. 7000 BCE",
+      "year": -7000,
+      "approximate": true,
+      "era": "Prehistoric"
+    },
+    "place_of_invention": {
+      "region": "Fertile Crescent",
+      "modern_country": "Iraq",
+      "notes": "Hoes are among the earliest farming tools and were likely developed independently wherever agriculture began; the Near East has some of the earliest evidence."
+    },
+    "inventor": null,
+    "short_description": "A blade set at a right angle to a handle, used to break soil and remove weeds.",
+    "description": "The hoe is one of the oldest farming tools, used by the first agricultural communities to break ground and plant seeds before the plow existed. Stone, bone and wooden blades gave way to bronze and iron. It is still used worldwide for weeding, shaping rows and loosening soil.",
+    "why_unchanged": "A blade pulled toward the user at a right angle is the most direct way to chop and scrape soil, so the shape has never needed rethinking.",
+    "materials": [
+      "steel",
+      "iron",
+      "wood"
+    ],
+    "faqs": [
+      {
+        "question": "How old is the hoe?",
+        "answer": "Hoes date back to the beginnings of farming, roughly 9,000 years ago in the Near East, and were developed independently in many regions."
+      },
+      {
+        "question": "How do you use a hoe for weeding?",
+        "answer": "Chop or scrape just below the soil surface to cut weeds from their roots, ideally on a dry day so they wither quickly."
+      },
+      {
+        "question": "Did the hoe come before the plow?",
+        "answer": "Yes. Hoe farming preceded the plow by thousands of years, and in many parts of the world hand hoes remain the main cultivation tool."
+      }
+    ],
+    "image": {
+      "search_query": "garden hoe weeding vegetable rows",
+      "wikimedia_commons_category": "Hoes",
+      "alt": "A garden hoe resting in a weeded vegetable row"
+    },
+    "tags": [
+      "farming",
+      "gardening",
+      "weeding",
+      "prehistoric"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "rake",
+    "name": "Rake",
+    "category": "Outdoor, farming & travel",
+    "invention": {
+      "display": "Antiquity (by c. 1000 BCE)",
+      "year": -1000,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Ancient China and the Mediterranean",
+      "modern_country": "Unknown",
+      "notes": "Rakes were used by many ancient farming cultures; no single origin is known and the date is an estimate."
+    },
+    "inventor": null,
+    "short_description": "A bar of teeth on a long handle for gathering material or leveling soil.",
+    "description": "Rakes appear across ancient farming societies for gathering hay, grain and straw. Wooden hay rakes and iron-toothed garden rakes have both survived into modern use with barely any change. Today rakes are used to collect leaves, level soil and spread mulch or gravel.",
+    "why_unchanged": "A row of teeth on a pole gathers loose material efficiently while letting soil and air pass through, so the basic form has never needed improvement.",
+    "materials": [
+      "steel",
+      "wood",
+      "bamboo",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "What is the difference between a leaf rake and a garden rake?",
+        "answer": "A leaf rake has long, flexible tines arranged in a fan for sweeping leaves, while a garden rake has short, rigid teeth for breaking up and leveling soil."
+      },
+      {
+        "question": "Were ancient rakes made of wood?",
+        "answer": "Many were. Wooden hay rakes are still made by hand in parts of Europe, while iron teeth were used for heavier work."
+      },
+      {
+        "question": "Why should a rake be stored teeth down?",
+        "answer": "Leaving a rake teeth up is a classic tripping and stepping hazard; storing it teeth down or hung on a wall avoids the famous handle-to-the-face accident."
+      }
+    ],
+    "image": {
+      "search_query": "garden rake leaves lawn",
+      "wikimedia_commons_category": "Rakes",
+      "alt": "A rake gathering autumn leaves on a lawn"
+    },
+    "tags": [
+      "farming",
+      "gardening",
+      "ancient"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "pitchfork",
+    "name": "Pitchfork",
+    "category": "Outdoor, farming & travel",
+    "invention": {
+      "display": "Antiquity (by c. 500 BCE)",
+      "year": -500,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Europe and the Mediterranean",
+      "modern_country": "Unknown",
+      "notes": "Wooden forks made from forked branches were probably used much earlier; iron-tined forks spread in the Iron Age and Roman period. Dating is uncertain."
+    },
+    "inventor": null,
+    "short_description": "A long-handled fork with a few widely spaced tines for lifting hay and straw.",
+    "description": "The pitchfork began as a naturally forked branch used to toss hay and straw. Blacksmiths later forged iron tines, and steel forks became standard in the industrial era. It is still the everyday tool for moving hay, straw and loose manure on farms and stables.",
+    "why_unchanged": "A few long, smooth tines spear and release loose fibrous material with almost no resistance, which is exactly what haymaking needs.",
+    "materials": [
+      "steel",
+      "wood",
+      "iron"
+    ],
+    "faqs": [
+      {
+        "question": "Why does a pitchfork have so few tines?",
+        "answer": "Two or three long tines slide easily into loose hay or straw and release it cleanly when tossed, unlike a fork with many tines."
+      },
+      {
+        "question": "What were the first pitchforks made of?",
+        "answer": "Early pitchforks were often cut from a single forked branch of wood, a style still made by hand in some rural areas."
+      },
+      {
+        "question": "Why is the pitchfork linked to angry mobs?",
+        "answer": "Because nearly every farming household owned one, pitchforks became the improvised weapon of rural uprisings and later a cartoon symbol of public anger."
+      }
+    ],
+    "image": {
+      "search_query": "pitchfork hay barn",
+      "wikimedia_commons_category": "Pitchforks",
+      "alt": "A three-tined pitchfork stuck in a pile of hay"
+    },
+    "tags": [
+      "farming",
+      "hay",
+      "ancient"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "garden-fork",
+    "name": "Garden fork",
+    "category": "Outdoor, farming & travel",
+    "invention": {
+      "display": "Roman era (c. 100 CE)",
+      "year": 100,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Roman Empire",
+      "modern_country": "Italy",
+      "notes": "Iron digging forks are known from the Roman period, though similar tools may be older. Date and place are approximate."
+    },
+    "inventor": null,
+    "short_description": "A sturdy four-tined fork for digging and loosening heavy soil.",
+    "description": "The digging or garden fork has short, strong, square tines designed to penetrate soil without slicing roots. Roman farmers used iron versions, and the familiar four-tined steel fork became standard in the 18th and 19th centuries. It is used to turn compost, lift potatoes and break up heavy clay.",
+    "why_unchanged": "Strong tines break and aerate soil with less effort than a solid blade, so the four-tine layout has stayed the norm.",
+    "materials": [
+      "steel",
+      "wood",
+      "ash wood"
+    ],
+    "faqs": [
+      {
+        "question": "Should I use a fork or a spade for digging?",
+        "answer": "A fork is better in heavy, stony or clay soil and for lifting root crops, while a spade is better for clean cuts and moving soil."
+      },
+      {
+        "question": "How is a garden fork different from a pitchfork?",
+        "answer": "A garden fork has four short, thick tines built for digging, while a pitchfork has long, thin tines for lifting hay."
+      },
+      {
+        "question": "Why is a fork good for harvesting potatoes?",
+        "answer": "The gaps between the tines let soil fall away while lifting the tubers, and you are less likely to slice through them than with a spade."
+      }
+    ],
+    "image": {
+      "search_query": "garden digging fork in soil",
+      "wikimedia_commons_category": "Garden forks",
+      "alt": "A four-tined garden fork pushed into turned soil"
+    },
+    "tags": [
+      "gardening",
+      "digging",
+      "ancient"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "sickle",
+    "name": "Sickle",
+    "category": "Outdoor, farming & travel",
+    "invention": {
+      "display": "c. 10,000 BCE",
+      "year": -10000,
+      "approximate": true,
+      "era": "Prehistoric"
+    },
+    "place_of_invention": {
+      "region": "The Levant",
+      "modern_country": "Israel",
+      "notes": "Natufian sickles with flint blades set in bone or wooden handles are among the earliest known; the place given is representative of the wider Levant."
+    },
+    "inventor": null,
+    "short_description": "A curved, hand-held blade for cutting grain and grass.",
+    "description": "The sickle emerged among the Natufian people of the Levant, who set sharp flint blades into handles to harvest wild cereals. Bronze and then iron sickles followed, with the familiar crescent shape. It is still used worldwide to harvest grain, cut fodder and trim grass.",
+    "why_unchanged": "The inward curve gathers stalks toward the blade while cutting, a perfect match for hand harvesting that never needed redesign.",
+    "materials": [
+      "steel",
+      "iron",
+      "wood",
+      "flint"
+    ],
+    "faqs": [
+      {
+        "question": "How old is the sickle?",
+        "answer": "Flint-bladed sickles date back about 12,000 years to the Natufian culture of the Levant, before full-scale farming began."
+      },
+      {
+        "question": "How do you use a sickle?",
+        "answer": "Grasp a bunch of stalks with one hand and draw the curved blade toward you just below your grip to cut them."
+      },
+      {
+        "question": "How can archaeologists tell a stone blade was used as a sickle?",
+        "answer": "Cutting cereal stalks leaves a distinctive glossy polish called sickle gloss on flint edges, caused by silica in the plants."
+      }
+    ],
+    "image": {
+      "search_query": "hand sickle harvesting wheat",
+      "wikimedia_commons_category": "Sickles",
+      "alt": "A curved sickle cutting a bundle of wheat stalks"
+    },
+    "tags": [
+      "farming",
+      "harvest",
+      "prehistoric"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "scythe",
+    "name": "Scythe",
+    "category": "Outdoor, farming & travel",
+    "invention": {
+      "display": "c. 500 BCE",
+      "year": -500,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Europe (Celtic and Roman world)",
+      "modern_country": "Unknown",
+      "notes": "Long-handled scythes appear in Iron Age and Roman Europe; the precise origin is uncertain."
+    },
+    "inventor": null,
+    "short_description": "A long curved blade on a two-handed shaft for mowing grass and grain.",
+    "description": "The scythe lets a person mow standing upright with a sweeping motion, cutting far more than a sickle. It spread across Iron Age and Roman Europe and became the main tool for haymaking until mechanical mowers. It is still used on small farms, steep meadows and by hobby mowers.",
+    "why_unchanged": "A long blade swung on an angled shaft uses the whole body for cutting, and no hand tool mows more efficiently.",
+    "materials": [
+      "steel",
+      "wood",
+      "aluminum"
+    ],
+    "faqs": [
+      {
+        "question": "How is a scythe different from a sickle?",
+        "answer": "A sickle is a short one-handed tool used while bending over, while a scythe has a long shaft and blade so you can mow standing up with both hands."
+      },
+      {
+        "question": "Why is the Grim Reaper shown with a scythe?",
+        "answer": "The scythe became a medieval symbol of death harvesting souls, borrowed from the familiar sight of mowers cutting down grain."
+      },
+      {
+        "question": "Do people still use scythes?",
+        "answer": "Yes. Scythes are used on small farms, orchards and steep land where machines cannot go, and scythe mowing has become a popular quiet alternative to power tools."
+      }
+    ],
+    "image": {
+      "search_query": "scythe mowing meadow",
+      "wikimedia_commons_category": "Scythes",
+      "alt": "A person mowing a meadow with a long scythe"
+    },
+    "tags": [
+      "farming",
+      "harvest",
+      "mowing",
+      "ancient"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "ard-plow",
+    "name": "Ard plow",
+    "category": "Outdoor, farming & travel",
+    "invention": {
+      "display": "c. 4000 BCE",
+      "year": -4000,
+      "approximate": true,
+      "era": "Prehistoric"
+    },
+    "place_of_invention": {
+      "region": "Mesopotamia",
+      "modern_country": "Iraq",
+      "notes": "Ard furrow marks and depictions appear in the Near East and Europe in the 4th millennium BCE; the precise origin is uncertain."
+    },
+    "inventor": null,
+    "short_description": "A simple scratch plow that breaks soil without turning it over.",
+    "description": "The ard is the earliest form of plow: a pointed wooden share dragged through the soil by oxen to scratch a furrow. It appears in Sumerian art and in ancient furrow marks preserved under burial mounds in Europe. Ards are still used in parts of Ethiopia, the Middle East and South Asia.",
+    "why_unchanged": "For light soils it does all that is needed with minimal materials, so where it suits the land it has stayed in use unchanged.",
+    "materials": [
+      "wood",
+      "iron"
+    ],
+    "faqs": [
+      {
+        "question": "What is the difference between an ard and a moldboard plow?",
+        "answer": "An ard only scratches and loosens the soil, while a moldboard plow cuts and turns the soil over, which suits heavier land."
+      },
+      {
+        "question": "Is the ard still used today?",
+        "answer": "Yes. Ox-drawn ards such as the Ethiopian maresha are still in daily use by smallholder farmers."
+      },
+      {
+        "question": "How do we know how old the ard is?",
+        "answer": "Criss-cross scratch marks from ards have been found preserved beneath ancient burial mounds, and plows appear on Mesopotamian seals."
+      }
+    ],
+    "image": {
+      "search_query": "traditional ox drawn ard plough",
+      "wikimedia_commons_category": "Ards",
+      "alt": "A wooden ard plow pulled by a pair of oxen"
+    },
+    "tags": [
+      "farming",
+      "plowing",
+      "oxen",
+      "prehistoric"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "flail",
+    "name": "Flail",
+    "category": "Outdoor, farming & travel",
+    "invention": {
+      "display": "Antiquity (by c. 300 BCE)",
+      "year": -300,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "China and Europe",
+      "modern_country": "Unknown",
+      "notes": "Flails are recorded in ancient China and spread through Europe by late antiquity; sources disagree on the earliest date."
+    },
+    "inventor": null,
+    "short_description": "Two wooden sticks joined by a short link, used to thresh grain by beating.",
+    "description": "The flail is a handle joined to a shorter swinging stick, called a swipple, by a leather or chain link. Farmers beat harvested grain on a threshing floor to knock the kernels from the husks. It remained the main threshing tool until threshing machines appeared and is still used for small harvests.",
+    "why_unchanged": "The hinged swinging stick multiplies the force of each blow while sparing the grain, so the simple design has never been improved by hand.",
+    "materials": [
+      "wood",
+      "leather",
+      "rope"
+    ],
+    "faqs": [
+      {
+        "question": "How does a flail work?",
+        "answer": "You swing the handle so that the loose stick strikes flat on the grain spread across the floor, knocking kernels loose from the straw and husks."
+      },
+      {
+        "question": "Why is it called a flail?",
+        "answer": "The word comes from the Latin flagellum, meaning whip, because of its swinging motion."
+      },
+      {
+        "question": "Are nunchaku related to flails?",
+        "answer": "Many historians think the Okinawan nunchaku developed from a similar farm tool, though the exact origin is debated."
+      }
+    ],
+    "image": {
+      "search_query": "wooden threshing flail",
+      "wikimedia_commons_category": "Flails (agriculture)",
+      "alt": "A traditional wooden threshing flail with a leather link"
+    },
+    "tags": [
+      "farming",
+      "threshing",
+      "harvest",
+      "ancient"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "yoke",
+    "name": "Yoke",
+    "category": "Outdoor, farming & travel",
+    "invention": {
+      "display": "c. 4000 BCE",
+      "year": -4000,
+      "approximate": true,
+      "era": "Prehistoric"
+    },
+    "place_of_invention": {
+      "region": "Mesopotamia",
+      "modern_country": "Iraq",
+      "notes": "The yoke developed with the plow and the domestication of cattle for traction in the Near East; it was likely adopted widely and quickly."
+    },
+    "inventor": null,
+    "short_description": "A wooden beam that joins two draft animals so they can pull together.",
+    "description": "The yoke lets two oxen pull a plow or cart as a team. Neck and head yokes appeared in the Near East together with the plow and spread across Europe, Africa and Asia. Carved wooden yokes are still used wherever oxen do farm work.",
+    "why_unchanged": "A shaped wooden beam spreads the load across the animals' necks or horns perfectly well for oxen, so no replacement was needed.",
+    "materials": [
+      "wood",
+      "leather",
+      "iron"
+    ],
+    "faqs": [
+      {
+        "question": "What is a yoke used for?",
+        "answer": "A yoke joins two draft animals, usually oxen, so they can pull a plow, cart or sledge together."
+      },
+      {
+        "question": "Why were yokes not used for horses?",
+        "answer": "Horses have a different neck shape and an ox yoke presses on their windpipe, which is why the horse collar was eventually invented."
+      },
+      {
+        "question": "Where does the phrase \"under the yoke\" come from?",
+        "answer": "In ancient Rome, defeated soldiers were made to pass under a frame of spears shaped like a yoke as a sign of submission."
+      }
+    ],
+    "image": {
+      "search_query": "wooden ox yoke pair of oxen",
+      "wikimedia_commons_category": "Yokes",
+      "alt": "Two oxen joined by a carved wooden yoke"
+    },
+    "tags": [
+      "farming",
+      "oxen",
+      "animals",
+      "prehistoric"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "wheelbarrow",
+    "name": "Wheelbarrow",
+    "category": "Outdoor, farming & travel",
+    "invention": {
+      "display": "c. 100 CE",
+      "year": 100,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Han dynasty China",
+      "modern_country": "China",
+      "notes": "Han tomb reliefs show wheelbarrows by the 2nd century CE; a disputed reference in ancient Greek building accounts may be earlier. The European version appeared around the 12th–13th century, possibly independently."
+    },
+    "inventor": null,
+    "short_description": "A one-wheeled hand cart for carrying loads.",
+    "description": "The wheelbarrow turns a heavy load into a lever balanced on a single wheel, letting one person move what would otherwise take two. Early Chinese designs put the wheel in the middle, while European barrows put it at the front. It remains essential on farms, gardens and building sites.",
+    "why_unchanged": "One wheel and two handles is the simplest arrangement for steering heavy loads over rough, narrow ground.",
+    "materials": [
+      "steel",
+      "wood",
+      "plastic",
+      "rubber"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the wheelbarrow?",
+        "answer": "The earliest clear evidence comes from Han dynasty China, around the 2nd century CE. Legends credit the strategist Zhuge Liang, but the tool predates him."
+      },
+      {
+        "question": "Why does a wheelbarrow have only one wheel?",
+        "answer": "A single wheel makes it easy to steer along narrow paths and planks and to tip the load out at the end."
+      },
+      {
+        "question": "When did wheelbarrows reach Europe?",
+        "answer": "They appear in European records around the 12th to 13th centuries, where they helped build cathedrals."
+      }
+    ],
+    "image": {
+      "search_query": "wheelbarrow garden soil",
+      "wikimedia_commons_category": "Wheelbarrows",
+      "alt": "A metal wheelbarrow loaded with soil in a garden"
+    },
+    "tags": [
+      "gardening",
+      "transport",
+      "ancient",
+      "china"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "watering-can",
+    "name": "Watering can",
+    "category": "Outdoor, farming & travel",
+    "invention": {
+      "display": "17th century",
+      "year": 1650,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "England",
+      "modern_country": "United Kingdom",
+      "notes": "The term \"watering can\" is recorded in 17th-century England; earlier clay watering pots with perforated bases were used in medieval Europe. John Haws patented an influential improved design in 1886."
+    },
+    "inventor": null,
+    "short_description": "A portable water container with a long spout and perforated rose.",
+    "description": "Gardeners once used clay \"thumb pots\" that released water through holes when the thumb was lifted from the top. By the 17th century, metal cans with long spouts and a detachable rose had appeared in England. Galvanized steel and plastic versions are still the standard way to water by hand.",
+    "why_unchanged": "A handle, a reservoir and a long spout with a sprinkler head deliver gentle water exactly where needed, and no more is required.",
+    "materials": [
+      "galvanized steel",
+      "copper",
+      "plastic",
+      "zinc"
+    ],
+    "faqs": [
+      {
+        "question": "What is the rose on a watering can?",
+        "answer": "The rose is the perforated cap on the end of the spout that breaks water into a gentle shower so it does not wash away soil or seedlings."
+      },
+      {
+        "question": "What did gardeners use before watering cans?",
+        "answer": "Medieval gardeners used clay pots with holes in the base that filled when dipped in water and released it when the thumb was lifted from the top hole."
+      },
+      {
+        "question": "Why is the spout so long?",
+        "answer": "A long spout reaches into beds without stepping on them and lets water flow smoothly from a can held at waist height."
+      }
+    ],
+    "image": {
+      "search_query": "galvanized metal watering can garden",
+      "wikimedia_commons_category": "Watering cans",
+      "alt": "A galvanized metal watering can on a garden path"
+    },
+    "tags": [
+      "gardening",
+      "water",
+      "early-modern"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "pruning-shears",
+    "name": "Pruning shears",
+    "category": "Outdoor, farming & travel",
+    "invention": {
+      "display": "c. 1815",
+      "year": 1815,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "France",
+      "modern_country": "France",
+      "notes": "Commonly credited to the French aristocrat Antoine-François Bertrand de Molleville, around 1815; attribution comes from horticultural histories rather than a patent."
+    },
+    "inventor": "Antoine-François Bertrand de Molleville",
+    "short_description": "Hand-held, spring-loaded scissors for cutting plant stems and branches.",
+    "description": "Pruning shears, or secateurs, are short, strong scissors designed for one-handed cutting of stems and twigs. They were introduced in France in the early 19th century and initially met resistance from gardeners who preferred pruning knives. Today they are the most common pruning tool for roses, vines and shrubs.",
+    "why_unchanged": "Two pivoting blades with a spring return give a clean, controlled cut with one hand, so modern versions differ only in materials and ergonomics.",
+    "materials": [
+      "steel",
+      "aluminum",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "What is the difference between bypass and anvil pruners?",
+        "answer": "Bypass pruners have two blades that slide past each other like scissors for clean cuts on live stems, while anvil pruners press a blade onto a flat surface and suit dead wood."
+      },
+      {
+        "question": "Why are pruning shears called secateurs?",
+        "answer": "Secateur is the French word for them, reflecting their origin in early 19th-century France."
+      },
+      {
+        "question": "How thick a branch can pruning shears cut?",
+        "answer": "Most hand pruners handle stems up to about 2 cm thick; thicker branches need loppers or a pruning saw."
+      }
+    ],
+    "image": {
+      "search_query": "bypass pruning shears secateurs roses",
+      "wikimedia_commons_category": "Secateurs",
+      "alt": "A pair of red-handled pruning shears cutting a rose stem"
+    },
+    "tags": [
+      "gardening",
+      "pruning",
+      "industrial",
+      "france"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "garden-trowel",
+    "name": "Garden trowel",
+    "category": "Outdoor, farming & travel",
+    "invention": {
+      "display": "Roman era (c. 100 CE)",
+      "year": 100,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Roman Empire",
+      "modern_country": "Italy",
+      "notes": "Small iron trowels are known from Roman sites, though many were masonry tools; the specific garden trowel form became widespread in the 18th and 19th centuries."
+    },
+    "inventor": null,
+    "short_description": "A small hand tool with a pointed, scooped blade for digging planting holes.",
+    "description": "The garden trowel is a miniature spade for close work in pots and beds. Small hand trowels were used in the Roman world, and the familiar scooped garden version became common as ornamental and kitchen gardening spread. It is used for planting bulbs, seedlings and container plants.",
+    "why_unchanged": "A small scooped blade on a short handle is the natural size and shape for digging with one hand, so the design has never needed to change.",
+    "materials": [
+      "steel",
+      "stainless steel",
+      "wood",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "What is a garden trowel used for?",
+        "answer": "It is used for digging small holes, transplanting seedlings and bulbs, mixing potting soil and weeding in tight spaces."
+      },
+      {
+        "question": "Why are trowel blades curved?",
+        "answer": "The scooped shape holds soil when lifting it and helps the blade slide into the ground."
+      },
+      {
+        "question": "Is a garden trowel the same as a masonry trowel?",
+        "answer": "No. A masonry trowel is flat and used for spreading mortar, while a garden trowel is scooped for digging."
+      }
+    ],
+    "image": {
+      "search_query": "garden hand trowel planting seedlings",
+      "wikimedia_commons_category": "Garden trowels",
+      "alt": "A hand trowel planting a seedling in a pot"
+    },
+    "tags": [
+      "gardening",
+      "planting",
+      "ancient"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "dibber",
+    "name": "Dibber",
+    "category": "Outdoor, farming & travel",
+    "invention": {
+      "display": "Roman era (c. 100 CE)",
+      "year": 100,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Roman Empire",
+      "modern_country": "Italy",
+      "notes": "Dibbers are described in Roman and medieval gardening, but the simple pointed planting stick is surely older and universal."
+    },
+    "inventor": null,
+    "short_description": "A pointed wooden stick for making holes in soil to plant seeds and bulbs.",
+    "description": "The dibber, or dibble, is a pointed stick used to poke planting holes in prepared soil. Gardeners have used it since antiquity, often carving one from an old spade handle. It remains popular for planting seedlings, leeks, onion sets and bulbs.",
+    "why_unchanged": "A pointed stick makes a perfectly sized planting hole in one motion, and there is nothing to add.",
+    "materials": [
+      "wood",
+      "steel",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "What is a dibber used for?",
+        "answer": "A dibber makes holes for sowing large seeds, planting bulbs and transplanting seedlings such as leeks and cabbages."
+      },
+      {
+        "question": "Is it called a dibber or a dibble?",
+        "answer": "Both names are used; dibble is more common in North America and dibber in Britain."
+      },
+      {
+        "question": "Can I make my own dibber?",
+        "answer": "Yes. Gardeners traditionally make dibbers from old wooden spade or fork handles cut to length and sharpened to a point."
+      }
+    ],
+    "image": {
+      "search_query": "wooden dibber planting seedlings",
+      "wikimedia_commons_category": "Dibbers",
+      "alt": "A wooden dibber making a planting hole in soil"
+    },
+    "tags": [
+      "gardening",
+      "planting",
+      "wood",
+      "ancient"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "scarecrow",
+    "name": "Scarecrow",
+    "category": "Outdoor, farming & travel",
+    "invention": {
+      "display": "Antiquity (c. 500 BCE)",
+      "year": -500,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Ancient Greece",
+      "modern_country": "Greece",
+      "notes": "Ancient Greeks set carved figures of the god Priapus in fields to scare birds; Japan has its own long tradition of kakashi. The practice probably arose independently in many farming cultures."
+    },
+    "inventor": null,
+    "short_description": "A human-like figure set in fields to frighten birds away from crops.",
+    "description": "The scarecrow is a figure dressed in old clothes and stuffed with straw, placed in fields to keep birds from eating seed and crops. Similar figures are recorded in ancient Greece, Japan and medieval Europe. Farmers and gardeners still use them, and they are a staple of harvest festivals.",
+    "why_unchanged": "A human silhouette is the oldest signal of danger to birds, so the basic form of a dressed figure has never changed.",
+    "materials": [
+      "straw",
+      "wood",
+      "cloth"
+    ],
+    "faqs": [
+      {
+        "question": "Do scarecrows actually work?",
+        "answer": "They work for a while, but birds often get used to a figure that never moves, so farmers move them around or add flapping cloth and shiny objects."
+      },
+      {
+        "question": "How old is the scarecrow?",
+        "answer": "Bird-scaring figures are recorded in ancient Greece and have long traditions in Japan and Europe, so the idea is at least 2,500 years old."
+      },
+      {
+        "question": "Why were scarecrows needed so much in the past?",
+        "answer": "Before modern seed treatments, birds could eat a large share of newly sown seed, so protecting fields was vital for the harvest."
+      }
+    ],
+    "image": {
+      "search_query": "scarecrow in wheat field",
+      "wikimedia_commons_category": "Scarecrows",
+      "alt": "A straw-stuffed scarecrow in a field"
+    },
+    "tags": [
+      "farming",
+      "birds",
+      "folklore",
+      "ancient"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "skep",
+    "name": "Skep",
+    "category": "Outdoor, farming & travel",
+    "invention": {
+      "display": "Early medieval (c. 500 CE)",
+      "year": 500,
+      "approximate": true,
+      "era": "Medieval"
+    },
+    "place_of_invention": {
+      "region": "Northern Europe",
+      "modern_country": "Unknown",
+      "notes": "Wicker and straw hives were used in Europe from at least early medieval times; earlier hive forms existed in Egypt and the Mediterranean."
+    },
+    "inventor": null,
+    "short_description": "A dome-shaped beehive made of coiled straw or wicker.",
+    "description": "The skep is a woven straw or wicker basket turned upside down to house a colony of honeybees. It was the main beehive of medieval Europe, though the honey was usually harvested by destroying the colony. Skeps are still used by traditional beekeepers to catch swarms.",
+    "why_unchanged": "Coiled straw is cheap, insulating and easy to make, and its dome shape suits a hanging colony, so it is still made the same way.",
+    "materials": [
+      "straw",
+      "wicker",
+      "bramble"
+    ],
+    "faqs": [
+      {
+        "question": "What is a bee skep?",
+        "answer": "A skep is a traditional dome-shaped beehive made of coiled straw or woven wicker, placed open side down."
+      },
+      {
+        "question": "Why are skeps not used for honey production today?",
+        "answer": "Skeps have no removable combs, so the honey cannot be harvested or the colony inspected without damage, and some places restrict their use."
+      },
+      {
+        "question": "Are skeps still used?",
+        "answer": "Yes. Many beekeepers use skeps to collect and carry swarms, and they remain a popular symbol of beekeeping."
+      }
+    ],
+    "image": {
+      "search_query": "straw bee skep",
+      "wikimedia_commons_category": "Skeps",
+      "alt": "A dome-shaped straw bee skep on a wooden stand"
+    },
+    "tags": [
+      "beekeeping",
+      "animal-husbandry",
+      "straw",
+      "medieval"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "langstroth-hive",
+    "name": "Langstroth hive",
+    "category": "Outdoor, farming & travel",
+    "invention": {
+      "display": "1852",
+      "year": 1852,
+      "approximate": false,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Philadelphia, Pennsylvania",
+      "modern_country": "United States",
+      "notes": "Lorenzo Langstroth patented his movable-frame hive in 1852, based on his discovery of the \"bee space\"."
+    },
+    "inventor": "Lorenzo Lorraine Langstroth",
+    "short_description": "A box beehive with removable hanging frames spaced to respect the bees' natural gap.",
+    "description": "Langstroth realized that bees leave a gap of about a centimeter between combs, which they neither fill with comb nor seal. He designed a stack of boxes with removable frames separated by exactly that gap, so beekeepers could inspect colonies and harvest honey without destroying them. It is still the most widely used hive in the world.",
+    "why_unchanged": "Its frame spacing is based on the bees' own biology, so there was nothing to improve once the bee space was respected.",
+    "materials": [
+      "wood",
+      "pine",
+      "plastic",
+      "wax"
+    ],
+    "faqs": [
+      {
+        "question": "What is the bee space?",
+        "answer": "The bee space is a gap of about 6 to 9 mm that bees leave open as a passage; Langstroth spaced his frames to match it so combs would not be glued together."
+      },
+      {
+        "question": "Why was the Langstroth hive revolutionary?",
+        "answer": "It let beekeepers remove and replace combs without harming the colony, making modern beekeeping and large-scale honey production possible."
+      },
+      {
+        "question": "Are Langstroth hives still used today?",
+        "answer": "Yes. It is the most common hive design worldwide, and its standard frame sizes are still used."
+      }
+    ],
+    "image": {
+      "search_query": "langstroth beehive frames",
+      "wikimedia_commons_category": "Langstroth hives",
+      "alt": "A stack of white Langstroth hive boxes with a frame lifted out"
+    },
+    "tags": [
+      "beekeeping",
+      "animal-husbandry",
+      "patent",
+      "industrial"
+    ],
+    "confidence": "high"
+  },
+  {
+    "slug": "bee-smoker",
+    "name": "Bee smoker",
+    "category": "Outdoor, farming & travel",
+    "invention": {
+      "display": "1873",
+      "year": 1873,
+      "approximate": false,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "New York State",
+      "modern_country": "United States",
+      "notes": "Moses Quinby is credited with the bellows-type bee smoker in 1873; T. F. Bingham patented an influential improvement in 1878. Beekeepers had used smoke for thousands of years before."
+    },
+    "inventor": "Moses Quinby",
+    "short_description": "A metal can with bellows that puffs cool smoke to calm honeybees.",
+    "description": "Beekeepers have used smoke to calm bees since ancient times, but the bellows smoker made it controllable. Fuel smolders inside a metal canister, and squeezing the bellows pushes cool smoke out of a spout. The design used today is almost identical to 19th-century models.",
+    "why_unchanged": "A fire chamber with a bellows is the simplest way to deliver steady cool smoke on demand, so the 1870s pattern is still standard.",
+    "materials": [
+      "stainless steel",
+      "tin",
+      "leather",
+      "wood"
+    ],
+    "faqs": [
+      {
+        "question": "Why does smoke calm bees?",
+        "answer": "Smoke masks the alarm pheromone that guard bees release and prompts bees to eat honey, which makes them less likely to sting."
+      },
+      {
+        "question": "What fuel goes in a bee smoker?",
+        "answer": "Beekeepers use materials that smolder cool, such as burlap, pine needles, wood shavings or dry grass."
+      },
+      {
+        "question": "Who invented the bee smoker?",
+        "answer": "Moses Quinby is credited with the bellows smoker in 1873, and T. F. Bingham patented an improved version in 1878."
+      }
+    ],
+    "image": {
+      "search_query": "bee smoker beekeeper hive",
+      "wikimedia_commons_category": "Bee smokers",
+      "alt": "A metal bee smoker puffing smoke beside a hive"
+    },
+    "tags": [
+      "beekeeping",
+      "animal-husbandry",
+      "industrial"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "mattock",
+    "name": "Mattock",
+    "category": "Outdoor, farming & travel",
+    "invention": {
+      "display": "c. 6000 BCE",
+      "year": -6000,
+      "approximate": true,
+      "era": "Prehistoric"
+    },
+    "place_of_invention": {
+      "region": "Europe and the Near East",
+      "modern_country": "Unknown",
+      "notes": "Antler and stone mattock heads are known from Mesolithic and Neolithic sites; iron mattocks became common in Roman times. Dating is approximate."
+    },
+    "inventor": null,
+    "short_description": "A heavy digging tool with one wide horizontal blade, often paired with a pick or axe.",
+    "description": "The mattock is a heavy-headed tool swung like a pickaxe to break hard ground and chop roots. Prehistoric versions used antler or stone heads, and later ones were forged from iron. It is still used for clearing land, digging trenches and grubbing out stumps.",
+    "why_unchanged": "A heavy adze-like blade on a long handle delivers maximum force to hard soil and roots, which no lighter tool can match.",
+    "materials": [
+      "steel",
+      "iron",
+      "wood",
+      "antler"
+    ],
+    "faqs": [
+      {
+        "question": "What is the difference between a mattock and a pickaxe?",
+        "answer": "A mattock has at least one wide horizontal blade for chopping and digging, while a pickaxe has pointed ends for breaking rock."
+      },
+      {
+        "question": "What is a mattock used for?",
+        "answer": "It is used to break hard or rocky soil, cut through roots and dig out tree stumps."
+      },
+      {
+        "question": "What were prehistoric mattocks made of?",
+        "answer": "Many were made from red deer antler or stone fitted to a wooden handle."
+      }
+    ],
+    "image": {
+      "search_query": "pick mattock digging hard ground",
+      "wikimedia_commons_category": "Mattocks",
+      "alt": "A mattock with a wooden handle lying on dug earth"
+    },
+    "tags": [
+      "farming",
+      "digging",
+      "land-clearing",
+      "prehistoric"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "billhook",
+    "name": "Billhook",
+    "category": "Outdoor, farming & travel",
+    "invention": {
+      "display": "Iron Age (c. 800 BCE)",
+      "year": -800,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Europe",
+      "modern_country": "Unknown",
+      "notes": "Hooked cutting blades appear in Bronze and Iron Age Europe; regional styles multiplied over the centuries and the origin cannot be pinned down."
+    },
+    "inventor": null,
+    "short_description": "A short, hooked chopping blade used for hedging and cutting brush.",
+    "description": "The billhook is a heavy blade with a curved tip used for cutting saplings, laying hedges and trimming branches. It was a vital tool in European woodland and farm work from the Iron Age onward, with hundreds of local patterns. Hedge layers and woodworkers still use it today.",
+    "why_unchanged": "The hooked tip pulls branches toward the cutting edge while the weight of the blade does the work, so no redesign was needed.",
+    "materials": [
+      "steel",
+      "iron",
+      "wood"
+    ],
+    "faqs": [
+      {
+        "question": "What is a billhook used for?",
+        "answer": "It is used for laying hedges, cutting brushwood, splitting thin wood and clearing undergrowth."
+      },
+      {
+        "question": "Why are there so many billhook shapes?",
+        "answer": "Every region of Europe developed its own pattern to suit local trees and hedging styles, and British makers once listed hundreds of variants."
+      },
+      {
+        "question": "Is a billhook the same as a machete?",
+        "answer": "They are related, but a billhook is shorter, heavier and has a hooked tip, while a machete is a long, straight or slightly curved blade."
+      }
+    ],
+    "image": {
+      "search_query": "billhook hedge laying",
+      "wikimedia_commons_category": "Billhooks",
+      "alt": "A traditional billhook with a hooked blade"
+    },
+    "tags": [
+      "farming",
+      "hedging",
+      "woodland",
+      "ancient"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "winnowing-fan",
+    "name": "Winnowing fan",
+    "category": "Outdoor, farming & travel",
+    "invention": {
+      "display": "Antiquity (c. 2500 BCE)",
+      "year": -2500,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Unknown; used across Africa, Asia and Europe",
+      "modern_country": "Unknown",
+      "notes": "Winnowing baskets are used in nearly every grain-growing culture; their origin cannot be traced and the date is a rough estimate."
+    },
+    "inventor": null,
+    "short_description": "A wide, shallow basket tossed to separate grain from chaff.",
+    "description": "The winnowing fan is a broad, shallow basket, often scoop-shaped, in which threshed grain is tossed so the wind or a flick of the basket carries away the light chaff. It has been used since antiquity across Africa, Asia and Europe. It is still in everyday use on small farms and in kitchens for cleaning rice and grain.",
+    "why_unchanged": "Tossing grain in a shallow basket lets air separate chaff by weight, a method that needs no improvement for small harvests.",
+    "materials": [
+      "bamboo",
+      "wicker",
+      "palm leaf",
+      "reed"
+    ],
+    "faqs": [
+      {
+        "question": "How does a winnowing fan work?",
+        "answer": "Grain is tossed into the air or shaken, and the lighter chaff blows away or slides off while the heavier kernels stay in the basket."
+      },
+      {
+        "question": "Is winnowing still done by hand?",
+        "answer": "Yes. Hand winnowing with woven baskets is still common for rice, millet and other grains in many parts of Asia and Africa."
+      },
+      {
+        "question": "What does \"separating the wheat from the chaff\" mean?",
+        "answer": "It comes from winnowing and means separating valuable things from worthless ones."
+      }
+    ],
+    "image": {
+      "search_query": "woven winnowing basket rice",
+      "wikimedia_commons_category": "Winnowing baskets",
+      "alt": "A woman tossing rice in a woven winnowing basket"
+    },
+    "tags": [
+      "farming",
+      "harvest",
+      "basketry",
+      "ancient"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "threshing-board",
+    "name": "Threshing board",
+    "category": "Outdoor, farming & travel",
+    "invention": {
+      "display": "c. 3500 BCE",
+      "year": -3500,
+      "approximate": true,
+      "era": "Prehistoric"
+    },
+    "place_of_invention": {
+      "region": "Mesopotamia",
+      "modern_country": "Iraq",
+      "notes": "Flint blades with characteristic wear from threshing sledges have been found at Near Eastern sites from at least the 4th millennium BCE."
+    },
+    "inventor": null,
+    "short_description": "A heavy wooden sledge studded with stones, dragged over grain to thresh it.",
+    "description": "The threshing board, or tribulum, is a flat wooden sledge with sharp stones or blades set in its underside. Animals pull it in circles over harvested grain to separate kernels and chop straw. It was used throughout the Mediterranean and Near East and is still found in a few rural areas.",
+    "why_unchanged": "A weighted board studded with blades threshes and chops straw in one pass using animal power, which suited small farms for millennia.",
+    "materials": [
+      "wood",
+      "flint",
+      "stone",
+      "iron"
+    ],
+    "faqs": [
+      {
+        "question": "What is a threshing board?",
+        "answer": "It is a wooden sledge with stones or blades set in the bottom, dragged over a layer of harvested grain to separate seeds from stalks."
+      },
+      {
+        "question": "Where does the word \"tribulation\" come from?",
+        "answer": "It comes from the Latin tribulum, the name of the threshing board, through the idea of being crushed or afflicted."
+      },
+      {
+        "question": "Are threshing boards still used?",
+        "answer": "They are largely replaced by machines but survive in a few rural areas of Turkey, the Balkans and elsewhere, and many are sold as antiques."
+      }
+    ],
+    "image": {
+      "search_query": "threshing sledge tribulum flint",
+      "wikimedia_commons_category": "Threshing boards",
+      "alt": "The underside of a wooden threshing board studded with flints"
+    },
+    "tags": [
+      "farming",
+      "threshing",
+      "harvest",
+      "prehistoric"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "shaduf",
+    "name": "Shaduf",
+    "category": "Outdoor, farming & travel",
+    "invention": {
+      "display": "c. 2300 BCE",
+      "year": -2300,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Mesopotamia",
+      "modern_country": "Iraq",
+      "notes": "The shaduf appears on Akkadian seals around 2300 BCE and later in Egyptian tomb paintings."
+    },
+    "inventor": null,
+    "short_description": "A pivoting pole with a bucket and counterweight for lifting water.",
+    "description": "The shaduf is a long pole balanced on a crossbeam, with a bucket on one end and a counterweight on the other. The counterweight does most of the lifting, letting one person raise water from a river or canal for irrigation. It is still used in parts of Egypt, Africa and Asia.",
+    "why_unchanged": "A counterweighted lever is the simplest possible water lift, and it remains effective for small irrigated plots.",
+    "materials": [
+      "wood",
+      "clay",
+      "stone",
+      "rope"
+    ],
+    "faqs": [
+      {
+        "question": "How does a shaduf work?",
+        "answer": "The operator pulls the bucket down into the water, and the counterweight on the other end of the pole helps lift the full bucket up."
+      },
+      {
+        "question": "How much water can a shaduf lift?",
+        "answer": "A single operator can lift roughly 2,500 liters in a day, enough to irrigate a small plot."
+      },
+      {
+        "question": "Is the shaduf still in use?",
+        "answer": "Yes, it is still used for small-scale irrigation in parts of Egypt, the Sahel and South Asia."
+      }
+    ],
+    "image": {
+      "search_query": "shaduf water lifting irrigation",
+      "wikimedia_commons_category": "Shadufs",
+      "alt": "A shaduf lifting a bucket of water from a canal"
+    },
+    "tags": [
+      "farming",
+      "irrigation",
+      "water",
+      "ancient"
+    ],
+    "confidence": "medium"
+  }
+]

@@ -1,0 +1,1268 @@
+[
+  {
+    "slug": "crutch",
+    "name": "Crutch",
+    "category": "Personal care & health",
+    "invention": {
+      "display": "c. 2830 BCE",
+      "year": -2830,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Ancient Egypt",
+      "modern_country": "Egypt",
+      "notes": "A carving from an Egyptian tomb dated to about 2830 BCE is often cited as the earliest depiction of a crutch; simple forked sticks were surely used earlier."
+    },
+    "inventor": null,
+    "short_description": "A long support placed under the arm to take weight off an injured leg.",
+    "description": "The underarm crutch is one of the oldest medical aids, with an ancient Egyptian carving showing a man using one nearly 5,000 years ago. For most of history it was a forked stick or a pole with a padded crosspiece. Modern aluminum crutches are adjustable, but the underarm pad, hand grip and shaft are the same.",
+    "why_unchanged": "A padded top under the arm and a handgrip transfer weight from leg to arms, which is all a crutch must do.",
+    "materials": [
+      "aluminum",
+      "wood",
+      "rubber"
+    ],
+    "faqs": [
+      {
+        "question": "How old is the crutch?",
+        "answer": "An Egyptian tomb carving from around 2830 BCE shows a person using a crutch."
+      },
+      {
+        "question": "Should a crutch press into the armpit?",
+        "answer": "No; the pad should rest against the side of the chest, with weight carried by the hands, to avoid nerve damage."
+      },
+      {
+        "question": "How do you climb stairs on crutches?",
+        "answer": "A common rule is 'up with the good, down with the bad': lead with the uninjured leg going up and the crutches going down."
+      }
+    ],
+    "image": {
+      "search_query": "underarm crutches",
+      "wikimedia_commons_category": "Crutches",
+      "alt": "A pair of aluminum underarm crutches"
+    },
+    "tags": [
+      "mobility",
+      "medical",
+      "ancient"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "forearm-crutch",
+    "name": "Forearm crutch",
+    "category": "Personal care & health",
+    "invention": {
+      "display": "1940s",
+      "year": 1945,
+      "approximate": true,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "United States",
+      "modern_country": "United States",
+      "notes": "Anders Lofstrand Jr. patented an adjustable forearm crutch in the 1940s, and the type is often called a 'Lofstrand crutch'; similar elbow crutches existed earlier in Europe."
+    },
+    "inventor": "Anders Lofstrand Jr.",
+    "short_description": "A crutch with a cuff that wraps around the forearm and a handgrip.",
+    "description": "The forearm or elbow crutch uses a cuff around the forearm instead of an underarm pad, giving more freedom of movement for long-term users. Anders Lofstrand Jr. patented an adjustable version in the 1940s, and his name is still used for the type. Modern forearm crutches keep the same cuff-and-grip design.",
+    "why_unchanged": "A cuff and grip let users release the handle without dropping the crutch, so the design stayed.",
+    "materials": [
+      "aluminum",
+      "carbon fiber",
+      "plastic",
+      "rubber"
+    ],
+    "faqs": [
+      {
+        "question": "What is the difference between underarm and forearm crutches?",
+        "answer": "Forearm crutches use a cuff around the forearm and are typically used for long-term mobility, while underarm crutches suit short-term injuries."
+      },
+      {
+        "question": "Why are they called Lofstrand crutches?",
+        "answer": "They are named after Anders Lofstrand Jr., who patented an adjustable forearm crutch."
+      },
+      {
+        "question": "Are forearm crutches harder to use?",
+        "answer": "They require more upper-body strength and balance, but they are more maneuverable once mastered."
+      }
+    ],
+    "image": {
+      "search_query": "forearm crutches",
+      "wikimedia_commons_category": "Forearm crutches",
+      "alt": "A pair of forearm crutches"
+    },
+    "tags": [
+      "mobility",
+      "medical",
+      "patent",
+      "modern"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "walking-cane",
+    "name": "Walking cane",
+    "category": "Personal care & health",
+    "invention": {
+      "display": "Prehistoric (date uncertain)",
+      "year": -3500,
+      "approximate": true,
+      "era": "Prehistoric"
+    },
+    "place_of_invention": {
+      "region": "Worldwide",
+      "modern_country": null,
+      "notes": "Walking sticks were used by people everywhere since prehistory; no specific origin can be identified, and the date given is only a placeholder for early evidence."
+    },
+    "inventor": null,
+    "short_description": "A stick with a handle used for support and balance while walking.",
+    "description": "Walking sticks are among the oldest human tools and appear in ancient Egyptian, Greek and biblical imagery as symbols of authority as well as aids. In 17th–19th century Europe the cane became a fashion accessory for gentlemen. Today canes are mainly mobility aids, but the stick with a crook or handle is unchanged.",
+    "why_unchanged": "A rigid stick with a handle gives balance and support, which is all that is required.",
+    "materials": [
+      "wood",
+      "aluminum",
+      "carbon fiber",
+      "rubber"
+    ],
+    "faqs": [
+      {
+        "question": "Which hand should hold a cane?",
+        "answer": "Usually the hand opposite the weaker leg, so the cane moves together with that leg."
+      },
+      {
+        "question": "How tall should a cane be?",
+        "answer": "With arms relaxed, the handle should reach the crease of the wrist."
+      },
+      {
+        "question": "Why were canes fashionable?",
+        "answer": "In the 17th–19th centuries an elegant cane signaled status and was part of a gentleman's dress."
+      }
+    ],
+    "image": {
+      "search_query": "wooden walking cane",
+      "wikimedia_commons_category": "Walking sticks",
+      "alt": "A wooden walking cane with a curved handle"
+    },
+    "tags": [
+      "mobility",
+      "wood",
+      "prehistoric"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "white-cane",
+    "name": "White cane",
+    "category": "Personal care & health",
+    "invention": {
+      "display": "1921",
+      "year": 1921,
+      "approximate": false,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "Bristol",
+      "modern_country": "United Kingdom",
+      "notes": "James Biggs, a Bristol photographer who lost his sight, is credited with painting his cane white in 1921; Guilly d'Herbemont promoted white canes in France in 1931, and US Lions Clubs did so from 1930."
+    },
+    "inventor": "James Biggs",
+    "short_description": "A long white cane used by blind and visually impaired people for mobility and identification.",
+    "description": "After losing his sight in an accident in 1921, Bristol photographer James Biggs painted his walking stick white so motorists would notice him. The idea spread in France and the US in the early 1930s, and longer canes for sweeping the ground were developed after the Second World War. The white cane remains an internationally recognized symbol and tool.",
+    "why_unchanged": "A long, light, highly visible stick both detects obstacles and signals blindness, so its form stays.",
+    "materials": [
+      "aluminum",
+      "fiberglass",
+      "carbon fiber"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the white cane?",
+        "answer": "James Biggs of Bristol is credited with painting his cane white in 1921 to be more visible to traffic."
+      },
+      {
+        "question": "Why do some white canes have red bands?",
+        "answer": "In many countries a red-and-white cane indicates that the user is both deaf and blind."
+      },
+      {
+        "question": "Is there a White Cane Day?",
+        "answer": "Yes; International White Cane Safety Day is observed on 15 October."
+      }
+    ],
+    "image": {
+      "search_query": "white cane blind",
+      "wikimedia_commons_category": "White canes",
+      "alt": "A folding white cane"
+    },
+    "tags": [
+      "mobility",
+      "accessibility",
+      "modern"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "splint",
+    "name": "Splint",
+    "category": "Personal care & health",
+    "invention": {
+      "display": "c. 2750 BCE",
+      "year": -2750,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Ancient Egypt",
+      "modern_country": "Egypt",
+      "notes": "Splints of wood and bark wrapped in linen were found on Egyptian mummies from the Fifth Dynasty; splinting was described by Hippocrates and probably practiced earlier."
+    },
+    "inventor": null,
+    "short_description": "A rigid support bound to an injured limb to keep it still.",
+    "description": "Splints are among the oldest medical devices; archaeologists found bark and wooden splints bound with linen on Egyptian mummies over 4,500 years old. Hippocrates described splinting fractures in ancient Greece. Modern splints use aluminum, plastic or padded foam, but the idea of binding a rigid support along a limb is unchanged.",
+    "why_unchanged": "A rigid support bound along a limb is the simplest way to stop movement, so it never needed redesign.",
+    "materials": [
+      "wood",
+      "aluminum",
+      "plastic",
+      "foam"
+    ],
+    "faqs": [
+      {
+        "question": "How old are splints?",
+        "answer": "Splints have been found on Egyptian mummies from around 2750 BCE."
+      },
+      {
+        "question": "What is the difference between a splint and a cast?",
+        "answer": "A splint supports one side and can be adjusted for swelling, while a cast wraps the limb completely."
+      },
+      {
+        "question": "Can you improvise a splint?",
+        "answer": "In first aid, rolled newspapers, boards or sticks padded and tied along the limb can serve as a temporary splint."
+      }
+    ],
+    "image": {
+      "search_query": "finger splint arm splint",
+      "wikimedia_commons_category": "Splints",
+      "alt": "An arm splint"
+    },
+    "tags": [
+      "medical",
+      "first aid",
+      "ancient"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "plaster-cast",
+    "name": "Plaster cast",
+    "category": "Personal care & health",
+    "invention": {
+      "display": "1851",
+      "year": 1851,
+      "approximate": false,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Haarlem",
+      "modern_country": "Netherlands",
+      "notes": "Antonius Mathijsen, a Dutch army surgeon, introduced plaster of Paris bandages in 1851; plaster had been used with fractures before, but his rolled bandage method became the standard."
+    },
+    "inventor": "Antonius Mathijsen",
+    "short_description": "A hard shell of plaster-soaked bandage molded around a broken limb.",
+    "description": "In 1851 Dutch military surgeon Antonius Mathijsen introduced bandages impregnated with plaster of Paris, which could be wetted, wrapped and left to harden around a broken limb. The method spread rapidly across Europe. Fiberglass casts now often replace plaster, but the technique of wrapping and setting a rigid shell is the same.",
+    "why_unchanged": "Wrapping a wet bandage that sets hard produces a custom-fitted immobilizer, so the principle stayed.",
+    "materials": [
+      "plaster of Paris",
+      "cotton gauze",
+      "fiberglass"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the plaster cast?",
+        "answer": "Dutch army surgeon Antonius Mathijsen introduced plaster of Paris bandages in 1851."
+      },
+      {
+        "question": "Why do some people get fiberglass casts?",
+        "answer": "Fiberglass is lighter, stronger and more water-resistant than plaster, and dries faster."
+      },
+      {
+        "question": "Why does a cast itch?",
+        "answer": "Skin under the cast sheds and sweats without being washed, which can cause itching; doctors warn against poking objects inside."
+      }
+    ],
+    "image": {
+      "search_query": "plaster cast broken arm",
+      "wikimedia_commons_category": "Plaster casts",
+      "alt": "A plaster cast on an arm"
+    },
+    "tags": [
+      "medical",
+      "orthopedics",
+      "industrial"
+    ],
+    "confidence": "high"
+  },
+  {
+    "slug": "roller-bandage",
+    "name": "Roller bandage",
+    "category": "Personal care & health",
+    "invention": {
+      "display": "Ancient (c. 3000 BCE)",
+      "year": -3000,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Ancient Egypt",
+      "modern_country": "Egypt",
+      "notes": "Linen bandages for wounds and mummification are documented in ancient Egypt; Hippocratic writings describe detailed bandaging techniques."
+    },
+    "inventor": null,
+    "short_description": "A long strip of fabric rolled up and wound around a body part to dress or support it.",
+    "description": "Ancient Egyptians were expert bandagers, using linen strips both for the dead and for wounds. Greek physicians described rolled bandages and techniques such as the spiral and figure-of-eight. Gauze and elastic bandages are now standard, but the rolled strip is used exactly as before.",
+    "why_unchanged": "A long rolled strip can be wrapped to fit any limb, so the form is universal.",
+    "materials": [
+      "cotton gauze",
+      "elastic fabric",
+      "linen"
+    ],
+    "faqs": [
+      {
+        "question": "How old are bandages?",
+        "answer": "Linen bandages were used in ancient Egypt thousands of years ago."
+      },
+      {
+        "question": "What is a figure-of-eight bandage?",
+        "answer": "It is a wrapping pattern that crosses over itself in an 8 shape, often used around joints like the ankle."
+      },
+      {
+        "question": "How tight should a bandage be?",
+        "answer": "Snug but not tight; numbness, tingling or pale skin beyond the bandage mean it should be loosened."
+      }
+    ],
+    "image": {
+      "search_query": "gauze roller bandage",
+      "wikimedia_commons_category": "Bandages",
+      "alt": "A rolled gauze bandage"
+    },
+    "tags": [
+      "medical",
+      "first aid",
+      "textile",
+      "ancient"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "adhesive-bandage",
+    "name": "Adhesive bandage",
+    "category": "Personal care & health",
+    "invention": {
+      "display": "1920",
+      "year": 1920,
+      "approximate": false,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "New Brunswick, New Jersey",
+      "modern_country": "United States",
+      "notes": "Earle Dickson, a Johnson & Johnson employee, made the first adhesive bandages for his wife; the company began selling them as Band-Aid in 1921."
+    },
+    "inventor": "Earle Dickson",
+    "short_description": "A small strip of adhesive tape with a gauze pad for covering minor cuts.",
+    "description": "In 1920 Earle Dickson, a cotton buyer at Johnson & Johnson, stuck small pads of gauze onto surgical tape so his wife could dress kitchen cuts by herself. His employer launched the product as Band-Aid in 1921. Machine production and new materials followed, but the pad-on-tape design is unchanged.",
+    "why_unchanged": "A pad stuck to a strip of tape covers and protects a small cut with no further parts needed.",
+    "materials": [
+      "fabric",
+      "plastic",
+      "cotton gauze",
+      "adhesive"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the adhesive bandage?",
+        "answer": "Earle Dickson of Johnson & Johnson invented it in 1920, and it was sold as Band-Aid from 1921."
+      },
+      {
+        "question": "Why do adhesive bandages have tiny holes?",
+        "answer": "Perforations let air and moisture escape, keeping the skin from becoming too damp."
+      },
+      {
+        "question": "Is it better to let a cut air out?",
+        "answer": "Medical advice now generally favors keeping minor wounds covered and moist for faster healing."
+      }
+    ],
+    "image": {
+      "search_query": "adhesive bandage strip",
+      "wikimedia_commons_category": "Adhesive bandages",
+      "alt": "An adhesive bandage strip"
+    },
+    "tags": [
+      "medical",
+      "first aid",
+      "modern"
+    ],
+    "confidence": "high"
+  },
+  {
+    "slug": "triangular-bandage",
+    "name": "Triangular bandage",
+    "category": "Personal care & health",
+    "invention": {
+      "display": "c. 1870",
+      "year": 1870,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Germany",
+      "modern_country": "Germany",
+      "notes": "The Swiss surgeon Mathias Mayor promoted triangular cloths in the 1830s, and Friedrich von Esmarch popularized the printed triangular bandage for first aid in the 1870s; credit is shared."
+    },
+    "inventor": null,
+    "short_description": "A triangle of cloth that can be folded into a sling, pad or binding.",
+    "description": "The triangular bandage became a first-aid staple after Friedrich von Esmarch included it in field kits and printed illustrated instructions on the cloth itself. It can be used as an arm sling, a head bandage, a pressure pad or a binding for splints. It is still standard in first-aid kits worldwide.",
+    "why_unchanged": "A single triangle of cloth serves many first-aid purposes, so its shape has never been bettered.",
+    "materials": [
+      "cotton",
+      "calico",
+      "non-woven fabric"
+    ],
+    "faqs": [
+      {
+        "question": "What can a triangular bandage be used for?",
+        "answer": "It can serve as an arm sling, a head or hand dressing, a pressure pad, or a tie for securing a splint."
+      },
+      {
+        "question": "Why were instructions printed on old triangular bandages?",
+        "answer": "Esmarch printed diagrams on the cloth so untrained people could apply it correctly in an emergency."
+      },
+      {
+        "question": "How big is a triangular bandage?",
+        "answer": "A common size is roughly 90 by 90 by 127 centimeters."
+      }
+    ],
+    "image": {
+      "search_query": "triangular bandage first aid",
+      "wikimedia_commons_category": "Triangular bandages",
+      "alt": "A folded triangular bandage"
+    },
+    "tags": [
+      "medical",
+      "first aid",
+      "textile",
+      "industrial"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "arm-sling",
+    "name": "Arm sling",
+    "category": "Personal care & health",
+    "invention": {
+      "display": "Ancient (date uncertain)",
+      "year": -400,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Ancient Greece",
+      "modern_country": "Greece",
+      "notes": "Supporting injured arms with cloth slings is described in Hippocratic writings and was certainly practiced earlier and elsewhere."
+    },
+    "inventor": null,
+    "short_description": "A cloth support hung from the neck to hold an injured arm close to the body.",
+    "description": "Using a cloth to support an injured arm is an ancient practice described in Greek medical texts. Field medics have long improvised slings from cloth, belts or triangular bandages. Modern slings use padded pouches and adjustable straps, but the basic idea of cradling the forearm from the neck remains the same.",
+    "why_unchanged": "Hanging the forearm in a cradle from the neck is the simplest way to rest the arm and shoulder.",
+    "materials": [
+      "cotton",
+      "polyester",
+      "foam padding"
+    ],
+    "faqs": [
+      {
+        "question": "Why use an arm sling?",
+        "answer": "It supports the arm and shoulder, reduces movement and helps limit pain and swelling after an injury."
+      },
+      {
+        "question": "How high should the hand be in a sling?",
+        "answer": "Usually slightly higher than the elbow, which can help reduce swelling."
+      },
+      {
+        "question": "Can you make a sling without a bandage?",
+        "answer": "Yes; a scarf, a shirt or a jacket can be improvised into a sling in an emergency."
+      }
+    ],
+    "image": {
+      "search_query": "arm sling injury",
+      "wikimedia_commons_category": "Arm slings",
+      "alt": "A person wearing an arm sling"
+    },
+    "tags": [
+      "medical",
+      "first aid",
+      "ancient"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "stretcher",
+    "name": "Stretcher",
+    "category": "Personal care & health",
+    "invention": {
+      "display": "Ancient (date uncertain)",
+      "year": -500,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Worldwide",
+      "modern_country": null,
+      "notes": "Carrying the sick or wounded on litters or poles is ancient and universal; organized military stretcher-bearing developed in the 18th–19th centuries."
+    },
+    "inventor": null,
+    "short_description": "A frame with fabric stretched between two poles for carrying a person who cannot walk.",
+    "description": "Two poles with a sheet of fabric between them have been used to carry the injured since antiquity. In the Napoleonic era Baron Dominique-Jean Larrey organized battlefield ambulance services that improved casualty transport. Folding and wheeled versions exist, but the classic pole stretcher is still used in first aid and the military.",
+    "why_unchanged": "Two poles and a fabric bed are light, strong and easy to carry, so the design endures.",
+    "materials": [
+      "canvas",
+      "aluminum",
+      "wood",
+      "nylon"
+    ],
+    "faqs": [
+      {
+        "question": "What is the difference between a stretcher and a gurney?",
+        "answer": "A stretcher is carried by people, while a gurney has wheels and an adjustable frame."
+      },
+      {
+        "question": "How many people carry a stretcher?",
+        "answer": "At least two, and four is often recommended over long distances or rough ground."
+      },
+      {
+        "question": "Can you improvise a stretcher?",
+        "answer": "Yes; two poles threaded through buttoned jackets or a folded blanket can make an emergency stretcher."
+      }
+    ],
+    "image": {
+      "search_query": "canvas stretcher military",
+      "wikimedia_commons_category": "Stretchers",
+      "alt": "A canvas folding stretcher"
+    },
+    "tags": [
+      "medical",
+      "first aid",
+      "ancient"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "clinical-thermometer",
+    "name": "Clinical thermometer",
+    "category": "Personal care & health",
+    "invention": {
+      "display": "1867",
+      "year": 1867,
+      "approximate": false,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Leeds, England",
+      "modern_country": "United Kingdom",
+      "notes": "Earlier thermometers were long and slow; Thomas Clifford Allbutt designed a short, portable clinical thermometer in 1867 that gave a reading in about five minutes."
+    },
+    "inventor": "Thomas Clifford Allbutt",
+    "short_description": "A thermometer designed to measure body temperature.",
+    "description": "Measuring body temperature became a diagnostic tool in the 19th century, but early medical thermometers were a foot long and took up to 20 minutes. In 1867 Sir Thomas Clifford Allbutt introduced a short, pocket-sized thermometer. Digital thermometers have since replaced mercury, but the slim probe held in the mouth or armpit remains the same.",
+    "why_unchanged": "A slim probe that sits under the tongue or arm is the natural shape for reading body temperature.",
+    "materials": [
+      "glass",
+      "plastic",
+      "electronics",
+      "galinstan"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the clinical thermometer?",
+        "answer": "Sir Thomas Clifford Allbutt designed the short clinical thermometer in 1867."
+      },
+      {
+        "question": "Why were mercury thermometers phased out?",
+        "answer": "Mercury is toxic if the glass breaks, so many countries banned or restricted them."
+      },
+      {
+        "question": "What is a normal body temperature?",
+        "answer": "It is commonly given as about 37 °C (98.6 °F), though normal varies by person, time of day and method."
+      }
+    ],
+    "image": {
+      "search_query": "clinical thermometer",
+      "wikimedia_commons_category": "Clinical thermometers",
+      "alt": "A clinical thermometer"
+    },
+    "tags": [
+      "medical",
+      "measurement",
+      "industrial"
+    ],
+    "confidence": "high"
+  },
+  {
+    "slug": "stethoscope",
+    "name": "Stethoscope",
+    "category": "Personal care & health",
+    "invention": {
+      "display": "1816",
+      "year": 1816,
+      "approximate": false,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Paris",
+      "modern_country": "France",
+      "notes": "René Laennec invented the monaural wooden-tube stethoscope in 1816; the binaural form with two earpieces, which defines the modern instrument, was developed in the 1850s (notably by George Cammann in New York)."
+    },
+    "inventor": "René Laennec",
+    "short_description": "An instrument for listening to sounds inside the body, especially the heart and lungs.",
+    "description": "In 1816 the French physician René Laennec rolled paper into a tube to listen to a patient's heart, then developed a wooden tube he called the stethoscope. In the 1850s binaural versions with flexible tubes and two earpieces appeared, establishing the form used today. Modern stethoscopes add diaphragms and better acoustics, but the layout is unchanged since then.",
+    "why_unchanged": "A chest piece, tubing and earpieces carry body sounds directly to the ears, and the design has proved hard to beat.",
+    "materials": [
+      "stainless steel",
+      "PVC tubing",
+      "rubber"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the stethoscope?",
+        "answer": "René Laennec invented it in Paris in 1816."
+      },
+      {
+        "question": "Why did Laennec invent it?",
+        "answer": "He felt it was inappropriate to put his ear directly to a young woman's chest, so he rolled paper into a tube and found it amplified the heartbeat."
+      },
+      {
+        "question": "What is the difference between the bell and the diaphragm?",
+        "answer": "The diaphragm picks up high-pitched sounds like breathing, while the bell picks up low-pitched sounds like certain heart murmurs."
+      }
+    ],
+    "image": {
+      "search_query": "stethoscope",
+      "wikimedia_commons_category": "Stethoscopes",
+      "alt": "A stethoscope on a table"
+    },
+    "tags": [
+      "medical",
+      "diagnostic",
+      "industrial"
+    ],
+    "confidence": "high"
+  },
+  {
+    "slug": "hypodermic-syringe",
+    "name": "Hypodermic syringe",
+    "category": "Personal care & health",
+    "invention": {
+      "display": "1853",
+      "year": 1853,
+      "approximate": false,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Edinburgh and Lyon",
+      "modern_country": null,
+      "notes": "Alexander Wood (Edinburgh) and Charles Pravaz (Lyon) independently developed hypodermic syringes with hollow needles in 1853; syringes without needles are much older."
+    },
+    "inventor": null,
+    "short_description": "A plunger-and-barrel device with a hollow needle for injecting fluids into the body.",
+    "description": "Simple syringes for irrigation existed in antiquity, but the hypodermic syringe was developed in 1853 by Alexander Wood in Scotland and Charles Pravaz in France. Glass syringes became standard, and disposable plastic syringes appeared in the mid-20th century. The barrel, plunger and needle form has remained the same.",
+    "why_unchanged": "A plunger in a graduated barrel attached to a hollow needle gives precise dosing in a simple form.",
+    "materials": [
+      "plastic",
+      "glass",
+      "stainless steel",
+      "rubber"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the hypodermic syringe?",
+        "answer": "Alexander Wood and Charles Pravaz independently developed it in 1853."
+      },
+      {
+        "question": "When did disposable syringes appear?",
+        "answer": "Disposable plastic syringes became widespread in the mid-20th century, reducing infection risks."
+      },
+      {
+        "question": "Why are needles measured in gauges?",
+        "answer": "Gauge indicates diameter; a higher gauge number means a thinner needle."
+      }
+    ],
+    "image": {
+      "search_query": "medical syringe needle",
+      "wikimedia_commons_category": "Syringes",
+      "alt": "A plastic syringe with a needle"
+    },
+    "tags": [
+      "medical",
+      "injection",
+      "industrial"
+    ],
+    "confidence": "high"
+  },
+  {
+    "slug": "tongue-depressor",
+    "name": "Tongue depressor",
+    "category": "Personal care & health",
+    "invention": {
+      "display": "19th century",
+      "year": 1850,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Europe and North America",
+      "modern_country": null,
+      "notes": "Metal tongue depressors were used by 19th-century physicians; disposable wooden ones became standard in the 20th century. No single inventor is clearly credited."
+    },
+    "inventor": null,
+    "short_description": "A thin, flat, rounded stick used to press the tongue down to examine the mouth and throat.",
+    "description": "Doctors began using flat instruments to hold the tongue down for throat examinations in the 19th century, often made of metal. Disposable wooden tongue depressors became the norm in the 20th century for hygiene reasons. The plain flat stick with rounded ends is unchanged.",
+    "why_unchanged": "A smooth flat stick does the job perfectly and is cheap enough to discard after one use.",
+    "materials": [
+      "birch wood",
+      "plastic",
+      "stainless steel"
+    ],
+    "faqs": [
+      {
+        "question": "Why do doctors use a tongue depressor?",
+        "answer": "It holds the tongue down so they can see the throat and tonsils clearly."
+      },
+      {
+        "question": "Why do tongue depressors make people gag?",
+        "answer": "Touching the back of the tongue can trigger the gag reflex, which is why doctors press near the middle."
+      },
+      {
+        "question": "What else are tongue depressors used for?",
+        "answer": "They are also used as craft sticks, for applying ointments and as makeshift finger splints."
+      }
+    ],
+    "image": {
+      "search_query": "wooden tongue depressors",
+      "wikimedia_commons_category": "Tongue depressors",
+      "alt": "Wooden tongue depressors"
+    },
+    "tags": [
+      "medical",
+      "wood",
+      "industrial"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "reflex-hammer",
+    "name": "Reflex hammer",
+    "category": "Personal care & health",
+    "invention": {
+      "display": "1888",
+      "year": 1888,
+      "approximate": false,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Philadelphia, Pennsylvania",
+      "modern_country": "United States",
+      "notes": "John Madison Taylor introduced the tomahawk-shaped Taylor reflex hammer in 1888; other designs, such as the Queen Square and Trömner hammers, came later."
+    },
+    "inventor": "John Madison Taylor",
+    "short_description": "A small rubber-headed hammer used to test tendon reflexes.",
+    "description": "Testing tendon reflexes became part of neurological examinations in the 1870s, initially with fingers or percussion hammers. In 1888 John Madison Taylor introduced a hammer with a triangular rubber head, now called the Taylor hammer. It remains a standard tool in doctors' offices.",
+    "why_unchanged": "A weighted rubber head on a handle delivers a quick, controlled tap, which is all reflex testing needs.",
+    "materials": [
+      "rubber",
+      "stainless steel",
+      "chrome"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the reflex hammer?",
+        "answer": "John Madison Taylor introduced the classic triangular-headed reflex hammer in 1888."
+      },
+      {
+        "question": "What does the knee-jerk test show?",
+        "answer": "It checks the patellar reflex, which helps assess the nerves and spinal cord segments involved."
+      },
+      {
+        "question": "Why are there different reflex hammer shapes?",
+        "answer": "Designs like the Queen Square or Trömner hammer offer different weights and tip sizes for testing various reflexes."
+      }
+    ],
+    "image": {
+      "search_query": "taylor reflex hammer",
+      "wikimedia_commons_category": "Reflex hammers",
+      "alt": "A Taylor reflex hammer"
+    },
+    "tags": [
+      "medical",
+      "diagnostic",
+      "industrial"
+    ],
+    "confidence": "high"
+  },
+  {
+    "slug": "snellen-chart",
+    "name": "Snellen chart",
+    "category": "Personal care & health",
+    "invention": {
+      "display": "1862",
+      "year": 1862,
+      "approximate": false,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Utrecht",
+      "modern_country": "Netherlands",
+      "notes": "Herman Snellen published his eye chart in 1862; it remains the most widely recognized chart for testing visual acuity, alongside later charts like LogMAR."
+    },
+    "inventor": "Herman Snellen",
+    "short_description": "A wall chart of rows of letters in decreasing sizes, used to test eyesight.",
+    "description": "Dutch ophthalmologist Herman Snellen developed his chart in 1862, using specially designed letters called optotypes on a grid. The size of each row corresponds to a standard viewing distance. Variants exist, but the classic Snellen chart with a large E at the top is still used worldwide.",
+    "why_unchanged": "Rows of standardized letters shrinking in size measure acuity simply and reliably, so the chart stuck.",
+    "materials": [
+      "paper",
+      "plastic",
+      "light box"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the eye chart?",
+        "answer": "Herman Snellen created it in Utrecht in 1862."
+      },
+      {
+        "question": "What does 20/20 vision mean?",
+        "answer": "It means you can read at 20 feet what a person with normal vision can read at 20 feet; 20/40 means you need to be at 20 feet to see what others see at 40."
+      },
+      {
+        "question": "Why does the chart start with a big E?",
+        "answer": "Many Snellen charts begin with a single large letter, often E, which tests the lowest level of acuity."
+      }
+    ],
+    "image": {
+      "search_query": "snellen eye chart",
+      "wikimedia_commons_category": "Snellen charts",
+      "alt": "A Snellen eye chart"
+    },
+    "tags": [
+      "medical",
+      "vision",
+      "diagnostic",
+      "industrial"
+    ],
+    "confidence": "high"
+  },
+  {
+    "slug": "eyedropper",
+    "name": "Eyedropper",
+    "category": "Personal care & health",
+    "invention": {
+      "display": "Late 19th century",
+      "year": 1880,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Europe and North America",
+      "modern_country": null,
+      "notes": "Glass droppers with rubber bulbs came into use after vulcanized rubber became widely available; no inventor is credited."
+    },
+    "inventor": null,
+    "short_description": "A glass or plastic tube with a rubber bulb used to dispense liquid one drop at a time.",
+    "description": "The eyedropper combines a narrow glass tube with a squeezable rubber bulb, letting users draw up liquid and release it drop by drop. It became common in pharmacies and homes in the late 19th century. Plastic versions are now common, but the bulb-and-tube design is unchanged.",
+    "why_unchanged": "Squeezing a bulb on a narrow tube gives precise drop control with no moving parts.",
+    "materials": [
+      "glass",
+      "rubber",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "How does an eyedropper work?",
+        "answer": "Squeezing the bulb pushes air out; releasing it creates suction that draws liquid into the tube."
+      },
+      {
+        "question": "Why is it called an eyedropper?",
+        "answer": "It was widely used to put medicated drops into the eyes."
+      },
+      {
+        "question": "What is a pipette?",
+        "answer": "A pipette is a related lab instrument designed for measuring precise liquid volumes."
+      }
+    ],
+    "image": {
+      "search_query": "glass eyedropper rubber bulb",
+      "wikimedia_commons_category": "Droppers",
+      "alt": "A glass eyedropper with a rubber bulb"
+    },
+    "tags": [
+      "medical",
+      "glass",
+      "industrial"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "eye-bath",
+    "name": "Eye bath",
+    "category": "Personal care & health",
+    "invention": {
+      "display": "18th–19th century",
+      "year": 1800,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "England",
+      "modern_country": "United Kingdom",
+      "notes": "Eye baths in glass, ceramic and silver were common in Britain from the 18th–19th centuries; earlier origins are not documented."
+    },
+    "inventor": null,
+    "short_description": "A small cup shaped to fit the eye socket, used to rinse the eye.",
+    "description": "Eye baths are small cups with a rim shaped to fit around the eye, filled with a rinsing solution and held against the eye while blinking. They were widely produced in Britain in glass, pottery and silver from the 18th century, and many antique examples survive. Plastic eye baths are still sold in pharmacies.",
+    "why_unchanged": "A cup shaped to seal around the eye is the simplest way to bathe it.",
+    "materials": [
+      "glass",
+      "plastic",
+      "ceramic",
+      "silver"
+    ],
+    "faqs": [
+      {
+        "question": "How do you use an eye bath?",
+        "answer": "Fill it with sterile solution, press it gently around the eye, tilt the head back and blink several times."
+      },
+      {
+        "question": "Are eye baths still recommended?",
+        "answer": "Some doctors prefer sterile single-use eyewash, because reused eye baths can spread infection if not kept clean."
+      },
+      {
+        "question": "Are antique eye baths collectible?",
+        "answer": "Yes; glass and ceramic eye baths from the 18th–20th centuries are popular with collectors."
+      }
+    ],
+    "image": {
+      "search_query": "glass eye bath cup",
+      "wikimedia_commons_category": "Eye baths",
+      "alt": "A glass eye bath cup"
+    },
+    "tags": [
+      "medical",
+      "eyes",
+      "glass",
+      "industrial"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "bulb-syringe",
+    "name": "Bulb syringe",
+    "category": "Personal care & health",
+    "invention": {
+      "display": "Mid-19th century",
+      "year": 1860,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Europe and North America",
+      "modern_country": null,
+      "notes": "Rubber bulb syringes for ears and noses became common after the spread of vulcanized rubber in the mid-19th century; no inventor is credited."
+    },
+    "inventor": null,
+    "short_description": "A squeezable rubber bulb with a tapered tip for suctioning or flushing.",
+    "description": "The rubber bulb syringe draws in liquid or mucus when released and expels it when squeezed. It became a household item in the 19th century for flushing ears and clearing babies' noses. It is still made in the same pear shape from rubber or silicone.",
+    "why_unchanged": "A single squeezable bulb with a nozzle does both suction and flushing with no moving parts.",
+    "materials": [
+      "rubber",
+      "silicone",
+      "PVC"
+    ],
+    "faqs": [
+      {
+        "question": "What is a bulb syringe used for?",
+        "answer": "It is used to clear mucus from a baby's nose and to rinse ears with warm water."
+      },
+      {
+        "question": "How do you clean a bulb syringe?",
+        "answer": "Squeeze warm soapy water in and out, rinse thoroughly and let it dry fully to prevent mold."
+      },
+      {
+        "question": "Is it safe to use on babies?",
+        "answer": "Yes when used gently and only at the nostril opening, as pediatric guidance recommends."
+      }
+    ],
+    "image": {
+      "search_query": "rubber bulb syringe",
+      "wikimedia_commons_category": "Bulb syringes",
+      "alt": "A rubber bulb syringe"
+    },
+    "tags": [
+      "medical",
+      "rubber",
+      "baby care",
+      "industrial"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "bandage-scissors",
+    "name": "Bandage scissors",
+    "category": "Personal care & health",
+    "invention": {
+      "display": "Late 19th century",
+      "year": 1880,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "United Kingdom",
+      "modern_country": "United Kingdom",
+      "notes": "Angled scissors with a blunt lower tip are often called Lister bandage scissors after Joseph Lister, but whether he designed them is not clearly documented."
+    },
+    "inventor": null,
+    "short_description": "Angled scissors with a blunt, flattened tip for cutting bandages safely.",
+    "description": "Bandage scissors have an angled blade with a blunt, often ball-tipped lower blade that slides under dressings without cutting skin. They became standard in 19th-century surgery and nursing. Trauma shears are a heavier modern variant, but the classic bandage scissor is unchanged.",
+    "why_unchanged": "A blunt lower blade that glides under bandages makes them safe, and nothing more is needed.",
+    "materials": [
+      "stainless steel"
+    ],
+    "faqs": [
+      {
+        "question": "Why do bandage scissors have a blunt tip?",
+        "answer": "The blunt lower tip slides under dressings without nicking the skin."
+      },
+      {
+        "question": "What are Lister scissors?",
+        "answer": "Lister scissors is a common name for angled bandage scissors, associated with the surgeon Joseph Lister."
+      },
+      {
+        "question": "What are trauma shears?",
+        "answer": "They are heavier, angled scissors used by paramedics to cut through clothing and bandages quickly."
+      }
+    ],
+    "image": {
+      "search_query": "lister bandage scissors",
+      "wikimedia_commons_category": "Bandage scissors",
+      "alt": "A pair of bandage scissors"
+    },
+    "tags": [
+      "medical",
+      "first aid",
+      "industrial"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "neti-pot",
+    "name": "Neti pot",
+    "category": "Personal care & health",
+    "invention": {
+      "display": "Ancient (date uncertain)",
+      "year": -500,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Indian subcontinent",
+      "modern_country": "India",
+      "notes": "Nasal rinsing (jala neti) is part of traditional yoga and Ayurvedic practice; the age of the practice and of the vessel is uncertain."
+    },
+    "inventor": null,
+    "short_description": "A small spouted pot used to rinse the nasal passages with salt water.",
+    "description": "Jala neti, rinsing the nose with salt water, is a traditional cleansing practice in yoga and Ayurveda. The small teapot-like vessel lets water pour into one nostril and out the other. It became popular in the West from the 2000s as a remedy for allergies and sinus congestion, in the same form.",
+    "why_unchanged": "A small pot with a spout that fits the nostril is all that nasal rinsing needs.",
+    "materials": [
+      "ceramic",
+      "plastic",
+      "copper"
+    ],
+    "faqs": [
+      {
+        "question": "How do you use a neti pot?",
+        "answer": "Tilt your head over a sink, pour saline into the upper nostril and let it flow out the lower one, breathing through the mouth."
+      },
+      {
+        "question": "Can you use tap water in a neti pot?",
+        "answer": "No; health authorities advise using distilled, sterile or boiled-and-cooled water to avoid dangerous infections."
+      },
+      {
+        "question": "What does a neti pot help with?",
+        "answer": "Saline rinses can ease nasal congestion, allergies and sinus symptoms."
+      }
+    ],
+    "image": {
+      "search_query": "ceramic neti pot",
+      "wikimedia_commons_category": "Neti pots",
+      "alt": "A ceramic neti pot"
+    },
+    "tags": [
+      "health",
+      "nasal",
+      "ayurveda",
+      "ancient"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "cupping-cup",
+    "name": "Cupping cup",
+    "category": "Personal care & health",
+    "invention": {
+      "display": "c. 1550 BCE (described)",
+      "year": -1550,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Ancient Egypt",
+      "modern_country": "Egypt",
+      "notes": "The Ebers Papyrus is often cited as an early reference to cupping; the practice was also used in ancient China and Greece, and its true origin is uncertain."
+    },
+    "inventor": null,
+    "short_description": "A small cup applied to the skin with suction, used in traditional cupping therapy.",
+    "description": "Cupping therapy uses cups to create suction on the skin, traditionally by heating the air inside. It appears in ancient Egyptian, Greek and Chinese medicine and in Islamic medicine as hijama. Glass, bamboo and silicone cups of the same basic shape are still used today, though scientific evidence for benefits is limited.",
+    "why_unchanged": "A rounded cup that holds suction on the skin is the whole device, so it never changed.",
+    "materials": [
+      "glass",
+      "bamboo",
+      "silicone",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "What is cupping?",
+        "answer": "It is a traditional therapy that creates suction on the skin with cups, often leaving round marks."
+      },
+      {
+        "question": "Does cupping work?",
+        "answer": "Scientific evidence is limited and mixed; some people report relief, but it is not proven for most claims."
+      },
+      {
+        "question": "Why does cupping leave circular marks?",
+        "answer": "The suction pulls blood to the skin's surface, causing bruise-like marks that fade over days."
+      }
+    ],
+    "image": {
+      "search_query": "glass cupping therapy cups",
+      "wikimedia_commons_category": "Cupping therapy",
+      "alt": "Glass cupping cups"
+    },
+    "tags": [
+      "health",
+      "traditional medicine",
+      "ancient"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "gua-sha-scraper",
+    "name": "Gua sha scraper",
+    "category": "Personal care & health",
+    "invention": {
+      "display": "Date uncertain (traditional)",
+      "year": 1300,
+      "approximate": true,
+      "era": "Medieval"
+    },
+    "place_of_invention": {
+      "region": "China",
+      "modern_country": "China",
+      "notes": "Gua sha is a long-standing folk practice in China and Southeast Asia; the date of origin and the earliest tools are not well documented."
+    },
+    "inventor": null,
+    "short_description": "A smooth-edged tool used to scrape the skin in traditional Chinese practice.",
+    "description": "Gua sha involves scraping lubricated skin with a smooth-edged tool, traditionally of horn, jade or even a ceramic spoon or coin. It is a folk remedy in China and Southeast Asia and has become popular in facial skincare. The tool is still a flat, curved plate.",
+    "why_unchanged": "A smooth curved edge glides over the skin, so the tool has remained a simple shaped plate.",
+    "materials": [
+      "jade",
+      "rose quartz",
+      "horn",
+      "stainless steel"
+    ],
+    "faqs": [
+      {
+        "question": "What does 'gua sha' mean?",
+        "answer": "It roughly translates as 'scraping sand', referring to the red marks scraping can raise."
+      },
+      {
+        "question": "Is facial gua sha the same as traditional gua sha?",
+        "answer": "Facial gua sha is much gentler and aims to massage, while body gua sha uses firm strokes."
+      },
+      {
+        "question": "Is gua sha scientifically proven?",
+        "answer": "Evidence is limited; some small studies suggest short-term pain relief, but more research is needed."
+      }
+    ],
+    "image": {
+      "search_query": "jade gua sha tool",
+      "wikimedia_commons_category": "Gua sha",
+      "alt": "A jade gua sha scraper"
+    },
+    "tags": [
+      "health",
+      "traditional medicine",
+      "stone",
+      "medieval"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "acupuncture-needle",
+    "name": "Acupuncture needle",
+    "category": "Personal care & health",
+    "invention": {
+      "display": "c. 2nd–1st century BCE",
+      "year": -100,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "China",
+      "modern_country": "China",
+      "notes": "Acupuncture is described in the Huangdi Neijing (compiled around the 2nd–1st century BCE); claims of much older origins are disputed."
+    },
+    "inventor": null,
+    "short_description": "A very fine, solid needle inserted into the skin in acupuncture.",
+    "description": "Acupuncture is described in the Chinese classic the Huangdi Neijing, compiled around 2,100 years ago, which refers to nine types of needles. Early needles were made of stone, bronze and later steel. Modern disposable stainless-steel needles are extremely fine but keep the same simple needle-and-handle form.",
+    "why_unchanged": "A thin solid needle with a handle is all acupuncture requires, so only materials improved.",
+    "materials": [
+      "stainless steel",
+      "copper wire handle",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "How old is acupuncture?",
+        "answer": "It is described in Chinese texts from around the 2nd–1st century BCE, though some claim older origins."
+      },
+      {
+        "question": "Do acupuncture needles hurt?",
+        "answer": "They are much thinner than injection needles, and many people feel only a slight sensation."
+      },
+      {
+        "question": "Are acupuncture needles reused?",
+        "answer": "In most countries single-use, sterile, disposable needles are now standard."
+      }
+    ],
+    "image": {
+      "search_query": "acupuncture needles",
+      "wikimedia_commons_category": "Acupuncture needles",
+      "alt": "Fine acupuncture needles"
+    },
+    "tags": [
+      "health",
+      "traditional medicine",
+      "ancient"
+    ],
+    "confidence": "medium"
+  }
+]

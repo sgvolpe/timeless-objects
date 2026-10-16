@@ -1,0 +1,1274 @@
+[
+  {
+    "slug": "toothpick",
+    "name": "Toothpick",
+    "category": "Personal care & health",
+    "invention": {
+      "display": "Prehistoric (artifacts c. 3500 BCE)",
+      "year": -3500,
+      "approximate": true,
+      "era": "Prehistoric"
+    },
+    "place_of_invention": {
+      "region": "Mesopotamia",
+      "modern_country": "Iraq",
+      "notes": "Grooves on fossil hominin teeth suggest tooth-picking long predates any surviving tool; early metal picks are known from Mesopotamian sites. Almost certainly used independently by many cultures."
+    },
+    "inventor": null,
+    "short_description": "A small, thin stick used to remove food from between the teeth.",
+    "description": "The toothpick is one of humanity's oldest grooming habits, with wear marks on ancient teeth showing that people probed between them with twigs or grass stalks. Ornate picks of bronze, silver and gold were carried by the wealthy in antiquity and the Middle Ages. Mass-produced wooden toothpicks spread in the 19th century, especially after machines were developed in the United States to cut them from birch.",
+    "why_unchanged": "A thin, pointed stick is already the simplest shape that fits between teeth, so there was nothing to improve.",
+    "materials": [
+      "wood",
+      "bamboo",
+      "plastic",
+      "metal"
+    ],
+    "faqs": [
+      {
+        "question": "How old is the toothpick?",
+        "answer": "Wear grooves on fossil teeth suggest early humans picked their teeth with sticks long before written history. Metal toothpicks have been found in ancient Mesopotamian contexts."
+      },
+      {
+        "question": "Why do some toothpicks have grooves near one end?",
+        "answer": "The decorative grooves on many European-style toothpicks let you snap off the end and use it as a small rest, so the used tip does not touch the table."
+      },
+      {
+        "question": "Are toothpicks good for your teeth?",
+        "answer": "They can dislodge trapped food, but dentists generally recommend floss or interdental brushes for routine cleaning because a stiff pick can irritate the gums."
+      }
+    ],
+    "image": {
+      "search_query": "wooden toothpicks close up",
+      "wikimedia_commons_category": "Toothpicks",
+      "alt": "A pile of wooden toothpicks"
+    },
+    "tags": [
+      "oral care",
+      "wood",
+      "ancient"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "miswak",
+    "name": "Miswak",
+    "category": "Personal care & health",
+    "invention": {
+      "display": "c. 3500 BCE",
+      "year": -3500,
+      "approximate": true,
+      "era": "Prehistoric"
+    },
+    "place_of_invention": {
+      "region": "Babylonia (Middle East)",
+      "modern_country": "Iraq",
+      "notes": "Chew sticks were used across Africa, the Middle East and Asia; Babylonian use is commonly cited but the precise origin is unknown."
+    },
+    "inventor": null,
+    "short_description": "A natural toothbrush made from a twig of the Salvadora persica (arak) tree.",
+    "description": "The miswak is a chewing stick whose end is chewed or cut until the fibers splay into a soft brush. Chew sticks were used in many ancient societies, and the miswak became especially widespread in the Islamic world, where its use is recommended in religious tradition. It is still sold and used daily in parts of Africa, the Middle East and South Asia.",
+    "why_unchanged": "A frayed twig already combines bristles and handle in one piece, and the plant's natural compounds made it effective without modification.",
+    "materials": [
+      "arak wood (Salvadora persica)"
+    ],
+    "faqs": [
+      {
+        "question": "How do you use a miswak?",
+        "answer": "You peel back about a centimeter of bark, chew the exposed end until the fibers separate, then brush the teeth with it; the worn end is cut off and refreshed every day or so."
+      },
+      {
+        "question": "Does the miswak actually clean teeth?",
+        "answer": "Studies have found it can remove plaque comparably to a toothbrush when used properly, and the wood contains natural compounds such as fluoride and silica."
+      },
+      {
+        "question": "Is the miswak the same as a chew stick?",
+        "answer": "It is one kind of chew stick; other cultures used twigs of neem, licorice or other trees in the same way."
+      }
+    ],
+    "image": {
+      "search_query": "miswak chewing stick",
+      "wikimedia_commons_category": "Miswak",
+      "alt": "Several miswak sticks with frayed ends"
+    },
+    "tags": [
+      "oral care",
+      "wood",
+      "ancient",
+      "natural"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "toothbrush",
+    "name": "Toothbrush",
+    "category": "Personal care & health",
+    "invention": {
+      "display": "1498",
+      "year": 1498,
+      "approximate": false,
+      "era": "Medieval"
+    },
+    "place_of_invention": {
+      "region": "Ming dynasty China",
+      "modern_country": "China",
+      "notes": "Bristle toothbrushes are recorded in China under the Hongzhi Emperor (1498); earlier Chinese bristle brushes may exist. William Addis began mass production in England around 1780."
+    },
+    "inventor": null,
+    "short_description": "A small brush with a handle and a head of bristles for cleaning teeth.",
+    "description": "The bristle toothbrush, with coarse hog bristles fixed into a bone or bamboo handle, is recorded in China at the end of the 15th century. Travelers brought the idea to Europe, and in about 1780 William Addis of England began manufacturing toothbrushes commercially. Nylon bristles replaced animal hair in 1938, but the handle-and-bristle-head layout remained the same.",
+    "why_unchanged": "A straight handle with a tuft of bristles at the end reaches every tooth surface, so later changes affected only materials and ergonomics.",
+    "materials": [
+      "plastic",
+      "nylon",
+      "bamboo",
+      "bone",
+      "boar bristle"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the toothbrush?",
+        "answer": "The bristle toothbrush first appears in Ming-dynasty China in 1498; no single inventor is known. William Addis is credited with the first mass-produced toothbrushes in England around 1780."
+      },
+      {
+        "question": "When did toothbrushes get nylon bristles?",
+        "answer": "Nylon bristles were introduced in 1938, replacing the hog, horse or badger hair used before."
+      },
+      {
+        "question": "How often should you replace a toothbrush?",
+        "answer": "Dental associations generally recommend replacing it every three to four months, or sooner if the bristles are frayed."
+      }
+    ],
+    "image": {
+      "search_query": "toothbrush close up",
+      "wikimedia_commons_category": "Toothbrushes",
+      "alt": "A manual toothbrush on a white background"
+    },
+    "tags": [
+      "oral care",
+      "brush",
+      "medieval"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "dental-floss",
+    "name": "Dental floss",
+    "category": "Personal care & health",
+    "invention": {
+      "display": "1815",
+      "year": 1815,
+      "approximate": false,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "New Orleans, Louisiana",
+      "modern_country": "United States",
+      "notes": "Parmly recommended waxed silk thread for cleaning between teeth in 1815; the first floss patent went to Asahel Shurtleff in 1874 and commercial silk floss followed in 1882."
+    },
+    "inventor": "Levi Spear Parmly",
+    "short_description": "A thin thread used to clean between teeth and below the gumline.",
+    "description": "In 1815 the New Orleans dentist Levi Spear Parmly advised patients to clean between their teeth with waxed silk thread. Commercial floss appeared later in the 19th century, and Johnson & Johnson began selling it in 1898. Nylon replaced silk in the 1940s, but floss is still simply a thread pulled between the teeth.",
+    "why_unchanged": "A thin, strong thread is the only practical shape that fits into the tight gap between two teeth.",
+    "materials": [
+      "nylon",
+      "PTFE",
+      "silk",
+      "wax"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented dental floss?",
+        "answer": "The American dentist Levi Spear Parmly is credited with recommending silk thread for cleaning between teeth in 1815."
+      },
+      {
+        "question": "What was floss made of originally?",
+        "answer": "Early floss was silk thread, often waxed; nylon replaced it during the 1940s when silk became scarce."
+      },
+      {
+        "question": "Should you floss before or after brushing?",
+        "answer": "Either works, but many dentists suggest flossing first so the fluoride in toothpaste can reach the spaces you have just cleared."
+      }
+    ],
+    "image": {
+      "search_query": "dental floss strand",
+      "wikimedia_commons_category": "Dental floss",
+      "alt": "A strand of dental floss pulled from its dispenser"
+    },
+    "tags": [
+      "oral care",
+      "thread",
+      "industrial"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "toothpaste-tube",
+    "name": "Toothpaste tube",
+    "category": "Personal care & health",
+    "invention": {
+      "display": "1892",
+      "year": 1892,
+      "approximate": false,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "New London, Connecticut",
+      "modern_country": "United States",
+      "notes": "Sheffield's company is usually credited with the first collapsible toothpaste tube; Colgate adopted the format in 1896. The collapsible metal tube itself was patented for artists' paint by John Goffe Rand in 1841."
+    },
+    "inventor": "Washington Sheffield",
+    "short_description": "A squeezable, collapsible tube that dispenses toothpaste.",
+    "description": "Before the 1890s toothpaste and tooth powder were sold in jars, which were messy and unhygienic. The dentist Washington Sheffield adapted the collapsible metal tube, previously used for oil paints, to hold toothpaste. Plastic and laminate tubes replaced lead and tin in the 20th century, but the squeeze-and-cap format is unchanged.",
+    "why_unchanged": "Squeezing paste out of a sealed tube keeps the contents clean and dispenses just the right amount, so the format never needed rethinking.",
+    "materials": [
+      "plastic laminate",
+      "aluminum",
+      "tin"
+    ],
+    "faqs": [
+      {
+        "question": "Who first put toothpaste in a tube?",
+        "answer": "Dr. Washington Sheffield of Connecticut is generally credited with selling toothpaste in a collapsible tube in 1892."
+      },
+      {
+        "question": "What did toothpaste come in before tubes?",
+        "answer": "It was sold as powder or paste in jars and tins, into which everyone dipped their brush."
+      },
+      {
+        "question": "What do the colored squares on the bottom of tubes mean?",
+        "answer": "They are printing registration marks read by machines during manufacturing; despite a popular myth, they say nothing about the ingredients."
+      }
+    ],
+    "image": {
+      "search_query": "toothpaste tube",
+      "wikimedia_commons_category": "Toothpaste tubes",
+      "alt": "A squeezed tube of toothpaste"
+    },
+    "tags": [
+      "oral care",
+      "packaging",
+      "industrial"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "tongue-scraper",
+    "name": "Tongue scraper",
+    "category": "Personal care & health",
+    "invention": {
+      "display": "Ancient (date uncertain)",
+      "year": -500,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Indian subcontinent",
+      "modern_country": "India",
+      "notes": "Tongue scraping is described in Ayurvedic tradition; exact dating is uncertain. Ornate tongue scrapers were also common in Victorian Britain."
+    },
+    "inventor": null,
+    "short_description": "A curved strip or loop used to scrape coating off the surface of the tongue.",
+    "description": "Tongue scraping is a long-standing part of the Ayurvedic daily routine in India, where U-shaped scrapers of copper, silver or other metals are still used. Tongue scrapers were also fashionable in Europe, particularly in 18th- and 19th-century Britain. The simple bow shape held at both ends has stayed the same, now often made of stainless steel or plastic.",
+    "why_unchanged": "A smooth curved edge pulled from back to front is all that is needed to clear the tongue's surface.",
+    "materials": [
+      "copper",
+      "stainless steel",
+      "silver",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "Why do people scrape their tongues?",
+        "answer": "Scraping removes bacteria, food debris and dead cells from the tongue, which can help reduce bad breath."
+      },
+      {
+        "question": "Is a tongue scraper better than brushing the tongue?",
+        "answer": "Some studies suggest a scraper removes tongue coating slightly more effectively than a toothbrush, though both help."
+      },
+      {
+        "question": "Why are traditional tongue scrapers made of copper?",
+        "answer": "Copper is the traditional Ayurvedic material and is valued for its antimicrobial properties, though stainless steel works equally well for scraping."
+      }
+    ],
+    "image": {
+      "search_query": "copper tongue scraper",
+      "wikimedia_commons_category": "Tongue cleaners",
+      "alt": "A U-shaped copper tongue scraper"
+    },
+    "tags": [
+      "oral care",
+      "metal",
+      "ancient",
+      "ayurveda"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "dental-mirror",
+    "name": "Dental mirror",
+    "category": "Personal care & health",
+    "invention": {
+      "display": "19th century",
+      "year": 1850,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Europe and North America",
+      "modern_country": null,
+      "notes": "Small mouth mirrors were in use by dentists by the mid-19th century; no single inventor or date is documented."
+    },
+    "inventor": null,
+    "short_description": "A small angled mirror on a long handle used to see inside the mouth.",
+    "description": "The dental mirror lets a dentist see the back and inner surfaces of teeth and reflect light into the mouth. It became a standard instrument as dentistry professionalized in the 19th century. Today's versions use front-surface mirrors and disposable heads, but the round mirror on a thin handle is the same.",
+    "why_unchanged": "A small mirror at an angle on a slim handle is the simplest way to look around corners inside the mouth.",
+    "materials": [
+      "stainless steel",
+      "glass",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "Why is a dental mirror angled?",
+        "answer": "The angle lets the dentist view tooth surfaces that face away from them, such as the backs of the front teeth."
+      },
+      {
+        "question": "What else is a dental mirror used for?",
+        "answer": "Dentists also use it to reflect light onto teeth and to gently hold back the cheek or tongue."
+      },
+      {
+        "question": "Why do some dental mirrors not produce a double image?",
+        "answer": "Front-surface mirrors put the reflective coating on top of the glass, avoiding the faint second reflection of ordinary mirrors."
+      }
+    ],
+    "image": {
+      "search_query": "dental mouth mirror instrument",
+      "wikimedia_commons_category": "Dental mirrors",
+      "alt": "A dental mirror on a metal handle"
+    },
+    "tags": [
+      "dental",
+      "medical",
+      "mirror",
+      "industrial"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "comb",
+    "name": "Comb",
+    "category": "Personal care & health",
+    "invention": {
+      "display": "c. 3900 BCE",
+      "year": -3900,
+      "approximate": true,
+      "era": "Prehistoric"
+    },
+    "place_of_invention": {
+      "region": "Upper Egypt (Naqada culture)",
+      "modern_country": "Egypt",
+      "notes": "Decorated combs from Predynastic Egypt are among the best-known early examples; combs are probably older and arose in many places independently."
+    },
+    "inventor": null,
+    "short_description": "A toothed strip used to untangle, style and clean hair.",
+    "description": "Combs of bone, ivory and wood are among the oldest grooming tools known, with decorated examples from Predynastic Egypt dating back nearly 6,000 years. They have been made in nearly every culture, from Roman boxwood double-sided combs to Chinese lacquered combs. Plastic replaced most natural materials in the 20th century, but a row of teeth on a spine is unchanged.",
+    "why_unchanged": "A row of evenly spaced teeth is the most direct way to separate and align hair strands.",
+    "materials": [
+      "plastic",
+      "wood",
+      "horn",
+      "bone",
+      "metal"
+    ],
+    "faqs": [
+      {
+        "question": "How old is the comb?",
+        "answer": "Combs are thousands of years old; carved examples from Predynastic Egypt date to around 3900 BCE and similar tools were made independently worldwide."
+      },
+      {
+        "question": "Why do some combs have fine and wide teeth?",
+        "answer": "Wide teeth detangle thick or knotted hair, while fine teeth smooth hair and remove small debris."
+      },
+      {
+        "question": "Are wooden combs better than plastic ones?",
+        "answer": "Some people prefer wood because it creates less static, but both work; the main thing is smooth, burr-free teeth."
+      }
+    ],
+    "image": {
+      "search_query": "hair comb",
+      "wikimedia_commons_category": "Combs",
+      "alt": "A simple plastic hair comb"
+    },
+    "tags": [
+      "hair",
+      "grooming",
+      "ancient"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "lice-comb",
+    "name": "Lice comb",
+    "category": "Personal care & health",
+    "invention": {
+      "display": "c. 1700 BCE (inscribed example)",
+      "year": -1700,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Lachish, Canaan",
+      "modern_country": "Israel",
+      "notes": "An ivory comb from Lachish bearing an early alphabetic inscription about lice is a famous example; double-sided lice combs were also used in ancient Egypt and are probably older."
+    },
+    "inventor": null,
+    "short_description": "A very fine-toothed comb designed to remove head lice and their eggs.",
+    "description": "Lice have plagued people throughout history, and fine-toothed combs to remove them appear in many ancient sites, sometimes with lice still trapped in their teeth. A small ivory comb from Lachish carries one of the earliest known alphabetic sentences, a wish to root out lice. Modern nit combs are made of metal or plastic but use the same tightly spaced teeth.",
+    "why_unchanged": "Only very closely spaced teeth can catch tiny eggs, so the design is dictated by the size of the louse.",
+    "materials": [
+      "stainless steel",
+      "plastic",
+      "ivory",
+      "wood"
+    ],
+    "faqs": [
+      {
+        "question": "What is the difference between a lice comb and a normal comb?",
+        "answer": "A lice comb has teeth set so close together, often under 0.3 mm apart, that they trap lice and nits that slip through ordinary combs."
+      },
+      {
+        "question": "What does the ancient Lachish comb say?",
+        "answer": "Its short inscription, in an early alphabet, expresses a wish that the comb root out the lice of the hair and beard."
+      },
+      {
+        "question": "Does combing alone get rid of lice?",
+        "answer": "Regular wet combing with a nit comb can remove lice, and health agencies often recommend it alongside or instead of chemical treatments."
+      }
+    ],
+    "image": {
+      "search_query": "metal nit comb lice",
+      "wikimedia_commons_category": "Nit combs",
+      "alt": "A fine-toothed metal lice comb"
+    },
+    "tags": [
+      "hair",
+      "health",
+      "ancient"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "afro-comb",
+    "name": "Afro comb",
+    "category": "Personal care & health",
+    "invention": {
+      "display": "c. 3500 BCE",
+      "year": -3500,
+      "approximate": true,
+      "era": "Prehistoric"
+    },
+    "place_of_invention": {
+      "region": "Ancient Egypt and Kush (Nile Valley)",
+      "modern_country": "Egypt",
+      "notes": "Long-toothed combs from Kemet and Kush were highlighted by the Fitzwilliam Museum's 2013 exhibition on the Afro comb's origins; similar combs also come from Sudan."
+    },
+    "inventor": null,
+    "short_description": "A comb with long, widely spaced teeth for lifting and shaping tightly curled hair.",
+    "description": "Combs with long, widely spaced teeth for curly hair have been found in Nile Valley sites dating back about 5,500 years. They have remained an important tool and cultural symbol in Africa and the African diaspora. In the 1960s and 1970s the Afro pick, sometimes with a raised-fist handle, became an emblem of Black pride.",
+    "why_unchanged": "Long, widely spaced teeth are what tightly coiled hair needs, so the basic form has not changed.",
+    "materials": [
+      "wood",
+      "plastic",
+      "metal",
+      "bone"
+    ],
+    "faqs": [
+      {
+        "question": "How old is the Afro comb?",
+        "answer": "Archaeologists have found long-toothed combs in ancient Egypt and Sudan dating back roughly 5,500 years."
+      },
+      {
+        "question": "What is the difference between an Afro comb and a pick?",
+        "answer": "The terms overlap; a pick usually has a handle at one end and long teeth used to lift hair outward, while a comb may be more traditional in shape."
+      },
+      {
+        "question": "Why does the fist pick matter culturally?",
+        "answer": "The raised-fist Afro pick of the 1970s became a symbol of the Black Power movement and of pride in natural hair."
+      }
+    ],
+    "image": {
+      "search_query": "wooden afro comb",
+      "wikimedia_commons_category": "Afro combs",
+      "alt": "A wooden Afro comb with long teeth"
+    },
+    "tags": [
+      "hair",
+      "grooming",
+      "ancient",
+      "africa"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "hairbrush",
+    "name": "Hairbrush",
+    "category": "Personal care & health",
+    "invention": {
+      "display": "Date uncertain; common by the 18th century",
+      "year": 1700,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Europe",
+      "modern_country": null,
+      "notes": "Bristle hairbrushes were in use in Europe by the 17th–18th centuries, but earlier precursors are poorly documented. Lyda Newman patented an improved, easier-to-clean hairbrush in 1898."
+    },
+    "inventor": null,
+    "short_description": "A brush with a handle and bristles used to detangle, smooth and style hair.",
+    "description": "Bristle hairbrushes became common in Europe in the early modern period, often with boar bristles set into wooden or ivory backs. In the 19th century manufacturers developed cushioned and air-vented designs, and in 1898 the African American inventor Lyda Newman patented a brush designed for easy cleaning. Today's brushes use plastic and nylon but keep the paddle or round head on a handle.",
+    "why_unchanged": "A handle with a field of bristles distributes the hair's natural oils and detangles efficiently, so the design stayed.",
+    "materials": [
+      "boar bristle",
+      "nylon",
+      "wood",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the hairbrush?",
+        "answer": "No single person invented it; brushes evolved over centuries. Lyda Newman received a notable 1898 US patent for an improved, hygienic hairbrush."
+      },
+      {
+        "question": "Why are boar-bristle brushes popular?",
+        "answer": "Boar bristles are thought to spread the scalp's natural oils along the hair, adding shine."
+      },
+      {
+        "question": "Should you brush wet hair?",
+        "answer": "Wet hair is more fragile, so stylists usually recommend a wide-tooth comb or a brush designed for wet hair."
+      }
+    ],
+    "image": {
+      "search_query": "hairbrush paddle bristles",
+      "wikimedia_commons_category": "Hairbrushes",
+      "alt": "A paddle hairbrush with bristles"
+    },
+    "tags": [
+      "hair",
+      "brush",
+      "grooming"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "hairpin",
+    "name": "Hairpin",
+    "category": "Personal care & health",
+    "invention": {
+      "display": "c. 3000 BCE",
+      "year": -3000,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Egypt and Mesopotamia",
+      "modern_country": null,
+      "notes": "Bone and metal pins used to fasten hair are found in many ancient cultures; prehistoric examples may be older."
+    },
+    "inventor": null,
+    "short_description": "A long pin, often U-shaped, used to hold hair in place.",
+    "description": "Pins to secure hair have been found in ancient Egyptian, Mesopotamian, Greek, Roman and Chinese contexts, made from bone, ivory, bronze and precious metals. The two-pronged U-shaped hairpin became the standard for holding buns and updos. Modern hairpins are made of thin steel wire but keep the same open U form.",
+    "why_unchanged": "A two-pronged pin slides into hair and grips by friction, which needs no further refinement.",
+    "materials": [
+      "steel",
+      "bone",
+      "bronze",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "What is the difference between a hairpin and a bobby pin?",
+        "answer": "A hairpin is an open U-shape that holds hair loosely, while a bobby pin has two prongs pressed tightly together to clamp hair."
+      },
+      {
+        "question": "How old are hairpins?",
+        "answer": "Hairpins of bone and metal date back thousands of years and appear in ancient Egyptian and Mesopotamian sites."
+      },
+      {
+        "question": "How do you use a hairpin in a bun?",
+        "answer": "Insert the pin facing outward, then turn it and push it into the bun so the prongs anchor against the base of the hair."
+      }
+    ],
+    "image": {
+      "search_query": "U-shaped hairpins",
+      "wikimedia_commons_category": "Hairpins",
+      "alt": "Several metal U-shaped hairpins"
+    },
+    "tags": [
+      "hair",
+      "pin",
+      "ancient"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "bobby-pin",
+    "name": "Bobby pin",
+    "category": "Personal care & health",
+    "invention": {
+      "display": "c. 1920",
+      "year": 1920,
+      "approximate": true,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "United States",
+      "modern_country": "United States",
+      "notes": "The bobby pin became popular with the 1920s 'bob' haircut, giving it its name; attribution to a specific inventor is unclear. In Britain the similar 'Kirby grip' was named after the manufacturer Kirby, Beard & Co."
+    },
+    "inventor": null,
+    "short_description": "A small, tightly closed, two-pronged hair clip with one wavy side.",
+    "description": "The bobby pin takes its name from the bobbed haircut that became fashionable in the 1920s, when women needed a way to hold short hair in place. It is made of a single folded strip of steel with one straight and one crimped prong that grip hair under tension. It remains one of the cheapest and most used hair accessories worldwide.",
+    "why_unchanged": "A spring-tension clip with one ridged prong grips hair securely at almost no cost, so there was little to improve.",
+    "materials": [
+      "steel",
+      "plastic coating"
+    ],
+    "faqs": [
+      {
+        "question": "Why is it called a bobby pin?",
+        "answer": "It became popular in the 1920s with the bob haircut, which it was used to hold in place."
+      },
+      {
+        "question": "Which way should a bobby pin go in?",
+        "answer": "Many stylists put the wavy side down against the scalp, because the ridges grip better there."
+      },
+      {
+        "question": "What is a Kirby grip?",
+        "answer": "It is the British name for a bobby pin, after the manufacturer Kirby, Beard & Co."
+      }
+    ],
+    "image": {
+      "search_query": "bobby pins pile",
+      "wikimedia_commons_category": "Bobby pins",
+      "alt": "A small pile of black bobby pins"
+    },
+    "tags": [
+      "hair",
+      "pin",
+      "modern"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "hair-stick",
+    "name": "Hair stick",
+    "category": "Personal care & health",
+    "invention": {
+      "display": "c. 2nd millennium BCE",
+      "year": -1500,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "China",
+      "modern_country": "China",
+      "notes": "Hair sticks (ji) appear in early Chinese archaeology and many other cultures used similar pins; precise origins are uncertain."
+    },
+    "inventor": null,
+    "short_description": "A single straight stick pushed through a bun to hold long hair in place.",
+    "description": "Hair sticks have long been used in China, Japan, Korea and elsewhere to secure long hair in a knot or bun. In ancient China the hairpin was tied to coming-of-age rituals, and Japanese kanzashi became elaborate decorative forms. The basic tool is still a single tapered rod, now often made of wood, metal or acrylic.",
+    "why_unchanged": "One tapered rod twisted through a bun locks hair in place with no moving parts.",
+    "materials": [
+      "wood",
+      "bamboo",
+      "metal",
+      "acrylic",
+      "jade"
+    ],
+    "faqs": [
+      {
+        "question": "How do you use a hair stick?",
+        "answer": "Twist the hair into a bun, push the stick in at the top, turn it to catch the base of the bun, then push it through to anchor."
+      },
+      {
+        "question": "Are hair sticks only Asian?",
+        "answer": "They are strongly associated with East Asia, but straight hair pins were used in many ancient cultures, including Rome and Egypt."
+      },
+      {
+        "question": "What is a kanzashi?",
+        "answer": "Kanzashi are traditional Japanese hair ornaments, many of which are decorated hair sticks."
+      }
+    ],
+    "image": {
+      "search_query": "wooden hair stick bun",
+      "wikimedia_commons_category": "Hair sticks",
+      "alt": "A wooden hair stick holding a bun"
+    },
+    "tags": [
+      "hair",
+      "wood",
+      "ancient",
+      "asia"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "hairnet",
+    "name": "Hairnet",
+    "category": "Personal care & health",
+    "invention": {
+      "display": "c. 1400 BCE",
+      "year": -1400,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Bronze Age Denmark",
+      "modern_country": "Denmark",
+      "notes": "Well-preserved Nordic Bronze Age burials such as Borum Eshøj contained hairnets made by sprang technique; hairnets were also known in ancient Greece and Rome."
+    },
+    "inventor": null,
+    "short_description": "A fine, loosely knotted net worn over the hair to keep it in place.",
+    "description": "Hairnets are surprisingly old: Bronze Age burials in Denmark contained finely worked hairnets more than 3,000 years old, and Greek and Roman women wore them too. They later became fashionable accessories and, in the 20th century, a hygiene requirement in kitchens and factories. Modern nylon hairnets keep the same open mesh form.",
+    "why_unchanged": "An open mesh that holds hair while staying light and breathable is already the ideal form.",
+    "materials": [
+      "nylon",
+      "wool",
+      "silk",
+      "hair"
+    ],
+    "faqs": [
+      {
+        "question": "How old is the hairnet?",
+        "answer": "Hairnets from Nordic Bronze Age burials date to roughly 1400 BCE."
+      },
+      {
+        "question": "Why do food workers wear hairnets?",
+        "answer": "They keep loose hairs from falling into food and are required by many food safety regulations."
+      },
+      {
+        "question": "What is sprang?",
+        "answer": "Sprang is an ancient textile technique that twists threads stretched on a frame, producing a stretchy net-like fabric used in early hairnets."
+      }
+    ],
+    "image": {
+      "search_query": "hairnet",
+      "wikimedia_commons_category": "Hairnets",
+      "alt": "A fine hairnet"
+    },
+    "tags": [
+      "hair",
+      "textile",
+      "ancient"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "scrunchie",
+    "name": "Scrunchie",
+    "category": "Personal care & health",
+    "invention": {
+      "display": "1986",
+      "year": 1986,
+      "approximate": false,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "United States",
+      "modern_country": "United States",
+      "notes": "Rommy Hunt Revson filed a patent for the fabric-covered elastic hair tie in 1986 (granted 1987); fabric-covered hair elastics were sold earlier, in the 1960s."
+    },
+    "inventor": "Rommy Hunt Revson",
+    "short_description": "A fabric-covered elastic band used to tie hair into a ponytail.",
+    "description": "The scrunchie is an elastic hair tie wrapped in gathered fabric, which is gentler on hair than a bare rubber band. Rommy Hunt Revson patented the design in the late 1980s and named it the 'Scunci' after her poodle. It was a defining accessory of the late 1980s and 1990s and has returned to fashion since.",
+    "why_unchanged": "Gathered fabric around elastic already balances grip and gentleness, so the product has been revived rather than redesigned.",
+    "materials": [
+      "fabric",
+      "elastic",
+      "velvet",
+      "silk"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the scrunchie?",
+        "answer": "Rommy Hunt Revson patented the scrunchie in the 1980s and sold it under the name Scunci."
+      },
+      {
+        "question": "Why did people say the scrunchie is gentler on hair?",
+        "answer": "The fabric covering reduces friction and the pulling that bare elastics can cause, which helps limit breakage."
+      },
+      {
+        "question": "Where does the name Scunci come from?",
+        "answer": "Revson reportedly named it after her pet poodle."
+      }
+    ],
+    "image": {
+      "search_query": "velvet scrunchie hair tie",
+      "wikimedia_commons_category": "Scrunchies",
+      "alt": "A velvet scrunchie"
+    },
+    "tags": [
+      "hair",
+      "fabric",
+      "modern"
+    ],
+    "confidence": "high"
+  },
+  {
+    "slug": "curling-tongs",
+    "name": "Curling tongs",
+    "category": "Personal care & health",
+    "invention": {
+      "display": "1872",
+      "year": 1872,
+      "approximate": false,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Paris",
+      "modern_country": "France",
+      "notes": "Heated tongs for hair were used in antiquity (the Roman calamistrum), but the clamping tongs used for 'Marcel waves' were introduced by the hairdresser Marcel Grateau in 1872."
+    },
+    "inventor": "Marcel Grateau",
+    "short_description": "A heated rod with a clamp, used to curl or wave hair.",
+    "description": "Heated rods for curling hair go back to ancient Rome, but the hinged clamp-and-barrel design took off when the Paris hairdresser Marcel Grateau popularized his 'Marcel wave' in 1872. The tongs were originally heated over a flame; electric versions arrived in the 20th century. The barrel-and-clamp form remains standard.",
+    "why_unchanged": "A heated barrel with a clamp that holds hair around it is the simplest way to set a curl.",
+    "materials": [
+      "steel",
+      "ceramic",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented curling tongs?",
+        "answer": "Heated hair tongs are ancient, but the Paris hairdresser Marcel Grateau introduced the clamping tongs used for Marcel waves in 1872."
+      },
+      {
+        "question": "How were curling tongs heated before electricity?",
+        "answer": "They were warmed over a gas flame, spirit lamp or stove and tested on paper to avoid scorching hair."
+      },
+      {
+        "question": "What is the difference between curling tongs and a curling wand?",
+        "answer": "Tongs have a clamp to hold the hair against the barrel, while a wand has no clamp and the hair is wrapped by hand."
+      }
+    ],
+    "image": {
+      "search_query": "curling tongs hair iron",
+      "wikimedia_commons_category": "Curling irons",
+      "alt": "A pair of curling tongs"
+    },
+    "tags": [
+      "hair",
+      "styling",
+      "heat",
+      "industrial"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "hair-roller",
+    "name": "Hair roller",
+    "category": "Personal care & health",
+    "invention": {
+      "display": "Late 19th–early 20th century",
+      "year": 1900,
+      "approximate": true,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "Europe and North America",
+      "modern_country": null,
+      "notes": "People curled hair with rags, paper and heated rods for centuries; cylindrical rollers became common in the 20th century and no single inventor is clearly credited."
+    },
+    "inventor": null,
+    "short_description": "A small cylinder around which hair is wound to set curls.",
+    "description": "Hair has long been set by winding it around rags, clay or sticks and letting it dry. Cylindrical rollers of metal, then foam and plastic, became common in the 20th century, especially from the 1950s when the set-and-dry hairstyle was everyday routine. They remain popular for heatless curling.",
+    "why_unchanged": "A cylinder of the right diameter is all that is needed to shape a curl as hair dries.",
+    "materials": [
+      "plastic",
+      "foam",
+      "velcro",
+      "metal"
+    ],
+    "faqs": [
+      {
+        "question": "How do hair rollers work?",
+        "answer": "Hair is wound around the roller while damp and left to dry, setting it in the curved shape."
+      },
+      {
+        "question": "What size roller should I use?",
+        "answer": "Larger rollers give volume and loose waves, while smaller ones create tighter curls."
+      },
+      {
+        "question": "Do rollers damage hair?",
+        "answer": "Heatless rollers are generally gentler than hot tools, though winding too tightly can stress hair."
+      }
+    ],
+    "image": {
+      "search_query": "hair rollers curlers",
+      "wikimedia_commons_category": "Hair curlers",
+      "alt": "Several plastic hair rollers"
+    },
+    "tags": [
+      "hair",
+      "styling",
+      "modern"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "straight-razor",
+    "name": "Straight razor",
+    "category": "Personal care & health",
+    "invention": {
+      "display": "c. 1680",
+      "year": 1680,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Sheffield, England",
+      "modern_country": "United Kingdom",
+      "notes": "Bronze and copper razors are known from ancient Egypt, but the folding steel straight razor is usually dated to Sheffield in the late 17th century."
+    },
+    "inventor": null,
+    "short_description": "A single steel blade that folds into its handle, used for shaving.",
+    "description": "People shaved with sharpened stone, bronze and copper blades for thousands of years. The folding steel straight razor, with a blade that pivots into a protective handle, is generally traced to Sheffield cutlers around 1680. It was the main shaving tool until the 20th century and is still used by barbers and enthusiasts.",
+    "why_unchanged": "A sharp blade that folds into its handle is both safe to carry and simple to maintain.",
+    "materials": [
+      "steel",
+      "horn",
+      "wood",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "Why is it called a 'cut-throat' razor?",
+        "answer": "The nickname comes from the exposed blade, which can cause serious cuts if handled carelessly."
+      },
+      {
+        "question": "How do you keep a straight razor sharp?",
+        "answer": "It is honed on a stone occasionally and stropped on leather before each shave to realign the edge."
+      },
+      {
+        "question": "Do barbers still use straight razors?",
+        "answer": "Many do, though often with disposable-blade versions called shavettes for hygiene reasons."
+      }
+    ],
+    "image": {
+      "search_query": "straight razor open blade",
+      "wikimedia_commons_category": "Straight razors",
+      "alt": "An open straight razor with a horn handle"
+    },
+    "tags": [
+      "shaving",
+      "blade",
+      "early modern"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "safety-razor",
+    "name": "Safety razor",
+    "category": "Personal care & health",
+    "invention": {
+      "display": "1901",
+      "year": 1901,
+      "approximate": false,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "Boston, Massachusetts",
+      "modern_country": "United States",
+      "notes": "Earlier safety razors existed (e.g. the Kampfe brothers' 1880 design), but King C. Gillette's double-edged disposable-blade razor, patented in 1904, defined the lasting form."
+    },
+    "inventor": "King C. Gillette",
+    "short_description": "A razor with a guard that holds a thin, replaceable double-edged blade.",
+    "description": "King Camp Gillette and the engineer William Nickerson developed a razor that clamped a thin, disposable double-edged blade between a handle and a guard. Patented in 1904, it made home shaving safer and cheaper, and it was issued to millions of US soldiers in the First World War. Double-edge razors of essentially the same design are still made today.",
+    "why_unchanged": "Clamping a cheap, replaceable blade behind a guard solved both safety and sharpening at once.",
+    "materials": [
+      "steel",
+      "brass",
+      "chrome"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the safety razor?",
+        "answer": "Several designs existed earlier, but King C. Gillette's disposable double-edged blade razor of 1901–1904 became the standard."
+      },
+      {
+        "question": "Why are safety razors popular again?",
+        "answer": "Blades are inexpensive and recyclable, and many people find the shave closer than with cartridge razors."
+      },
+      {
+        "question": "Can you take a safety razor blade on a plane?",
+        "answer": "Loose razor blades are generally prohibited in carry-on luggage, though rules vary by country."
+      }
+    ],
+    "image": {
+      "search_query": "double edge safety razor",
+      "wikimedia_commons_category": "Safety razors",
+      "alt": "A chrome double-edged safety razor"
+    },
+    "tags": [
+      "shaving",
+      "blade",
+      "patent",
+      "modern"
+    ],
+    "confidence": "high"
+  },
+  {
+    "slug": "shaving-brush",
+    "name": "Shaving brush",
+    "category": "Personal care & health",
+    "invention": {
+      "display": "c. 1750",
+      "year": 1750,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "France",
+      "modern_country": "France",
+      "notes": "Shaving brushes are commonly said to have appeared in France in the mid-18th century; documentation is limited."
+    },
+    "inventor": null,
+    "short_description": "A round brush used to whip shaving soap into lather and apply it to the face.",
+    "description": "The shaving brush is traditionally dated to 18th-century France, when lathering soap became part of the shaving routine. Brushes were made from badger, boar or horsehair set in handles of wood, horn or bone. Synthetic fibers are now common, but the dense, round knot on a short handle is unchanged.",
+    "why_unchanged": "A dense, round knot of bristles holds water and builds lather perfectly, so there was no need to change it.",
+    "materials": [
+      "badger hair",
+      "boar bristle",
+      "synthetic fiber",
+      "wood"
+    ],
+    "faqs": [
+      {
+        "question": "Why use a shaving brush instead of fingers?",
+        "answer": "A brush whips soap into a rich lather, lifts the hairs and gently exfoliates the skin before shaving."
+      },
+      {
+        "question": "What is the best hair for a shaving brush?",
+        "answer": "Badger hair is traditional and holds water well, boar is stiffer and cheaper, and synthetic fibers dry quickly and are animal-free."
+      },
+      {
+        "question": "How do you care for a shaving brush?",
+        "answer": "Rinse it thoroughly, shake out the water and let it dry bristles-down or in open air."
+      }
+    ],
+    "image": {
+      "search_query": "badger shaving brush",
+      "wikimedia_commons_category": "Shaving brushes",
+      "alt": "A badger-hair shaving brush on a stand"
+    },
+    "tags": [
+      "shaving",
+      "brush",
+      "early modern"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "razor-strop",
+    "name": "Razor strop",
+    "category": "Personal care & health",
+    "invention": {
+      "display": "c. 18th century",
+      "year": 1750,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Europe",
+      "modern_country": null,
+      "notes": "Leather strops have accompanied steel razors for centuries; no specific origin is documented."
+    },
+    "inventor": null,
+    "short_description": "A strip of leather used to straighten and polish the edge of a razor.",
+    "description": "A strop is a flat strip of leather, sometimes paired with canvas, on which a straight razor is drawn spine-first to realign its edge before shaving. Strops were a fixture of barbershops and home bathrooms as long as straight razors were common. They are still made in the same hanging or paddle form.",
+    "why_unchanged": "Drawing a blade along flexible leather realigns its edge, a task the plain strip already does perfectly.",
+    "materials": [
+      "leather",
+      "canvas",
+      "linen"
+    ],
+    "faqs": [
+      {
+        "question": "What does stropping do?",
+        "answer": "It straightens the microscopic edge of the blade, which bends during use, and polishes it to a keen finish."
+      },
+      {
+        "question": "Is stropping the same as sharpening?",
+        "answer": "No; sharpening on a stone removes metal, while stropping only realigns and polishes the existing edge."
+      },
+      {
+        "question": "Why do you strop with the spine leading?",
+        "answer": "Leading with the spine prevents the sharp edge from cutting into the leather."
+      }
+    ],
+    "image": {
+      "search_query": "leather razor strop",
+      "wikimedia_commons_category": "Strops",
+      "alt": "A leather razor strop hanging on a hook"
+    },
+    "tags": [
+      "shaving",
+      "leather",
+      "early modern"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "shaving-mug",
+    "name": "Shaving mug",
+    "category": "Personal care & health",
+    "invention": {
+      "display": "19th century",
+      "year": 1850,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Europe and North America",
+      "modern_country": null,
+      "notes": "Personalized shaving mugs became common in barbershops in the 19th century; no single origin is recorded."
+    },
+    "inventor": null,
+    "short_description": "A mug used to hold shaving soap and work it into lather.",
+    "description": "Shaving mugs became popular in the 19th century, when customers in American barbershops kept their own personalized mugs on the shop's shelf. Many had a separate compartment for soap and water. Wet shavers still use similar mugs or bowls to build lather with a brush.",
+    "why_unchanged": "A sturdy cup to hold a puck of soap and a wet brush already does exactly what is required.",
+    "materials": [
+      "ceramic",
+      "porcelain",
+      "stainless steel"
+    ],
+    "faqs": [
+      {
+        "question": "Why did barbershops keep customers' own mugs?",
+        "answer": "Personal mugs, often painted with the owner's name or trade, were thought to reduce the spread of skin infections."
+      },
+      {
+        "question": "What is a scuttle?",
+        "answer": "A scuttle is a shaving mug with a double wall filled with hot water to keep lather warm."
+      },
+      {
+        "question": "Do I need a shaving mug?",
+        "answer": "Not strictly; lather can be built in a bowl or on the face, but a mug holds the soap puck conveniently."
+      }
+    ],
+    "image": {
+      "search_query": "shaving mug brush soap",
+      "wikimedia_commons_category": "Shaving mugs",
+      "alt": "A ceramic shaving mug with a brush"
+    },
+    "tags": [
+      "shaving",
+      "ceramic",
+      "industrial"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "tweezers",
+    "name": "Tweezers",
+    "category": "Personal care & health",
+    "invention": {
+      "display": "c. 3000 BCE",
+      "year": -3000,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Egypt and Mesopotamia",
+      "modern_country": null,
+      "notes": "Copper and bronze tweezers appear in early Egyptian and Mesopotamian sites; similar tools were developed in many ancient cultures."
+    },
+    "inventor": null,
+    "short_description": "A small two-armed tool used to grip and pull tiny objects such as hairs and splinters.",
+    "description": "Tweezers made of copper or bronze have been found in ancient Egyptian and Mesopotamian sites, used for removing hair and splinters. The Romans used them widely for grooming and in medicine. Modern stainless-steel tweezers have refined tips, but the two springy arms joined at one end are the same.",
+    "why_unchanged": "Two springy arms joined at one end give fine, controlled grip with no mechanism at all.",
+    "materials": [
+      "stainless steel",
+      "bronze",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "How old are tweezers?",
+        "answer": "Metal tweezers date back at least 5,000 years to ancient Egypt and Mesopotamia."
+      },
+      {
+        "question": "Which tip shape is best for eyebrows?",
+        "answer": "Slanted tips are the most versatile for brows, while pointed tips are better for splinters and ingrown hairs."
+      },
+      {
+        "question": "Where does the word 'tweezers' come from?",
+        "answer": "It comes from 'tweeze', a small case of instruments, ultimately from the French 'étui'."
+      }
+    ],
+    "image": {
+      "search_query": "stainless steel tweezers",
+      "wikimedia_commons_category": "Tweezers",
+      "alt": "A pair of slanted stainless-steel tweezers"
+    },
+    "tags": [
+      "grooming",
+      "metal",
+      "ancient"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "ear-pick",
+    "name": "Ear pick",
+    "category": "Personal care & health",
+    "invention": {
+      "display": "Ancient (bronze examples)",
+      "year": 0,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Roman world and ancient China",
+      "modern_country": null,
+      "notes": "Small ear scoops are known from Roman and Chinese archaeological contexts and from many other cultures; no single origin can be identified."
+    },
+    "inventor": null,
+    "short_description": "A small spoon-ended stick used to remove earwax.",
+    "description": "Small scoops for cleaning ears appear in Roman toilet sets, often on the same ring as tweezers and nail cleaners, and similar tools are ancient in China. In East Asia the ear pick (mimikaki in Japanese) remains a common household item, often with a fluffy tuft at the other end. It is still a thin stick with a tiny scoop at the tip.",
+    "why_unchanged": "A tiny scoop on a slender handle is all that the ear canal allows.",
+    "materials": [
+      "bamboo",
+      "metal",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "Is it safe to clean ears with an ear pick?",
+        "answer": "Doctors generally advise against putting objects in the ear canal because they can push wax deeper or injure the eardrum."
+      },
+      {
+        "question": "Why is the ear pick common in East Asia?",
+        "answer": "Many East Asians have dry, flaky earwax, which a scoop removes more easily than the wet wax common elsewhere."
+      },
+      {
+        "question": "What is the fluffy ball on some ear picks?",
+        "answer": "In Japan many ear picks have a down tuft (bonten) at the other end for sweeping out loose flakes."
+      }
+    ],
+    "image": {
+      "search_query": "bamboo ear pick mimikaki",
+      "wikimedia_commons_category": "Ear picks",
+      "alt": "A bamboo ear pick with a tiny scoop"
+    },
+    "tags": [
+      "hygiene",
+      "ear",
+      "ancient"
+    ],
+    "confidence": "low"
+  }
+]

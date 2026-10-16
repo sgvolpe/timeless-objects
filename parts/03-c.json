@@ -1,0 +1,1292 @@
+[
+  {
+    "slug": "chalk-line",
+    "name": "Chalk line",
+    "category": "Tools & hardware",
+    "invention": {
+      "display": "Ancient (possibly Egypt)",
+      "year": -2500,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Ancient Egypt",
+      "modern_country": "Egypt",
+      "notes": "Ancient builders are believed to have used cords coated with pigment to mark straight lines; direct evidence is limited and the practice was likely widespread."
+    },
+    "inventor": null,
+    "short_description": "A string coated with chalk that is snapped against a surface to mark a straight line.",
+    "description": "A chalk line marks a long straight line by stretching a coated string between two points and snapping it. Pigment-coated cords are thought to have been used by ancient builders, and Japanese carpenters use an ink-line called a sumitsubo. Modern chalk lines reel the string inside a box filled with chalk.",
+    "why_unchanged": "A taut snapped string makes a perfectly straight line over any length, which needs no improvement.",
+    "materials": [
+      "string",
+      "chalk",
+      "pigment",
+      "plastic",
+      "metal"
+    ],
+    "faqs": [
+      {
+        "question": "How do you use a chalk line?",
+        "answer": "Hook one end, pull the string tight to the other point, lift it slightly in the middle and let it snap against the surface."
+      },
+      {
+        "question": "What colors of chalk are used?",
+        "answer": "Blue is common for removable marks, while red and other colors are more permanent and stain some surfaces."
+      },
+      {
+        "question": "What is a sumitsubo?",
+        "answer": "A traditional Japanese ink line used by carpenters that works on the same principle with ink instead of chalk."
+      }
+    ],
+    "image": {
+      "search_query": "chalk line snapping blue line",
+      "wikimedia_commons_category": "Chalk lines",
+      "alt": "A chalk line being snapped on plywood"
+    },
+    "tags": [
+      "measuring",
+      "layout",
+      "construction",
+      "ancient"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "folding-rule",
+    "name": "Folding rule",
+    "category": "Tools & hardware",
+    "invention": {
+      "display": "c. 1st century CE",
+      "year": 50,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Roman Empire",
+      "modern_country": "Italy",
+      "notes": "Bronze folding foot rules are known from Roman sites, including Pompeii; the modern multi-section zig-zag rule was developed in 19th-century Germany."
+    },
+    "inventor": null,
+    "short_description": "A measuring rule made of hinged segments that fold into a compact bundle.",
+    "description": "Roman craftsmen carried bronze folding rules marked in Roman feet. The idea of hinged segments folding into a pocket-sized tool returned in the 19th century with the multi-section zig-zag rule. Carpenters in Europe still widely use folding rules.",
+    "why_unchanged": "Hinged sections make a long rigid rule compact, which remains the whole point of the design.",
+    "materials": [
+      "bronze",
+      "wood",
+      "brass",
+      "fiberglass"
+    ],
+    "faqs": [
+      {
+        "question": "Did the Romans have folding rulers?",
+        "answer": "Yes, bronze folding rulers measuring one Roman foot have been found at sites such as Pompeii."
+      },
+      {
+        "question": "Why do carpenters still use a folding rule?",
+        "answer": "It stays rigid when extended, unlike a tape, which is useful for measuring across gaps or overhead."
+      },
+      {
+        "question": "What is a zig-zag rule?",
+        "answer": "A multi-section folding rule, common in Europe, that opens into a straight measuring stick."
+      }
+    ],
+    "image": {
+      "search_query": "wooden folding rule carpenter",
+      "wikimedia_commons_category": "Folding rules",
+      "alt": "A wooden folding rule partly extended"
+    },
+    "tags": [
+      "measuring",
+      "roman",
+      "carpentry",
+      "portable"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "tape-measure",
+    "name": "Tape measure",
+    "category": "Tools & hardware",
+    "invention": {
+      "display": "1868",
+      "year": 1868,
+      "approximate": false,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "New Haven, Connecticut",
+      "modern_country": "United States",
+      "notes": "Alvin J. Fellows patented a spring-return pocket tape in 1868; James Chesterman of Sheffield had earlier made steel measuring tapes (1829)."
+    },
+    "inventor": "Alvin J. Fellows",
+    "short_description": "A retractable flexible measuring tape wound inside a case.",
+    "description": "A tape measure holds a long flexible rule on a reel that winds back inside a small case. Steel measuring tapes were made in England in the early 19th century, and Alvin Fellows patented a spring-return pocket version in 1868. Later improvements added locks and curved blades, but the case-and-reel form is unchanged.",
+    "why_unchanged": "A reel inside a case makes long measurements portable, and later additions only refined the idea.",
+    "materials": [
+      "steel",
+      "cloth",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the retractable tape measure?",
+        "answer": "Alvin J. Fellows patented a spring-return tape in 1868, building on earlier steel tapes."
+      },
+      {
+        "question": "Why is the end hook loose?",
+        "answer": "The hook moves by its own thickness so measurements are accurate both when hooking an edge and pushing against a surface."
+      },
+      {
+        "question": "Why is the tape blade curved?",
+        "answer": "The curve stiffens the blade so it can extend some distance without bending."
+      }
+    ],
+    "image": {
+      "search_query": "yellow tape measure extended",
+      "wikimedia_commons_category": "Tape measures",
+      "alt": "A tape measure partly extended on a table"
+    },
+    "tags": [
+      "measuring",
+      "construction",
+      "patent",
+      "industrial"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "calipers",
+    "name": "Calipers",
+    "category": "Tools & hardware",
+    "invention": {
+      "display": "6th century BCE",
+      "year": -600,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Mediterranean (Greek and Etruscan world)",
+      "modern_country": "Italy",
+      "notes": "A wooden caliper was recovered from the Giglio shipwreck off Tuscany, dated to around the 6th century BCE; bronze calipers were also made in Han dynasty China."
+    },
+    "inventor": null,
+    "short_description": "A measuring tool with two hinged or sliding legs used to measure thickness or diameter.",
+    "description": "Calipers measure the distance between two opposite sides of an object by bringing two legs into contact with it. A caliper from an ancient Greek shipwreck shows the tool was in use by the 6th century BCE. Machinists, woodturners and craftsmen still use simple calipers alongside precision versions.",
+    "why_unchanged": "Two legs touching opposite sides is the most direct way to measure thickness, so the form endures.",
+    "materials": [
+      "wood",
+      "bronze",
+      "steel"
+    ],
+    "faqs": [
+      {
+        "question": "How old are calipers?",
+        "answer": "A caliper from the Giglio shipwreck dates to about the 6th century BCE."
+      },
+      {
+        "question": "What is the difference between inside and outside calipers?",
+        "answer": "Outside calipers measure outer diameters and thicknesses; inside calipers measure holes and bores."
+      },
+      {
+        "question": "Who uses calipers?",
+        "answer": "Machinists, woodturners, blacksmiths, engineers and even doctors measuring skinfolds."
+      }
+    ],
+    "image": {
+      "search_query": "outside calipers measuring",
+      "wikimedia_commons_category": "Calipers",
+      "alt": "A pair of steel outside calipers"
+    },
+    "tags": [
+      "measuring",
+      "ancient",
+      "precision",
+      "metalworking"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "vernier-caliper",
+    "name": "Vernier caliper",
+    "category": "Tools & hardware",
+    "invention": {
+      "display": "1851",
+      "year": 1851,
+      "approximate": false,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Providence, Rhode Island",
+      "modern_country": "United States",
+      "notes": "Pierre Vernier invented the vernier scale in 1631; Joseph R. Brown of Brown & Sharpe is credited with the first practical machinist's vernier caliper in 1851."
+    },
+    "inventor": null,
+    "short_description": "A sliding caliper with a vernier scale that allows precise readings to fractions of a millimeter.",
+    "description": "The vernier caliper combines a sliding jaw with Pierre Vernier's 17th-century auxiliary scale to make precise measurements. Joseph R. Brown produced an affordable machinist's version in 1851, which helped standardize manufacturing. Digital calipers now exist, but the vernier version is still widely used.",
+    "why_unchanged": "The vernier scale gives high precision with no electronics, so the classic design remains.",
+    "materials": [
+      "steel",
+      "stainless steel"
+    ],
+    "faqs": [
+      {
+        "question": "How do you read a vernier scale?",
+        "answer": "Read the main scale at the zero mark, then find the vernier line that aligns exactly with a main-scale line to get the fractional value."
+      },
+      {
+        "question": "Who invented the vernier scale?",
+        "answer": "French mathematician Pierre Vernier described it in 1631."
+      },
+      {
+        "question": "What can a vernier caliper measure?",
+        "answer": "Outside dimensions, inside diameters with the small upper jaws, and depths with the rod at the end."
+      }
+    ],
+    "image": {
+      "search_query": "vernier caliper measuring bolt",
+      "wikimedia_commons_category": "Vernier calipers",
+      "alt": "A stainless steel vernier caliper measuring a bolt"
+    },
+    "tags": [
+      "measuring",
+      "precision",
+      "industrial",
+      "engineering"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "micrometer",
+    "name": "Micrometer",
+    "category": "Tools & hardware",
+    "invention": {
+      "display": "1848",
+      "year": 1848,
+      "approximate": false,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Paris",
+      "modern_country": "France",
+      "notes": "Jean Laurent Palmer patented a handheld micrometer screw gauge in 1848; screw micrometers for telescopes date to the 17th century."
+    },
+    "inventor": "Jean Laurent Palmer",
+    "short_description": "A C-shaped measuring tool that uses a fine screw to measure thickness with high precision.",
+    "description": "The micrometer uses a finely threaded screw so each turn moves the spindle by a tiny, known amount. Jean Laurent Palmer patented a handheld version in 1848, and Brown & Sharpe later popularized it in the US. Machinists still rely on the same C-frame design.",
+    "why_unchanged": "A precision screw is a simple and accurate way to measure small distances, so the form hasn't changed.",
+    "materials": [
+      "steel",
+      "carbide"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the handheld micrometer?",
+        "answer": "Jean Laurent Palmer of Paris patented it in 1848; in France it is still called a 'palmer'."
+      },
+      {
+        "question": "How precise is a micrometer?",
+        "answer": "Standard micrometers typically read to 0.01 mm or 0.001 inch, finer than most calipers."
+      },
+      {
+        "question": "What is the ratchet stop for?",
+        "answer": "It slips at a set force so every measurement is taken with the same pressure."
+      }
+    ],
+    "image": {
+      "search_query": "micrometer screw gauge measuring",
+      "wikimedia_commons_category": "Micrometers",
+      "alt": "A micrometer measuring a small metal part"
+    },
+    "tags": [
+      "measuring",
+      "precision",
+      "industrial",
+      "france"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "dividers",
+    "name": "Dividers",
+    "category": "Tools & hardware",
+    "invention": {
+      "display": "c. 1st century CE (Roman examples)",
+      "year": 50,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Roman Empire",
+      "modern_country": "Italy",
+      "notes": "Bronze dividers are known from Roman sites including Pompeii; Greek builders and mathematicians likely used them earlier."
+    },
+    "inventor": null,
+    "short_description": "A two-legged pointed instrument used to transfer measurements and scribe arcs.",
+    "description": "Dividers have two pointed legs joined at a hinge, used to step off equal distances, transfer measurements and scribe circles. Roman examples look almost identical to modern ones. Woodworkers, metalworkers and navigators still use them.",
+    "why_unchanged": "Two hinged points already transfer distance perfectly, so the instrument needed no change.",
+    "materials": [
+      "bronze",
+      "iron",
+      "steel"
+    ],
+    "faqs": [
+      {
+        "question": "What is the difference between dividers and a compass?",
+        "answer": "Dividers have two points for measuring and scribing, while a drafting compass has one point and a pencil or pen."
+      },
+      {
+        "question": "How do navigators use dividers?",
+        "answer": "They measure distances on charts by comparing them against the chart's scale."
+      },
+      {
+        "question": "Did Romans use dividers?",
+        "answer": "Yes, bronze dividers have been found at Roman sites such as Pompeii."
+      }
+    ],
+    "image": {
+      "search_query": "steel dividers scribing",
+      "wikimedia_commons_category": "Dividers",
+      "alt": "A pair of steel dividers"
+    },
+    "tags": [
+      "measuring",
+      "layout",
+      "roman",
+      "navigation"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "anvil",
+    "name": "Anvil",
+    "category": "Tools & hardware",
+    "invention": {
+      "display": "Bronze Age",
+      "year": -2000,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Eurasia",
+      "modern_country": "Unknown",
+      "notes": "Stone anvils were used with hammerstones in prehistory; metal anvils developed with metalworking, and the horned shape became common in Roman and later times."
+    },
+    "inventor": null,
+    "short_description": "A heavy block of iron or steel on which metal is hammered and shaped.",
+    "description": "The anvil is the blacksmith's workbench: a massive block that absorbs and reflects hammer blows. Early metalworkers used stone, then bronze and iron anvils, and the horned 'London pattern' became familiar in modern times. Blacksmiths and farriers still use the same form.",
+    "why_unchanged": "A heavy, hard mass with a flat face and a horn is exactly what forging needs, so it cannot be improved much.",
+    "materials": [
+      "stone",
+      "bronze",
+      "iron",
+      "steel"
+    ],
+    "faqs": [
+      {
+        "question": "Why is an anvil so heavy?",
+        "answer": "Its mass keeps it from moving and reflects the hammer's energy into the hot metal instead of absorbing it."
+      },
+      {
+        "question": "What is the horn for?",
+        "answer": "The rounded horn helps bend and shape curves, such as rings and hooks."
+      },
+      {
+        "question": "What is the square hole on top?",
+        "answer": "The hardy hole holds tools such as cutters and swages; the small round pritchel hole is for punching."
+      }
+    ],
+    "image": {
+      "search_query": "blacksmith anvil workshop",
+      "wikimedia_commons_category": "Anvils",
+      "alt": "A blacksmith's anvil with a horn"
+    },
+    "tags": [
+      "smithing",
+      "metalworking",
+      "ancient",
+      "forging"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "blacksmiths-tongs",
+    "name": "Blacksmith's tongs",
+    "category": "Tools & hardware",
+    "invention": {
+      "display": "Bronze Age (2nd millennium BCE)",
+      "year": -1500,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Eurasia",
+      "modern_country": "Unknown",
+      "notes": "Tongs are depicted in ancient Greek images of smiths and survive from Roman sites; their exact origin is unknown."
+    },
+    "inventor": null,
+    "short_description": "Long-handled pivoting tongs used to hold hot metal during forging.",
+    "description": "Blacksmith's tongs let a smith hold glowing metal safely while hammering it on the anvil. They are depicted in ancient Greek art showing the god Hephaestus and his smiths, and iron tongs survive from Roman workshops. Smiths still make specialized tongs for different shapes.",
+    "why_unchanged": "Two long levers on a pivot give a safe, strong grip on hot metal, so the tool has not needed to change.",
+    "materials": [
+      "bronze",
+      "iron",
+      "steel"
+    ],
+    "faqs": [
+      {
+        "question": "Why do blacksmiths have so many tongs?",
+        "answer": "Different jaw shapes hold flat bar, round bar, square stock and other forms securely."
+      },
+      {
+        "question": "Do blacksmiths make their own tongs?",
+        "answer": "Traditionally yes; making a pair of tongs is a classic early project for a smith."
+      },
+      {
+        "question": "Why are tongs so long?",
+        "answer": "Long handles keep the smith's hands away from the heat and increase grip force."
+      }
+    ],
+    "image": {
+      "search_query": "blacksmith tongs holding hot iron",
+      "wikimedia_commons_category": "Blacksmith's tongs",
+      "alt": "Blacksmith's tongs holding glowing hot metal"
+    },
+    "tags": [
+      "smithing",
+      "metalworking",
+      "ancient",
+      "forging"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "crucible",
+    "name": "Crucible",
+    "category": "Tools & hardware",
+    "invention": {
+      "display": "c. 5000 BCE",
+      "year": -5000,
+      "approximate": true,
+      "era": "Prehistoric"
+    },
+    "place_of_invention": {
+      "region": "Near East and Balkans",
+      "modern_country": "Unknown",
+      "notes": "Clay crucibles appear with early copper metallurgy in the 5th millennium BCE; metallurgy may have developed independently in several regions."
+    },
+    "inventor": null,
+    "short_description": "A heat-resistant container used to melt metals.",
+    "description": "Crucibles hold metal while it melts in a furnace and are poured to cast objects. Early copper workers used small clay crucibles, and later crucibles were made of graphite and ceramics. The simple heat-proof cup with a pouring lip is unchanged.",
+    "why_unchanged": "A heat-resistant vessel is all that melting metal requires; only materials have advanced.",
+    "materials": [
+      "clay",
+      "graphite",
+      "ceramic",
+      "silicon carbide"
+    ],
+    "faqs": [
+      {
+        "question": "What is a crucible made of?",
+        "answer": "Traditionally clay, and today graphite, clay-graphite or ceramics that withstand very high temperatures."
+      },
+      {
+        "question": "Why is it used in metal casting?",
+        "answer": "It holds molten metal in the furnace and is used to pour it into molds."
+      },
+      {
+        "question": "What does 'crucible' mean figuratively?",
+        "answer": "A severe test or situation where different elements combine to create something new."
+      }
+    ],
+    "image": {
+      "search_query": "crucible molten metal pouring",
+      "wikimedia_commons_category": "Crucibles",
+      "alt": "A crucible pouring molten metal"
+    },
+    "tags": [
+      "metalworking",
+      "casting",
+      "prehistoric",
+      "workshop"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "bench-vise",
+    "name": "Bench vise",
+    "category": "Tools & hardware",
+    "invention": {
+      "display": "Late medieval / early modern period",
+      "year": 1500,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Europe",
+      "modern_country": "Unknown",
+      "notes": "Screw-tightened vises appear in European workshops of the late medieval and early modern period; metal bench vises became common in the 18th–19th centuries."
+    },
+    "inventor": null,
+    "short_description": "A screw-operated clamp fixed to a workbench to hold work securely.",
+    "description": "The bench vise holds a workpiece between two jaws closed by a screw. Wooden leg and face vises were common in early modern European workshops, and cast-iron versions appeared with industrialization. Its screw-and-jaw design is unchanged.",
+    "why_unchanged": "A screw closing two jaws gives enormous holding power with simple parts.",
+    "materials": [
+      "wood",
+      "cast iron",
+      "steel"
+    ],
+    "faqs": [
+      {
+        "question": "What is the difference between a woodworking vise and a metalworking vise?",
+        "answer": "Woodworking vises are often mounted flush and use wooden jaw pads; metalworking vises sit on top of the bench with hardened jaws."
+      },
+      {
+        "question": "Why do vises use a screw?",
+        "answer": "A screw multiplies turning force into strong clamping pressure and holds it without slipping."
+      },
+      {
+        "question": "How do you protect work in a vise?",
+        "answer": "Use soft jaw covers of wood, aluminum or rubber to avoid marking the piece."
+      }
+    ],
+    "image": {
+      "search_query": "bench vise workshop",
+      "wikimedia_commons_category": "Vises",
+      "alt": "A cast-iron bench vise mounted on a workbench"
+    },
+    "tags": [
+      "workshop",
+      "clamping",
+      "early modern",
+      "metalworking"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "c-clamp",
+    "name": "C-clamp",
+    "category": "Tools & hardware",
+    "invention": {
+      "display": "19th century",
+      "year": 1850,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Europe and North America",
+      "modern_country": "Unknown",
+      "notes": "Screw clamps of wood are older; the precise origin of the iron C-clamp is undocumented."
+    },
+    "inventor": null,
+    "short_description": "A C-shaped frame with a screw used to clamp pieces together.",
+    "description": "The C-clamp holds work pieces together with a screw passing through one side of a C-shaped frame. Cast-iron versions became common in industrial workshops. Also called the G-clamp, it is essential for gluing and welding.",
+    "why_unchanged": "A screw in a rigid frame is simple, strong and cheap, so there is nothing to improve.",
+    "materials": [
+      "cast iron",
+      "steel"
+    ],
+    "faqs": [
+      {
+        "question": "Why is it called a G-clamp in Britain?",
+        "answer": "Its shape resembles the letter G as much as a C."
+      },
+      {
+        "question": "What is the swivel pad for?",
+        "answer": "It lets the screw turn without twisting the work and spreads pressure."
+      },
+      {
+        "question": "How tight should a clamp be?",
+        "answer": "Tight enough to hold firmly; too much pressure can squeeze out glue or dent wood."
+      }
+    ],
+    "image": {
+      "search_query": "c-clamp holding wood",
+      "wikimedia_commons_category": "C-clamps",
+      "alt": "A C-clamp holding two wooden boards together"
+    },
+    "tags": [
+      "workshop",
+      "clamping",
+      "industrial",
+      "woodworking"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "crowbar",
+    "name": "Crowbar",
+    "category": "Tools & hardware",
+    "invention": {
+      "display": "Roman period",
+      "year": 1,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Roman Empire",
+      "modern_country": "Italy",
+      "notes": "Iron pry bars are known from Roman sites; levers of wood were surely used much earlier."
+    },
+    "inventor": null,
+    "short_description": "A strong iron or steel bar with a flattened, often clawed end, used for prying.",
+    "description": "The crowbar is a lever made of iron or steel, used to pry, lift and pull nails. Iron prying bars were used by the Romans, and the curved, clawed design became standard in later centuries. It is still essential for demolition and construction.",
+    "why_unchanged": "A rigid bar is the simplest possible lever, so the design is permanent.",
+    "materials": [
+      "iron",
+      "steel"
+    ],
+    "faqs": [
+      {
+        "question": "Why is it called a crowbar?",
+        "answer": "Probably because its forked end looks like a crow's foot or beak."
+      },
+      {
+        "question": "How does a crowbar work?",
+        "answer": "It is a lever; placing the fulcrum close to the load multiplies the force you apply."
+      },
+      {
+        "question": "What is the difference between a crowbar and a pry bar?",
+        "answer": "Crowbar usually means a heavy curved bar, while pry bar can refer to flatter, lighter bars."
+      }
+    ],
+    "image": {
+      "search_query": "crowbar pry bar steel",
+      "wikimedia_commons_category": "Crowbars",
+      "alt": "A steel crowbar with a curved, clawed end"
+    },
+    "tags": [
+      "hand tool",
+      "lever",
+      "demolition",
+      "roman"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "wedge",
+    "name": "Wedge",
+    "category": "Tools & hardware",
+    "invention": {
+      "display": "Prehistoric (Stone Age)",
+      "year": -10000,
+      "approximate": true,
+      "era": "Prehistoric"
+    },
+    "place_of_invention": {
+      "region": "Worldwide",
+      "modern_country": "Unknown",
+      "notes": "Wedge-shaped tools have been used since the Stone Age; no single origin can be identified."
+    },
+    "inventor": null,
+    "short_description": "A tapered piece of material driven into a gap to split or lift.",
+    "description": "The wedge is one of the simple machines, converting a blow on its wide end into strong sideways force. Prehistoric people used stone, antler and wood wedges to split wood and stone. Splitting wedges of steel are still used for firewood and quarry work.",
+    "why_unchanged": "A taper multiplies force by its geometry alone, so the shape cannot be improved.",
+    "materials": [
+      "stone",
+      "antler",
+      "wood",
+      "iron",
+      "steel",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "Why is the wedge a simple machine?",
+        "answer": "It converts force on its wide end into greater force at right angles, splitting or lifting objects."
+      },
+      {
+        "question": "How were wedges used in ancient quarries?",
+        "answer": "Workers drove wedges into lines of holes to split large stone blocks."
+      },
+      {
+        "question": "Is an axe a wedge?",
+        "answer": "Yes, the head of an axe works as a wedge attached to a handle."
+      }
+    ],
+    "image": {
+      "search_query": "steel splitting wedge in log",
+      "wikimedia_commons_category": "Wedges",
+      "alt": "A steel splitting wedge driven into a log"
+    },
+    "tags": [
+      "simple machine",
+      "splitting",
+      "prehistoric",
+      "lever"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "pickaxe",
+    "name": "Pickaxe",
+    "category": "Tools & hardware",
+    "invention": {
+      "display": "Neolithic (c. 4000 BCE)",
+      "year": -4000,
+      "approximate": true,
+      "era": "Prehistoric"
+    },
+    "place_of_invention": {
+      "region": "Neolithic Europe",
+      "modern_country": "Unknown",
+      "notes": "Antler picks were used in Neolithic flint mines such as Spiennes (Belgium) and Grimes Graves (England); iron picks became common later."
+    },
+    "inventor": null,
+    "short_description": "A tool with a pointed head on a long handle, used to break up hard ground and rock.",
+    "description": "The pickaxe concentrates force onto a narrow point to break hard soil, rock and concrete. Neolithic miners used red deer antlers as picks to dig flint, and metal picks followed. It is still used in construction and mining.",
+    "why_unchanged": "A pointed head on a handle concentrates force on a small area, which remains ideal for breaking hard material.",
+    "materials": [
+      "antler",
+      "iron",
+      "steel",
+      "wood",
+      "fiberglass"
+    ],
+    "faqs": [
+      {
+        "question": "How did Neolithic miners dig?",
+        "answer": "They used red deer antlers as picks to dig shafts in chalk for flint."
+      },
+      {
+        "question": "What is the difference between a pick and a mattock?",
+        "answer": "A pick has a pointed end, while a mattock has a flat blade for digging and chopping roots."
+      },
+      {
+        "question": "Is a pickaxe still used?",
+        "answer": "Yes, in construction, demolition, mining and trail building."
+      }
+    ],
+    "image": {
+      "search_query": "pickaxe breaking rock",
+      "wikimedia_commons_category": "Pickaxes",
+      "alt": "A pickaxe resting on rocky ground"
+    },
+    "tags": [
+      "hand tool",
+      "digging",
+      "neolithic",
+      "mining"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "pulley",
+    "name": "Pulley",
+    "category": "Tools & hardware",
+    "invention": {
+      "display": "c. 1500 BCE",
+      "year": -1500,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Mesopotamia",
+      "modern_country": "Iraq",
+      "notes": "Pulleys for lifting water are often dated to Mesopotamia around this time; evidence is limited, and Greek writers later described compound pulleys."
+    },
+    "inventor": null,
+    "short_description": "A grooved wheel over which a rope runs, used to change the direction of force or lift loads.",
+    "description": "A pulley lets a rope turn corners and, when combined with other pulleys, reduces the effort needed to lift a load. Early uses included raising water from wells. Pulleys remain essential in cranes, sailboats, elevators and gyms.",
+    "why_unchanged": "A grooved wheel on an axle is the simplest way to redirect a rope, so there is nothing to change.",
+    "materials": [
+      "wood",
+      "iron",
+      "steel",
+      "nylon"
+    ],
+    "faqs": [
+      {
+        "question": "Is the pulley a simple machine?",
+        "answer": "Yes, it is one of the classical simple machines, together with the lever, wedge, screw, wheel and axle, and inclined plane."
+      },
+      {
+        "question": "Does a single pulley make lifting easier?",
+        "answer": "A single fixed pulley only changes the direction of force; multiple pulleys reduce the force needed."
+      },
+      {
+        "question": "Where are pulleys used?",
+        "answer": "In wells, cranes, elevators, sailing rigging, window blinds and gym machines."
+      }
+    ],
+    "image": {
+      "search_query": "pulley wheel rope",
+      "wikimedia_commons_category": "Pulleys",
+      "alt": "A metal pulley with a rope over it"
+    },
+    "tags": [
+      "simple machine",
+      "lifting",
+      "ancient",
+      "mechanics"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "block-and-tackle",
+    "name": "Block and tackle",
+    "category": "Tools & hardware",
+    "invention": {
+      "display": "3rd century BCE",
+      "year": -250,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Syracuse, Sicily",
+      "modern_country": "Italy",
+      "notes": "Ancient tradition (Plutarch) credits Archimedes with demonstrating compound pulleys by moving a ship; the exact origin is uncertain."
+    },
+    "inventor": null,
+    "short_description": "A system of pulleys and rope that multiplies lifting force.",
+    "description": "A block and tackle threads a rope through two sets of pulleys, letting a person lift far heavier loads than with a single rope. Ancient writers credited Archimedes with demonstrating the principle. Sailors, riggers and mechanics still use it.",
+    "why_unchanged": "The mechanical advantage of multiple pulleys is a law of physics, so the device has not changed.",
+    "materials": [
+      "wood",
+      "iron",
+      "steel",
+      "rope",
+      "nylon"
+    ],
+    "faqs": [
+      {
+        "question": "How does a block and tackle reduce effort?",
+        "answer": "Each additional rope segment supporting the load shares the weight, so you pull with less force but over a longer distance."
+      },
+      {
+        "question": "Who invented it?",
+        "answer": "It is associated with Archimedes, who according to tradition used compound pulleys to move a ship."
+      },
+      {
+        "question": "Where are they used today?",
+        "answer": "In sailing, rigging, rescue work, auto repair and theater."
+      }
+    ],
+    "image": {
+      "search_query": "block and tackle sailing",
+      "wikimedia_commons_category": "Block and tackle",
+      "alt": "A wooden block and tackle with rope"
+    },
+    "tags": [
+      "simple machine",
+      "lifting",
+      "ancient greece",
+      "sailing"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "windlass",
+    "name": "Windlass",
+    "category": "Tools & hardware",
+    "invention": {
+      "display": "by the 5th century BCE",
+      "year": -480,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Ancient Mediterranean and Persia",
+      "modern_country": "Unknown",
+      "notes": "Herodotus mentions wooden windlasses used to tighten the cables of Xerxes' bridge over the Hellespont in 480 BCE; the device may be older."
+    },
+    "inventor": null,
+    "short_description": "A horizontal drum turned by a crank or handle that winds a rope or chain to lift or pull loads.",
+    "description": "A windlass winds a rope around a drum using a crank, giving great pulling force. It was used in antiquity to tighten bridge cables, lift water from wells and raise building materials. Windlasses are still used for anchors, wells and winches.",
+    "why_unchanged": "A drum and a crank turn a small force into a large pull, a principle that cannot be improved.",
+    "materials": [
+      "wood",
+      "iron",
+      "steel",
+      "rope"
+    ],
+    "faqs": [
+      {
+        "question": "What is the difference between a windlass and a capstan?",
+        "answer": "A windlass has a horizontal drum, while a capstan has a vertical drum."
+      },
+      {
+        "question": "What did ancient windlasses do?",
+        "answer": "They lifted water and building materials and tightened ropes, such as the cables of Xerxes' Hellespont bridge described by Herodotus."
+      },
+      {
+        "question": "Are windlasses still used?",
+        "answer": "Yes, especially on boats for raising anchors and in traditional wells."
+      }
+    ],
+    "image": {
+      "search_query": "well windlass crank rope",
+      "wikimedia_commons_category": "Windlasses",
+      "alt": "A wooden windlass with crank over a well"
+    },
+    "tags": [
+      "simple machine",
+      "lifting",
+      "ancient",
+      "wheel and axle"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "hinge",
+    "name": "Hinge",
+    "category": "Tools & hardware",
+    "invention": {
+      "display": "Ancient (2nd–1st millennium BCE)",
+      "year": -1000,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Ancient Near East and Mediterranean",
+      "modern_country": "Unknown",
+      "notes": "Pivot doors are ancient; metal hinges appear in the ancient Near East and the Roman world. No single origin is known."
+    },
+    "inventor": null,
+    "short_description": "A joint of two plates and a pin that allows a door or lid to swing.",
+    "description": "Hinges let doors, lids and gates swing on a pin. Early doors turned on pivots set in stone sockets, while metal hinges with knuckles and pins were used by the Romans. The leaf-and-pin design remains the same today.",
+    "why_unchanged": "Two leaves turning on a pin is the simplest way to allow rotation, so it remains unchanged.",
+    "materials": [
+      "wood",
+      "bronze",
+      "iron",
+      "brass",
+      "steel"
+    ],
+    "faqs": [
+      {
+        "question": "How did ancient doors swing before hinges?",
+        "answer": "Many rotated on pivots set into sockets in the floor and lintel."
+      },
+      {
+        "question": "What is a butt hinge?",
+        "answer": "The most common door hinge, with two rectangular leaves joined by a pin."
+      },
+      {
+        "question": "Why do hinges squeak?",
+        "answer": "Friction between the pin and knuckles; a little lubricant usually fixes it."
+      }
+    ],
+    "image": {
+      "search_query": "brass door hinge",
+      "wikimedia_commons_category": "Hinges",
+      "alt": "A brass hinge on a wooden door"
+    },
+    "tags": [
+      "hardware",
+      "door",
+      "ancient",
+      "pivot"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "warded-lock",
+    "name": "Warded lock",
+    "category": "Tools & hardware",
+    "invention": {
+      "display": "c. 1st century CE",
+      "year": 50,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Roman Empire",
+      "modern_country": "Italy",
+      "notes": "Roman locksmiths made warded locks and keys in iron and bronze; they were widespread in the Roman Empire."
+    },
+    "inventor": null,
+    "short_description": "A lock with internal obstructions (wards) that only a correctly shaped key can bypass.",
+    "description": "The warded lock uses fixed ridges inside the lock that block keys without matching notches. Romans used warded locks widely, and they remained the main European lock type through the medieval period. Simple warded locks are still found in cheap padlocks and antique furniture.",
+    "why_unchanged": "Its simplicity makes it cheap and durable for low-security uses, so it was never redesigned.",
+    "materials": [
+      "iron",
+      "bronze",
+      "brass",
+      "steel"
+    ],
+    "faqs": [
+      {
+        "question": "How does a warded lock work?",
+        "answer": "Fixed obstacles inside the lock block any key that does not have matching cuts."
+      },
+      {
+        "question": "Is a warded lock secure?",
+        "answer": "Not very; skeleton keys cut away to avoid the wards can open many warded locks."
+      },
+      {
+        "question": "What is a skeleton key?",
+        "answer": "A key cut down to a minimal shape that can bypass the wards of many locks."
+      }
+    ],
+    "image": {
+      "search_query": "antique warded lock and key",
+      "wikimedia_commons_category": "Warded locks",
+      "alt": "An antique warded lock with an iron key"
+    },
+    "tags": [
+      "hardware",
+      "lock",
+      "roman",
+      "security"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "lever-tumbler-lock",
+    "name": "Lever tumbler lock",
+    "category": "Tools & hardware",
+    "invention": {
+      "display": "1778",
+      "year": 1778,
+      "approximate": false,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "London",
+      "modern_country": "United Kingdom",
+      "notes": "Robert Barron patented the double-acting lever tumbler lock in 1778."
+    },
+    "inventor": "Robert Barron",
+    "short_description": "A lock with levers that must each be lifted to the right height by the key.",
+    "description": "The lever tumbler lock uses levers that must be raised to precise heights by a key before the bolt can move. Robert Barron patented the double-acting version in 1778. Lever locks are still common on doors and safes, especially in Europe.",
+    "why_unchanged": "The lever principle provides good security with robust parts, so the core mechanism remains.",
+    "materials": [
+      "brass",
+      "steel",
+      "iron"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the lever lock?",
+        "answer": "Robert Barron patented the double-acting lever tumbler lock in London in 1778."
+      },
+      {
+        "question": "How is it different from a pin tumbler lock?",
+        "answer": "Lever locks use flat levers lifted by the key, while pin locks use small spring-loaded pins."
+      },
+      {
+        "question": "Where are lever locks used?",
+        "answer": "On doors, safes, lockers and mortise locks, especially in the UK."
+      }
+    ],
+    "image": {
+      "search_query": "mortice lever lock mechanism",
+      "wikimedia_commons_category": "Lever tumbler locks",
+      "alt": "The inner mechanism of a lever tumbler lock"
+    },
+    "tags": [
+      "hardware",
+      "lock",
+      "patent",
+      "security"
+    ],
+    "confidence": "high"
+  },
+  {
+    "slug": "detector-lock",
+    "name": "Detector lock",
+    "category": "Tools & hardware",
+    "invention": {
+      "display": "1818",
+      "year": 1818,
+      "approximate": false,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Portsmouth",
+      "modern_country": "United Kingdom",
+      "notes": "Jeremiah Chubb patented the detector lock in 1818; it won a British government prize for a lock that could not be picked or opened with false keys."
+    },
+    "inventor": "Jeremiah Chubb",
+    "short_description": "A lever lock that jams and reveals tampering if picked or opened with the wrong key.",
+    "description": "The detector lock adds a mechanism that locks the bolt when a lever is lifted too high, revealing an attempt to pick it. Jeremiah Chubb patented it in 1818 after a government competition. American locksmith Alfred Hobbs famously picked one in 1851, yet detector-style lever locks are still made.",
+    "why_unchanged": "The detector mechanism is a clever, purely mechanical solution that still works.",
+    "materials": [
+      "brass",
+      "steel"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the detector lock?",
+        "answer": "Jeremiah Chubb patented it in 1818 in Portsmouth, England."
+      },
+      {
+        "question": "Has it ever been picked?",
+        "answer": "Yes, American Alfred Hobbs picked a Chubb detector lock in London in 1851, during the Great Exhibition."
+      },
+      {
+        "question": "How does it detect tampering?",
+        "answer": "If a lever is lifted too high, a detector lever jams the bolt until the correct key is turned backwards."
+      }
+    ],
+    "image": {
+      "search_query": "chubb detector lock",
+      "wikimedia_commons_category": "Chubb locks",
+      "alt": "An antique brass Chubb detector lock"
+    },
+    "tags": [
+      "hardware",
+      "lock",
+      "patent",
+      "security"
+    ],
+    "confidence": "high"
+  },
+  {
+    "slug": "pin-tumbler-lock",
+    "name": "Pin tumbler lock",
+    "category": "Tools & hardware",
+    "invention": {
+      "display": "1861",
+      "year": 1861,
+      "approximate": false,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Northeastern United States",
+      "modern_country": "United States",
+      "notes": "Linus Yale Jr. patented the modern pin tumbler cylinder lock in the 1860s, building on his father Linus Yale Sr.'s 1848 design; a wooden pin lock existed in ancient Egypt."
+    },
+    "inventor": "Linus Yale Jr.",
+    "short_description": "A cylinder lock with spring-loaded pins that only align with the correct key.",
+    "description": "The pin tumbler lock uses pairs of spring-loaded pins that block the cylinder until the right key lifts them to the shear line. Ancient Egyptians had a wooden pin lock, but Linus Yale Jr. created the modern compact cylinder version with flat keys. It remains the most common lock on doors worldwide.",
+    "why_unchanged": "The pin tumbler offers good security in a compact, cheap form, so it remains the global standard.",
+    "materials": [
+      "brass",
+      "steel",
+      "nickel silver"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the pin tumbler lock?",
+        "answer": "Linus Yale Jr. invented the modern cylinder version in the 1860s, building on his father's work."
+      },
+      {
+        "question": "How does a pin tumbler lock work?",
+        "answer": "The key's cuts raise pin stacks so their gaps align at the shear line, letting the cylinder turn."
+      },
+      {
+        "question": "Is this the same idea as ancient Egyptian locks?",
+        "answer": "The principle of pins dropping into a bolt is similar; Egyptians used large wooden versions."
+      }
+    ],
+    "image": {
+      "search_query": "pin tumbler lock cutaway",
+      "wikimedia_commons_category": "Pin tumbler locks",
+      "alt": "A cutaway of a pin tumbler cylinder lock"
+    },
+    "tags": [
+      "hardware",
+      "lock",
+      "patent",
+      "security"
+    ],
+    "confidence": "high"
+  },
+  {
+    "slug": "key",
+    "name": "Key",
+    "category": "Tools & hardware",
+    "invention": {
+      "display": "c. 704 BCE (earliest surviving lock)",
+      "year": -704,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Assyria",
+      "modern_country": "Iraq",
+      "notes": "The oldest known lock, found at the palace of Sargon II at Khorsabad, used a large wooden key; locks and keys may be older in Egypt and Mesopotamia."
+    },
+    "inventor": null,
+    "short_description": "A shaped piece of metal used to operate a lock.",
+    "description": "Keys appeared with the earliest locks in the ancient Near East, often as large wooden devices. The Romans made small metal keys, including keys worn as rings. Key materials have changed, but the principle of a shaped bit that matches a lock remains.",
+    "why_unchanged": "A uniquely cut bit that matches a lock is simple and effective, so the key remains unchanged.",
+    "materials": [
+      "wood",
+      "bronze",
+      "iron",
+      "brass",
+      "nickel silver"
+    ],
+    "faqs": [
+      {
+        "question": "How old is the oldest key?",
+        "answer": "The oldest known lock, from Khorsabad around 704 BCE, used a wooden key."
+      },
+      {
+        "question": "Why did Romans wear keys as rings?",
+        "answer": "Ring keys were convenient to carry, since Roman clothing often had no pockets."
+      },
+      {
+        "question": "Why are most keys made of brass?",
+        "answer": "Brass resists corrosion and is easy to cut."
+      }
+    ],
+    "image": {
+      "search_query": "antique keys collection",
+      "wikimedia_commons_category": "Keys (lock)",
+      "alt": "A collection of old and modern keys"
+    },
+    "tags": [
+      "hardware",
+      "lock",
+      "ancient",
+      "security"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "padlock",
+    "name": "Padlock",
+    "category": "Tools & hardware",
+    "invention": {
+      "display": "Antiquity (Roman and Chinese examples)",
+      "year": -100,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Roman Empire and Han China",
+      "modern_country": "Unknown",
+      "notes": "Padlocks are known from the Roman world and ancient China; they were probably developed independently."
+    },
+    "inventor": null,
+    "short_description": "A portable lock with a shackle that passes through an opening to secure it.",
+    "description": "The padlock is a self-contained lock with a U-shaped shackle that can secure gates, chests and chains. Roman and Chinese craftsmen made padlocks in antiquity, often with spring mechanisms. Modern padlocks still use the same body-and-shackle form.",
+    "why_unchanged": "A detachable lock with a shackle works anywhere, so its basic form is unchanged.",
+    "materials": [
+      "bronze",
+      "iron",
+      "brass",
+      "steel"
+    ],
+    "faqs": [
+      {
+        "question": "Why is it called a padlock?",
+        "answer": "The origin of 'pad' is uncertain; the word appears in English in the 15th century."
+      },
+      {
+        "question": "How old are padlocks?",
+        "answer": "They were used in the Roman Empire and in ancient China."
+      },
+      {
+        "question": "What makes a padlock more secure?",
+        "answer": "A hardened steel shackle, a shrouded design and a high-security cylinder."
+      }
+    ],
+    "image": {
+      "search_query": "brass padlock on gate",
+      "wikimedia_commons_category": "Padlocks",
+      "alt": "A brass padlock on a metal gate"
+    },
+    "tags": [
+      "hardware",
+      "lock",
+      "ancient",
+      "security"
+    ],
+    "confidence": "low"
+  }
+]

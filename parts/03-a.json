@@ -1,0 +1,1279 @@
+[
+  {
+    "slug": "hammer",
+    "name": "Hammer",
+    "category": "Tools & hardware",
+    "invention": {
+      "display": "c. 3.3 million years ago",
+      "year": -3300000,
+      "approximate": true,
+      "era": "Prehistoric"
+    },
+    "place_of_invention": {
+      "region": "East Africa",
+      "modern_country": "Kenya",
+      "notes": "Oldest known percussive stone tools (hammerstones) come from Lomekwi 3 near Lake Turkana; hafted hammers with handles appeared much later."
+    },
+    "inventor": null,
+    "short_description": "A hand tool with a heavy head on a handle, used to strike objects such as nails.",
+    "description": "The hammer began as a simple hand-held stone used to strike and shape other stones, making it one of humanity's oldest tools. Attaching the head to a handle added leverage and force, and metal heads followed in the Bronze and Iron Ages. Today hammers drive nails, shape metal and break material in nearly every trade.",
+    "why_unchanged": "A weighted head on a lever-like handle is the most efficient way to concentrate human swinging force on a small point.",
+    "materials": [
+      "stone",
+      "iron",
+      "steel",
+      "wood",
+      "fiberglass"
+    ],
+    "faqs": [
+      {
+        "question": "How old is the hammer?",
+        "answer": "Stone hammerstones found in Kenya are around 3.3 million years old, predating our own species. Handled hammers came much later in prehistory."
+      },
+      {
+        "question": "Why does a hammer have a long handle?",
+        "answer": "The handle acts as a lever, increasing the speed of the head at impact so the same arm effort delivers far more force."
+      },
+      {
+        "question": "What is the best way to avoid bending nails?",
+        "answer": "Hold the hammer near the end of the handle, keep your wrist straight and strike squarely with the flat face so the force travels straight down the nail."
+      }
+    ],
+    "image": {
+      "search_query": "steel hammer on wooden workbench",
+      "wikimedia_commons_category": "Hammers",
+      "alt": "A steel hammer with a wooden handle lying on a workbench"
+    },
+    "tags": [
+      "hand tool",
+      "striking",
+      "prehistoric",
+      "carpentry"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "claw-hammer",
+    "name": "Claw hammer",
+    "category": "Tools & hardware",
+    "invention": {
+      "display": "c. 1st century CE",
+      "year": 50,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Roman Empire",
+      "modern_country": "Italy",
+      "notes": "Iron hammers with a split claw are known from Roman sites across the empire; the exact place of first use is unknown."
+    },
+    "inventor": null,
+    "short_description": "A hammer with a flat striking face on one side and a curved, split claw on the other for pulling nails.",
+    "description": "The claw hammer combines two jobs in one head: driving nails and prying them back out. Iron examples with a nail-pulling claw are known from the Roman world, where iron nails were used in huge quantities. It remains the standard carpenter's hammer.",
+    "why_unchanged": "Pairing a striking face with a lever claw on the same head solved both halves of nailing, and nothing simpler has replaced it.",
+    "materials": [
+      "iron",
+      "steel",
+      "wood",
+      "fiberglass"
+    ],
+    "faqs": [
+      {
+        "question": "Did the Romans use claw hammers?",
+        "answer": "Yes, Roman iron hammers with nail-pulling claws have been found at archaeological sites, and their shape is recognizably the same as today's."
+      },
+      {
+        "question": "How do you pull a nail with a claw hammer?",
+        "answer": "Slide the claw under the nail head and rock the handle back; placing a scrap of wood under the head protects the surface and increases leverage."
+      },
+      {
+        "question": "What is the difference between a curved and a straight claw?",
+        "answer": "A curved claw gives better leverage for pulling nails, while a straight 'rip' claw is better for prying boards apart and demolition work."
+      }
+    ],
+    "image": {
+      "search_query": "claw hammer pulling nail from board",
+      "wikimedia_commons_category": "Claw hammers",
+      "alt": "A claw hammer pulling a nail out of a wooden board"
+    },
+    "tags": [
+      "hand tool",
+      "carpentry",
+      "roman",
+      "nails"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "sledgehammer",
+    "name": "Sledgehammer",
+    "category": "Tools & hardware",
+    "invention": {
+      "display": "Bronze Age (c. 2000 BCE)",
+      "year": -2000,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Eurasia",
+      "modern_country": "Unknown",
+      "notes": "Heavy stone mauls were used in prehistoric mining (for example at the Great Orme copper mines in Wales); iron sledges became common in the Iron Age. No single origin is known."
+    },
+    "inventor": null,
+    "short_description": "A large, heavy, long-handled hammer swung with both hands.",
+    "description": "The sledgehammer scales up the ordinary hammer for heavy work such as breaking rock, driving stakes and demolition. Prehistoric miners used large stone mauls to break ore, and iron-headed sledges became widespread once iron working spread. Its design is still simply a heavy head on a long handle.",
+    "why_unchanged": "Heavy blows only require more mass and a longer lever, which the basic design already provides.",
+    "materials": [
+      "stone",
+      "iron",
+      "steel",
+      "wood",
+      "fiberglass"
+    ],
+    "faqs": [
+      {
+        "question": "How heavy is a sledgehammer?",
+        "answer": "Common sledgehammers have heads of roughly 2 to 9 kg (4 to 20 lb); lighter 'club' or 'lump' hammers are used one-handed."
+      },
+      {
+        "question": "Where does the name 'sledge' come from?",
+        "answer": "It comes from the Old English 'slecg', related to a verb meaning 'to strike'."
+      },
+      {
+        "question": "How should you swing a sledgehammer safely?",
+        "answer": "Keep your feet apart, slide your top hand down the handle as you swing and let the head's weight do the work rather than forcing it with your back."
+      }
+    ],
+    "image": {
+      "search_query": "sledgehammer breaking concrete",
+      "wikimedia_commons_category": "Sledgehammers",
+      "alt": "A sledgehammer resting against a broken concrete block"
+    },
+    "tags": [
+      "hand tool",
+      "demolition",
+      "heavy",
+      "ancient"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "mallet",
+    "name": "Mallet",
+    "category": "Tools & hardware",
+    "invention": {
+      "display": "c. 2500 BCE or earlier",
+      "year": -2500,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Ancient Egypt",
+      "modern_country": "Egypt",
+      "notes": "Wooden mallets survive from ancient Egyptian workshops and appear in tomb scenes of carpenters and stone workers; wooden examples are probably far older but rarely preserved."
+    },
+    "inventor": null,
+    "short_description": "A hammer with a large head of wood, rubber or rawhide, used to strike without marring.",
+    "description": "A mallet delivers a softer, broader blow than a metal hammer, which makes it ideal for driving chisels and assembling joints. Ancient Egyptian carpenters and masons used wooden mallets in shapes almost identical to modern ones. Today rubber and plastic heads join the traditional wood.",
+    "why_unchanged": "A soft, heavy head is all that is needed to strike chisels and joinery without damaging them.",
+    "materials": [
+      "wood",
+      "rubber",
+      "rawhide",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "Why use a mallet instead of a hammer?",
+        "answer": "A mallet's softer head spreads the impact and won't dent wood or mushroom chisel handles the way a steel hammer would."
+      },
+      {
+        "question": "Did ancient Egyptians use mallets?",
+        "answer": "Yes, wooden mallets have been found in Egyptian workshops and tombs, and some look much like a modern stone carver's round mallet."
+      },
+      {
+        "question": "What is a dead-blow mallet?",
+        "answer": "It is a modern mallet with a hollow head partly filled with shot or sand, which reduces rebound when it strikes."
+      }
+    ],
+    "image": {
+      "search_query": "wooden carpenter's mallet and chisel",
+      "wikimedia_commons_category": "Mallets",
+      "alt": "A wooden mallet beside a wood chisel"
+    },
+    "tags": [
+      "hand tool",
+      "woodworking",
+      "ancient egypt",
+      "striking"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "nail",
+    "name": "Nail",
+    "category": "Tools & hardware",
+    "invention": {
+      "display": "c. 3400 BCE",
+      "year": -3400,
+      "approximate": true,
+      "era": "Prehistoric"
+    },
+    "place_of_invention": {
+      "region": "Ancient Egypt",
+      "modern_country": "Egypt",
+      "notes": "Copper and bronze nails are commonly dated to around this time in Egypt; hand-forged iron nails became common with the Romans."
+    },
+    "inventor": null,
+    "short_description": "A slender pointed metal pin with a head, driven into material to fasten it.",
+    "description": "Nails are among the oldest metal fasteners, with copper examples known from ancient Egypt and huge quantities of iron nails forged by the Romans. For thousands of years they were made one at a time by smiths, until machines in the 18th and 19th centuries made them cheap. The basic form of point, shank and head has not changed.",
+    "why_unchanged": "A pointed shank with a head is the simplest way to pin two pieces together by friction.",
+    "materials": [
+      "copper",
+      "bronze",
+      "iron",
+      "steel"
+    ],
+    "faqs": [
+      {
+        "question": "How old are nails?",
+        "answer": "Metal nails date back to roughly 3400 BCE in ancient Egypt, and the Romans used them on a massive scale."
+      },
+      {
+        "question": "Why were old houses sometimes burned for their nails?",
+        "answer": "Before machine production, nails were valuable enough that settlers in colonial America sometimes burned abandoned buildings to recover them."
+      },
+      {
+        "question": "What does the 'penny' size of a nail mean?",
+        "answer": "The 'penny' (written 'd') system is a traditional British and American size scale of uncertain origin; a 16d nail is about 3.5 inches long."
+      }
+    ],
+    "image": {
+      "search_query": "pile of steel nails",
+      "wikimedia_commons_category": "Nails (fasteners)",
+      "alt": "A pile of steel nails on a wooden surface"
+    },
+    "tags": [
+      "fastener",
+      "metal",
+      "ancient",
+      "construction"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "cut-nail",
+    "name": "Cut nail",
+    "category": "Tools & hardware",
+    "invention": {
+      "display": "c. 1790s",
+      "year": 1795,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "New England",
+      "modern_country": "United States",
+      "notes": "Several Americans built nail-cutting machines in the late 18th century, including Ezekiel Reed and Jacob Perkins; credit is shared."
+    },
+    "inventor": null,
+    "short_description": "A nail sheared from a flat strip of iron or steel, with a tapered rectangular shank.",
+    "description": "Cut nails were the first mass-produced nails, sliced from strips of iron by machines in the United States around the 1790s. Their tapered rectangular shank grips wood fibers strongly, and they dominated construction until round wire nails took over in the late 19th century. They are still made for flooring, masonry and restoration work.",
+    "why_unchanged": "The wedge-shaped shank holds so well that the original design is still the right one for flooring and masonry.",
+    "materials": [
+      "iron",
+      "steel"
+    ],
+    "faqs": [
+      {
+        "question": "How can you tell a cut nail from a wire nail?",
+        "answer": "A cut nail has a flat, tapered rectangular shank, while a wire nail has a round shank of uniform thickness."
+      },
+      {
+        "question": "Are cut nails still used?",
+        "answer": "Yes, they are made for hardwood flooring, fastening to masonry and historically accurate restoration."
+      },
+      {
+        "question": "Why do cut nails hold so well?",
+        "answer": "Their taper wedges into the wood, and when driven correctly they cut the fibers rather than splitting them, which gives strong holding power."
+      }
+    ],
+    "image": {
+      "search_query": "antique cut nails square shank",
+      "wikimedia_commons_category": "Cut nails",
+      "alt": "Several cut nails with tapered rectangular shanks"
+    },
+    "tags": [
+      "fastener",
+      "industrial",
+      "flooring",
+      "american"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "wood-screw",
+    "name": "Wood screw",
+    "category": "Tools & hardware",
+    "invention": {
+      "display": "15th century",
+      "year": 1450,
+      "approximate": true,
+      "era": "Medieval"
+    },
+    "place_of_invention": {
+      "region": "Western Europe",
+      "modern_country": "Unknown",
+      "notes": "Metal screws used as fasteners appear in Europe in the 15th century; the screw principle itself is much older (Greek and Roman presses)."
+    },
+    "inventor": null,
+    "short_description": "A threaded metal fastener that cuts its own path into wood when turned.",
+    "description": "Although the screw thread was known in antiquity for presses and water-lifting, using small metal screws as fasteners began in late medieval Europe. Early screws were filed by hand and expensive until 18th- and 19th-century machines made them cheap and pointed. The helical thread around a shank with a slotted head remains the standard.",
+    "why_unchanged": "A helical thread converts turning into strong clamping force, which no simpler shape can match.",
+    "materials": [
+      "iron",
+      "brass",
+      "steel",
+      "stainless steel"
+    ],
+    "faqs": [
+      {
+        "question": "When were screws first used to fasten things?",
+        "answer": "Metal screws used as fasteners appear in 15th-century Europe, for example in armor and firearms."
+      },
+      {
+        "question": "Why are screws stronger than nails in some jobs?",
+        "answer": "The thread grips the wood along its length, so screws resist pulling out much better and can clamp parts tightly together."
+      },
+      {
+        "question": "Why do some wood screws have a smooth upper shank?",
+        "answer": "The unthreaded portion lets the top board slide down freely so the screw pulls the two pieces tightly together."
+      }
+    ],
+    "image": {
+      "search_query": "brass wood screws close up",
+      "wikimedia_commons_category": "Wood screws",
+      "alt": "Close-up of brass slotted wood screws"
+    },
+    "tags": [
+      "fastener",
+      "medieval",
+      "woodworking",
+      "threads"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "screwdriver",
+    "name": "Screwdriver",
+    "category": "Tools & hardware",
+    "invention": {
+      "display": "late 15th century",
+      "year": 1480,
+      "approximate": true,
+      "era": "Medieval"
+    },
+    "place_of_invention": {
+      "region": "Western Europe",
+      "modern_country": "Germany",
+      "notes": "Earliest evidence appears in late 15th-century Europe; Germany and France are both proposed as places of origin."
+    },
+    "inventor": null,
+    "short_description": "A hand tool with a shaped tip that fits a screw head and turns it.",
+    "description": "The screwdriver appeared soon after screws began to be used as fasteners in late medieval Europe. Early screwdrivers had flat blades and were used by armorers, gunsmiths and clockmakers. A shaft with a tip and a handle remains the design, though tip shapes have multiplied.",
+    "why_unchanged": "A handle and a shaped shaft are all that is needed to transmit twisting force to a screw.",
+    "materials": [
+      "iron",
+      "steel",
+      "wood",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "When was the screwdriver invented?",
+        "answer": "It appears in Europe in the late 15th century, probably in Germany or France."
+      },
+      {
+        "question": "Why are there so many tip types?",
+        "answer": "Different drive shapes such as slotted, Phillips, square and Torx were developed to transfer more torque or reduce slipping."
+      },
+      {
+        "question": "Why do thicker handles help?",
+        "answer": "A screwdriver works like a wheel and axle: a wider handle lets your hand apply more turning force to the screw."
+      }
+    ],
+    "image": {
+      "search_query": "set of screwdrivers flat and phillips",
+      "wikimedia_commons_category": "Screwdrivers",
+      "alt": "A set of screwdrivers with different tips"
+    },
+    "tags": [
+      "hand tool",
+      "fastening",
+      "medieval",
+      "screws"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "phillips-screw",
+    "name": "Phillips screw",
+    "category": "Tools & hardware",
+    "invention": {
+      "display": "1936",
+      "year": 1936,
+      "approximate": false,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "Portland, Oregon",
+      "modern_country": "United States",
+      "notes": "The cross-recess concept originated with John P. Thompson; Henry F. Phillips developed, patented and promoted it."
+    },
+    "inventor": "Henry F. Phillips",
+    "short_description": "A screw with a cross-shaped recess in its head that self-centers the driver.",
+    "description": "The Phillips screw was designed for assembly lines, where its cross recess guides the driver to the center and speeds up work. Henry F. Phillips patented an improved version of John P. Thompson's design in the 1930s, and General Motors adopted it for Cadillac cars. It became one of the most common screw heads worldwide.",
+    "why_unchanged": "The self-centering cross recess already does its job well enough that it remains standard nearly a century later.",
+    "materials": [
+      "steel",
+      "stainless steel",
+      "brass"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the Phillips screw?",
+        "answer": "John P. Thompson created the cross-recess concept, and Henry F. Phillips refined, patented and commercialized it in the 1930s."
+      },
+      {
+        "question": "Why does a Phillips screwdriver 'cam out'?",
+        "answer": "The angled recess pushes the driver out under high torque, which limits overtightening but can damage the screw head."
+      },
+      {
+        "question": "Is Pozidriv the same as Phillips?",
+        "answer": "No; Pozidriv is a later variant with extra ribs and needs its own driver for best results."
+      }
+    ],
+    "image": {
+      "search_query": "phillips head screws macro",
+      "wikimedia_commons_category": "Phillips screws",
+      "alt": "Close-up of Phillips cross-head screws"
+    },
+    "tags": [
+      "fastener",
+      "modern",
+      "patent",
+      "screws"
+    ],
+    "confidence": "high"
+  },
+  {
+    "slug": "robertson-screw",
+    "name": "Robertson screw",
+    "category": "Tools & hardware",
+    "invention": {
+      "display": "1908",
+      "year": 1908,
+      "approximate": false,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "Ontario",
+      "modern_country": "Canada",
+      "notes": "Patented by P. L. Robertson, whose factory was in Milton, Ontario."
+    },
+    "inventor": "P. L. Robertson",
+    "short_description": "A screw with a square socket in its head, driven by a matching square-tipped driver.",
+    "description": "Peter L. Robertson developed the square-drive screw in Canada, reportedly after a slotted screwdriver slipped and cut his hand. The tapered square recess grips the driver firmly, so the screw can even be held on the tip with one hand. It remains especially popular in Canada.",
+    "why_unchanged": "A tapered square socket gives excellent grip and almost no slipping, so there was nothing to improve.",
+    "materials": [
+      "steel",
+      "stainless steel",
+      "brass"
+    ],
+    "faqs": [
+      {
+        "question": "Why is the Robertson screw so popular in Canada?",
+        "answer": "It was invented and manufactured in Canada, and builders there favored it for its grip and speed long before it spread elsewhere."
+      },
+      {
+        "question": "How do you tell Robertson driver sizes apart?",
+        "answer": "They are traditionally color-coded, for example green, red and black handles for the three most common sizes."
+      },
+      {
+        "question": "Why didn't Ford adopt it widely?",
+        "answer": "According to a well-known account, Robertson refused to license the design on Ford's terms, so the carmaker used other screws."
+      }
+    ],
+    "image": {
+      "search_query": "robertson square drive screw",
+      "wikimedia_commons_category": "Robertson screws",
+      "alt": "Close-up of a square-drive Robertson screw head"
+    },
+    "tags": [
+      "fastener",
+      "canada",
+      "patent",
+      "screws"
+    ],
+    "confidence": "high"
+  },
+  {
+    "slug": "torx-screw",
+    "name": "Torx screw",
+    "category": "Tools & hardware",
+    "invention": {
+      "display": "1967",
+      "year": 1967,
+      "approximate": false,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "Rockford, Illinois",
+      "modern_country": "United States",
+      "notes": "Developed by Camcar, a Textron company."
+    },
+    "inventor": null,
+    "short_description": "A screw with a six-pointed star-shaped recess that transmits high torque without slipping.",
+    "description": "The Torx drive was developed in 1967 to deliver high torque with minimal cam-out on assembly lines. Its six-lobed star shape spreads force evenly and extends the life of both screw and driver bit. It is widely used in cars, electronics and construction screws.",
+    "why_unchanged": "Its star geometry already solves slipping and stripping, so the shape has stayed the same since 1967.",
+    "materials": [
+      "steel",
+      "stainless steel"
+    ],
+    "faqs": [
+      {
+        "question": "What does Torx mean?",
+        "answer": "It is a trademarked name for the six-lobe drive, generically called a 'star' or 'hexalobular' drive."
+      },
+      {
+        "question": "Why are Torx screws used in electronics?",
+        "answer": "They allow high, controlled torque in small sizes, and tamper-resistant versions with a center pin discourage casual opening."
+      },
+      {
+        "question": "Can you use an Allen key on a Torx screw?",
+        "answer": "Sometimes it will turn, but it fits poorly and can strip the recess, so a proper Torx bit is recommended."
+      }
+    ],
+    "image": {
+      "search_query": "torx star screws close up",
+      "wikimedia_commons_category": "Torx screws",
+      "alt": "Close-up of screws with six-pointed star recesses"
+    },
+    "tags": [
+      "fastener",
+      "modern",
+      "screws",
+      "automotive"
+    ],
+    "confidence": "high"
+  },
+  {
+    "slug": "hex-key",
+    "name": "Hex key",
+    "category": "Tools & hardware",
+    "invention": {
+      "display": "c. 1910",
+      "year": 1910,
+      "approximate": true,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "Hartford, Connecticut",
+      "modern_country": "United States",
+      "notes": "The Allen Manufacturing Company popularized hex socket screws and keys around 1910; earlier claims exist and the first inventor is disputed."
+    },
+    "inventor": null,
+    "short_description": "An L-shaped bar of hexagonal cross-section used to turn screws with a hexagonal socket.",
+    "description": "The hex key, often called an Allen key, became common in the early 20th century along with hex socket set screws, which were safer than protruding square-headed screws on machinery. Its simple bent shape gives a short and a long lever arm. Flat-pack furniture made it a household item.",
+    "why_unchanged": "A bent hexagonal bar is cheap, strong and offers two lever lengths, so it has never needed redesign.",
+    "materials": [
+      "steel",
+      "chrome vanadium steel"
+    ],
+    "faqs": [
+      {
+        "question": "Why is it called an Allen key?",
+        "answer": "The name comes from the Allen Manufacturing Company of Hartford, Connecticut, which sold hex socket screws and keys in the early 1900s."
+      },
+      {
+        "question": "Why is the hex key L-shaped?",
+        "answer": "Use the long arm for leverage to loosen tight screws, and the short arm in tight spaces or for fast spinning."
+      },
+      {
+        "question": "Why do furniture kits include a hex key?",
+        "answer": "Hex socket bolts are cheap and easy to tighten firmly, and a key costs very little to include in every box."
+      }
+    ],
+    "image": {
+      "search_query": "set of hex keys allen wrenches",
+      "wikimedia_commons_category": "Hex keys",
+      "alt": "A set of L-shaped hex keys in different sizes"
+    },
+    "tags": [
+      "hand tool",
+      "fastening",
+      "furniture",
+      "modern"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "wrench",
+    "name": "Wrench",
+    "category": "Tools & hardware",
+    "invention": {
+      "display": "15th–16th century",
+      "year": 1500,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Western Europe",
+      "modern_country": "Unknown",
+      "notes": "Fixed wrenches (spanners) for nuts and bolts appear in Europe as threaded fasteners spread, used on armor, firearms and machinery; no single origin is documented."
+    },
+    "inventor": null,
+    "short_description": "A hand tool with a fixed jaw or ring that grips and turns nuts and bolts.",
+    "description": "Wrenches developed in late medieval and early modern Europe as threaded fasteners spread. Early examples were forged to fit specific nuts on guns, armor and machines. The open-end and box-end wrench still consists of a shaped opening on a lever handle.",
+    "why_unchanged": "A jaw that fits a nut plus a handle for leverage is all that turning a bolt requires.",
+    "materials": [
+      "iron",
+      "steel",
+      "chrome vanadium steel"
+    ],
+    "faqs": [
+      {
+        "question": "Is it called a wrench or a spanner?",
+        "answer": "Americans usually say 'wrench', while British English says 'spanner' for fixed tools and often 'wrench' for adjustable ones."
+      },
+      {
+        "question": "Why are open-end wrench heads angled?",
+        "answer": "The roughly 15-degree angle lets you flip the wrench over to keep turning a nut in tight spaces."
+      },
+      {
+        "question": "What is a combination wrench?",
+        "answer": "It has an open end on one side and a closed ring on the other, both for the same size of nut."
+      }
+    ],
+    "image": {
+      "search_query": "combination wrenches set",
+      "wikimedia_commons_category": "Wrenches",
+      "alt": "A row of steel combination wrenches"
+    },
+    "tags": [
+      "hand tool",
+      "fastening",
+      "metalworking",
+      "mechanics"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "monkey-wrench",
+    "name": "Monkey wrench",
+    "category": "Tools & hardware",
+    "invention": {
+      "display": "1841",
+      "year": 1841,
+      "approximate": false,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Worcester, Massachusetts",
+      "modern_country": "United States",
+      "notes": "Loring Coes patented his screw-adjusted wrench in 1841. The story of an inventor named 'Charles Moncky' is a popular but unsupported explanation of the name."
+    },
+    "inventor": "Loring Coes",
+    "short_description": "An adjustable wrench with straight jaws set at a right angle to the handle.",
+    "description": "The monkey wrench has a sliding jaw adjusted by a screw along the handle, allowing one tool to fit many nut sizes. Loring Coes patented an influential design in 1841, and it became a standard tool for mechanics and plumbers. The design is still made almost unchanged.",
+    "why_unchanged": "Its simple sliding jaw and screw adjustment work reliably, so later wrenches added to rather than replaced the design.",
+    "materials": [
+      "iron",
+      "steel",
+      "wood"
+    ],
+    "faqs": [
+      {
+        "question": "Why is it called a monkey wrench?",
+        "answer": "The origin of the name is uncertain; the popular tale of an inventor called Charles Moncky has no documentary support."
+      },
+      {
+        "question": "Who invented the monkey wrench?",
+        "answer": "Loring Coes of Worcester, Massachusetts, patented a key design in 1841, though earlier adjustable wrenches existed."
+      },
+      {
+        "question": "What does 'throw a monkey wrench into the works' mean?",
+        "answer": "It means to sabotage or disrupt a plan, as if dropping a wrench into running machinery."
+      }
+    ],
+    "image": {
+      "search_query": "antique monkey wrench",
+      "wikimedia_commons_category": "Monkey wrenches",
+      "alt": "An antique monkey wrench with straight jaws"
+    },
+    "tags": [
+      "hand tool",
+      "adjustable",
+      "industrial",
+      "patent"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "adjustable-wrench",
+    "name": "Adjustable wrench",
+    "category": "Tools & hardware",
+    "invention": {
+      "display": "1891",
+      "year": 1891,
+      "approximate": false,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Enköping",
+      "modern_country": "Sweden",
+      "notes": "Johan Petter Johansson's angled adjustable wrench (patented 1892) was made by the Bahco company. Earlier adjustable wrenches, such as Richard Clyburn's in England (1842), also exist."
+    },
+    "inventor": "Johan Petter Johansson",
+    "short_description": "A wrench with one fixed and one movable jaw, set by a worm screw, at an angle to the handle.",
+    "description": "The modern adjustable wrench, with its jaws angled to the handle and a thumb-turned worm gear, was designed by Swedish inventor Johan Petter Johansson. It lets a single tool replace a whole set of fixed wrenches. It is known in many countries as a 'Swedish key' or, in the US, a Crescent wrench.",
+    "why_unchanged": "The angled head and worm-screw jaw were right from the start, so manufacturers have changed only materials and finish.",
+    "materials": [
+      "steel",
+      "chrome vanadium steel"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the adjustable wrench?",
+        "answer": "Johan Petter Johansson of Sweden designed the modern version around 1891; earlier adjustable wrenches existed in England and the US."
+      },
+      {
+        "question": "Why is it called a 'Crescent wrench' in the US?",
+        "answer": "The Crescent Tool Company popularized it in America in the early 1900s, and the brand name stuck."
+      },
+      {
+        "question": "How should you use it to avoid slipping?",
+        "answer": "Tighten the jaws firmly on the nut and pull so that force goes toward the fixed jaw, which is the stronger side."
+      }
+    ],
+    "image": {
+      "search_query": "adjustable wrench on bolt",
+      "wikimedia_commons_category": "Adjustable spanners",
+      "alt": "An adjustable wrench gripping a hexagonal nut"
+    },
+    "tags": [
+      "hand tool",
+      "adjustable",
+      "sweden",
+      "patent"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "pipe-wrench",
+    "name": "Pipe wrench",
+    "category": "Tools & hardware",
+    "invention": {
+      "display": "1869",
+      "year": 1869,
+      "approximate": false,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Massachusetts",
+      "modern_country": "United States",
+      "notes": "Daniel C. Stillson patented the design in 1869 while working as a machinist for the Walworth Manufacturing Company."
+    },
+    "inventor": "Daniel C. Stillson",
+    "short_description": "A heavy adjustable wrench with serrated jaws that grip round pipe more tightly as force is applied.",
+    "description": "The pipe wrench uses a loosely mounted hook jaw that bites harder into round pipe the more the handle is pulled. Daniel Stillson patented it in 1869, and 'Stillson wrench' became a common name for the tool. Plumbers still use essentially the same design.",
+    "why_unchanged": "The self-tightening jaw geometry solves gripping smooth round pipe, so nothing better has been needed.",
+    "materials": [
+      "iron",
+      "steel",
+      "aluminum"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the pipe wrench?",
+        "answer": "Daniel C. Stillson patented it in 1869, and the tool is still often called a Stillson wrench."
+      },
+      {
+        "question": "Why are the jaws serrated?",
+        "answer": "The teeth bite into round pipe so it can be turned without a flat surface to grip."
+      },
+      {
+        "question": "Can a pipe wrench be used on nuts?",
+        "answer": "It is not recommended, since the teeth damage the corners of nuts; a regular wrench is better."
+      }
+    ],
+    "image": {
+      "search_query": "red pipe wrench plumbing",
+      "wikimedia_commons_category": "Pipe wrenches",
+      "alt": "A heavy pipe wrench gripping a metal pipe"
+    },
+    "tags": [
+      "hand tool",
+      "plumbing",
+      "patent",
+      "industrial"
+    ],
+    "confidence": "high"
+  },
+  {
+    "slug": "ratchet-wrench",
+    "name": "Ratchet wrench",
+    "category": "Tools & hardware",
+    "invention": {
+      "display": "1863",
+      "year": 1863,
+      "approximate": false,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Vermont",
+      "modern_country": "United States",
+      "notes": "A ratcheting socket wrench patent by J. J. Richardson in 1863 is commonly cited; interchangeable socket sets were popularized later (for example by Snap-on in 1920)."
+    },
+    "inventor": "J. J. Richardson",
+    "short_description": "A handle with a one-way ratchet mechanism that turns interchangeable sockets onto nuts and bolts.",
+    "description": "The ratchet wrench lets a mechanic turn a nut repeatedly without removing the tool, because the handle swings freely in one direction. A ratcheting socket wrench was patented in the US in 1863, and detachable sockets made it a complete system in the 20th century. Its basic form is unchanged in mechanics' toolboxes.",
+    "why_unchanged": "A ratchet handle plus snap-on sockets is already the fastest manual way to turn bolts in tight spaces.",
+    "materials": [
+      "steel",
+      "chrome vanadium steel"
+    ],
+    "faqs": [
+      {
+        "question": "Why use a ratchet instead of a regular wrench?",
+        "answer": "You can keep turning without lifting the tool off the nut, which is much faster in tight spaces."
+      },
+      {
+        "question": "How do you reverse a ratchet?",
+        "answer": "Most ratchets have a small lever or dial on the head that switches the direction of the free-wheeling action."
+      },
+      {
+        "question": "What do the drive sizes mean?",
+        "answer": "Sizes like 1/4, 3/8 and 1/2 inch refer to the square peg that attaches sockets, with larger drives for heavier work."
+      }
+    ],
+    "image": {
+      "search_query": "ratchet socket wrench set",
+      "wikimedia_commons_category": "Ratchet wrenches",
+      "alt": "A ratchet handle with a socket attached"
+    },
+    "tags": [
+      "hand tool",
+      "mechanics",
+      "patent",
+      "industrial"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "pliers",
+    "name": "Pliers",
+    "category": "Tools & hardware",
+    "invention": {
+      "display": "c. 2000 BCE",
+      "year": -2000,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Europe and Near East",
+      "modern_country": "Unknown",
+      "notes": "Pliers evolved from metalworking tongs used in the Bronze Age; dates proposed in sources vary widely."
+    },
+    "inventor": null,
+    "short_description": "A hand tool with two pivoting arms and jaws used to grip, bend or cut.",
+    "description": "Pliers grew out of the tongs early metalworkers used to hold hot metal. Two levers joined by a pivot multiply hand strength at the jaws, a principle unchanged for millennia. Modern pliers come in many jaw shapes but follow the same design.",
+    "why_unchanged": "Two levers on a pivot already give an excellent mechanical advantage for gripping by hand.",
+    "materials": [
+      "bronze",
+      "iron",
+      "steel"
+    ],
+    "faqs": [
+      {
+        "question": "How do pliers multiply force?",
+        "answer": "They are a pair of levers; because the handles are longer than the jaws, your squeeze is amplified at the tips."
+      },
+      {
+        "question": "Where did pliers come from?",
+        "answer": "They developed from Bronze Age smithing tongs used to hold hot metal."
+      },
+      {
+        "question": "What is the difference between pliers and pincers?",
+        "answer": "Pliers usually have flat or toothed jaws for gripping, while pincers have curved jaws that meet at the tip for pulling nails."
+      }
+    ],
+    "image": {
+      "search_query": "combination pliers on white",
+      "wikimedia_commons_category": "Pliers",
+      "alt": "A pair of combination pliers with insulated handles"
+    },
+    "tags": [
+      "hand tool",
+      "gripping",
+      "bronze age",
+      "lever"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "locking-pliers",
+    "name": "Locking pliers",
+    "category": "Tools & hardware",
+    "invention": {
+      "display": "1924",
+      "year": 1924,
+      "approximate": false,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "DeWitt, Nebraska",
+      "modern_country": "United States",
+      "notes": "William Petersen, a Danish-born blacksmith, patented locking pliers in 1924; they were later sold as Vise-Grip."
+    },
+    "inventor": "William Petersen",
+    "short_description": "Pliers that can be locked onto a workpiece using an over-center lever mechanism.",
+    "description": "Locking pliers clamp tightly and stay locked without hand pressure, acting like a portable vise. William Petersen invented them in Nebraska in the 1920s, and the Vise-Grip brand became synonymous with them. The adjustment screw and release lever still work the same way.",
+    "why_unchanged": "The over-center lock is a simple and powerful mechanism that has never needed improvement.",
+    "materials": [
+      "steel",
+      "nickel-plated steel"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented locking pliers?",
+        "answer": "Danish-American blacksmith William Petersen patented them in 1924 in DeWitt, Nebraska."
+      },
+      {
+        "question": "How do you adjust locking pliers?",
+        "answer": "Turn the screw at the end of the handle until the jaws close firmly on the object, then squeeze to lock."
+      },
+      {
+        "question": "What are they useful for?",
+        "answer": "They hold parts for welding, grip rounded bolts and serve as temporary clamps or handles."
+      }
+    ],
+    "image": {
+      "search_query": "vise grip locking pliers",
+      "wikimedia_commons_category": "Locking pliers",
+      "alt": "Locking pliers clamped on a metal bolt"
+    },
+    "tags": [
+      "hand tool",
+      "clamping",
+      "patent",
+      "american"
+    ],
+    "confidence": "high"
+  },
+  {
+    "slug": "tongue-and-groove-pliers",
+    "name": "Tongue-and-groove pliers",
+    "category": "Tools & hardware",
+    "invention": {
+      "display": "1933",
+      "year": 1933,
+      "approximate": false,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "Meadville, Pennsylvania",
+      "modern_country": "United States",
+      "notes": "Introduced by the Champion DeArment Tool Company, maker of the Channellock brand."
+    },
+    "inventor": null,
+    "short_description": "Adjustable pliers with a channel joint that lets the jaws open to several widths.",
+    "description": "Tongue-and-groove pliers have a pivot that slides between grooved positions, allowing the jaws to grip large pipes and nuts. They were introduced in 1933 by the company that became Channellock. Plumbers often call them 'channel locks' or 'water pump pliers'.",
+    "why_unchanged": "The channel joint already gives quick, secure size changes, so the design remains the same.",
+    "materials": [
+      "steel"
+    ],
+    "faqs": [
+      {
+        "question": "Why are they called water pump pliers?",
+        "answer": "They were well suited to tightening packing nuts on the water pumps of early cars."
+      },
+      {
+        "question": "Who introduced the design?",
+        "answer": "It was introduced in 1933 by the Champion DeArment Tool Company, maker of the Channellock brand."
+      },
+      {
+        "question": "How do you adjust them?",
+        "answer": "Open the handles fully, slide the pivot to another groove and close them on the workpiece."
+      }
+    ],
+    "image": {
+      "search_query": "tongue and groove pliers",
+      "wikimedia_commons_category": "Tongue-and-groove pliers",
+      "alt": "Blue-handled tongue-and-groove pliers"
+    },
+    "tags": [
+      "hand tool",
+      "plumbing",
+      "adjustable",
+      "modern"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "linemans-pliers",
+    "name": "Lineman's pliers",
+    "category": "Tools & hardware",
+    "invention": {
+      "display": "1857",
+      "year": 1857,
+      "approximate": false,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Chicago, Illinois",
+      "modern_country": "United States",
+      "notes": "Mathias Klein is credited with forging a pair for a telegraph lineman in 1857, founding what became Klein Tools."
+    },
+    "inventor": "Mathias Klein",
+    "short_description": "Heavy pliers with flat gripping jaws and built-in side cutters, used by electricians.",
+    "description": "Lineman's pliers combine gripping and cutting in one heavy tool for electrical and telegraph workers. According to company history, blacksmith Mathias Klein forged a pair in 1857 to replace a lineman's broken tool, beginning a long line of electrician's pliers. Their blunt nose and side cutter remain unchanged.",
+    "why_unchanged": "Flat jaws plus a cutter in one sturdy tool covers almost every wiring task.",
+    "materials": [
+      "steel",
+      "rubber",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "Why are they called lineman's pliers?",
+        "answer": "They were made for telegraph and later electrical line workers who needed to grip, twist and cut wire."
+      },
+      {
+        "question": "Are the handles insulated?",
+        "answer": "Ordinary handle grips are for comfort; only tools marked with a voltage rating are certified for live electrical work."
+      },
+      {
+        "question": "What can they do?",
+        "answer": "They grip, twist wires together, cut wire and bend metal."
+      }
+    ],
+    "image": {
+      "search_query": "lineman pliers electrician",
+      "wikimedia_commons_category": "Lineman's pliers",
+      "alt": "Lineman's pliers cutting a copper wire"
+    },
+    "tags": [
+      "hand tool",
+      "electrical",
+      "industrial",
+      "american"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "pincers",
+    "name": "Pincers",
+    "category": "Tools & hardware",
+    "invention": {
+      "display": "c. 1st century CE",
+      "year": 50,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Roman Empire",
+      "modern_country": "Italy",
+      "notes": "Iron pincers are known from Roman workshops; tong-like gripping tools are older, and the exact origin is unknown."
+    },
+    "inventor": null,
+    "short_description": "A gripping tool with rounded jaws that meet at a point, used mainly to pull nails.",
+    "description": "Pincers have curved jaws that close on a nail and roll against the wood to pull it out. Their shape follows ancient metalworking tongs and appears in Roman finds. Carpenters and shoemakers still use them.",
+    "why_unchanged": "The rounded jaw is already ideal for levering nails out, so the design has stayed the same.",
+    "materials": [
+      "iron",
+      "steel"
+    ],
+    "faqs": [
+      {
+        "question": "What are pincers mainly used for?",
+        "answer": "Pulling nails and tacks, nipping off nail ends and gripping small objects."
+      },
+      {
+        "question": "How do you pull a nail with pincers?",
+        "answer": "Grip the nail just under its head and roll the pincers over on their curved jaw to lever it out."
+      },
+      {
+        "question": "Are pincers the same as pliers?",
+        "answer": "They are related, but pincers have curved jaws that meet at the tip rather than flat gripping surfaces."
+      }
+    ],
+    "image": {
+      "search_query": "carpenter pincers pulling nail",
+      "wikimedia_commons_category": "Pincers (tool)",
+      "alt": "A pair of carpenter's pincers"
+    },
+    "tags": [
+      "hand tool",
+      "carpentry",
+      "roman",
+      "nails"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "hand-saw",
+    "name": "Hand saw",
+    "category": "Tools & hardware",
+    "invention": {
+      "display": "c. 3000 BCE",
+      "year": -3000,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Ancient Egypt",
+      "modern_country": "Egypt",
+      "notes": "Copper saws are known from early dynastic Egypt; serrated flint blades were used much earlier."
+    },
+    "inventor": null,
+    "short_description": "A toothed blade with a handle, used to cut wood by pushing and pulling.",
+    "description": "The hand saw appeared when metalworkers began making toothed copper blades in ancient Egypt. Bronze, then iron and steel improved the blade, but the principle of a row of teeth on a thin plate is unchanged. Greek myth credited the invention to Talos or Perdix.",
+    "why_unchanged": "A thin toothed blade with a handle is the most direct way to cut wood by hand.",
+    "materials": [
+      "copper",
+      "bronze",
+      "iron",
+      "steel",
+      "wood"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the saw?",
+        "answer": "No individual is known; Greek legend credits Talos or Perdix, but copper saws already existed in ancient Egypt."
+      },
+      {
+        "question": "What is the difference between rip and crosscut teeth?",
+        "answer": "Rip teeth cut like small chisels along the grain, while crosscut teeth slice like knives across the grain."
+      },
+      {
+        "question": "Why do Japanese saws cut on the pull?",
+        "answer": "Pulling keeps the blade in tension, so it can be thinner and cut a narrower, more precise kerf."
+      }
+    ],
+    "image": {
+      "search_query": "carpenter hand saw cutting wood",
+      "wikimedia_commons_category": "Handsaws",
+      "alt": "A hand saw cutting a wooden plank"
+    },
+    "tags": [
+      "hand tool",
+      "woodworking",
+      "ancient egypt",
+      "cutting"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "hacksaw",
+    "name": "Hacksaw",
+    "category": "Tools & hardware",
+    "invention": {
+      "display": "mid-19th century",
+      "year": 1850,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Europe and North America",
+      "modern_country": "Unknown",
+      "notes": "Frame saws are ancient, but hardened, replaceable metal-cutting blades that make the modern hacksaw practical date from the 19th century; no single inventor is documented."
+    },
+    "inventor": null,
+    "short_description": "A fine-toothed saw with a blade stretched in a C-shaped frame, used for cutting metal.",
+    "description": "The hacksaw holds a thin hardened blade under tension in a frame so it can cut metal, plastic and pipe. Its design combines the ancient frame saw with industrial-era hardened steel blades. Blades are disposable and replaced when dull.",
+    "why_unchanged": "A tensioned replaceable blade in a simple frame is cheap and effective, so it has not needed to change.",
+    "materials": [
+      "steel",
+      "aluminum",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "Which way should the teeth point?",
+        "answer": "Hacksaw blades are normally fitted with the teeth pointing away from the handle, so the saw cuts on the push stroke."
+      },
+      {
+        "question": "What do teeth-per-inch numbers mean?",
+        "answer": "More teeth per inch give finer cuts for thin metal; fewer teeth cut faster in thicker material."
+      },
+      {
+        "question": "How tight should the blade be?",
+        "answer": "It should be tensioned firmly so it doesn't flex or wander during the cut."
+      }
+    ],
+    "image": {
+      "search_query": "hacksaw cutting metal pipe",
+      "wikimedia_commons_category": "Hacksaws",
+      "alt": "A hacksaw cutting a metal pipe"
+    },
+    "tags": [
+      "hand tool",
+      "metalworking",
+      "cutting",
+      "industrial"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "bow-saw",
+    "name": "Bow saw",
+    "category": "Tools & hardware",
+    "invention": {
+      "display": "c. 1st century CE",
+      "year": 50,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Roman Empire",
+      "modern_country": "Italy",
+      "notes": "Frame saws are depicted in Roman art and known from Roman finds; similar frame saws were widely used in later Europe."
+    },
+    "inventor": null,
+    "short_description": "A saw with a narrow blade held under tension in a frame, used for cutting wood.",
+    "description": "The bow or frame saw holds a narrow blade under tension, which lets it be thin and cut quickly. It appears in Roman imagery and was a main woodworking saw in Europe for centuries. Modern bow saws for firewood keep the same tensioned-frame idea, now often in tubular steel.",
+    "why_unchanged": "Tensioning a thin blade in a frame makes it stiff without being heavy, a solution that still works.",
+    "materials": [
+      "wood",
+      "steel",
+      "string"
+    ],
+    "faqs": [
+      {
+        "question": "How old is the bow saw?",
+        "answer": "Frame saws of this type were used by the Romans around 2,000 years ago."
+      },
+      {
+        "question": "What is a bow saw used for today?",
+        "answer": "Mostly for cutting firewood and branches, and in its traditional wooden form for fine joinery."
+      },
+      {
+        "question": "How is the blade tensioned?",
+        "answer": "Traditional versions twist a cord with a stick; modern steel versions use a lever or the springiness of the frame."
+      }
+    ],
+    "image": {
+      "search_query": "bow saw cutting log",
+      "wikimedia_commons_category": "Bow saws",
+      "alt": "A bow saw cutting a log"
+    },
+    "tags": [
+      "hand tool",
+      "woodworking",
+      "roman",
+      "cutting"
+    ],
+    "confidence": "medium"
+  }
+]

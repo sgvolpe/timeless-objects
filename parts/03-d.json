@@ -1,0 +1,1291 @@
+[
+  {
+    "slug": "door-latch",
+    "name": "Door latch",
+    "category": "Tools & hardware",
+    "invention": {
+      "display": "Antiquity",
+      "year": -500,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Worldwide",
+      "modern_country": "Unknown",
+      "notes": "Simple wooden latches and bars were used since antiquity; the iron thumb latch was common in medieval and early modern Europe. No single origin is known."
+    },
+    "inventor": null,
+    "short_description": "A simple fastening with a pivoting bar that drops into a catch to keep a door or gate closed.",
+    "description": "A latch holds a door shut without locking it, usually with a bar that falls into a hooked catch. Wooden latches lifted by a string through a hole were common in early homes, and iron thumb latches spread in later centuries. Gate and barn-door latches still use the same falling-bar design.",
+    "why_unchanged": "A gravity-operated bar and catch is cheap and reliable, so it has never needed improvement.",
+    "materials": [
+      "wood",
+      "iron",
+      "steel",
+      "brass"
+    ],
+    "faqs": [
+      {
+        "question": "What is the difference between a latch and a lock?",
+        "answer": "A latch only keeps a door closed, while a lock requires a key or code to open."
+      },
+      {
+        "question": "What does 'the latchstring is out' mean?",
+        "answer": "It is an old expression of welcome, from latches lifted by a string pulled through a hole in the door."
+      },
+      {
+        "question": "What is a thumb latch?",
+        "answer": "A latch opened by pressing a thumb lever that lifts the bar on the other side of the door."
+      }
+    ],
+    "image": {
+      "search_query": "iron thumb latch on wooden door",
+      "wikimedia_commons_category": "Door latches",
+      "alt": "An iron thumb latch on a wooden door"
+    },
+    "tags": [
+      "hardware",
+      "door",
+      "ancient",
+      "fastening"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "bolt",
+    "name": "Bolt",
+    "category": "Tools & hardware",
+    "invention": {
+      "display": "15th century",
+      "year": 1450,
+      "approximate": true,
+      "era": "Medieval"
+    },
+    "place_of_invention": {
+      "region": "Western Europe",
+      "modern_country": "Unknown",
+      "notes": "Threaded bolts and nuts appear in Europe alongside metal screws in the 15th century; standardized threads came in the 19th century."
+    },
+    "inventor": null,
+    "short_description": "A threaded metal rod with a head, used with a nut to fasten parts together.",
+    "description": "A bolt passes through holes in two parts and is tightened with a nut, clamping them together. Hand-made bolts were used in late medieval Europe, and screw-cutting lathes in the Industrial Revolution made them interchangeable. The headed, threaded shank has remained the same.",
+    "why_unchanged": "A threaded rod and a nut provide strong, removable clamping, which no simpler form achieves.",
+    "materials": [
+      "iron",
+      "steel",
+      "stainless steel",
+      "brass",
+      "titanium"
+    ],
+    "faqs": [
+      {
+        "question": "What is the difference between a bolt and a screw?",
+        "answer": "A bolt is usually used with a nut, while a screw threads into the material or a tapped hole."
+      },
+      {
+        "question": "Why did bolt threads need standardizing?",
+        "answer": "Before standards such as Joseph Whitworth's 1841 system, nuts and bolts from different makers often didn't fit."
+      },
+      {
+        "question": "What do numbers on bolt heads mean?",
+        "answer": "They indicate the strength grade or property class."
+      }
+    ],
+    "image": {
+      "search_query": "hex bolts and nuts",
+      "wikimedia_commons_category": "Bolts (fasteners)",
+      "alt": "A hex bolt with a nut and washer"
+    },
+    "tags": [
+      "fastener",
+      "threads",
+      "medieval",
+      "industrial"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "nut",
+    "name": "Nut",
+    "category": "Tools & hardware",
+    "invention": {
+      "display": "15th century",
+      "year": 1450,
+      "approximate": true,
+      "era": "Medieval"
+    },
+    "place_of_invention": {
+      "region": "Western Europe",
+      "modern_country": "Unknown",
+      "notes": "Threaded nuts appear in Europe with bolts in the 15th century; the hexagonal shape became standard in the industrial era."
+    },
+    "inventor": null,
+    "short_description": "A small block, usually hexagonal, with an internal thread that screws onto a bolt.",
+    "description": "Nuts tighten onto bolts to clamp parts together. Early nuts were often square and handmade, while hexagonal nuts became standard with industrial production because they can be turned in tight spaces. The threaded block design is unchanged.",
+    "why_unchanged": "A threaded block that grips a bolt is simple and effective, so only the shape and threads were standardized.",
+    "materials": [
+      "iron",
+      "steel",
+      "stainless steel",
+      "brass",
+      "nylon"
+    ],
+    "faqs": [
+      {
+        "question": "Why are most nuts hexagonal?",
+        "answer": "Six sides allow a wrench to grip in many positions, which is useful in confined spaces."
+      },
+      {
+        "question": "What is a lock nut?",
+        "answer": "A nut designed to resist loosening, often with a nylon insert or deformed thread."
+      },
+      {
+        "question": "What is a wing nut?",
+        "answer": "A nut with two flat 'wings' that can be turned by hand without tools."
+      }
+    ],
+    "image": {
+      "search_query": "assorted hex nuts",
+      "wikimedia_commons_category": "Nuts (hardware)",
+      "alt": "A pile of steel hex nuts"
+    },
+    "tags": [
+      "fastener",
+      "threads",
+      "medieval",
+      "hardware"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "rivet",
+    "name": "Rivet",
+    "category": "Tools & hardware",
+    "invention": {
+      "display": "Bronze Age (c. 3000 BCE)",
+      "year": -3000,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Ancient Near East and Egypt",
+      "modern_country": "Unknown",
+      "notes": "Rivets were used in Bronze Age metalwork such as vessels and weapons; they likely appeared independently in many metalworking cultures."
+    },
+    "inventor": null,
+    "short_description": "A metal pin that is hammered or pressed to form a second head, permanently joining parts.",
+    "description": "A rivet passes through holes in two pieces and is deformed on the other side to lock them together. Bronze Age smiths used rivets to fix blades to handles and assemble vessels. Rivets built steel bridges, ships and aircraft, and still join metal sheets today.",
+    "why_unchanged": "Deforming a pin to make a second head is a simple, strong permanent joint.",
+    "materials": [
+      "copper",
+      "bronze",
+      "iron",
+      "steel",
+      "aluminum"
+    ],
+    "faqs": [
+      {
+        "question": "How old are rivets?",
+        "answer": "They were used in Bronze Age metalwork thousands of years ago."
+      },
+      {
+        "question": "Why were rivets used in old bridges and ships?",
+        "answer": "Before reliable welding, hot rivets were the strongest way to join steel plates."
+      },
+      {
+        "question": "What is a pop rivet?",
+        "answer": "A blind rivet that can be installed from one side using a special tool."
+      }
+    ],
+    "image": {
+      "search_query": "steel rivets on metal plate",
+      "wikimedia_commons_category": "Rivets",
+      "alt": "A row of steel rivets on a metal plate"
+    },
+    "tags": [
+      "fastener",
+      "metalworking",
+      "bronze age",
+      "permanent"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "dowel",
+    "name": "Dowel",
+    "category": "Tools & hardware",
+    "invention": {
+      "display": "c. 2600 BCE",
+      "year": -2600,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Ancient Egypt",
+      "modern_country": "Egypt",
+      "notes": "Ancient Egyptian furniture shows dowel joints; wooden pegs were likely used much earlier elsewhere."
+    },
+    "inventor": null,
+    "short_description": "A cylindrical wooden or metal pin used to join or align parts.",
+    "description": "Dowels are round pins inserted into matching holes to join pieces of wood. Ancient Egyptian furniture makers used dowels and pegs with glue, and the joint is still standard in furniture. Flat-pack furniture often includes wooden dowels.",
+    "why_unchanged": "A round pin in a round hole is the simplest way to align and join parts.",
+    "materials": [
+      "wood",
+      "steel",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "Why use dowels instead of screws?",
+        "answer": "Dowels are hidden, don't split wood when glued properly and help align parts precisely."
+      },
+      {
+        "question": "Did ancient Egyptians use dowels?",
+        "answer": "Yes, Egyptian furniture shows dowel and peg joints thousands of years ago."
+      },
+      {
+        "question": "Why do some dowels have grooves?",
+        "answer": "Grooves allow glue and air to escape and help the dowel grip."
+      }
+    ],
+    "image": {
+      "search_query": "wooden dowels furniture joint",
+      "wikimedia_commons_category": "Dowels",
+      "alt": "Wooden dowels inserted into a board"
+    },
+    "tags": [
+      "fastener",
+      "woodworking",
+      "ancient egypt",
+      "furniture"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "linchpin",
+    "name": "Linchpin",
+    "category": "Tools & hardware",
+    "invention": {
+      "display": "Bronze Age",
+      "year": -2000,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Eurasia",
+      "modern_country": "Unknown",
+      "notes": "Linchpins secured wheels on axles of early vehicles; they are well known from Bronze and Iron Age chariots and carts."
+    },
+    "inventor": null,
+    "short_description": "A pin inserted through the end of an axle to keep a wheel from sliding off.",
+    "description": "The linchpin sits through a hole at the end of an axle and stops the wheel from coming off. It was essential for early carts and chariots and is still used on trailers, farm equipment and hitches. Its importance gave English its figurative word for something vital.",
+    "why_unchanged": "A pin through a hole is the simplest way to secure a wheel, so the design remains.",
+    "materials": [
+      "wood",
+      "bronze",
+      "iron",
+      "steel"
+    ],
+    "faqs": [
+      {
+        "question": "Why does 'linchpin' mean something essential?",
+        "answer": "Without the linchpin the wheel falls off, so it came to mean a key element holding something together."
+      },
+      {
+        "question": "Where are linchpins used today?",
+        "answer": "On trailer hitches, farm machinery and other equipment with removable wheels or pins."
+      },
+      {
+        "question": "How old are linchpins?",
+        "answer": "They go back to early wheeled vehicles, with examples from Bronze and Iron Age chariots."
+      }
+    ],
+    "image": {
+      "search_query": "linchpin on trailer hitch",
+      "wikimedia_commons_category": "Linchpins",
+      "alt": "A steel linchpin through an axle end"
+    },
+    "tags": [
+      "fastener",
+      "transport",
+      "bronze age",
+      "hardware"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "ball-bearing",
+    "name": "Ball bearing",
+    "category": "Tools & hardware",
+    "invention": {
+      "display": "1794",
+      "year": 1794,
+      "approximate": false,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Carmarthen, Wales",
+      "modern_country": "United Kingdom",
+      "notes": "Philip Vaughan patented a ball bearing for carriage axles in 1794; rolling-element bearings are older, including on Roman ships at Lake Nemi."
+    },
+    "inventor": "Philip Vaughan",
+    "short_description": "A ring of hard balls between two races that reduces friction around a rotating shaft.",
+    "description": "Ball bearings let wheels and shafts turn smoothly by replacing sliding with rolling. Philip Vaughan patented a ball bearing for carriage axles in 1794, and precision steel balls later made bearings vital for bicycles and engines. Modern bearings still use balls between inner and outer rings.",
+    "why_unchanged": "Rolling balls in races minimize friction with simple parts, so the core design remains.",
+    "materials": [
+      "steel",
+      "ceramic",
+      "brass"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the ball bearing?",
+        "answer": "Philip Vaughan of Carmarthen patented a ball bearing for carriage axles in 1794."
+      },
+      {
+        "question": "Why do bearings reduce friction?",
+        "answer": "Rolling causes much less resistance than sliding surfaces rubbing together."
+      },
+      {
+        "question": "Where are ball bearings used?",
+        "answer": "In bicycles, skateboards, motors, fans, cars and almost every rotating machine."
+      }
+    ],
+    "image": {
+      "search_query": "ball bearing close up",
+      "wikimedia_commons_category": "Ball bearings",
+      "alt": "A steel ball bearing with visible balls"
+    },
+    "tags": [
+      "hardware",
+      "mechanics",
+      "patent",
+      "industrial"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "chain",
+    "name": "Chain",
+    "category": "Tools & hardware",
+    "invention": {
+      "display": "Antiquity",
+      "year": -500,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Worldwide",
+      "modern_country": "Unknown",
+      "notes": "Metal chains survive from many ancient cultures; no single origin can be identified."
+    },
+    "inventor": null,
+    "short_description": "A series of connected metal links used for pulling, lifting or securing.",
+    "description": "A chain is made of interlocking links that flex while staying strong. Chains of bronze and iron were used in antiquity for jewelry, anchors and securing doors. Modern welded steel chains are used for lifting, towing and security.",
+    "why_unchanged": "Interlocked links already combine flexibility and strength, so the design is permanent.",
+    "materials": [
+      "bronze",
+      "iron",
+      "steel",
+      "stainless steel"
+    ],
+    "faqs": [
+      {
+        "question": "Why are chains made of links?",
+        "answer": "Links allow the chain to bend in any direction while staying strong."
+      },
+      {
+        "question": "What does 'a chain is only as strong as its weakest link' mean?",
+        "answer": "A system fails at its weakest point, just as a chain breaks at its weakest link."
+      },
+      {
+        "question": "What is the difference between welded and twisted chain?",
+        "answer": "Welded links are joined for strength, while twisted chain is usually decorative or for light use."
+      }
+    ],
+    "image": {
+      "search_query": "steel chain links",
+      "wikimedia_commons_category": "Chains",
+      "alt": "A heavy steel chain"
+    },
+    "tags": [
+      "hardware",
+      "lifting",
+      "ancient",
+      "metal"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "rope",
+    "name": "Rope",
+    "category": "Tools & hardware",
+    "invention": {
+      "display": "c. 50,000 years ago",
+      "year": -48000,
+      "approximate": true,
+      "era": "Prehistoric"
+    },
+    "place_of_invention": {
+      "region": "Southern France",
+      "modern_country": "France",
+      "notes": "A fragment of three-ply cord found at Abri du Maras is attributed to Neanderthals about 41,000–52,000 years ago; rope-making likely arose independently in many places."
+    },
+    "inventor": null,
+    "short_description": "Strands of fiber twisted or braided together into a strong, flexible line.",
+    "description": "Rope twists fibers into strands and then twists strands together, creating strength. A cord fragment found in France attributed to Neanderthals shows the technique is extremely old. Ancient Egyptians made rope from papyrus and palm fibers, and modern ropes use nylon and polyester.",
+    "why_unchanged": "Twisting fibers together is the basic way to make strong lines, so only the fibers have changed.",
+    "materials": [
+      "plant fiber",
+      "hemp",
+      "papyrus",
+      "cotton",
+      "nylon",
+      "polyester"
+    ],
+    "faqs": [
+      {
+        "question": "How old is rope?",
+        "answer": "A cord fragment from Abri du Maras in France is about 41,000 to 52,000 years old and attributed to Neanderthals."
+      },
+      {
+        "question": "Why are rope strands twisted in opposite directions?",
+        "answer": "Alternating twists balance each other so the rope doesn't unravel."
+      },
+      {
+        "question": "What is the difference between rope and cord?",
+        "answer": "Generally, cord is thinner and rope is thicker and stronger."
+      }
+    ],
+    "image": {
+      "search_query": "coiled natural fiber rope",
+      "wikimedia_commons_category": "Ropes",
+      "alt": "A coil of natural-fiber rope"
+    },
+    "tags": [
+      "hardware",
+      "fiber",
+      "prehistoric",
+      "lifting"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "wire-rope",
+    "name": "Wire rope",
+    "category": "Tools & hardware",
+    "invention": {
+      "display": "1834",
+      "year": 1834,
+      "approximate": false,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Clausthal, Harz",
+      "modern_country": "Germany",
+      "notes": "Wilhelm Albert, a mining official, developed wire rope for mine hoisting in 1834."
+    },
+    "inventor": "Wilhelm Albert",
+    "short_description": "Rope made of twisted steel wires, used for lifting and supporting heavy loads.",
+    "description": "Wire rope twists strands of metal wire together like fiber rope, giving great strength and flexibility. Wilhelm Albert developed it for German mines in 1834 to replace chains and hemp ropes that failed. It is now used in cranes, elevators, bridges and cable cars.",
+    "why_unchanged": "The twisted-wire design delivers strength and flexibility, so it remains the standard.",
+    "materials": [
+      "iron",
+      "steel",
+      "stainless steel"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented wire rope?",
+        "answer": "Wilhelm Albert developed it in the Harz mining region of Germany in 1834."
+      },
+      {
+        "question": "Why was wire rope needed?",
+        "answer": "Chains and hemp ropes broke too often in deep mine shafts."
+      },
+      {
+        "question": "Where is wire rope used?",
+        "answer": "In elevators, cranes, suspension bridges, ski lifts and ships."
+      }
+    ],
+    "image": {
+      "search_query": "steel wire rope close up",
+      "wikimedia_commons_category": "Wire ropes",
+      "alt": "Close-up of a twisted steel wire rope"
+    },
+    "tags": [
+      "hardware",
+      "lifting",
+      "patent",
+      "industrial"
+    ],
+    "confidence": "high"
+  },
+  {
+    "slug": "marlinspike",
+    "name": "Marlinspike",
+    "category": "Tools & hardware",
+    "invention": {
+      "display": "Age of sail (by 17th century)",
+      "year": 1650,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Europe",
+      "modern_country": "Unknown",
+      "notes": "A seaman's tool long used in rope work; its origin is undocumented and the name derives from 'marline', a light line."
+    },
+    "inventor": null,
+    "short_description": "A pointed metal spike used in rope work to separate strands and untie knots.",
+    "description": "The marlinspike is a tapered spike sailors use to open the strands of a rope for splicing and to loosen tight knots. It became a standard sailor's tool in the age of sail. Sailors and riggers still carry marlinspikes, often built into rigging knives.",
+    "why_unchanged": "A tapered spike does its job perfectly, so it needs no change.",
+    "materials": [
+      "iron",
+      "steel",
+      "wood",
+      "bone"
+    ],
+    "faqs": [
+      {
+        "question": "What is a marlinspike used for?",
+        "answer": "Splicing rope, separating strands and loosening tight knots."
+      },
+      {
+        "question": "What is 'marlinspike seamanship'?",
+        "answer": "The art of knot tying, splicing and rope work."
+      },
+      {
+        "question": "How is it different from a fid?",
+        "answer": "A fid is usually wooden or plastic and used with fiber rope, while a marlinspike is metal and suits wire or tight work."
+      }
+    ],
+    "image": {
+      "search_query": "marlinspike rope splicing",
+      "wikimedia_commons_category": "Marlinspikes",
+      "alt": "A steel marlinspike next to a rope splice"
+    },
+    "tags": [
+      "hand tool",
+      "rope",
+      "nautical",
+      "knots"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "carabiner",
+    "name": "Carabiner",
+    "category": "Tools & hardware",
+    "invention": {
+      "display": "1910",
+      "year": 1910,
+      "approximate": false,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "Munich",
+      "modern_country": "Germany",
+      "notes": "Climber Otto 'Rambo' Herzog is credited with adapting a pear-shaped snap link for climbing around 1910; similar spring clips were used earlier by firefighters."
+    },
+    "inventor": "Otto Herzog",
+    "short_description": "A metal loop with a spring-loaded gate used to quickly connect ropes and equipment.",
+    "description": "The carabiner is a strong metal loop with a gate that opens inward, allowing quick connection to ropes and anchors. Otto Herzog is credited with introducing it to climbing around 1910. It is used today in climbing, rescue, rigging and everyday key clips.",
+    "why_unchanged": "A loop with a sprung gate is simple and versatile, so later changes have been refinements only.",
+    "materials": [
+      "steel",
+      "aluminum"
+    ],
+    "faqs": [
+      {
+        "question": "Where does the name come from?",
+        "answer": "From the German 'Karabinerhaken', a hook used to attach a carbine to a strap."
+      },
+      {
+        "question": "Why do some carabiners have locking gates?",
+        "answer": "A locking sleeve prevents the gate from opening accidentally in critical uses."
+      },
+      {
+        "question": "Can any carabiner be used for climbing?",
+        "answer": "No; only rated climbing carabiners should hold life-supporting loads."
+      }
+    ],
+    "image": {
+      "search_query": "aluminum climbing carabiner",
+      "wikimedia_commons_category": "Carabiners",
+      "alt": "An aluminum carabiner with a spring gate"
+    },
+    "tags": [
+      "hardware",
+      "climbing",
+      "modern",
+      "rope"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "hose-clamp",
+    "name": "Hose clamp",
+    "category": "Tools & hardware",
+    "invention": {
+      "display": "1921",
+      "year": 1921,
+      "approximate": false,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "Gillingham, Kent",
+      "modern_country": "United Kingdom",
+      "notes": "Commander Lumley Robinson of the Royal Navy invented the worm-drive hose clip and founded the company that sells the 'Jubilee Clip'."
+    },
+    "inventor": "Lumley Robinson",
+    "short_description": "A metal band with a screw mechanism used to clamp a hose onto a fitting.",
+    "description": "The worm-drive hose clamp tightens a slotted band around a hose by turning a screw. Lumley Robinson invented it in 1921, and 'Jubilee Clip' became a common name in Britain. It is still used on cars, plumbing and garden hoses.",
+    "why_unchanged": "The worm-drive band is cheap, reusable and adjustable, so the original design endures.",
+    "materials": [
+      "steel",
+      "stainless steel"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the hose clamp?",
+        "answer": "Commander Lumley Robinson invented the worm-drive hose clip in 1921 in England."
+      },
+      {
+        "question": "Why is it called a Jubilee Clip?",
+        "answer": "That is the trademark of Robinson's company and became a generic name in the UK."
+      },
+      {
+        "question": "How tight should a hose clamp be?",
+        "answer": "Tight enough to seal without cutting into the hose."
+      }
+    ],
+    "image": {
+      "search_query": "worm drive hose clamp",
+      "wikimedia_commons_category": "Hose clamps",
+      "alt": "A stainless steel worm-drive hose clamp"
+    },
+    "tags": [
+      "hardware",
+      "plumbing",
+      "patent",
+      "automotive"
+    ],
+    "confidence": "high"
+  },
+  {
+    "slug": "cable-tie",
+    "name": "Cable tie",
+    "category": "Tools & hardware",
+    "invention": {
+      "display": "1958",
+      "year": 1958,
+      "approximate": false,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "United States",
+      "modern_country": "United States",
+      "notes": "Maurus C. Logan of Thomas & Betts developed the cable tie; the patent was filed in 1958."
+    },
+    "inventor": "Maurus C. Logan",
+    "short_description": "A strip with a ratcheting head used to bundle cables and other items.",
+    "description": "The cable tie is a strip with teeth that lock into a ratcheting head, holding bundles securely. Maurus Logan developed it in 1958 after seeing aircraft workers tie wire harnesses by hand. It quickly became a staple in electrical work and homes.",
+    "why_unchanged": "Its one-piece ratchet design is cheap, quick and strong, so it hasn't needed improvement.",
+    "materials": [
+      "nylon",
+      "plastic",
+      "stainless steel"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the cable tie?",
+        "answer": "Maurus C. Logan of Thomas & Betts developed it in 1958."
+      },
+      {
+        "question": "How do you release a cable tie?",
+        "answer": "Most are single-use, but releasable versions have a tab; otherwise you cut them."
+      },
+      {
+        "question": "What brand name is common?",
+        "answer": "Thomas & Betts sold them as 'Ty-Rap'; they are also called zip ties."
+      }
+    ],
+    "image": {
+      "search_query": "nylon cable ties bundle",
+      "wikimedia_commons_category": "Cable ties",
+      "alt": "A bundle of cables held by nylon cable ties"
+    },
+    "tags": [
+      "hardware",
+      "fastener",
+      "patent",
+      "electrical"
+    ],
+    "confidence": "high"
+  },
+  {
+    "slug": "wall-plug",
+    "name": "Wall plug",
+    "category": "Tools & hardware",
+    "invention": {
+      "display": "1911",
+      "year": 1911,
+      "approximate": false,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "London",
+      "modern_country": "United Kingdom",
+      "notes": "John Joseph Rawlings developed the fiber wall plug in 1911, sold under the Rawlplug brand."
+    },
+    "inventor": "John Joseph Rawlings",
+    "short_description": "A sleeve inserted into a drilled hole in masonry that expands to grip a screw.",
+    "description": "The wall plug lets screws hold firmly in brick, concrete and plaster. John Joseph Rawlings invented an early version made of fiber in 1911, and the brand name Rawlplug became widely used. Modern plugs are plastic, but the sleeve-in-a-hole design is the same.",
+    "why_unchanged": "An expanding sleeve is the simplest way to anchor a screw in masonry, so the idea remains.",
+    "materials": [
+      "fiber",
+      "plastic",
+      "nylon",
+      "metal"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the wall plug?",
+        "answer": "John Joseph Rawlings developed it in London in 1911."
+      },
+      {
+        "question": "How does a wall plug work?",
+        "answer": "As the screw enters, the plug expands and presses against the sides of the hole."
+      },
+      {
+        "question": "What size plug should I use?",
+        "answer": "Match the plug to the drill bit and screw size listed on the packaging."
+      }
+    ],
+    "image": {
+      "search_query": "plastic wall plugs screws",
+      "wikimedia_commons_category": "Wall plugs",
+      "alt": "Plastic wall plugs with screws"
+    },
+    "tags": [
+      "hardware",
+      "fastener",
+      "patent",
+      "construction"
+    ],
+    "confidence": "high"
+  },
+  {
+    "slug": "glass-cutter",
+    "name": "Glass cutter",
+    "category": "Tools & hardware",
+    "invention": {
+      "display": "1869",
+      "year": 1869,
+      "approximate": false,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Bristol, Connecticut",
+      "modern_country": "United States",
+      "notes": "Samuel G. Monce is credited with patenting the steel-wheel glass cutter in 1869; diamond-tipped glass cutters were used earlier."
+    },
+    "inventor": "Samuel G. Monce",
+    "short_description": "A handheld tool with a small hard wheel that scores glass so it can be snapped cleanly.",
+    "description": "A glass cutter scores a line on glass with a hardened wheel, after which the glass breaks cleanly along it. The steel-wheel cutter was patented in 1869, replacing costly diamond tools. Modern versions use carbide wheels but the design is the same.",
+    "why_unchanged": "A hard wheel on a handle is all that scoring glass needs.",
+    "materials": [
+      "steel",
+      "tungsten carbide",
+      "brass",
+      "wood"
+    ],
+    "faqs": [
+      {
+        "question": "Does a glass cutter actually cut glass?",
+        "answer": "No, it scores the surface; the glass then breaks along the score."
+      },
+      {
+        "question": "Why use oil with a glass cutter?",
+        "answer": "Oil lubricates the wheel and helps produce a cleaner score."
+      },
+      {
+        "question": "What are the notches on some cutters for?",
+        "answer": "They are used to snap off narrow strips of glass."
+      }
+    ],
+    "image": {
+      "search_query": "glass cutter scoring glass",
+      "wikimedia_commons_category": "Glass cutters",
+      "alt": "A glass cutter scoring a sheet of glass"
+    },
+    "tags": [
+      "hand tool",
+      "glass",
+      "patent",
+      "industrial"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "snap-off-blade-knife",
+    "name": "Snap-off blade knife",
+    "category": "Tools & hardware",
+    "invention": {
+      "display": "1956",
+      "year": 1956,
+      "approximate": false,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "Osaka",
+      "modern_country": "Japan",
+      "notes": "Yoshio Okada developed the snap-off blade knife in 1956, inspired by broken glass and chocolate bars; his company became OLFA."
+    },
+    "inventor": "Yoshio Okada",
+    "short_description": "A utility knife with a scored blade whose dull segments can be snapped off.",
+    "description": "The snap-off blade knife lets users break off a dull segment to reveal a fresh sharp edge. Yoshio Okada invented it in Japan in 1956, and OLFA became a famous maker. It is used in construction, crafts and offices worldwide.",
+    "why_unchanged": "Snapping off a segment gives an instant sharp edge, which remains the core advantage.",
+    "materials": [
+      "steel",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the snap-off knife?",
+        "answer": "Yoshio Okada in Japan in 1956; he founded OLFA."
+      },
+      {
+        "question": "What inspired the design?",
+        "answer": "He was inspired by how glass shards and chocolate bars break along lines."
+      },
+      {
+        "question": "How do you snap off a blade safely?",
+        "answer": "Use the built-in snapper or pliers and dispose of segments in a closed container."
+      }
+    ],
+    "image": {
+      "search_query": "snap-off blade utility knife",
+      "wikimedia_commons_category": "Utility knives",
+      "alt": "A yellow snap-off blade utility knife"
+    },
+    "tags": [
+      "hand tool",
+      "cutting",
+      "patent",
+      "japan"
+    ],
+    "confidence": "high"
+  },
+  {
+    "slug": "ladder",
+    "name": "Ladder",
+    "category": "Tools & hardware",
+    "invention": {
+      "display": "c. 8000 BCE (cave painting)",
+      "year": -8000,
+      "approximate": true,
+      "era": "Prehistoric"
+    },
+    "place_of_invention": {
+      "region": "Valencia",
+      "modern_country": "Spain",
+      "notes": "A Mesolithic rock painting in the Cuevas de la Araña shows people climbing a ladder-like structure to collect honey; ladders were surely used earlier."
+    },
+    "inventor": null,
+    "short_description": "A frame with two side rails connected by rungs, used for climbing.",
+    "description": "Ladders allow people to climb to heights using a series of rungs. A rock painting in Spain at least 10,000 years old shows people climbing what appear to be ladders to collect honey. Wooden, aluminum and fiberglass ladders still follow the same rails-and-rungs design.",
+    "why_unchanged": "Two rails and rungs provide simple, stable climbing, so the design cannot be simplified.",
+    "materials": [
+      "wood",
+      "rope",
+      "aluminum",
+      "fiberglass"
+    ],
+    "faqs": [
+      {
+        "question": "How old are ladders?",
+        "answer": "A rock painting in Spain about 10,000 years old appears to show people climbing ladders."
+      },
+      {
+        "question": "What is the safe angle for a ladder?",
+        "answer": "A common rule is one unit out for every four units up, about 75 degrees."
+      },
+      {
+        "question": "Why is walking under a ladder considered unlucky?",
+        "answer": "The superstition has various proposed origins, but it also makes practical sense to avoid falling objects."
+      }
+    ],
+    "image": {
+      "search_query": "wooden ladder against wall",
+      "wikimedia_commons_category": "Ladders",
+      "alt": "A wooden ladder leaning against a wall"
+    },
+    "tags": [
+      "construction",
+      "climbing",
+      "prehistoric",
+      "access"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "stepladder",
+    "name": "Stepladder",
+    "category": "Tools & hardware",
+    "invention": {
+      "display": "1862",
+      "year": 1862,
+      "approximate": false,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Dayton, Ohio",
+      "modern_country": "United States",
+      "notes": "John H. Balsley patented a folding stepladder in 1862."
+    },
+    "inventor": "John H. Balsley",
+    "short_description": "A self-supporting folding ladder with flat steps.",
+    "description": "The stepladder stands on its own using a hinged support frame and has flat steps. John H. Balsley patented a folding stepladder in 1862. Modern stepladders in aluminum and fiberglass follow the same A-frame design.",
+    "why_unchanged": "A hinged A-frame is stable and portable, so the design is still standard.",
+    "materials": [
+      "wood",
+      "aluminum",
+      "fiberglass",
+      "steel"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the stepladder?",
+        "answer": "John H. Balsley of Dayton, Ohio, patented the folding stepladder in 1862."
+      },
+      {
+        "question": "Why shouldn't you stand on the top step?",
+        "answer": "Standing on the top reduces stability and increases the risk of falling."
+      },
+      {
+        "question": "What are spreader bars for?",
+        "answer": "They lock the legs open so the ladder doesn't collapse."
+      }
+    ],
+    "image": {
+      "search_query": "aluminum stepladder",
+      "wikimedia_commons_category": "Stepladders",
+      "alt": "An aluminum stepladder standing open"
+    },
+    "tags": [
+      "construction",
+      "climbing",
+      "patent",
+      "household"
+    ],
+    "confidence": "high"
+  },
+  {
+    "slug": "masonry-trowel",
+    "name": "Masonry trowel",
+    "category": "Tools & hardware",
+    "invention": {
+      "display": "Roman period",
+      "year": 50,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Roman Empire",
+      "modern_country": "Italy",
+      "notes": "Iron trowels are known from Roman sites; mortar was spread with tools in earlier civilizations, but evidence is limited."
+    },
+    "inventor": null,
+    "short_description": "A flat, pointed steel blade on a handle, used to spread mortar.",
+    "description": "The masonry trowel is used to scoop, spread and shape mortar when laying bricks or stones. Roman builders used iron trowels with offset handles that look much like modern ones. Bricklayers still use the same tool.",
+    "why_unchanged": "A flat blade with an offset handle is perfect for spreading mortar, so the shape remains.",
+    "materials": [
+      "iron",
+      "steel",
+      "wood"
+    ],
+    "faqs": [
+      {
+        "question": "Did the Romans use trowels?",
+        "answer": "Yes, iron trowels have been found at Roman sites."
+      },
+      {
+        "question": "Why is the handle offset?",
+        "answer": "It keeps your knuckles clear of the mortar and the wall."
+      },
+      {
+        "question": "What is a pointing trowel?",
+        "answer": "A smaller trowel used for finishing mortar joints."
+      }
+    ],
+    "image": {
+      "search_query": "brick trowel laying mortar",
+      "wikimedia_commons_category": "Trowels",
+      "alt": "A masonry trowel spreading mortar on bricks"
+    },
+    "tags": [
+      "hand tool",
+      "masonry",
+      "roman",
+      "construction"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "brick",
+    "name": "Brick",
+    "category": "Tools & hardware",
+    "invention": {
+      "display": "c. 7500 BCE",
+      "year": -7500,
+      "approximate": true,
+      "era": "Prehistoric"
+    },
+    "place_of_invention": {
+      "region": "Near East",
+      "modern_country": "Unknown",
+      "notes": "Sun-dried mud bricks appear at early Neolithic sites such as Jericho and Tell Aswad; exact dates vary by site."
+    },
+    "inventor": null,
+    "short_description": "A rectangular block of dried clay or mud used for building walls.",
+    "description": "Bricks made of mud and straw dried in the sun are one of the oldest manufactured building materials. They appear in early Neolithic settlements in the Near East, and adobe is still used today. Their rectangular shape lets them be stacked in strong patterns.",
+    "why_unchanged": "A stackable rectangular block is the ideal unit for building walls by hand.",
+    "materials": [
+      "mud",
+      "clay",
+      "straw"
+    ],
+    "faqs": [
+      {
+        "question": "How old are bricks?",
+        "answer": "Sun-dried mud bricks date back about 9,500 years in the Near East."
+      },
+      {
+        "question": "What is adobe?",
+        "answer": "A sun-dried brick made of clay, sand and straw, still used in dry regions."
+      },
+      {
+        "question": "Why are bricks rectangular?",
+        "answer": "The shape allows them to interlock in patterns that spread loads."
+      }
+    ],
+    "image": {
+      "search_query": "adobe mud bricks drying",
+      "wikimedia_commons_category": "Mudbricks",
+      "alt": "Mud bricks drying in the sun"
+    },
+    "tags": [
+      "building material",
+      "construction",
+      "neolithic",
+      "clay"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "fired-brick",
+    "name": "Fired brick",
+    "category": "Tools & hardware",
+    "invention": {
+      "display": "c. 3500 BCE",
+      "year": -3500,
+      "approximate": true,
+      "era": "Prehistoric"
+    },
+    "place_of_invention": {
+      "region": "Mesopotamia and Indus Valley",
+      "modern_country": "Iraq",
+      "notes": "Kiln-fired bricks appear in Mesopotamia and the Indus Valley around this period."
+    },
+    "inventor": null,
+    "short_description": "A clay brick hardened by firing in a kiln.",
+    "description": "Firing clay bricks in a kiln makes them far more durable than sun-dried bricks. Mesopotamian and Indus Valley builders used fired bricks for important buildings and drains. Bricks are still made the same way.",
+    "why_unchanged": "Fired clay is durable and fire-resistant, so the material and shape have stayed the same.",
+    "materials": [
+      "clay",
+      "shale"
+    ],
+    "faqs": [
+      {
+        "question": "Why fire bricks?",
+        "answer": "Heat transforms clay into a hard, water-resistant material."
+      },
+      {
+        "question": "Who used fired bricks first?",
+        "answer": "Builders in Mesopotamia and the Indus Valley used them around 3500 BCE."
+      },
+      {
+        "question": "Why do bricks have holes or a recess?",
+        "answer": "Frogs or holes reduce weight, help firing and improve mortar grip."
+      }
+    ],
+    "image": {
+      "search_query": "red fired bricks stack",
+      "wikimedia_commons_category": "Bricks",
+      "alt": "A stack of red fired bricks"
+    },
+    "tags": [
+      "building material",
+      "construction",
+      "ancient",
+      "clay"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "roof-tile",
+    "name": "Roof tile",
+    "category": "Tools & hardware",
+    "invention": {
+      "display": "c. 2500 BCE",
+      "year": -2500,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Early Bronze Age Greece",
+      "modern_country": "Greece",
+      "notes": "Fired clay tiles were used on the 'House of the Tiles' at Lerna; roof tiles were also developed independently in China."
+    },
+    "inventor": null,
+    "short_description": "A fired clay or concrete piece overlapped with others to cover a roof.",
+    "description": "Roof tiles overlap to shed rain from roofs. Early Bronze Age builders at Lerna in Greece used fired clay tiles, and Greek, Roman and Chinese builders spread their use. Modern tiles follow the same overlapping principle.",
+    "why_unchanged": "Overlapping tiles shed water efficiently, so the design remains.",
+    "materials": [
+      "clay",
+      "terracotta",
+      "concrete",
+      "slate"
+    ],
+    "faqs": [
+      {
+        "question": "How old are roof tiles?",
+        "answer": "Clay roof tiles were used at Lerna in Greece around 2500 BCE."
+      },
+      {
+        "question": "Why are roof tiles curved?",
+        "answer": "Curves channel water away and help tiles interlock."
+      },
+      {
+        "question": "How long do clay tiles last?",
+        "answer": "Clay tiles can last for decades or even a century with proper maintenance."
+      }
+    ],
+    "image": {
+      "search_query": "terracotta roof tiles",
+      "wikimedia_commons_category": "Roof tiles",
+      "alt": "Terracotta tiles on a roof"
+    },
+    "tags": [
+      "building material",
+      "construction",
+      "ancient greece",
+      "clay"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "concrete-block",
+    "name": "Concrete block",
+    "category": "Tools & hardware",
+    "invention": {
+      "display": "1900",
+      "year": 1900,
+      "approximate": false,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "United States",
+      "modern_country": "United States",
+      "notes": "Harmon S. Palmer patented a machine for making hollow concrete blocks in 1900."
+    },
+    "inventor": "Harmon S. Palmer",
+    "short_description": "A large rectangular block of concrete, often hollow, used for walls.",
+    "description": "Hollow concrete blocks provide fast, strong wall construction. Harmon S. Palmer patented a machine to mold them in 1900, and they became a staple of modern building. Their size and hollow cores have stayed largely the same.",
+    "why_unchanged": "Hollow cores reduce weight and allow reinforcement, so the design remains standard.",
+    "materials": [
+      "concrete",
+      "cement",
+      "aggregate"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the concrete block?",
+        "answer": "Harmon S. Palmer patented a block-making machine in 1900."
+      },
+      {
+        "question": "Why are blocks hollow?",
+        "answer": "Hollows reduce weight and allow steel and grout to be added."
+      },
+      {
+        "question": "What is a cinder block?",
+        "answer": "A block traditionally made with cinders as aggregate; the term is often used for any concrete block."
+      }
+    ],
+    "image": {
+      "search_query": "concrete block wall",
+      "wikimedia_commons_category": "Concrete blocks",
+      "alt": "A wall made of concrete blocks"
+    },
+    "tags": [
+      "building material",
+      "construction",
+      "patent",
+      "modern"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "lightning-rod",
+    "name": "Lightning rod",
+    "category": "Tools & hardware",
+    "invention": {
+      "display": "1752",
+      "year": 1752,
+      "approximate": false,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Philadelphia",
+      "modern_country": "United States",
+      "notes": "Benjamin Franklin proposed and promoted the lightning rod; Prokop Diviš in Bohemia developed a lightning conductor independently in 1754."
+    },
+    "inventor": "Benjamin Franklin",
+    "short_description": "A metal rod mounted on a building to safely conduct lightning into the ground.",
+    "description": "The lightning rod provides a safe path for lightning to reach the ground, protecting buildings. Benjamin Franklin promoted it after his electricity experiments in the 1750s. Lightning protection still uses metal rods and grounding wires.",
+    "why_unchanged": "A conductive path to ground works reliably, so the basic system is unchanged.",
+    "materials": [
+      "iron",
+      "copper",
+      "aluminum"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the lightning rod?",
+        "answer": "Benjamin Franklin is credited with inventing and promoting it in the 1750s."
+      },
+      {
+        "question": "Does a lightning rod attract lightning?",
+        "answer": "It doesn't significantly attract lightning but provides a safe path if lightning strikes."
+      },
+      {
+        "question": "Is it still used?",
+        "answer": "Yes, lightning protection systems are common on tall buildings and churches."
+      }
+    ],
+    "image": {
+      "search_query": "lightning rod on roof",
+      "wikimedia_commons_category": "Lightning rods",
+      "alt": "A lightning rod on a rooftop"
+    },
+    "tags": [
+      "hardware",
+      "building",
+      "patent",
+      "electricity"
+    ],
+    "confidence": "high"
+  }
+]

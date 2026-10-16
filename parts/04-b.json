@@ -1,0 +1,1269 @@
+[
+  {
+    "slug": "nail-file",
+    "name": "Nail file",
+    "category": "Personal care & health",
+    "invention": {
+      "display": "19th century (metal file)",
+      "year": 1850,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Europe",
+      "modern_country": null,
+      "notes": "People have abraded nails with stones and rough materials since antiquity; the steel nail file became common in 19th-century Europe, but no inventor or exact date is documented."
+    },
+    "inventor": null,
+    "short_description": "A thin, rough-surfaced strip used to shape and smooth fingernails.",
+    "description": "Before dedicated tools, nails were shaped with pumice, stones or knives. Slim steel files with a cross-hatched surface became standard parts of 19th-century manicure sets, alongside emery boards and later glass files. The basic flat, slender file remains the same.",
+    "why_unchanged": "A flat abrasive strip is the most direct way to wear down and smooth a nail edge.",
+    "materials": [
+      "steel",
+      "glass",
+      "emery",
+      "metal"
+    ],
+    "faqs": [
+      {
+        "question": "Which way should you file nails?",
+        "answer": "Filing gently in one direction, rather than sawing back and forth, helps prevent splitting and peeling."
+      },
+      {
+        "question": "Are glass nail files better than metal ones?",
+        "answer": "Glass files have a very fine grit that tends to seal the nail edge smoothly and can be washed easily."
+      },
+      {
+        "question": "Can you file wet nails?",
+        "answer": "It is best to file dry nails, since wet nails are softer and more prone to tearing."
+      }
+    ],
+    "image": {
+      "search_query": "metal nail file",
+      "wikimedia_commons_category": "Nail files",
+      "alt": "A metal nail file"
+    },
+    "tags": [
+      "nails",
+      "manicure",
+      "industrial"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "emery-board",
+    "name": "Emery board",
+    "category": "Personal care & health",
+    "invention": {
+      "display": "c. 1910",
+      "year": 1910,
+      "approximate": true,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "United States",
+      "modern_country": "United States",
+      "notes": "Emery-coated cardboard files are often credited to Flowery Manicure Products of the US around 1910; other accounts cite a 19th-century origin. Sources disagree."
+    },
+    "inventor": null,
+    "short_description": "A disposable nail file made of cardboard coated with emery or another abrasive.",
+    "description": "The emery board is a cheap, flexible nail file made by gluing abrasive grit to a thin strip of card. It became widely available in the early 20th century and quickly became a standard handbag and bathroom item. Many now use synthetic abrasives, but the double-sided strip is unchanged.",
+    "why_unchanged": "A light, disposable abrasive card costs almost nothing and does the job perfectly.",
+    "materials": [
+      "cardboard",
+      "emery",
+      "aluminum oxide"
+    ],
+    "faqs": [
+      {
+        "question": "What is emery?",
+        "answer": "Emery is a dark, naturally occurring rock rich in corundum, ground into a powder for use as an abrasive."
+      },
+      {
+        "question": "Why do emery boards have two sides?",
+        "answer": "One side usually has a coarser grit for shaping and the other a finer grit for smoothing."
+      },
+      {
+        "question": "Can emery boards be shared?",
+        "answer": "Because they cannot be fully sanitized, many salons give each client a new board for hygiene."
+      }
+    ],
+    "image": {
+      "search_query": "emery boards nail",
+      "wikimedia_commons_category": "Emery boards",
+      "alt": "Several emery boards"
+    },
+    "tags": [
+      "nails",
+      "manicure",
+      "modern"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "nail-clippers",
+    "name": "Nail clippers",
+    "category": "Personal care & health",
+    "invention": {
+      "display": "c. 1875–1900",
+      "year": 1885,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "United States",
+      "modern_country": "United States",
+      "notes": "Several US patents for fingernail clippers were issued in the 1870s–1890s, and the lever-type clipper was refined around 1900; credit for the design is spread across these patents."
+    },
+    "inventor": null,
+    "short_description": "A small lever-operated cutter with curved jaws for trimming nails.",
+    "description": "Before clippers, people trimmed nails with knives or small scissors. In the late 19th century US inventors patented compact clippers, and the familiar lever design that folds over the cutting jaws became widespread in the early 20th century. Modern clippers are nearly identical in shape and action.",
+    "why_unchanged": "A folding lever gives strong, precise force to two curved blades in a pocket-sized tool.",
+    "materials": [
+      "stainless steel",
+      "carbon steel"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented nail clippers?",
+        "answer": "No single inventor is credited; several Americans patented clipper designs between the 1870s and 1890s."
+      },
+      {
+        "question": "Why are nail clipper blades curved?",
+        "answer": "The curve follows the natural shape of the fingertip, giving a smooth, rounded cut."
+      },
+      {
+        "question": "Should toenails be cut straight?",
+        "answer": "Yes, podiatrists recommend cutting toenails straight across to reduce the risk of ingrown nails."
+      }
+    ],
+    "image": {
+      "search_query": "nail clippers stainless steel",
+      "wikimedia_commons_category": "Nail clippers",
+      "alt": "A pair of steel nail clippers"
+    },
+    "tags": [
+      "nails",
+      "manicure",
+      "patent",
+      "industrial"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "nail-scissors",
+    "name": "Nail scissors",
+    "category": "Personal care & health",
+    "invention": {
+      "display": "18th–19th century",
+      "year": 1800,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Europe",
+      "modern_country": null,
+      "notes": "Small curved scissors for nails appear in European toilet and manicure sets by the 18th–19th centuries; no inventor is recorded."
+    },
+    "inventor": null,
+    "short_description": "Small scissors with short, curved blades for trimming nails.",
+    "description": "Small scissors were used for nails long before clippers, and the curved-blade version became a standard part of European manicure sets. The curve lets the blades follow the round edge of the nail. They are still sold in the same form, often for babies and precise trimming.",
+    "why_unchanged": "Short curved blades already match the shape of a nail, so there was nothing to change.",
+    "materials": [
+      "stainless steel"
+    ],
+    "faqs": [
+      {
+        "question": "Why are nail scissors curved?",
+        "answer": "The curved blades follow the shape of the nail so it can be trimmed in a smooth arc."
+      },
+      {
+        "question": "Are nail scissors better than clippers for babies?",
+        "answer": "Many parents prefer round-tipped nail scissors for babies because they give more control over tiny nails."
+      },
+      {
+        "question": "Can nail scissors be used on cuticles?",
+        "answer": "Cuticle scissors are a separate, finer type; regular nail scissors are too large for safe cuticle trimming."
+      }
+    ],
+    "image": {
+      "search_query": "curved nail scissors",
+      "wikimedia_commons_category": "Nail scissors",
+      "alt": "A pair of curved nail scissors"
+    },
+    "tags": [
+      "nails",
+      "manicure",
+      "scissors"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "nail-brush",
+    "name": "Nail brush",
+    "category": "Personal care & health",
+    "invention": {
+      "display": "18th century",
+      "year": 1750,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Europe",
+      "modern_country": null,
+      "notes": "Small stiff-bristled brushes for cleaning nails were part of European toilet sets by the 18th century; precise origins are undocumented."
+    },
+    "inventor": null,
+    "short_description": "A small stiff-bristled brush for scrubbing dirt from under and around fingernails.",
+    "description": "The nail brush became a common washstand item in Europe as handwashing and grooming routines developed. It is a compact block with dense stiff bristles, sometimes on both sides. Surgeons adopted scrub brushes for hand hygiene, and the same simple design is used at home today.",
+    "why_unchanged": "A small block of stiff bristles reaches under nails effectively with no need for refinement.",
+    "materials": [
+      "wood",
+      "plastic",
+      "nylon",
+      "boar bristle"
+    ],
+    "faqs": [
+      {
+        "question": "Why use a nail brush?",
+        "answer": "It removes dirt and bacteria from under the nails, where ordinary handwashing often misses."
+      },
+      {
+        "question": "Do surgeons still use nail brushes?",
+        "answer": "Many surgical scrub protocols now favor sponges or alcohol rubs, though nail cleaners and brushes are still used in some."
+      },
+      {
+        "question": "How do you keep a nail brush clean?",
+        "answer": "Rinse it, let it dry bristles-down, and replace it when the bristles soften or splay."
+      }
+    ],
+    "image": {
+      "search_query": "wooden nail brush",
+      "wikimedia_commons_category": "Nail brushes",
+      "alt": "A wooden nail brush with stiff bristles"
+    },
+    "tags": [
+      "nails",
+      "brush",
+      "hygiene"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "orange-stick",
+    "name": "Orange stick",
+    "category": "Personal care & health",
+    "invention": {
+      "display": "c. 1830",
+      "year": 1830,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Europe",
+      "modern_country": null,
+      "notes": "A chiropodist named Sitts is often said to have introduced the orangewood stick for manicures around 1830; this attribution is not well documented."
+    },
+    "inventor": null,
+    "short_description": "A slim stick of orangewood with a beveled end used to push back cuticles and clean nails.",
+    "description": "Orange sticks are made from orangewood, which is hard but fine-grained, and are cut with a pointed end and a slanted flat end. They became standard in manicures in the 19th century as a gentler alternative to metal instruments. They are still sold cheaply and are often discarded after one use.",
+    "why_unchanged": "A slim wooden stick with one pointed and one beveled end covers every cuticle task it needs to.",
+    "materials": [
+      "orangewood",
+      "birchwood"
+    ],
+    "faqs": [
+      {
+        "question": "Why are they made of orangewood?",
+        "answer": "Orangewood is fine-grained and dense, so it holds a smooth edge without splintering."
+      },
+      {
+        "question": "What is the slanted end for?",
+        "answer": "The angled end gently pushes back softened cuticles, while the pointed end cleans under the nail."
+      },
+      {
+        "question": "Can an orange stick be reused?",
+        "answer": "Because wood is porous, it is hygienic to use a new stick for each person."
+      }
+    ],
+    "image": {
+      "search_query": "orangewood cuticle sticks",
+      "wikimedia_commons_category": "Orange sticks",
+      "alt": "Several orangewood cuticle sticks"
+    },
+    "tags": [
+      "nails",
+      "manicure",
+      "wood"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "nail-buffer",
+    "name": "Nail buffer",
+    "category": "Personal care & health",
+    "invention": {
+      "display": "19th century",
+      "year": 1850,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Europe and North America",
+      "modern_country": null,
+      "notes": "Chamois-covered nail buffers were part of Victorian manicure sets; no inventor or exact date is recorded."
+    },
+    "inventor": null,
+    "short_description": "A padded tool, traditionally covered in chamois, used to polish nails to a shine.",
+    "description": "Before nail polish became common in the 1920s, a shine was achieved by rubbing the nails with a buffer and a polishing paste. Victorian buffers were often ornate, with silver or ivory handles and chamois pads. Modern buffers are blocks or files with polishing surfaces, but the rub-to-shine principle remains.",
+    "why_unchanged": "A soft pad rubbed over the nail generates a shine through friction alone.",
+    "materials": [
+      "chamois leather",
+      "foam",
+      "silver",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "What did people use before nail polish?",
+        "answer": "They buffed their nails with powders or pastes and a chamois buffer to create a natural shine."
+      },
+      {
+        "question": "Does buffing damage nails?",
+        "answer": "Gentle, occasional buffing is fine, but heavy buffing thins the nail plate."
+      },
+      {
+        "question": "What is a four-sided buffer block?",
+        "answer": "It has progressively finer surfaces, from filing and smoothing to final polishing."
+      }
+    ],
+    "image": {
+      "search_query": "antique chamois nail buffer",
+      "wikimedia_commons_category": "Nail buffers",
+      "alt": "A vintage chamois nail buffer"
+    },
+    "tags": [
+      "nails",
+      "manicure",
+      "industrial"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "mirror",
+    "name": "Mirror",
+    "category": "Personal care & health",
+    "invention": {
+      "display": "c. 6000 BCE",
+      "year": -6000,
+      "approximate": true,
+      "era": "Prehistoric"
+    },
+    "place_of_invention": {
+      "region": "Anatolia (Çatalhöyük)",
+      "modern_country": "Turkey",
+      "notes": "Polished obsidian mirrors from Neolithic Anatolia are among the oldest known; polished metal mirrors followed in Egypt, Mesopotamia and China, and silvered glass mirrors spread from the 16th century onward."
+    },
+    "inventor": null,
+    "short_description": "A smooth reflective surface used to see one's own reflection.",
+    "description": "The oldest known manufactured mirrors are polished obsidian discs from Neolithic Anatolia, around 8,000 years old. Polished copper and bronze mirrors were used in ancient Egypt, Mesopotamia and China, and Venetian glassmakers perfected glass mirrors in the Renaissance. In 1835 Justus von Liebig developed a chemical silvering process that made glass mirrors cheap, and the flat reflective surface has stayed the same.",
+    "why_unchanged": "A flat reflective surface does its job by definition, so only the materials ever changed.",
+    "materials": [
+      "glass",
+      "silver",
+      "aluminum",
+      "bronze",
+      "obsidian"
+    ],
+    "faqs": [
+      {
+        "question": "What were the first mirrors made of?",
+        "answer": "The earliest known mirrors were polished obsidian, a natural volcanic glass, from Neolithic Anatolia."
+      },
+      {
+        "question": "How are modern mirrors made?",
+        "answer": "A thin layer of silver or aluminum is deposited on the back of glass and protected with paint."
+      },
+      {
+        "question": "Why does a mirror flip left and right?",
+        "answer": "It actually reverses front to back; we interpret this as a left-right swap because we imagine ourselves turning around."
+      }
+    ],
+    "image": {
+      "search_query": "obsidian mirror ancient",
+      "wikimedia_commons_category": "Mirrors",
+      "alt": "A round mirror reflecting light"
+    },
+    "tags": [
+      "mirror",
+      "glass",
+      "prehistoric"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "hand-mirror",
+    "name": "Hand mirror",
+    "category": "Personal care & health",
+    "invention": {
+      "display": "c. 2900 BCE",
+      "year": -2900,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Ancient Egypt",
+      "modern_country": "Egypt",
+      "notes": "Handled mirrors of polished copper and later bronze were common in ancient Egypt; similar mirrors appear in Mesopotamia, China and the Etruscan world."
+    },
+    "inventor": null,
+    "short_description": "A small mirror with a handle, held in the hand for grooming.",
+    "description": "Ancient Egyptians used round polished copper and bronze mirrors on decorative handles, many found in tombs. Handled mirrors were also used by the Etruscans, Greeks, Romans and Chinese. Today's hand mirrors use glass but keep the same disc-on-a-handle shape.",
+    "why_unchanged": "A round reflective face on a handle is the most natural form for checking your appearance up close.",
+    "materials": [
+      "glass",
+      "plastic",
+      "bronze",
+      "silver",
+      "wood"
+    ],
+    "faqs": [
+      {
+        "question": "Why did Egyptian mirrors have such ornate handles?",
+        "answer": "Mirrors were luxury goods, and handles were often shaped like papyrus stems, deities or figures with symbolic meaning."
+      },
+      {
+        "question": "How do you use a hand mirror to see the back of your head?",
+        "answer": "Stand with your back to a wall mirror and hold the hand mirror in front of you, angled to show the reflection behind."
+      },
+      {
+        "question": "Were ancient mirrors clear?",
+        "answer": "Polished metal gave a softer, slightly tinted reflection compared with modern glass mirrors."
+      }
+    ],
+    "image": {
+      "search_query": "vintage hand mirror",
+      "wikimedia_commons_category": "Hand mirrors",
+      "alt": "A round hand mirror with a handle"
+    },
+    "tags": [
+      "mirror",
+      "grooming",
+      "ancient"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "bath-sponge",
+    "name": "Bath sponge",
+    "category": "Personal care & health",
+    "invention": {
+      "display": "c. 8th century BCE",
+      "year": -800,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Ancient Greece (Aegean)",
+      "modern_country": "Greece",
+      "notes": "Natural sponges are mentioned in Homer and were harvested in the Mediterranean in antiquity; their use is probably older."
+    },
+    "inventor": null,
+    "short_description": "A soft, porous natural or synthetic sponge for washing the body.",
+    "description": "Natural sea sponges were harvested in the Mediterranean in ancient Greek times and used for bathing, padding and even as early medical dressings. Sponge diving remained an important trade on Greek islands for centuries. Synthetic sponges appeared in the 20th century, but the soft porous block is the same.",
+    "why_unchanged": "A porous block that soaks up water and soap and releases it on squeezing needs no redesign.",
+    "materials": [
+      "natural sea sponge",
+      "polyurethane foam",
+      "cellulose"
+    ],
+    "faqs": [
+      {
+        "question": "Are natural sponges animals?",
+        "answer": "Yes; sea sponges are simple animals, and the bath sponge is the cleaned skeleton of species such as Spongia."
+      },
+      {
+        "question": "How do you keep a bath sponge clean?",
+        "answer": "Rinse it thoroughly, squeeze it out and let it dry fully between uses, and replace it regularly."
+      },
+      {
+        "question": "Is natural sponge diving still done?",
+        "answer": "Yes, in places like the Greek island of Kalymnos and Tarpon Springs, Florida, although on a smaller scale."
+      }
+    ],
+    "image": {
+      "search_query": "natural sea sponge bath",
+      "wikimedia_commons_category": "Sea sponges",
+      "alt": "A natural sea sponge"
+    },
+    "tags": [
+      "bath",
+      "hygiene",
+      "natural",
+      "ancient"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "washcloth",
+    "name": "Washcloth",
+    "category": "Personal care & health",
+    "invention": {
+      "display": "Mid-19th century (terry washcloth)",
+      "year": 1850,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "England",
+      "modern_country": "United Kingdom",
+      "notes": "Pieces of cloth have been used for washing since antiquity; the looped terry fabric used for most washcloths was industrialized in England in the 1850s."
+    },
+    "inventor": null,
+    "short_description": "A small square of absorbent cloth used for washing the face and body.",
+    "description": "Wiping the body with a damp cloth is an ancient practice. The modern washcloth, a small square of looped terry fabric, became common after English manufacturers developed machine-woven terry cloth in the mid-19th century. It is still a plain square that holds water and soap.",
+    "why_unchanged": "A small, absorbent square is all that is needed to wet, lather and wipe the skin.",
+    "materials": [
+      "cotton terry",
+      "bamboo fiber",
+      "microfiber"
+    ],
+    "faqs": [
+      {
+        "question": "What is a washcloth called elsewhere?",
+        "answer": "It is also known as a face cloth, flannel (in the UK) or wash rag."
+      },
+      {
+        "question": "How often should a washcloth be washed?",
+        "answer": "Because damp cloth can grow bacteria, it is best washed after a few uses and allowed to dry fully."
+      },
+      {
+        "question": "Why are washcloths made of terry cloth?",
+        "answer": "Terry's loops increase the surface area, so it holds more water and gently exfoliates."
+      }
+    ],
+    "image": {
+      "search_query": "folded washcloth",
+      "wikimedia_commons_category": "Washcloths",
+      "alt": "A folded cotton washcloth"
+    },
+    "tags": [
+      "bath",
+      "textile",
+      "industrial"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "towel",
+    "name": "Towel",
+    "category": "Personal care & health",
+    "invention": {
+      "display": "17th century (peshtemal)",
+      "year": 1650,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Ottoman Empire (Bursa region)",
+      "modern_country": "Turkey",
+      "notes": "Flat-woven Turkish bath towels (peshtemal) are traditionally linked to Bursa; looped terry towels were inspired by Ottoman weaving and mass-produced in England in the 1850s. Earlier drying cloths existed everywhere."
+    },
+    "inventor": null,
+    "short_description": "A piece of absorbent fabric for drying the body.",
+    "description": "Cloths for drying the body have existed since antiquity, but the towel as we know it owes much to the Ottoman hammam, where flat-woven peshtemal towels were used. Looped pile towels from Turkey inspired English manufacturer Christy, which industrialized terry towels in the 1850s. Rectangular terry towels have been the norm ever since.",
+    "why_unchanged": "A rectangle of absorbent fabric dries the body perfectly, so only fibers and weaves changed.",
+    "materials": [
+      "cotton",
+      "linen",
+      "bamboo fiber",
+      "microfiber"
+    ],
+    "faqs": [
+      {
+        "question": "What is a Turkish towel?",
+        "answer": "A Turkish towel or peshtemal is a thin, flat-woven cotton towel used in the hammam, which dries quickly and packs small."
+      },
+      {
+        "question": "Why are bath towels looped?",
+        "answer": "The loops of terry cloth greatly increase surface area, making the towel more absorbent."
+      },
+      {
+        "question": "Why is Towel Day celebrated on 25 May?",
+        "answer": "Fans of Douglas Adams carry a towel on 25 May in tribute to 'The Hitchhiker's Guide to the Galaxy', which praises the towel's usefulness."
+      }
+    ],
+    "image": {
+      "search_query": "folded bath towels",
+      "wikimedia_commons_category": "Towels",
+      "alt": "A stack of folded bath towels"
+    },
+    "tags": [
+      "bath",
+      "textile",
+      "early modern"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "bar-of-soap",
+    "name": "Bar of soap",
+    "category": "Personal care & health",
+    "invention": {
+      "display": "c. 2800 BCE (soap)",
+      "year": -2800,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Babylon (Mesopotamia)",
+      "modern_country": "Iraq",
+      "notes": "Clay tablets from Babylon describe soap-like mixtures of fats and alkali; solid hard soap bars developed later, notably in the medieval Levant and Mediterranean (Aleppo, Nablus, Castile, Marseille)."
+    },
+    "inventor": null,
+    "short_description": "A solid block of soap used for washing hands and body.",
+    "description": "Soap-making from fats and alkali is recorded in Mesopotamia nearly 5,000 years ago. Hard bar soaps made from olive oil were produced in the medieval Levant and later in Spain and France, and industrial production in the 19th century made soap bars cheap and universal. The bar has kept the same simple shape despite competition from liquid soap.",
+    "why_unchanged": "A solid block is compact, long-lasting and needs no container, so the form has endured.",
+    "materials": [
+      "fats or oils",
+      "lye",
+      "olive oil",
+      "glycerin"
+    ],
+    "faqs": [
+      {
+        "question": "How is soap made?",
+        "answer": "Fats or oils are mixed with an alkali such as lye in a reaction called saponification, producing soap and glycerin."
+      },
+      {
+        "question": "Is bar soap as hygienic as liquid soap?",
+        "answer": "Studies indicate that bacteria on a bar are not transferred to hands in meaningful amounts when used normally."
+      },
+      {
+        "question": "What is Castile soap?",
+        "answer": "Castile soap originally referred to olive-oil soap from the Castile region of Spain; today it often means any vegetable-oil soap."
+      }
+    ],
+    "image": {
+      "search_query": "bar of soap",
+      "wikimedia_commons_category": "Soap bars",
+      "alt": "A bar of soap on a dish"
+    },
+    "tags": [
+      "bath",
+      "hygiene",
+      "ancient"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "loofah",
+    "name": "Loofah",
+    "category": "Personal care & health",
+    "invention": {
+      "display": "Ancient (date uncertain)",
+      "year": -500,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "South and Southeast Asia",
+      "modern_country": null,
+      "notes": "The luffa plant is native to Asia and its dried fruit has been used as a scrubber for a long time; firm early dates are not documented."
+    },
+    "inventor": null,
+    "short_description": "A natural scrubbing sponge made from the dried fibrous fruit of the luffa plant.",
+    "description": "The loofah is the fibrous skeleton of a ripe luffa gourd, a vine of the cucumber family native to tropical Asia. Once dried and peeled, it becomes a rough, springy scrubber used for exfoliating skin and cleaning dishes. It is still grown and used in the same natural form.",
+    "why_unchanged": "The plant itself grows the scrubber; drying and cutting it is all the processing required.",
+    "materials": [
+      "luffa plant fiber"
+    ],
+    "faqs": [
+      {
+        "question": "Is a loofah a sea sponge?",
+        "answer": "No; it is the dried fiber skeleton of a gourd-like fruit, not a marine animal."
+      },
+      {
+        "question": "Can you eat luffa?",
+        "answer": "Young luffa fruits are eaten as a vegetable in many Asian cuisines; only mature ones become fibrous."
+      },
+      {
+        "question": "How often should a loofah be replaced?",
+        "answer": "Because it stays damp and can harbor bacteria, it is commonly replaced every few weeks."
+      }
+    ],
+    "image": {
+      "search_query": "natural loofah sponge",
+      "wikimedia_commons_category": "Luffa",
+      "alt": "A dried natural loofah"
+    },
+    "tags": [
+      "bath",
+      "natural",
+      "plant",
+      "ancient"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "pumice-stone",
+    "name": "Pumice stone",
+    "category": "Personal care & health",
+    "invention": {
+      "display": "Ancient (Egypt, Greece, Rome)",
+      "year": -1000,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Mediterranean",
+      "modern_country": null,
+      "notes": "Pumice was used as an abrasive for skin and hair removal in ancient Egypt, Greece and Rome; the volcanic Aegean islands were an important source. Exact dating is uncertain."
+    },
+    "inventor": null,
+    "short_description": "A light, porous volcanic rock used to smooth rough skin.",
+    "description": "Pumice forms when frothy lava cools rapidly, trapping gas bubbles. Ancient Egyptians, Greeks and Romans used it to smooth skin, remove hair and polish surfaces. Today it is still a staple for softening calluses on the feet, often in its natural form.",
+    "why_unchanged": "Nature provides a light, abrasive stone that is already the ideal shape and texture.",
+    "materials": [
+      "volcanic pumice",
+      "synthetic pumice"
+    ],
+    "faqs": [
+      {
+        "question": "Why does pumice float?",
+        "answer": "It is full of trapped gas bubbles, which make it lighter than water."
+      },
+      {
+        "question": "How do you use a pumice stone?",
+        "answer": "Soak the skin and stone in warm water, then rub the stone gently over calluses in circular motions."
+      },
+      {
+        "question": "Is pumice used in other products?",
+        "answer": "Yes; ground pumice is used in some toothpastes, hand cleaners, and to stone-wash denim."
+      }
+    ],
+    "image": {
+      "search_query": "pumice stone foot",
+      "wikimedia_commons_category": "Pumice",
+      "alt": "A gray pumice stone"
+    },
+    "tags": [
+      "bath",
+      "natural",
+      "stone",
+      "ancient"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "exfoliating-mitt",
+    "name": "Exfoliating mitt",
+    "category": "Personal care & health",
+    "invention": {
+      "display": "Ottoman era (date uncertain)",
+      "year": 1500,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Anatolia and the Middle East",
+      "modern_country": "Turkey",
+      "notes": "The kese, a coarse washing mitt used in the hammam, is part of the Ottoman bathing tradition, which inherited Roman and Byzantine bathhouse practices. Precise dating is not documented."
+    },
+    "inventor": null,
+    "short_description": "A coarse glove used to scrub away dead skin in the bath.",
+    "description": "In the Turkish hammam, an attendant scrubs bathers with a kese, a rough mitt that removes dead skin in visible rolls. Similar mitts are used in Moroccan and Korean bathhouses. The simple coarse-weave glove is unchanged and widely sold today.",
+    "why_unchanged": "A rough glove lets the whole hand act as a scrubber, which is all exfoliation needs.",
+    "materials": [
+      "raw silk",
+      "viscose",
+      "goat hair",
+      "nylon"
+    ],
+    "faqs": [
+      {
+        "question": "What is a kese?",
+        "answer": "A kese is the traditional scrubbing mitt of the Turkish bath, made of coarse woven fabric."
+      },
+      {
+        "question": "How do you use an exfoliating mitt?",
+        "answer": "After soaking in warm water to soften the skin, scrub firmly in long strokes; dead skin comes away in small rolls."
+      },
+      {
+        "question": "Do other cultures use similar mitts?",
+        "answer": "Yes; Korean bathhouses use the Italy towel and Moroccan hammams use a kessa glove."
+      }
+    ],
+    "image": {
+      "search_query": "turkish kese bath mitt",
+      "wikimedia_commons_category": "Kese",
+      "alt": "A coarse exfoliating bath mitt"
+    },
+    "tags": [
+      "bath",
+      "textile",
+      "hammam"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "sauna-whisk",
+    "name": "Sauna whisk",
+    "category": "Personal care & health",
+    "invention": {
+      "display": "Medieval (date uncertain)",
+      "year": 1000,
+      "approximate": true,
+      "era": "Medieval"
+    },
+    "place_of_invention": {
+      "region": "Finland and Russia",
+      "modern_country": "Finland",
+      "notes": "Leafy birch whisks (Finnish vihta or vasta, Russian venik) are part of long-standing Finnish and Slavic bathing traditions; precise dating is not possible."
+    },
+    "inventor": null,
+    "short_description": "A bundle of leafy birch twigs used to gently beat the skin in a sauna or banya.",
+    "description": "In Finnish saunas and Russian banyas, bathers lightly slap themselves with a bundle of fresh or dried leafy twigs, usually birch. The practice is said to improve circulation and releases a fresh scent. Whisks are still tied by hand in early summer from young branches, exactly as they always were.",
+    "why_unchanged": "A bundle of leafy twigs is the tool itself, and tradition has kept it exactly that.",
+    "materials": [
+      "birch twigs",
+      "oak twigs",
+      "eucalyptus"
+    ],
+    "faqs": [
+      {
+        "question": "What is a vihta or vasta?",
+        "answer": "Both are Finnish names for the leafy birch whisk; the term used depends on the region."
+      },
+      {
+        "question": "Why do people hit themselves with branches in a sauna?",
+        "answer": "The gentle beating is believed to boost circulation, relax muscles and spread the heat and scent of the leaves."
+      },
+      {
+        "question": "Can a sauna whisk be stored?",
+        "answer": "Yes; whisks can be dried or frozen and soaked in water before use."
+      }
+    ],
+    "image": {
+      "search_query": "birch sauna whisk vihta",
+      "wikimedia_commons_category": "Vihta",
+      "alt": "A leafy birch sauna whisk"
+    },
+    "tags": [
+      "bath",
+      "sauna",
+      "natural",
+      "medieval"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "sauna-ladle",
+    "name": "Sauna ladle",
+    "category": "Personal care & health",
+    "invention": {
+      "display": "Medieval (date uncertain)",
+      "year": 1000,
+      "approximate": true,
+      "era": "Medieval"
+    },
+    "place_of_invention": {
+      "region": "Finland",
+      "modern_country": "Finland",
+      "notes": "Throwing water on hot stones is central to the Finnish sauna, whose origins are ancient but undated; the long-handled ladle has accompanied it throughout."
+    },
+    "inventor": null,
+    "short_description": "A long-handled scoop for throwing water onto hot sauna stones.",
+    "description": "The Finnish sauna relies on löyly, the burst of steam produced when water is thrown on heated stones. A ladle with a long handle lets bathers do this without burning their hands. Wooden and metal ladles of the same scoop-on-a-pole design are still found in nearly every sauna.",
+    "why_unchanged": "A cup on a long, heat-safe handle is exactly what tossing water onto hot stones requires.",
+    "materials": [
+      "wood",
+      "copper",
+      "aluminum"
+    ],
+    "faqs": [
+      {
+        "question": "What is löyly?",
+        "answer": "Löyly is the Finnish word for the steam created when water hits the hot sauna stones."
+      },
+      {
+        "question": "Why is the handle so long?",
+        "answer": "It keeps the hand away from the scalding steam and hot stove."
+      },
+      {
+        "question": "Is it okay to add scents to sauna water?",
+        "answer": "Many people add a few drops of birch or tar scent, but only products intended for saunas should be used."
+      }
+    ],
+    "image": {
+      "search_query": "wooden sauna bucket ladle",
+      "wikimedia_commons_category": "Sauna ladles",
+      "alt": "A wooden sauna ladle and bucket"
+    },
+    "tags": [
+      "bath",
+      "sauna",
+      "wood",
+      "medieval"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "hammam-bowl",
+    "name": "Hammam bowl",
+    "category": "Personal care & health",
+    "invention": {
+      "display": "Ottoman era (date uncertain)",
+      "year": 1500,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Ottoman Empire",
+      "modern_country": "Turkey",
+      "notes": "The hammam bowl (tas) is a traditional part of Turkish bathing; ornate metal examples survive from the Ottoman period, but earlier origins are undocumented."
+    },
+    "inventor": null,
+    "short_description": "A shallow metal bowl used to pour water over the body in a Turkish bath.",
+    "description": "In a traditional hammam, bathers sit beside a marble basin and pour warm water over themselves with a shallow bowl called a tas. Ottoman examples were often hammered copper or silver with engraved decoration. The same bowls are still used in hammams and sold as souvenirs.",
+    "why_unchanged": "A shallow, hand-sized bowl is the simplest way to scoop and pour bath water.",
+    "materials": [
+      "copper",
+      "brass",
+      "silver",
+      "aluminum"
+    ],
+    "faqs": [
+      {
+        "question": "What is a tas?",
+        "answer": "Tas is the Turkish word for the shallow bowl used to pour water in the hammam."
+      },
+      {
+        "question": "Why is there no shower in a traditional hammam?",
+        "answer": "Bathers use running water from a basin and a bowl instead, a practice tied to the hammam's flowing-water tradition."
+      },
+      {
+        "question": "Why are hammam bowls often copper?",
+        "answer": "Copper is easy to hammer and decorate, and it was the traditional metal of Ottoman bathware."
+      }
+    ],
+    "image": {
+      "search_query": "copper hammam bowl tas",
+      "wikimedia_commons_category": "Hammam bowls",
+      "alt": "An engraved copper hammam bowl"
+    },
+    "tags": [
+      "bath",
+      "metal",
+      "hammam"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "back-scratcher",
+    "name": "Back scratcher",
+    "category": "Personal care & health",
+    "invention": {
+      "display": "Antiquity (date uncertain)",
+      "year": -500,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "China",
+      "modern_country": "China",
+      "notes": "Back scratchers have long been used in China and other cultures, including the Inuit; firm early dates are not established."
+    },
+    "inventor": null,
+    "short_description": "A long stick with a small rake or hand-shaped tip for scratching hard-to-reach places.",
+    "description": "Back scratchers have been made in many cultures, with Chinese examples often carved as small hands at the end of a long rod. The name 'sun sun' or the English 'scratch-back' appear in historical sources. The design remains a slim handle with a curved, clawed tip.",
+    "why_unchanged": "A long handle with a raking tip reaches the back perfectly, and nothing more is required.",
+    "materials": [
+      "bamboo",
+      "wood",
+      "plastic",
+      "metal"
+    ],
+    "faqs": [
+      {
+        "question": "Why are many back scratchers shaped like a hand?",
+        "answer": "The tiny curved fingers mimic human fingernails, which spread the scratch evenly."
+      },
+      {
+        "question": "Are back scratchers safe for skin?",
+        "answer": "Gentle use is fine, but scratching too hard can break the skin, especially with eczema."
+      },
+      {
+        "question": "What is a 'ruyi'?",
+        "answer": "A ruyi is a Chinese ceremonial scepter whose shape is often said to derive from the back scratcher."
+      }
+    ],
+    "image": {
+      "search_query": "bamboo back scratcher",
+      "wikimedia_commons_category": "Back scratchers",
+      "alt": "A bamboo back scratcher with a hand-shaped tip"
+    },
+    "tags": [
+      "grooming",
+      "bamboo",
+      "ancient"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "cotton-swab",
+    "name": "Cotton swab",
+    "category": "Personal care & health",
+    "invention": {
+      "display": "1923",
+      "year": 1923,
+      "approximate": false,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "United States",
+      "modern_country": "United States",
+      "notes": "Leo Gerstenzang is credited with creating the product after seeing his wife wrap cotton on toothpicks; it was sold as 'Baby Gays' and later 'Q-tips'."
+    },
+    "inventor": "Leo Gerstenzang",
+    "short_description": "A short stick with a wad of cotton wrapped around one or both ends.",
+    "description": "Leo Gerstenzang reportedly got the idea after watching his wife wrap cotton around toothpicks to clean their baby. His company began making ready-made swabs in the 1920s, later sold under the name Q-tips. Paper and wooden sticks have replaced plastic in many places, but the design is unchanged.",
+    "why_unchanged": "A stick tipped with soft cotton is ideal for precise, gentle application and cleaning.",
+    "materials": [
+      "cotton",
+      "paper",
+      "wood",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the cotton swab?",
+        "answer": "Leo Gerstenzang created the first commercially made cotton swabs in the US in the 1920s."
+      },
+      {
+        "question": "What does the 'Q' in Q-tips stand for?",
+        "answer": "It stood for 'quality'; the brand was first named Q-tips Baby Gays."
+      },
+      {
+        "question": "Should you clean your ears with cotton swabs?",
+        "answer": "Manufacturers and doctors advise against inserting them into the ear canal, as this can push wax deeper or damage the eardrum."
+      }
+    ],
+    "image": {
+      "search_query": "cotton swabs",
+      "wikimedia_commons_category": "Cotton swabs",
+      "alt": "A handful of cotton swabs"
+    },
+    "tags": [
+      "hygiene",
+      "cotton",
+      "modern"
+    ],
+    "confidence": "high"
+  },
+  {
+    "slug": "makeup-brush",
+    "name": "Makeup brush",
+    "category": "Personal care & health",
+    "invention": {
+      "display": "Ancient (date uncertain)",
+      "year": -3000,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Ancient Egypt",
+      "modern_country": "Egypt",
+      "notes": "Ancient Egyptians applied cosmetics with sticks and simple brushes; the evidence for brushes specifically is limited, and modern cosmetic brushes evolved from artists' brushes."
+    },
+    "inventor": null,
+    "short_description": "A soft-bristled brush used to apply powder, blush and other cosmetics.",
+    "description": "Cosmetics were widely used in ancient Egypt and the Mediterranean, applied with fingers, sticks and simple brushes. The modern makeup brush, with soft natural or synthetic fibers held in a metal ferrule, follows the design of artists' paintbrushes. A wide variety of shapes exists, but the basic brush construction is unchanged.",
+    "why_unchanged": "Bristles, a ferrule and a handle already give fine, even application of powder or color.",
+    "materials": [
+      "synthetic fiber",
+      "goat hair",
+      "wood",
+      "aluminum"
+    ],
+    "faqs": [
+      {
+        "question": "Why are there so many shapes of makeup brush?",
+        "answer": "Different shapes suit different tasks: large fluffy brushes for powder, angled ones for contour and fine ones for eyeliner."
+      },
+      {
+        "question": "Are synthetic brushes better than natural hair?",
+        "answer": "Synthetic fibers work well with liquids and creams, while natural hair is often preferred for powders."
+      },
+      {
+        "question": "How often should makeup brushes be cleaned?",
+        "answer": "Many dermatologists suggest washing them weekly to avoid buildup of oils and bacteria."
+      }
+    ],
+    "image": {
+      "search_query": "makeup brushes set",
+      "wikimedia_commons_category": "Cosmetic brushes",
+      "alt": "A set of makeup brushes"
+    },
+    "tags": [
+      "cosmetics",
+      "brush",
+      "ancient"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "kohl-applicator",
+    "name": "Kohl applicator",
+    "category": "Personal care & health",
+    "invention": {
+      "display": "c. 3100 BCE",
+      "year": -3100,
+      "approximate": true,
+      "era": "Prehistoric"
+    },
+    "place_of_invention": {
+      "region": "Ancient Egypt",
+      "modern_country": "Egypt",
+      "notes": "Kohl and its applicator sticks are well documented from early dynastic Egypt; kohl use was also widespread in the Near East, North Africa and South Asia."
+    },
+    "inventor": null,
+    "short_description": "A slender rod, often with a rounded tip, used to apply kohl around the eyes.",
+    "description": "Ancient Egyptians lined their eyes with kohl, made from minerals such as galena, both for beauty and reportedly to protect against eye ailments and sun glare. They applied it with small sticks of wood, ivory or metal dipped into a kohl pot. Similar applicators, such as the surma salai in South Asia, are still used today.",
+    "why_unchanged": "A slim rod with a rounded tip is the safest and most precise way to line the eyelid.",
+    "materials": [
+      "wood",
+      "metal",
+      "ivory",
+      "glass"
+    ],
+    "faqs": [
+      {
+        "question": "What is kohl made of?",
+        "answer": "Traditional kohl was made from ground minerals such as galena (lead sulfide) or stibnite, sometimes with soot and oils."
+      },
+      {
+        "question": "Is traditional kohl safe?",
+        "answer": "Some traditional kohl contains lead, so health agencies warn against products that are not certified lead-free."
+      },
+      {
+        "question": "Why did Egyptians wear kohl?",
+        "answer": "It was cosmetic and symbolic, and it was also believed to protect the eyes from disease and glare."
+      }
+    ],
+    "image": {
+      "search_query": "ancient egyptian kohl tube applicator",
+      "wikimedia_commons_category": "Kohl containers",
+      "alt": "An ancient Egyptian kohl pot with applicator"
+    },
+    "tags": [
+      "cosmetics",
+      "eyes",
+      "ancient",
+      "egypt"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "powder-puff",
+    "name": "Powder puff",
+    "category": "Personal care & health",
+    "invention": {
+      "display": "18th century",
+      "year": 1750,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Europe",
+      "modern_country": null,
+      "notes": "Puffs of swansdown were used to apply face and wig powder in 18th-century Europe; no inventor is recorded."
+    },
+    "inventor": null,
+    "short_description": "A soft pad used to apply loose powder to the face and body.",
+    "description": "In the 18th century, when powdered faces and wigs were fashionable, powder was applied with soft puffs of swansdown. Puffs became a standard item in cosmetic compacts in the 20th century, made from velour or cotton. The soft round pad remains essentially the same.",
+    "why_unchanged": "A soft, airy pad picks up powder and lays it down evenly with a light touch.",
+    "materials": [
+      "velour",
+      "cotton",
+      "swansdown",
+      "microfiber"
+    ],
+    "faqs": [
+      {
+        "question": "What were powder puffs originally made of?",
+        "answer": "Early puffs were often made of swan's down, the fine soft feathers under the outer plumage."
+      },
+      {
+        "question": "How do you use a powder puff?",
+        "answer": "Press it into loose powder, tap off the excess and press or roll it onto the skin to set makeup."
+      },
+      {
+        "question": "Why does a puff have a ribbon on the back?",
+        "answer": "The band lets you slip your fingers through for better control."
+      }
+    ],
+    "image": {
+      "search_query": "velour powder puff",
+      "wikimedia_commons_category": "Powder puffs",
+      "alt": "A round velour powder puff"
+    },
+    "tags": [
+      "cosmetics",
+      "textile",
+      "early modern"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "eyelash-curler",
+    "name": "Eyelash curler",
+    "category": "Personal care & health",
+    "invention": {
+      "display": "1923",
+      "year": 1923,
+      "approximate": false,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "Rochester, New York",
+      "modern_country": "United States",
+      "notes": "William Beldue McDonnell is credited with developing the Kurlash eyelash curler in the 1920s; the company later became Kurlash Co."
+    },
+    "inventor": "William Beldue McDonnell",
+    "short_description": "A hand-held clamp that bends eyelashes upward.",
+    "description": "The mechanical eyelash curler appeared in the US in the 1920s, when the Kurlash company introduced a scissor-handled clamp with a curved pad. It quickly became a staple of cosmetics kits. Modern curlers look almost identical, with a rubber pad and hinged frame.",
+    "why_unchanged": "A curved clamp shaped to the eyelid presses lashes evenly, which is all a curl requires.",
+    "materials": [
+      "stainless steel",
+      "rubber",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "When was the eyelash curler invented?",
+        "answer": "It was introduced in the US in the 1920s under the Kurlash brand."
+      },
+      {
+        "question": "Should you curl lashes before or after mascara?",
+        "answer": "Usually before; curling lashes coated in mascara can make them brittle or stick to the pad."
+      },
+      {
+        "question": "How often should the rubber pad be replaced?",
+        "answer": "Every few months, or when it shows grooves or cracks that could crimp the lashes."
+      }
+    ],
+    "image": {
+      "search_query": "eyelash curler",
+      "wikimedia_commons_category": "Eyelash curlers",
+      "alt": "A metal eyelash curler"
+    },
+    "tags": [
+      "cosmetics",
+      "eyes",
+      "patent",
+      "modern"
+    ],
+    "confidence": "medium"
+  }
+]

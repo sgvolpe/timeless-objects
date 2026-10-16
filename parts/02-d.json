@@ -1,0 +1,1277 @@
+[
+  {
+    "slug": "champagne-flute",
+    "name": "Champagne flute",
+    "category": "Tableware & containers",
+    "invention": {
+      "display": "17th century",
+      "year": 1650,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Europe (England and the Low Countries)",
+      "modern_country": null,
+      "notes": "Tall, narrow flute glasses were made in 17th-century Europe for ale and wine; their association with sparkling wine grew in the 18th–19th centuries. Exact origin is uncertain."
+    },
+    "inventor": null,
+    "short_description": "A tall, narrow stemmed glass for sparkling wine.",
+    "description": "Narrow, tall glasses called flutes were made in the 17th century in England and the Low Countries. As sparkling wine became popular, the flute's shape proved ideal for preserving bubbles. The tall bowl on a stem remains the classic champagne glass today.",
+    "why_unchanged": "A narrow bowl reduces the surface area so bubbles last longer, which is why the shape endures.",
+    "materials": [
+      "glass",
+      "crystal"
+    ],
+    "faqs": [
+      {
+        "question": "Why are champagne flutes tall and narrow?",
+        "answer": "The small surface area slows the escape of bubbles and lets you watch them rise."
+      },
+      {
+        "question": "What is a champagne coupe?",
+        "answer": "A shallow, wide-bowled glass popular in the 19th and early 20th centuries; the story that it was modeled on a royal breast is a myth."
+      },
+      {
+        "question": "Should you hold a flute by the stem?",
+        "answer": "Yes, holding the stem keeps your hand from warming the wine."
+      }
+    ],
+    "image": {
+      "search_query": "champagne flute glasses",
+      "wikimedia_commons_category": "Champagne flutes",
+      "alt": "Two champagne flutes with sparkling wine"
+    },
+    "tags": [
+      "drinkware",
+      "glass",
+      "wine",
+      "early modern"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "punch-bowl",
+    "name": "Punch bowl",
+    "category": "Tableware & containers",
+    "invention": {
+      "display": "Late 17th century",
+      "year": 1680,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "England",
+      "modern_country": "United Kingdom",
+      "notes": "Punch was brought to England from India by sailors and traders of the East India Company in the 17th century; large bowls for serving it became fashionable in the late 17th century."
+    },
+    "inventor": null,
+    "short_description": "A large bowl for serving mixed drinks to a group.",
+    "description": "Punch, a mixed drink of spirits, sugar, citrus, water and spice, reached England from India in the 17th century. Large silver and porcelain bowls became the centerpiece of social gatherings. Punch bowls with ladles and cups are still used at parties.",
+    "why_unchanged": "A large open bowl with a ladle serves many people at once, so the design has stayed the same.",
+    "materials": [
+      "porcelain",
+      "silver",
+      "glass",
+      "ceramic"
+    ],
+    "faqs": [
+      {
+        "question": "Where does the word punch come from?",
+        "answer": "It is often said to come from the Hindi 'panch', meaning five, for the five ingredients, though this is debated."
+      },
+      {
+        "question": "What is a monteith?",
+        "answer": "A punch bowl with a notched rim used to chill wine glasses, popular in late 17th-century England."
+      },
+      {
+        "question": "Are punch bowls still used?",
+        "answer": "Yes, glass and ceramic punch bowls with matching cups and a ladle are still common at parties, weddings and holiday gatherings."
+      }
+    ],
+    "image": {
+      "search_query": "glass punch bowl with cups",
+      "wikimedia_commons_category": "Punch bowls",
+      "alt": "A glass punch bowl with a ladle and cups"
+    },
+    "tags": [
+      "serveware",
+      "party",
+      "early modern",
+      "drink"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "ice-bucket",
+    "name": "Ice bucket",
+    "category": "Tableware & containers",
+    "invention": {
+      "display": "18th century (wine cooler)",
+      "year": 1700,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "France",
+      "modern_country": "France",
+      "notes": "Ancient Greeks used the psykter to chill wine, but the modern open bucket for chilling bottles descends from the 18th-century French 'seau à bouteille'."
+    },
+    "inventor": null,
+    "short_description": "An open bucket filled with ice used to chill bottles or hold ice for drinks.",
+    "description": "In 18th-century France, porcelain and silver buckets called 'seaux à bouteille' held ice and a single wine bottle at the table. They evolved into the champagne bucket and the ice bucket. The open bucket with handles is unchanged.",
+    "why_unchanged": "An open bucket of ice and water chills a bottle quickly, so the form has stayed the same.",
+    "materials": [
+      "silver",
+      "stainless steel",
+      "porcelain",
+      "glass",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "What is the fastest way to chill a bottle in an ice bucket?",
+        "answer": "Fill it with a mix of ice and water rather than ice alone, because water surrounds the bottle completely; adding salt lowers the temperature further."
+      },
+      {
+        "question": "What was a psykter?",
+        "answer": "A psykter was an ancient Greek wine-cooling vessel with a bulbous body that was filled with wine and set in cold water or snow."
+      },
+      {
+        "question": "Is a champagne bucket different from an ice bucket?",
+        "answer": "A champagne bucket is deep enough to submerge a bottle, while an ice bucket usually holds ice cubes for serving drinks."
+      }
+    ],
+    "image": {
+      "search_query": "champagne ice bucket",
+      "wikimedia_commons_category": "Wine coolers",
+      "alt": "A metal ice bucket with a champagne bottle"
+    },
+    "tags": [
+      "serveware",
+      "wine",
+      "early modern",
+      "france"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "beer-mat",
+    "name": "Beer mat",
+    "category": "Tableware & containers",
+    "invention": {
+      "display": "Late 19th century",
+      "year": 1892,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Dresden, Saxony",
+      "modern_country": "Germany",
+      "notes": "Germany is generally credited with the paperboard beer mat; Robert Sputh of Dresden is often said to have made wood-pulp mats in 1892, while others cite Friedrich Horn in the 1880s."
+    },
+    "inventor": null,
+    "short_description": "A cardboard coaster placed under a beer glass.",
+    "description": "Felt pads were once used under beer mugs, but they soaked up beer and became unhygienic. In the late 19th century German manufacturers began producing absorbent paperboard mats. The beer mat remains a simple absorbent square or circle.",
+    "why_unchanged": "An absorbent disk protects tables and is cheap to print, so it hasn't changed.",
+    "materials": [
+      "paperboard",
+      "wood pulp",
+      "cork"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the beer mat?",
+        "answer": "Germany is generally credited; Robert Sputh of Dresden is often named for wood-pulp mats in 1892, though other early makers are also cited."
+      },
+      {
+        "question": "What is a beer mat collector called?",
+        "answer": "A beer mat collector is called a tegestologist, from the Latin word for a mat or covering."
+      },
+      {
+        "question": "Why do some people put a beer mat on top of their glass?",
+        "answer": "In many German pubs a mat placed on the glass signals that you don't want another round, and it also keeps insects out."
+      }
+    ],
+    "image": {
+      "search_query": "beer mats coasters",
+      "wikimedia_commons_category": "Beer mats",
+      "alt": "A beer glass on a cardboard beer mat"
+    },
+    "tags": [
+      "drinkware",
+      "beer",
+      "industrial",
+      "germany"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "napkin",
+    "name": "Napkin",
+    "category": "Tableware & containers",
+    "invention": {
+      "display": "Roman era",
+      "year": 0,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Roman Empire",
+      "modern_country": "Italy",
+      "notes": "Ancient Greeks wiped hands with bread; Romans used cloth napkins (mappa and sudarium). The modern table napkin developed in medieval and Renaissance Europe."
+    },
+    "inventor": null,
+    "short_description": "A piece of cloth or paper used at meals to wipe the mouth and hands.",
+    "description": "Romans brought cloth napkins, called mappae, to banquets and sometimes took leftovers home in them. Medieval diners often wiped hands on the tablecloth, and individual napkins became standard in Renaissance Europe. The rectangle of cloth or paper is the same today.",
+    "why_unchanged": "A square of absorbent cloth is all that's needed to wipe hands, so it hasn't changed.",
+    "materials": [
+      "linen",
+      "cotton",
+      "paper"
+    ],
+    "faqs": [
+      {
+        "question": "Did the Romans use napkins?",
+        "answer": "Yes. Diners brought a cloth called a mappa to banquets and sometimes used it to carry leftovers home."
+      },
+      {
+        "question": "When did paper napkins become common?",
+        "answer": "Paper napkins spread in the 20th century as mass-produced tissue paper became cheap."
+      },
+      {
+        "question": "Where should you put your napkin during a meal?",
+        "answer": "In Western etiquette it is unfolded on your lap, and placed loosely beside the plate when you leave the table."
+      }
+    ],
+    "image": {
+      "search_query": "linen napkins",
+      "wikimedia_commons_category": "Napkins",
+      "alt": "Folded linen napkins on a table"
+    },
+    "tags": [
+      "table setting",
+      "linen",
+      "ancient"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "tablecloth",
+    "name": "Tablecloth",
+    "category": "Tableware & containers",
+    "invention": {
+      "display": "Roman era",
+      "year": 100,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Roman Empire",
+      "modern_country": "Italy",
+      "notes": "Tablecloths are mentioned in late Roman times and became common in medieval Europe; exact origins are uncertain."
+    },
+    "inventor": null,
+    "short_description": "A cloth spread over a table during meals.",
+    "description": "Tablecloths were used by wealthy Romans and became a standard part of medieval European feasts, where white linen indicated status. Today tablecloths remain simple rectangles or circles of fabric.",
+    "why_unchanged": "A large piece of cloth protects and decorates a table, so its design has stayed the same.",
+    "materials": [
+      "linen",
+      "cotton",
+      "polyester",
+      "vinyl"
+    ],
+    "faqs": [
+      {
+        "question": "When were tablecloths first used?",
+        "answer": "They appear in late Roman times and were a standard part of feasting in medieval Europe."
+      },
+      {
+        "question": "Why are formal tablecloths usually white?",
+        "answer": "White linen was expensive to keep clean, so it signaled wealth and care, and the tradition continues at formal dinners."
+      },
+      {
+        "question": "Can you really pull a tablecloth from under the dishes?",
+        "answer": "Yes, with a smooth, hemless cloth and a fast downward pull, inertia keeps the dishes in place, but it takes practice."
+      }
+    ],
+    "image": {
+      "search_query": "white linen tablecloth dining",
+      "wikimedia_commons_category": "Tablecloths",
+      "alt": "A dining table covered with a white tablecloth"
+    },
+    "tags": [
+      "table setting",
+      "linen",
+      "ancient"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "doily",
+    "name": "Doily",
+    "category": "Tableware & containers",
+    "invention": {
+      "display": "Late 17th century",
+      "year": 1700,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "London",
+      "modern_country": "United Kingdom",
+      "notes": "The word comes from Doiley (or Doyley), a London draper of the late 17th century; the lace doily became popular in the Victorian era."
+    },
+    "inventor": null,
+    "short_description": "A small decorative mat of lace or paper placed under dishes.",
+    "description": "The word 'doily' is derived from Doiley, a London draper of the late 17th century whose name became attached to light ornamental fabrics. Lace and crocheted doilies became a fixture of Victorian households, placed under vases, teacups and cakes. Paper and fabric doilies are still used in the same way.",
+    "why_unchanged": "A small lacy mat protects surfaces and dresses up a plate, so its design has remained the same.",
+    "materials": [
+      "lace",
+      "cotton",
+      "paper"
+    ],
+    "faqs": [
+      {
+        "question": "Where does the word doily come from?",
+        "answer": "It comes from the surname of Doiley, a London draper of the late 17th century."
+      },
+      {
+        "question": "What are doilies used for?",
+        "answer": "They protect furniture from scratches and moisture and decorate plates, especially under cakes and pastries."
+      },
+      {
+        "question": "Are doilies still used?",
+        "answer": "Yes, paper doilies are common in bakeries, and handmade crocheted doilies remain a popular craft."
+      }
+    ],
+    "image": {
+      "search_query": "lace doily",
+      "wikimedia_commons_category": "Doilies",
+      "alt": "A lace doily under a teacup"
+    },
+    "tags": [
+      "table setting",
+      "lace",
+      "early modern"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "kuksa",
+    "name": "Kuksa",
+    "category": "Tableware & containers",
+    "invention": {
+      "display": "Traditional (at least several centuries old)",
+      "year": 1500,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Lapland (Sámi homeland)",
+      "modern_country": "Finland",
+      "notes": "The kuksa is a traditional Sámi drinking cup used across northern Finland, Sweden and Norway; its age is not documented, and the date given here is only indicative."
+    },
+    "inventor": null,
+    "short_description": "A hand-carved wooden cup made from a birch burl, traditional in Lapland.",
+    "description": "The Sámi peoples of northern Scandinavia carve kuksas from burls, the dense knotted growths on birch trees, which resist cracking. The cup typically has a single handle, sometimes with a hole for a leather strap so it can hang from a belt. Kuksas are still carved by hand and widely used by hikers.",
+    "why_unchanged": "A single piece of dense burl with a handle is light, unbreakable and insulating, so the design has never needed changing.",
+    "materials": [
+      "birch burl",
+      "wood"
+    ],
+    "faqs": [
+      {
+        "question": "Why is a kuksa made from a burl?",
+        "answer": "Burl wood has twisted, interlocking grain that resists cracking when exposed to hot and cold liquids."
+      },
+      {
+        "question": "Is there a tradition about receiving a kuksa?",
+        "answer": "In Finnish tradition a kuksa is often given as a gift, and some say it brings good luck when received rather than bought."
+      },
+      {
+        "question": "How do you care for a kuksa?",
+        "answer": "Rinse it with water only, without soap or a dishwasher, and let it dry naturally to protect the wood."
+      }
+    ],
+    "image": {
+      "search_query": "kuksa wooden cup birch",
+      "wikimedia_commons_category": "Kuksa",
+      "alt": "A carved wooden kuksa cup with a handle"
+    },
+    "tags": [
+      "drinkware",
+      "wood",
+      "scandinavia",
+      "handcraft"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "gaiwan",
+    "name": "Gaiwan",
+    "category": "Tableware & containers",
+    "invention": {
+      "display": "Ming dynasty",
+      "year": 1500,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "China",
+      "modern_country": "China",
+      "notes": "Lidded tea bowls with saucers developed in China; the gaiwan is generally associated with the Ming dynasty, when steeping loose leaves became common, though some trace earlier lidded cups to the Tang or Song."
+    },
+    "inventor": null,
+    "short_description": "A Chinese lidded tea bowl on a saucer used to brew and drink tea.",
+    "description": "The gaiwan consists of a bowl, a lid and a saucer, symbolizing heaven, humanity and earth in Chinese tradition. It became popular as loose-leaf tea brewing spread during the Ming dynasty. Tea drinkers still use it to brew and pour tea, holding the lid to strain the leaves.",
+    "why_unchanged": "A bowl, lid and saucer let one vessel brew, strain and serve tea, so nothing needed to be added.",
+    "materials": [
+      "porcelain",
+      "glass",
+      "clay"
+    ],
+    "faqs": [
+      {
+        "question": "What does gaiwan mean?",
+        "answer": "Gaiwan means 'lidded bowl' in Chinese."
+      },
+      {
+        "question": "How do you use a gaiwan?",
+        "answer": "Steep leaves in the bowl, then tilt the lid slightly to hold back the leaves while pouring tea into cups or drinking directly."
+      },
+      {
+        "question": "Why is the gaiwan popular with tea enthusiasts?",
+        "answer": "Porcelain does not absorb flavors, so one gaiwan can brew any type of tea and let you watch the leaves unfurl."
+      }
+    ],
+    "image": {
+      "search_query": "porcelain gaiwan tea",
+      "wikimedia_commons_category": "Gaiwan",
+      "alt": "A porcelain gaiwan with lid and saucer"
+    },
+    "tags": [
+      "tea",
+      "china",
+      "porcelain"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "mate-gourd",
+    "name": "Mate gourd",
+    "category": "Tableware & containers",
+    "invention": {
+      "display": "Pre-Columbian era",
+      "year": 1500,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Paraguay River basin (Guaraní lands)",
+      "modern_country": "Paraguay",
+      "notes": "The Guaraní drank yerba mate from gourds before European contact; Jesuit missions later cultivated and spread the custom across South America. Precise dating is not possible."
+    },
+    "inventor": null,
+    "short_description": "A hollowed gourd used to drink yerba mate.",
+    "description": "The Guaraní people of South America drank yerba mate from hollowed gourds long before Europeans arrived. Spanish colonists and Jesuit missions adopted and spread the drink across the region. Today mate gourds are a daily item in Argentina, Uruguay, Paraguay and southern Brazil.",
+    "why_unchanged": "A small gourd fits the hand and holds the leaves and water perfectly, so it remains unchanged.",
+    "materials": [
+      "gourd",
+      "wood",
+      "silver",
+      "ceramic"
+    ],
+    "faqs": [
+      {
+        "question": "What is a mate gourd?",
+        "answer": "It is a small hollowed gourd, also called a mate or porongo, used to drink yerba mate."
+      },
+      {
+        "question": "Why is mate shared?",
+        "answer": "It is a social ritual; the same gourd is passed around a group, refilled by the server each time."
+      },
+      {
+        "question": "How do you cure a new mate gourd?",
+        "answer": "Traditionally it is filled with used yerba and water for a day or so before first use to seal and season it."
+      }
+    ],
+    "image": {
+      "search_query": "mate gourd bombilla",
+      "wikimedia_commons_category": "Mate (drinking vessel)",
+      "alt": "A mate gourd with a metal straw"
+    },
+    "tags": [
+      "drink",
+      "south america",
+      "gourd",
+      "tea"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "bombilla",
+    "name": "Bombilla",
+    "category": "Tableware & containers",
+    "invention": {
+      "display": "17th century (metal filter straw)",
+      "year": 1600,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Río de la Plata region",
+      "modern_country": null,
+      "notes": "The Guaraní used cane tubes to drink mate; metal bombillas with perforated filter ends spread during the colonial period. Exact dating is uncertain."
+    },
+    "inventor": null,
+    "short_description": "A metal drinking straw with a perforated filter end, used to drink yerba mate.",
+    "description": "The Guaraní drank mate through tubes of cane, sometimes fitted with woven filters. During the colonial period silversmiths made metal bombillas with perforated bulbs or flattened tips to strain out the leaves. The bombilla remains an essential part of mate drinking in South America.",
+    "why_unchanged": "A tube with a strainer at the bottom solves the problem of drinking from leaves, so it hasn't changed.",
+    "materials": [
+      "silver",
+      "stainless steel",
+      "nickel silver",
+      "cane"
+    ],
+    "faqs": [
+      {
+        "question": "What does bombilla mean?",
+        "answer": "It is a Spanish diminutive often translated as 'little pump' or 'little bulb'; in Brazil it is called a bomba."
+      },
+      {
+        "question": "Should you stir mate with the bombilla?",
+        "answer": "No. Moving the bombilla clogs its filter with leaves and is considered poor etiquette among mate drinkers."
+      },
+      {
+        "question": "What is a bombilla made of?",
+        "answer": "Most are stainless steel, silver or nickel silver, with traditional versions also made of cane or bamboo."
+      }
+    ],
+    "image": {
+      "search_query": "bombilla mate straw",
+      "wikimedia_commons_category": "Bombillas",
+      "alt": "A metal bombilla in a mate gourd"
+    },
+    "tags": [
+      "drink",
+      "south america",
+      "metal"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "tokkuri",
+    "name": "Tokkuri",
+    "category": "Tableware & containers",
+    "invention": {
+      "display": "Edo period (17th century)",
+      "year": 1650,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Japan",
+      "modern_country": "Japan",
+      "notes": "Ceramic sake flasks were used in Japan before the Edo period; the slender-necked tokkuri used for serving sake at the table became common during the Edo period."
+    },
+    "inventor": null,
+    "short_description": "A narrow-necked Japanese ceramic flask for serving sake.",
+    "description": "Sake has long been served from ceramic flasks in Japan, and the slender-necked tokkuri became the standard serving vessel during the Edo period. Its bulbous body holds a small quantity of sake and its narrow neck slows heat loss and gives a gentle pour into small cups. Tokkuri of the same shape are still used in homes and restaurants.",
+    "why_unchanged": "A narrow-necked flask keeps sake warm and pours it gently, so the design has stayed the same.",
+    "materials": [
+      "ceramic",
+      "porcelain",
+      "stoneware"
+    ],
+    "faqs": [
+      {
+        "question": "What is a tokkuri used for?",
+        "answer": "It is used to serve sake at the table, either chilled, at room temperature or warmed."
+      },
+      {
+        "question": "How is sake warmed in a tokkuri?",
+        "answer": "The filled tokkuri is stood in a pan of hot water until the sake reaches the desired warmth, a method called kanzake."
+      },
+      {
+        "question": "What cups go with a tokkuri?",
+        "answer": "Sake from a tokkuri is poured into small cups called ochoko or slightly larger guinomi, and it is customary to pour for others rather than yourself."
+      }
+    ],
+    "image": {
+      "search_query": "tokkuri sake flask",
+      "wikimedia_commons_category": "Tokkuri",
+      "alt": "A ceramic tokkuri sake flask with small cups"
+    },
+    "tags": [
+      "sake",
+      "japan",
+      "ceramic",
+      "early modern"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "quaich",
+    "name": "Quaich",
+    "category": "Tableware & containers",
+    "invention": {
+      "display": "17th century",
+      "year": 1600,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Scotland",
+      "modern_country": "United Kingdom",
+      "notes": "The quaich, a shallow two-handled drinking cup, developed in Scotland; early wooden stave examples and 17th-century silver versions survive, though its earlier origins are unclear."
+    },
+    "inventor": null,
+    "short_description": "A shallow two-handled Scottish drinking cup.",
+    "description": "The quaich is a shallow bowl with two flat handles, traditionally used in Scotland to offer whisky as a sign of friendship. Early quaichs were carved or built from wooden staves, while silver versions appeared in the 17th century. They remain popular as wedding and christening gifts.",
+    "why_unchanged": "A shallow bowl with two handles passes easily from hand to hand, so its form has stayed the same.",
+    "materials": [
+      "wood",
+      "silver",
+      "pewter",
+      "horn"
+    ],
+    "faqs": [
+      {
+        "question": "What is a quaich used for?",
+        "answer": "It is used to share a drink, usually whisky, as a gesture of friendship or welcome."
+      },
+      {
+        "question": "Why does a quaich have two handles?",
+        "answer": "The drinker holds it with both hands, a gesture often explained as showing trust because neither hand is free to hold a weapon."
+      },
+      {
+        "question": "When is a quaich used today?",
+        "answer": "It is a popular part of Scottish weddings, where the couple drink from the same quaich, and a common christening or retirement gift."
+      }
+    ],
+    "image": {
+      "search_query": "scottish quaich silver",
+      "wikimedia_commons_category": "Quaichs",
+      "alt": "A silver quaich with two handles"
+    },
+    "tags": [
+      "drinkware",
+      "scotland",
+      "whisky",
+      "early modern"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "furoshiki",
+    "name": "Furoshiki",
+    "category": "Tableware & containers",
+    "invention": {
+      "display": "Nara period (8th century)",
+      "year": 750,
+      "approximate": true,
+      "era": "Medieval"
+    },
+    "place_of_invention": {
+      "region": "Japan",
+      "modern_country": "Japan",
+      "notes": "Wrapping cloths were used in Japan from the Nara period to protect treasures at the Shōsōin repository; the name furoshiki ('bath spread') comes from the Edo period."
+    },
+    "inventor": null,
+    "short_description": "A square Japanese cloth used to wrap and carry goods.",
+    "description": "Wrapping cloths were used in Japan by the 8th century to protect valuables, including treasures stored at the Shōsōin in Nara. In the Edo period, visitors to public bathhouses wrapped their belongings in a cloth and stood on it while changing, giving rise to the name furoshiki. With a few knots the same square of cloth becomes a bag, a bottle carrier or gift wrapping, and it is now promoted as a reusable alternative to plastic bags.",
+    "why_unchanged": "A square of cloth can wrap almost any object, so the design has stayed the same.",
+    "materials": [
+      "cotton",
+      "silk",
+      "polyester"
+    ],
+    "faqs": [
+      {
+        "question": "What does furoshiki mean?",
+        "answer": "It means 'bath spread', from the Edo-period habit of wrapping belongings in a cloth at public baths."
+      },
+      {
+        "question": "How do you tie a furoshiki?",
+        "answer": "Most wraps place the object in the center and tie opposite corners together in square knots; dozens of named folds exist for bottles, books and boxes."
+      },
+      {
+        "question": "Is furoshiki an eco-friendly alternative to bags?",
+        "answer": "Yes. Japan's Ministry of the Environment has promoted furoshiki as a reusable alternative to plastic bags and disposable gift wrap."
+      }
+    ],
+    "image": {
+      "search_query": "furoshiki wrapping cloth",
+      "wikimedia_commons_category": "Furoshiki",
+      "alt": "A furoshiki cloth tied around a box"
+    },
+    "tags": [
+      "bag",
+      "japan",
+      "textile",
+      "medieval"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "ewer",
+    "name": "Ewer",
+    "category": "Tableware & containers",
+    "invention": {
+      "display": "Bronze Age",
+      "year": -2000,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Near East and Mediterranean",
+      "modern_country": null,
+      "notes": "Jug-shaped pouring vessels with handles and spouts appear in many Bronze Age cultures; the ewer as a basin-and-jug set was common in medieval and early modern Europe."
+    },
+    "inventor": null,
+    "short_description": "A tall jug with a spout, traditionally used for pouring water.",
+    "description": "Tall pouring vessels with a handle and spout have been made since the Bronze Age, in clay and later in bronze, silver and brass. In medieval and early modern Europe, and across the Islamic world, servants poured water from an ewer over diners' hands into a basin. The tall jug with a spout and handle is unchanged, and ewer-and-basin sets were standard bedroom furniture until running water arrived.",
+    "why_unchanged": "A tall jug pours a steady stream of water, so the design has stayed the same.",
+    "materials": [
+      "ceramic",
+      "silver",
+      "brass",
+      "pewter"
+    ],
+    "faqs": [
+      {
+        "question": "What is the difference between an ewer and a jug?",
+        "answer": "An ewer is a jug, usually taller and more decorative, traditionally used for pouring water for washing rather than for drinking."
+      },
+      {
+        "question": "Why did people wash their hands at the table?",
+        "answer": "Before forks were common, people ate with their fingers, so water was poured from an ewer over their hands between courses."
+      },
+      {
+        "question": "What is an ewer and basin set?",
+        "answer": "A matching jug and bowl kept in bedrooms for washing before homes had running water, common in the 18th and 19th centuries."
+      }
+    ],
+    "image": {
+      "search_query": "antique ewer",
+      "wikimedia_commons_category": "Ewers",
+      "alt": "A tall silver ewer"
+    },
+    "tags": [
+      "serveware",
+      "pouring",
+      "ancient",
+      "water"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "calabash-bowl",
+    "name": "Calabash bowl",
+    "category": "Tableware & containers",
+    "invention": {
+      "display": "Prehistoric",
+      "year": -5000,
+      "approximate": true,
+      "era": "Prehistoric"
+    },
+    "place_of_invention": {
+      "region": "Sub-Saharan Africa",
+      "modern_country": null,
+      "notes": "Bottle gourds were used as containers in Africa, Asia and the Americas from prehistoric times; cut calabash bowls remain especially important in West African households. Dating is approximate."
+    },
+    "inventor": null,
+    "short_description": "A bowl made by cutting a dried gourd in half.",
+    "description": "Halving a hard-shelled dried gourd produces a light, durable bowl, a technique used since prehistoric times on several continents. In West Africa calabash bowls are used to serve food, carry goods, measure grain and churn milk, and are often carved or pyrographed with designs. They are still made and used in the same way.",
+    "why_unchanged": "A halved gourd is a ready-made bowl that is light and tough, so there has been nothing to redesign.",
+    "materials": [
+      "calabash",
+      "bottle gourd"
+    ],
+    "faqs": [
+      {
+        "question": "What is a calabash?",
+        "answer": "A calabash is the hard-shelled fruit of the bottle gourd vine, dried and used as a container; the word is also applied to the unrelated calabash tree's fruit."
+      },
+      {
+        "question": "How are calabash bowls decorated?",
+        "answer": "Artisans carve, scratch or burn patterns into the shell, and some dye or polish the surface."
+      },
+      {
+        "question": "Are calabashes used for music?",
+        "answer": "Yes. Halved gourds form the resonators of instruments such as the kora and balafon, and are played as percussion in West Africa."
+      }
+    ],
+    "image": {
+      "search_query": "calabash bowls west africa",
+      "wikimedia_commons_category": "Calabashes",
+      "alt": "Carved calabash bowls on display"
+    },
+    "tags": [
+      "tableware",
+      "africa",
+      "gourd",
+      "prehistoric"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "samovar",
+    "name": "Samovar",
+    "category": "Tableware & containers",
+    "invention": {
+      "display": "1778",
+      "year": 1778,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Tula",
+      "modern_country": "Russia",
+      "notes": "Metal urns for heating water existed earlier, but Tula, where the Lisitsyn brothers are recorded as opening a samovar workshop in 1778, became the center of production and is regarded as the samovar's home."
+    },
+    "inventor": null,
+    "short_description": "A heated metal urn for boiling water for tea, traditional in Russia.",
+    "description": "The samovar heats water using a central tube filled with charcoal or, today, an electric element. Tula became the center of samovar production in the late 18th century. A small teapot of strong tea concentrate sits on top and is diluted with hot water from the tap.",
+    "why_unchanged": "A central heating tube surrounded by water with a tap and a teapot rest serves tea for hours, so the layout endures.",
+    "materials": [
+      "brass",
+      "copper",
+      "nickel silver",
+      "stainless steel"
+    ],
+    "faqs": [
+      {
+        "question": "What does samovar mean?",
+        "answer": "It means 'self-boiler' in Russian."
+      },
+      {
+        "question": "How is tea served from a samovar?",
+        "answer": "Strong tea concentrate from a small teapot on top is diluted in cups with hot water from the samovar's tap."
+      },
+      {
+        "question": "Why is Tula famous for samovars?",
+        "answer": "Tula's metalworking tradition made it the leading center of samovar production from the late 18th century."
+      }
+    ],
+    "image": {
+      "search_query": "brass samovar tea",
+      "wikimedia_commons_category": "Samovars",
+      "alt": "A brass samovar with a teapot on top"
+    },
+    "tags": [
+      "tea",
+      "russia",
+      "metal",
+      "early modern"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "cream-jug",
+    "name": "Cream jug",
+    "category": "Tableware & containers",
+    "invention": {
+      "display": "Early 18th century",
+      "year": 1720,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "England",
+      "modern_country": "United Kingdom",
+      "notes": "Small silver jugs for cream or milk appear in English tea services in the early 18th century as adding milk to tea became fashionable; exact origin is undocumented."
+    },
+    "inventor": null,
+    "short_description": "A small jug for serving milk or cream with tea or coffee.",
+    "description": "As tea and coffee spread in 18th-century England, small silver jugs for cream and milk became part of tea services. Porcelain versions soon followed. The small spouted jug with a handle remains unchanged.",
+    "why_unchanged": "A small spout and handle pour a little milk precisely, so the design hasn't needed changing.",
+    "materials": [
+      "silver",
+      "porcelain",
+      "ceramic",
+      "glass"
+    ],
+    "faqs": [
+      {
+        "question": "Is a creamer the same as a cream jug?",
+        "answer": "Yes, in American English the small jug is usually called a creamer, although the word also refers to non-dairy coffee whiteners."
+      },
+      {
+        "question": "When did people start adding milk to tea?",
+        "answer": "The habit became common in Britain during the 18th century, at the same time cream jugs joined tea services."
+      },
+      {
+        "question": "Why are cream jugs so small?",
+        "answer": "Only a splash of milk or cream is needed per cup, and a small jug keeps it fresh and easy to pour precisely."
+      }
+    ],
+    "image": {
+      "search_query": "silver cream jug",
+      "wikimedia_commons_category": "Cream jugs",
+      "alt": "A small porcelain cream jug"
+    },
+    "tags": [
+      "tea",
+      "coffee",
+      "dairy",
+      "early modern"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "bottle-opener",
+    "name": "Bottle opener",
+    "category": "Tableware & containers",
+    "invention": {
+      "display": "1894",
+      "year": 1894,
+      "approximate": false,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Baltimore, Maryland",
+      "modern_country": "United States",
+      "notes": "William Painter, inventor of the crown cork, patented a simple opener for crown caps in 1894."
+    },
+    "inventor": "William Painter",
+    "short_description": "A tool for prying crown caps off bottles.",
+    "description": "When William Painter patented the crimped crown cork in 1892, drinkers needed a convenient way to remove it. Painter patented a simple hand-held opener in 1894, and openers were soon given away as promotional items by breweries and soda makers. Today's flat metal openers, wall-mounted openers and keyring versions all use the same hooked lever.",
+    "why_unchanged": "A hook that catches the cap's edge and a short lever to pry it up is all the job requires, so the design hasn't changed.",
+    "materials": [
+      "steel",
+      "stainless steel",
+      "brass"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the bottle opener?",
+        "answer": "William Painter, who also invented the crown cork bottle cap, patented an opener for it in 1894."
+      },
+      {
+        "question": "Why is a bottle opener sometimes called a church key?",
+        "answer": "The nickname's origin is uncertain; a common explanation is that early openers resembled the large, simple keys used for old church doors."
+      },
+      {
+        "question": "Why were bottle openers given away for free?",
+        "answer": "Beverage companies printed their brand names on openers and handed them out as advertising, which made them very common collectibles."
+      }
+    ],
+    "image": {
+      "search_query": "metal bottle opener",
+      "wikimedia_commons_category": "Bottle openers",
+      "alt": "A metal bottle opener"
+    },
+    "tags": [
+      "tool",
+      "beverage",
+      "patent",
+      "industrial"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "plastic-carrier-bag",
+    "name": "Plastic carrier bag",
+    "category": "Tableware & containers",
+    "invention": {
+      "display": "1959 (patented 1965)",
+      "year": 1959,
+      "approximate": false,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "Sweden",
+      "modern_country": "Sweden",
+      "notes": "Engineer Sten Gustaf Thulin developed the one-piece polyethylene 'T-shirt' bag for the Swedish company Celloplast, which patented it in 1965."
+    },
+    "inventor": "Sten Gustaf Thulin",
+    "short_description": "A lightweight polyethylene shopping bag with built-in handles.",
+    "description": "Sten Gustaf Thulin devised a way to make a strong bag with handles by folding, welding and cutting a single tube of polyethylene. Celloplast patented the design in 1965, and by the 1980s it had largely replaced paper bags in supermarkets worldwide. Many countries now restrict or charge for these bags because of plastic pollution, but their 'T-shirt' shape is unchanged.",
+    "why_unchanged": "Folding, sealing and cutting a single plastic tube makes a strong, cheap bag with handles, so manufacturers have had no reason to change it.",
+    "materials": [
+      "polyethylene",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the plastic shopping bag?",
+        "answer": "Swedish engineer Sten Gustaf Thulin developed it for the company Celloplast, which patented the design in 1965."
+      },
+      {
+        "question": "Why is it called a T-shirt bag?",
+        "answer": "With its two handles and body, the flattened bag looks like a sleeveless T-shirt."
+      },
+      {
+        "question": "Was the plastic bag meant to be disposable?",
+        "answer": "According to Thulin's family, he intended it as a durable, reusable alternative to paper bags, which required cutting down trees."
+      }
+    ],
+    "image": {
+      "search_query": "plastic shopping bag",
+      "wikimedia_commons_category": "Plastic bags",
+      "alt": "A white plastic carrier bag with handles"
+    },
+    "tags": [
+      "bag",
+      "plastic",
+      "modern",
+      "patent",
+      "sweden"
+    ],
+    "confidence": "high"
+  },
+  {
+    "slug": "sugar-tongs",
+    "name": "Sugar tongs",
+    "category": "Tableware & containers",
+    "invention": {
+      "display": "18th century",
+      "year": 1720,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "England",
+      "modern_country": "United Kingdom",
+      "notes": "Sugar tongs appeared in Europe in the 18th century as tea services became fashionable and sugar was sold in hard lumps; early tongs were scissor-shaped, while spring 'bow' tongs became standard later."
+    },
+    "inventor": null,
+    "short_description": "Small tongs used to pick up sugar cubes.",
+    "description": "In the 18th century, sugar was sold in hard loaves broken into lumps, so tea drinkers used small tongs to pick them up. Early sugar tongs were scissor-like, later replaced by the U-shaped spring bow tongs. They are still part of formal tea sets.",
+    "why_unchanged": "A U-shaped spring with two grips lifts a sugar cube neatly, so the design hasn't changed.",
+    "materials": [
+      "silver",
+      "stainless steel"
+    ],
+    "faqs": [
+      {
+        "question": "Why were sugar tongs used?",
+        "answer": "Sugar was sold as hard lumps cut from sugar loaves, and tongs let guests serve it hygienically."
+      },
+      {
+        "question": "What were early sugar tongs like?",
+        "answer": "Early 18th-century tongs were shaped like small scissors; spring bow tongs became common later in the century."
+      },
+      {
+        "question": "Are sugar tongs still used?",
+        "answer": "Yes, at formal tea services and in hotels serving sugar cubes."
+      }
+    ],
+    "image": {
+      "search_query": "silver sugar tongs cubes",
+      "wikimedia_commons_category": "Sugar tongs",
+      "alt": "Silver sugar tongs holding a sugar cube"
+    },
+    "tags": [
+      "tea",
+      "sugar",
+      "silver",
+      "early modern"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "fiasco",
+    "name": "Fiasco",
+    "category": "Tableware & containers",
+    "invention": {
+      "display": "Medieval period (by 14th century)",
+      "year": 1350,
+      "approximate": true,
+      "era": "Medieval"
+    },
+    "place_of_invention": {
+      "region": "Tuscany",
+      "modern_country": "Italy",
+      "notes": "Round-bottomed, straw-covered glass flasks are recorded in Tuscany by the late Middle Ages and appear in Renaissance paintings; the exact origin is uncertain."
+    },
+    "inventor": null,
+    "short_description": "A round-bottomed glass bottle wrapped in straw, traditionally used for Chianti wine.",
+    "description": "Tuscan glassmakers blew thin, round-bottomed bottles that could not stand on their own, so they were wrapped in straw to protect them and allow them to stand. The fiasco became associated with Chianti wine. It is still made, mostly as a nostalgic package.",
+    "why_unchanged": "A straw jacket protects a thin round bottle and gives it a flat base, so the design hasn't needed to change.",
+    "materials": [
+      "glass",
+      "straw"
+    ],
+    "faqs": [
+      {
+        "question": "Why are Chianti bottles wrapped in straw?",
+        "answer": "The thin round-bottomed glass needed protection and a flat base, which the straw covering provides."
+      },
+      {
+        "question": "Is the word 'fiasco' related to failure?",
+        "answer": "Yes, in English 'fiasco' means a failure; one theory links it to glassblowers turning flawed pieces into flasks, but the origin is uncertain."
+      },
+      {
+        "question": "Are fiaschi still used?",
+        "answer": "Some Chianti producers still use them, though most switched to standard bottles in the late 20th century."
+      }
+    ],
+    "image": {
+      "search_query": "chianti fiasco bottle straw",
+      "wikimedia_commons_category": "Fiaschi",
+      "alt": "A straw-wrapped Chianti bottle"
+    },
+    "tags": [
+      "wine",
+      "italy",
+      "glass",
+      "medieval"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "biscuit-tin",
+    "name": "Biscuit tin",
+    "category": "Tableware & containers",
+    "invention": {
+      "display": "1830s",
+      "year": 1832,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Reading, Berkshire",
+      "modern_country": "United Kingdom",
+      "notes": "Biscuit maker Huntley & Palmers of Reading began selling biscuits in tins in the 1830s, produced by the related tin firm Huntley, Boorne & Stevens; decorated printed tins followed in the 1860s."
+    },
+    "inventor": null,
+    "short_description": "A metal container used to store and sell biscuits.",
+    "description": "Huntley & Palmers began packaging biscuits in tins to keep them fresh during transport. The tins were made by a firm founded by Joseph Huntley's son, and later were decorated with printed designs. Biscuit tins remain a popular way to store and gift biscuits.",
+    "why_unchanged": "A lidded metal box keeps biscuits dry and fresh, so it has not changed.",
+    "materials": [
+      "tinplate",
+      "steel"
+    ],
+    "faqs": [
+      {
+        "question": "Why are biscuits sold in tins?",
+        "answer": "Tins keep biscuits dry and protect them from breaking."
+      },
+      {
+        "question": "Why do people keep sewing kits in biscuit tins?",
+        "answer": "Once empty, the sturdy tins are reused for storage, a popular household habit."
+      },
+      {
+        "question": "Are vintage biscuit tins collectible?",
+        "answer": "Yes, decorative Victorian and Edwardian tins are collectors' items."
+      }
+    ],
+    "image": {
+      "search_query": "vintage biscuit tin",
+      "wikimedia_commons_category": "Biscuit tins",
+      "alt": "A decorated biscuit tin"
+    },
+    "tags": [
+      "storage",
+      "metal",
+      "industrial",
+      "biscuits"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "lazy-susan",
+    "name": "Lazy Susan",
+    "category": "Tableware & containers",
+    "invention": {
+      "display": "18th century (revolving server)",
+      "year": 1750,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "England",
+      "modern_country": "United Kingdom",
+      "notes": "Revolving 'dumbwaiter' trays were used in 18th-century England; the name 'Lazy Susan' appears in an American advertisement in 1917. Claims that Thomas Jefferson or Edison invented it are unsupported."
+    },
+    "inventor": null,
+    "short_description": "A rotating tray placed on a table to share dishes.",
+    "description": "In 18th-century England, revolving trays called dumbwaiters let diners serve themselves. The term 'Lazy Susan' appeared in an American advertisement in 1917. Rotating trays are now common in Chinese restaurants and home kitchens.",
+    "why_unchanged": "A turntable lets everyone reach shared dishes, so its form remains unchanged.",
+    "materials": [
+      "wood",
+      "glass",
+      "metal",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "Why is it called a Lazy Susan?",
+        "answer": "Nobody knows for sure; the name first appears in a 1917 advertisement, and stories about a particular 'Susan' are unverified."
+      },
+      {
+        "question": "Did Thomas Jefferson invent the Lazy Susan?",
+        "answer": "No. That is a popular myth; revolving dumbwaiters were already in use in 18th-century England."
+      },
+      {
+        "question": "Why are Lazy Susans common in Chinese restaurants?",
+        "answer": "Family-style meals share many dishes at a round table, and a turntable lets every diner reach each dish without passing plates."
+      }
+    ],
+    "image": {
+      "search_query": "lazy susan rotating tray",
+      "wikimedia_commons_category": "Lazy Susans",
+      "alt": "A wooden Lazy Susan with dishes"
+    },
+    "tags": [
+      "serveware",
+      "sharing",
+      "early modern"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "tea-chest",
+    "name": "Tea chest",
+    "category": "Tableware & containers",
+    "invention": {
+      "display": "18th century",
+      "year": 1720,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "China",
+      "modern_country": "China",
+      "notes": "Wooden chests lined with lead or foil were used to ship tea from China to Europe from the 17th–18th centuries; they later became popular for moving house."
+    },
+    "inventor": null,
+    "short_description": "A wooden chest, often lined with foil, used to ship tea.",
+    "description": "Tea was shipped from China and later India in wooden chests lined with lead or tin foil to keep it dry. The plywood tea chest became standard in the 20th century. Tea chests were reused for moving house, storage and even as musical instruments.",
+    "why_unchanged": "A light wooden box lined with foil keeps tea dry, so the design remained.",
+    "materials": [
+      "wood",
+      "plywood",
+      "lead foil",
+      "aluminum foil"
+    ],
+    "faqs": [
+      {
+        "question": "Why were tea chests lined?",
+        "answer": "The lining kept tea dry and protected it from odors."
+      },
+      {
+        "question": "Were tea chests used in the Boston Tea Party?",
+        "answer": "Yes, colonists dumped 342 chests of tea into Boston Harbor in 1773."
+      },
+      {
+        "question": "What is a tea chest bass?",
+        "answer": "A homemade bass instrument made from a tea chest, a broom handle and a string, used in skiffle music."
+      }
+    ],
+    "image": {
+      "search_query": "wooden tea chest",
+      "wikimedia_commons_category": "Tea chests",
+      "alt": "A wooden tea chest"
+    },
+    "tags": [
+      "tea",
+      "storage",
+      "wood",
+      "early modern"
+    ],
+    "confidence": "low"
+  }
+]

@@ -1,0 +1,1263 @@
+[
+  {
+    "slug": "viola",
+    "name": "Viola",
+    "category": "Music, sound & signaling",
+    "invention": {
+      "display": "c. 1530s",
+      "year": 1535,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Northern Italy",
+      "modern_country": "Italy",
+      "notes": "Developed alongside the violin in the 16th century; no single inventor is known."
+    },
+    "inventor": null,
+    "short_description": "A bowed string instrument slightly larger and lower than the violin.",
+    "description": "The viola is a slightly larger violin tuned a fifth lower, providing middle harmonies in orchestras and string quartets. It shares the violin's design.",
+    "why_unchanged": "It follows the violin's design, set in the 16th century.",
+    "materials": [
+      "spruce",
+      "maple",
+      "ebony",
+      "gut",
+      "steel"
+    ],
+    "faqs": [
+      {
+        "question": "How is a viola different from a violin?",
+        "answer": "It is larger and tuned lower, with a C string instead of an E string."
+      },
+      {
+        "question": "What clef does it use?",
+        "answer": "Mainly the alto clef."
+      },
+      {
+        "question": "Which composers played viola?",
+        "answer": "Mozart and Dvořák both played viola."
+      }
+    ],
+    "image": {
+      "search_query": "viola string instrument",
+      "wikimedia_commons_category": "Violas",
+      "alt": "A viola"
+    },
+    "tags": [
+      "strings",
+      "italy",
+      "orchestra"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "cello",
+    "name": "Cello",
+    "category": "Music, sound & signaling",
+    "invention": {
+      "display": "c. 1530s",
+      "year": 1535,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Northern Italy",
+      "modern_country": "Italy",
+      "notes": "Developed with the violin family in 16th-century Italy, with Andrea Amati among the earliest known makers; no single inventor is known."
+    },
+    "inventor": null,
+    "short_description": "A large bowed string instrument played seated and held between the knees.",
+    "description": "The cello is the tenor-bass member of the violin family, with four strings tuned an octave below the viola. Early cellos were often larger, but the standard size was settled by about 1700; the adjustable endpin became common in the 19th century.",
+    "why_unchanged": "It shares the violin family's proportions, which Cremonese makers perfected centuries ago.",
+    "materials": [
+      "spruce",
+      "maple",
+      "ebony",
+      "gut",
+      "steel"
+    ],
+    "faqs": [
+      {
+        "question": "What is the cello's full name?",
+        "answer": "Its full name is violoncello, Italian for 'little violone', the violone being a larger bass instrument."
+      },
+      {
+        "question": "How is a cello held?",
+        "answer": "The player sits with the cello between the knees, resting on a metal endpin on the floor."
+      },
+      {
+        "question": "What is the most famous music for solo cello?",
+        "answer": "Johann Sebastian Bach's six Cello Suites are among the best-known and most recorded works for the instrument."
+      }
+    ],
+    "image": {
+      "search_query": "cello with bow",
+      "wikimedia_commons_category": "Cellos",
+      "alt": "A wooden cello with its bow"
+    },
+    "tags": [
+      "strings",
+      "italy",
+      "orchestra"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "double-bass",
+    "name": "Double bass",
+    "category": "Music, sound & signaling",
+    "invention": {
+      "display": "16th century",
+      "year": 1550,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Europe",
+      "modern_country": "Italy",
+      "notes": "Descended from the violone of the viol family; it mixes features of viols and violins, and its precise origins are debated."
+    },
+    "inventor": null,
+    "short_description": "The largest and lowest-pitched bowed string instrument in common use.",
+    "description": "The double bass stands about 1.8 meters tall and is played standing or perched on a high stool, either with a bow or plucked. It anchors the orchestra's bass line and became the backbone of jazz rhythm sections in the 20th century.",
+    "why_unchanged": "Its hybrid viol-violin body has served its role for centuries without major change.",
+    "materials": [
+      "spruce",
+      "maple",
+      "ebony",
+      "steel",
+      "gut"
+    ],
+    "faqs": [
+      {
+        "question": "Is the double bass a violin or a viol?",
+        "answer": "It mixes both: it often has the sloping shoulders and fourth tuning of viols, with other features of the violin family."
+      },
+      {
+        "question": "How is it tuned?",
+        "answer": "Usually in fourths, E-A-D-G from lowest to highest, unlike the fifths of the violin, viola and cello."
+      },
+      {
+        "question": "Why is it plucked in jazz?",
+        "answer": "Plucking, called pizzicato, gives a strong rhythmic pulse that drives the beat of a jazz band."
+      }
+    ],
+    "image": {
+      "search_query": "upright double bass",
+      "wikimedia_commons_category": "Double basses",
+      "alt": "An upright double bass"
+    },
+    "tags": [
+      "strings",
+      "orchestra",
+      "jazz"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "mandolin",
+    "name": "Mandolin",
+    "category": "Music, sound & signaling",
+    "invention": {
+      "display": "18th century",
+      "year": 1750,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Naples",
+      "modern_country": "Italy",
+      "notes": "The Neapolitan mandolin is associated with the Vinaccia family of Naples in the mid-18th century; earlier mandolin-type instruments existed."
+    },
+    "inventor": null,
+    "short_description": "A small lute-family instrument with paired metal strings, played with a pick.",
+    "description": "The mandolin has eight strings in four pairs, tuned like a violin, and is played with a plectrum, often using rapid tremolo. The bowl-backed Neapolitan form remains in use, while a flat-backed American variant became central to bluegrass.",
+    "why_unchanged": "Its paired strings and violin tuning already give volume and agility, so the core design stayed.",
+    "materials": [
+      "spruce",
+      "maple",
+      "rosewood",
+      "steel"
+    ],
+    "faqs": [
+      {
+        "question": "How is a mandolin tuned?",
+        "answer": "Like a violin, G-D-A-E, with each note on a pair of strings."
+      },
+      {
+        "question": "Why are the strings paired?",
+        "answer": "Paired strings increase volume and sustain, and suit the fast tremolo technique."
+      },
+      {
+        "question": "Who made the mandolin central to bluegrass?",
+        "answer": "Bill Monroe, often called the father of bluegrass, made it the genre's signature lead instrument."
+      }
+    ],
+    "image": {
+      "search_query": "neapolitan bowl back mandolin",
+      "wikimedia_commons_category": "Mandolins",
+      "alt": "A bowl-back mandolin"
+    },
+    "tags": [
+      "strings",
+      "italy",
+      "folk"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "balalaika",
+    "name": "Balalaika",
+    "category": "Music, sound & signaling",
+    "invention": {
+      "display": "Late 17th century",
+      "year": 1688,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Russia",
+      "modern_country": "Russia",
+      "notes": "First mentioned in documents from 1688; Vasily Andreyev developed the standardized orchestral family in the 1880s."
+    },
+    "inventor": null,
+    "short_description": "A Russian stringed instrument with a triangular body and three strings.",
+    "description": "The balalaika has a triangular wooden body, a long fretted neck and three strings, played by strumming with the fingers. Vasily Andreyev standardized it in the 1880s into a family of sizes for folk orchestras.",
+    "why_unchanged": "The triangular body and three strings remain its defining and unchanged features.",
+    "materials": [
+      "spruce",
+      "birch",
+      "nylon",
+      "steel"
+    ],
+    "faqs": [
+      {
+        "question": "Why is the balalaika triangular?",
+        "answer": "The shape is easy to build from flat boards and has become its signature look; the reason for its origin is not documented."
+      },
+      {
+        "question": "How many strings does it have?",
+        "answer": "Three; on the common prima balalaika two are tuned to the same note."
+      },
+      {
+        "question": "Are there different sizes?",
+        "answer": "Yes. The family ranges from the small piccolo and prima to the huge contrabass balalaika."
+      }
+    ],
+    "image": {
+      "search_query": "russian balalaika",
+      "wikimedia_commons_category": "Balalaikas",
+      "alt": "A triangular balalaika"
+    },
+    "tags": [
+      "strings",
+      "russia",
+      "folk"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "koto",
+    "name": "Koto",
+    "category": "Music, sound & signaling",
+    "invention": {
+      "display": "7th–8th century",
+      "year": 700,
+      "approximate": true,
+      "era": "Medieval"
+    },
+    "place_of_invention": {
+      "region": "Japan (from China)",
+      "modern_country": "Japan",
+      "notes": "Introduced to Japan from the Chinese zheng family during the Nara period or slightly earlier."
+    },
+    "inventor": null,
+    "short_description": "A long Japanese zither with 13 strings over movable bridges.",
+    "description": "The koto is a long wooden zither, usually with 13 strings stretched over movable bridges, and plucked with picks on the thumb and two fingers. Brought from China in the 7th–8th century, it is regarded as Japan's national instrument.",
+    "why_unchanged": "Movable bridges on a long box give flexible tuning, so the design never needed changing.",
+    "materials": [
+      "paulownia",
+      "silk",
+      "nylon",
+      "ivory"
+    ],
+    "faqs": [
+      {
+        "question": "How is a koto tuned?",
+        "answer": "By sliding the movable bridges under each string to adjust its vibrating length."
+      },
+      {
+        "question": "What are koto picks called?",
+        "answer": "They are called tsume and are worn on the thumb, index and middle fingers."
+      },
+      {
+        "question": "Is the koto related to Chinese instruments?",
+        "answer": "Yes. It derives from the Chinese zheng, and related zithers exist in Korea and Vietnam."
+      }
+    ],
+    "image": {
+      "search_query": "japanese koto",
+      "wikimedia_commons_category": "Koto",
+      "alt": "A long Japanese koto"
+    },
+    "tags": [
+      "strings",
+      "japan",
+      "zither"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "guqin",
+    "name": "Guqin",
+    "category": "Music, sound & signaling",
+    "invention": {
+      "display": "c. 5th century BCE",
+      "year": -433,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "China",
+      "modern_country": "China",
+      "notes": "Early qin-type instruments were excavated from the tomb of Marquis Yi of Zeng (c. 433 BCE); the seven-string form was established by the Han dynasty."
+    },
+    "inventor": null,
+    "short_description": "A seven-string Chinese zither played without bridges.",
+    "description": "The guqin is a long, narrow wooden zither with seven strings and inlaid dots marking harmonic positions. Associated with Confucius and the scholar class, its music is recognized by UNESCO as Intangible Cultural Heritage.",
+    "why_unchanged": "Its seven-string form was fixed in antiquity and is preserved deliberately as part of tradition.",
+    "materials": [
+      "paulownia",
+      "catalpa",
+      "silk",
+      "lacquer"
+    ],
+    "faqs": [
+      {
+        "question": "How old is the guqin?",
+        "answer": "Qin-type instruments were found in a tomb dated to about 433 BCE, and the seven-string form dates to the Han dynasty."
+      },
+      {
+        "question": "What are the dots on the guqin?",
+        "answer": "The 13 inlaid dots, called hui, mark positions for harmonics and stopped notes."
+      },
+      {
+        "question": "Has UNESCO recognized it?",
+        "answer": "Yes. Guqin music was proclaimed a Masterpiece of the Oral and Intangible Heritage of Humanity in 2003."
+      }
+    ],
+    "image": {
+      "search_query": "chinese guqin zither",
+      "wikimedia_commons_category": "Guqin",
+      "alt": "A black lacquered guqin"
+    },
+    "tags": [
+      "strings",
+      "china",
+      "zither"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "erhu",
+    "name": "Erhu",
+    "category": "Music, sound & signaling",
+    "invention": {
+      "display": "c. 10th century",
+      "year": 1000,
+      "approximate": true,
+      "era": "Medieval"
+    },
+    "place_of_invention": {
+      "region": "China",
+      "modern_country": "China",
+      "notes": "Derived from the huqin family of fiddles, associated with peoples of China's northern frontier; dates are debated."
+    },
+    "inventor": null,
+    "short_description": "A two-string Chinese fiddle with the bow hair passing between the strings.",
+    "description": "The erhu has a small hexagonal or round resonator covered with snakeskin, a long neck and two strings, with the bow hair threaded between them. Played upright on the lap, it is the most popular Chinese bowed instrument.",
+    "why_unchanged": "Its two-string, permanently threaded bow design has remained essentially unchanged.",
+    "materials": [
+      "rosewood",
+      "python skin",
+      "steel",
+      "horsehair"
+    ],
+    "faqs": [
+      {
+        "question": "What does 'erhu' mean?",
+        "answer": "'Er' means 'two', referring to its two strings, and 'hu' refers to its origins among northern peoples."
+      },
+      {
+        "question": "Why is the bow stuck between the strings?",
+        "answer": "The bow hair passes between the two strings, so the player presses it against one or the other."
+      },
+      {
+        "question": "What covers the sound box?",
+        "answer": "Traditionally python skin, which gives the erhu its characteristic tone."
+      }
+    ],
+    "image": {
+      "search_query": "chinese erhu fiddle",
+      "wikimedia_commons_category": "Erhu",
+      "alt": "An erhu with its bow"
+    },
+    "tags": [
+      "strings",
+      "china",
+      "bowed"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "hammered-dulcimer",
+    "name": "Hammered dulcimer",
+    "category": "Music, sound & signaling",
+    "invention": {
+      "display": "15th century",
+      "year": 1450,
+      "approximate": true,
+      "era": "Medieval"
+    },
+    "place_of_invention": {
+      "region": "Middle East and Europe",
+      "modern_country": "Iran",
+      "notes": "Related to the Persian santur; it was established in Europe by the 15th century, but its exact origins are uncertain."
+    },
+    "inventor": null,
+    "short_description": "A trapezoid box zither whose strings are struck with small hammers.",
+    "description": "The hammered dulcimer has many strings stretched over a trapezoidal soundboard and bridges, struck with light hammers. It has relatives across the world, including the Persian santur, the Chinese yangqin and the Hungarian cimbalom.",
+    "why_unchanged": "Its strike-the-string principle and trapezoid box remain the same across cultures.",
+    "materials": [
+      "wood",
+      "steel"
+    ],
+    "faqs": [
+      {
+        "question": "Is the hammered dulcimer related to the piano?",
+        "answer": "Indirectly: both produce sound by striking strings with hammers."
+      },
+      {
+        "question": "What is a cimbalom?",
+        "answer": "A large Hungarian concert version with dampers, used in folk and classical music."
+      },
+      {
+        "question": "How is it played?",
+        "answer": "The player strikes the strings with two small, light hammers."
+      }
+    ],
+    "image": {
+      "search_query": "hammered dulcimer with hammers",
+      "wikimedia_commons_category": "Hammered dulcimers",
+      "alt": "A hammered dulcimer with its hammers"
+    },
+    "tags": [
+      "strings",
+      "folk",
+      "medieval"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "appalachian-dulcimer",
+    "name": "Appalachian dulcimer",
+    "category": "Music, sound & signaling",
+    "invention": {
+      "display": "Early 19th century",
+      "year": 1820,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Appalachian Mountains",
+      "modern_country": "United States",
+      "notes": "Probably developed from European fretted zithers such as the German scheitholt; dates are approximate."
+    },
+    "inventor": null,
+    "short_description": "A long, narrow fretted zither played across the lap.",
+    "description": "The Appalachian or mountain dulcimer has a narrow body with a fretboard running its full length and usually three or four strings. It is strummed or plucked on the lap and became a symbol of American folk music in the 1950s and 60s revival.",
+    "why_unchanged": "Its simple diatonic fretboard and lap-held form suit folk melodies, so it was never redesigned.",
+    "materials": [
+      "walnut",
+      "cherry",
+      "spruce",
+      "steel"
+    ],
+    "faqs": [
+      {
+        "question": "How is it played?",
+        "answer": "It rests across the lap and is strummed while a finger or small stick presses the melody string."
+      },
+      {
+        "question": "Is it related to the hammered dulcimer?",
+        "answer": "Not closely. Despite the shared name, it is plucked or strummed, not struck."
+      },
+      {
+        "question": "Who popularized it?",
+        "answer": "Kentucky singer Jean Ritchie brought it to wide audiences during the folk revival."
+      }
+    ],
+    "image": {
+      "search_query": "appalachian mountain dulcimer",
+      "wikimedia_commons_category": "Appalachian dulcimers",
+      "alt": "An Appalachian dulcimer"
+    },
+    "tags": [
+      "strings",
+      "american",
+      "folk"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "musical-bow",
+    "name": "Musical bow",
+    "category": "Music, sound & signaling",
+    "invention": {
+      "display": "Prehistoric (disputed)",
+      "year": -13000,
+      "approximate": true,
+      "era": "Prehistoric"
+    },
+    "place_of_invention": {
+      "region": "Possibly Europe; found worldwide",
+      "modern_country": "France",
+      "notes": "A figure in the Trois-Frères cave painting is sometimes interpreted as playing a musical bow, but this is disputed; musical bows arose in many regions."
+    },
+    "inventor": null,
+    "short_description": "A simple curved stick strung with a single string.",
+    "description": "The musical bow is a flexible stick bent by one string, which is struck or plucked; the player's mouth or a gourd serves as a resonator. It is widespread in Africa and the Americas, including the Brazilian berimbau.",
+    "why_unchanged": "A single string on a bent stick is as simple as a string instrument can be.",
+    "materials": [
+      "wood",
+      "gut",
+      "wire",
+      "gourd"
+    ],
+    "faqs": [
+      {
+        "question": "How is a musical bow played?",
+        "answer": "The string is struck with a stick or plucked, while the mouth or a gourd amplifies the sound."
+      },
+      {
+        "question": "What is a berimbau?",
+        "answer": "It is a Brazilian musical bow with a gourd resonator, used to lead capoeira."
+      },
+      {
+        "question": "Is it the oldest stringed instrument?",
+        "answer": "Many scholars think it may be among the earliest, but the evidence is indirect."
+      }
+    ],
+    "image": {
+      "search_query": "berimbau musical bow",
+      "wikimedia_commons_category": "Musical bows",
+      "alt": "A berimbau musical bow with gourd"
+    },
+    "tags": [
+      "strings",
+      "prehistoric",
+      "africa"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "kora",
+    "name": "Kora",
+    "category": "Music, sound & signaling",
+    "invention": {
+      "display": "17th–18th century (traditional)",
+      "year": 1700,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "West Africa (Mandinka lands)",
+      "modern_country": "Gambia",
+      "notes": "Associated with Mandinka griots in present-day Gambia, Senegal, Mali and Guinea; dating relies on oral history."
+    },
+    "inventor": null,
+    "short_description": "A West African harp-lute with 21 strings and a large gourd body.",
+    "description": "The kora has a large calabash gourd covered in cowhide, a long hardwood neck and usually 21 strings plucked with the thumbs and index fingers. It is played by griots, hereditary musicians who preserve history through song.",
+    "why_unchanged": "Its calabash body and string layout are bound to tradition and have not changed.",
+    "materials": [
+      "calabash",
+      "cowhide",
+      "wood",
+      "nylon"
+    ],
+    "faqs": [
+      {
+        "question": "Who plays the kora?",
+        "answer": "Traditionally jalis, or griots, hereditary Mandinka musicians and oral historians."
+      },
+      {
+        "question": "How many strings does it have?",
+        "answer": "Usually 21, arranged in two rows on either side of the bridge."
+      },
+      {
+        "question": "What is it made from?",
+        "answer": "A large calabash gourd covered in cowhide, with a wooden neck; strings were once leather but are now usually nylon."
+      }
+    ],
+    "image": {
+      "search_query": "west african kora",
+      "wikimedia_commons_category": "Koras",
+      "alt": "A kora with a calabash body"
+    },
+    "tags": [
+      "strings",
+      "africa",
+      "griot"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "psaltery",
+    "name": "Psaltery",
+    "category": "Music, sound & signaling",
+    "invention": {
+      "display": "Medieval period",
+      "year": 1100,
+      "approximate": true,
+      "era": "Medieval"
+    },
+    "place_of_invention": {
+      "region": "Europe and the Near East",
+      "modern_country": null,
+      "notes": "Common in medieval Europe, with roots in older Near Eastern zithers; the date is approximate."
+    },
+    "inventor": null,
+    "short_description": "A plucked box zither with strings stretched over a flat soundboard.",
+    "description": "The psaltery is a flat wooden box with strings plucked by the fingers or a quill. Common in medieval European art and music, it survives in folk instruments such as the Finnish kantele and in the modern bowed psaltery.",
+    "why_unchanged": "A flat box with open strings is simple and effective, so its basic form endured.",
+    "materials": [
+      "wood",
+      "steel",
+      "brass"
+    ],
+    "faqs": [
+      {
+        "question": "Is the psaltery mentioned in the Bible?",
+        "answer": "Yes. The word appears in English translations of the Psalms, translating Hebrew instrument names."
+      },
+      {
+        "question": "How is it played?",
+        "answer": "Strings are plucked with fingers or a quill; bowed versions are played with a small bow."
+      },
+      {
+        "question": "What is a bowed psaltery?",
+        "answer": "A triangular 20th-century variant whose strings are bowed rather than plucked."
+      }
+    ],
+    "image": {
+      "search_query": "psaltery medieval zither",
+      "wikimedia_commons_category": "Psalteries",
+      "alt": "A wooden psaltery"
+    },
+    "tags": [
+      "strings",
+      "medieval",
+      "zither"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "shamisen",
+    "name": "Shamisen",
+    "category": "Music, sound & signaling",
+    "invention": {
+      "display": "16th century",
+      "year": 1560,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Japan (via the Ryukyu Islands)",
+      "modern_country": "Japan",
+      "notes": "Derived from the Okinawan sanshin, itself from the Chinese sanxian, arriving in mainland Japan around the 1560s."
+    },
+    "inventor": null,
+    "short_description": "A three-stringed Japanese lute played with a large plectrum.",
+    "description": "The shamisen has a square wooden body covered with skin on both faces, a long fretless neck and three strings struck with a large plectrum called a bachi. It accompanies kabuki theater, bunraku puppetry and folk song.",
+    "why_unchanged": "The square, skin-covered body and three strings have stayed the same for centuries.",
+    "materials": [
+      "wood",
+      "skin",
+      "silk",
+      "nylon"
+    ],
+    "faqs": [
+      {
+        "question": "What plectrum is used?",
+        "answer": "A large spatula-shaped plectrum called a bachi."
+      },
+      {
+        "question": "Where is the shamisen heard?",
+        "answer": "In kabuki theater, bunraku puppet theater and Japanese folk music."
+      },
+      {
+        "question": "What is Tsugaru-jamisen?",
+        "answer": "A fast, percussive style from northern Japan that is popular with modern audiences."
+      }
+    ],
+    "image": {
+      "search_query": "japanese shamisen",
+      "wikimedia_commons_category": "Shamisen",
+      "alt": "A shamisen with its bachi"
+    },
+    "tags": [
+      "strings",
+      "japan",
+      "lute"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "charango",
+    "name": "Charango",
+    "category": "Music, sound & signaling",
+    "invention": {
+      "display": "18th century",
+      "year": 1750,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Andes",
+      "modern_country": "Bolivia",
+      "notes": "Both Bolivia and Peru claim its origin; it developed from Spanish string instruments during the colonial period."
+    },
+    "inventor": null,
+    "short_description": "A small Andean lute with ten strings in five pairs.",
+    "description": "The charango is a small instrument with ten strings arranged in five courses, traditionally built with an armadillo-shell back. It is central to Andean folk music in Bolivia, Peru, Chile and Argentina.",
+    "why_unchanged": "Its small body and paired strings have remained the standard design.",
+    "materials": [
+      "wood",
+      "armadillo shell",
+      "nylon"
+    ],
+    "faqs": [
+      {
+        "question": "Is the charango made from armadillos?",
+        "answer": "Traditionally the back was an armadillo shell, but most modern charangos are made entirely of wood."
+      },
+      {
+        "question": "How many strings does it have?",
+        "answer": "Usually ten, in five pairs."
+      },
+      {
+        "question": "Which country invented it?",
+        "answer": "Its origin is disputed between Bolivia and Peru."
+      }
+    ],
+    "image": {
+      "search_query": "andean charango",
+      "wikimedia_commons_category": "Charangos",
+      "alt": "A wooden charango"
+    },
+    "tags": [
+      "strings",
+      "andes",
+      "folk"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "tuning-fork",
+    "name": "Tuning fork",
+    "category": "Music, sound & signaling",
+    "invention": {
+      "display": "1711",
+      "year": 1711,
+      "approximate": false,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "England",
+      "modern_country": "United Kingdom",
+      "notes": "Invented by the English trumpeter John Shore."
+    },
+    "inventor": "John Shore",
+    "short_description": "A two-pronged steel fork that rings at a fixed pitch when struck.",
+    "description": "The tuning fork is a U-shaped steel bar on a stem that vibrates at a precise frequency when struck. Invented by John Shore in 1711, it remains used to tune instruments and by doctors to test hearing.",
+    "why_unchanged": "The fork's shape produces a pure, stable pitch, so the design never needed change.",
+    "materials": [
+      "steel",
+      "aluminium",
+      "magnesium alloy"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the tuning fork?",
+        "answer": "John Shore, a trumpeter in England, in 1711."
+      },
+      {
+        "question": "Why do doctors use tuning forks?",
+        "answer": "They help test hearing and nerve sensation, as in the Rinne and Weber hearing tests."
+      },
+      {
+        "question": "What is the most common pitch?",
+        "answer": "A440, the A above middle C at 440 Hz, is the standard tuning reference."
+      }
+    ],
+    "image": {
+      "search_query": "steel tuning fork",
+      "wikimedia_commons_category": "Tuning forks",
+      "alt": "A steel tuning fork"
+    },
+    "tags": [
+      "accessory",
+      "pitch",
+      "early modern"
+    ],
+    "confidence": "high"
+  },
+  {
+    "slug": "metronome",
+    "name": "Metronome",
+    "category": "Music, sound & signaling",
+    "invention": {
+      "display": "1815",
+      "year": 1815,
+      "approximate": false,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Vienna and Amsterdam",
+      "modern_country": "Austria",
+      "notes": "Johann Maelzel patented it in 1815, but it was based on a double-pendulum design by Dietrich Nikolaus Winkel, who successfully claimed priority."
+    },
+    "inventor": "Johann Nepomuk Maelzel",
+    "short_description": "A clockwork pendulum device that ticks at an adjustable tempo.",
+    "description": "The mechanical metronome uses an inverted pendulum with a sliding weight that sets the beats per minute. Patented by Maelzel in 1815, its pyramid-shaped design is still sold today alongside digital versions.",
+    "why_unchanged": "A spring-driven pendulum keeps reliable time without batteries, so the design endured.",
+    "materials": [
+      "wood",
+      "metal",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the metronome?",
+        "answer": "Johann Maelzel patented it in 1815, using a design by Dietrich Winkel."
+      },
+      {
+        "question": "What does 'M.M.' mean in sheet music?",
+        "answer": "It stands for 'Maelzel's Metronome', followed by beats per minute."
+      },
+      {
+        "question": "Did Beethoven use it?",
+        "answer": "Yes. Beethoven was one of the first composers to add metronome markings to his works."
+      }
+    ],
+    "image": {
+      "search_query": "mechanical pyramid metronome",
+      "wikimedia_commons_category": "Metronomes",
+      "alt": "A wooden pyramid metronome"
+    },
+    "tags": [
+      "accessory",
+      "tempo",
+      "industrial"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "music-stand",
+    "name": "Music stand",
+    "category": "Music, sound & signaling",
+    "invention": {
+      "display": "Uncertain",
+      "year": 1600,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Europe",
+      "modern_country": null,
+      "notes": "Developed from medieval lecterns and choir desks; the date is approximate."
+    },
+    "inventor": null,
+    "short_description": "An adjustable stand that holds sheet music for a performer.",
+    "description": "The music stand is a tilted desk mounted on a stand to hold sheet music at a convenient height. Lecterns held music in medieval churches, and folding metal stands became common in the 19th century.",
+    "why_unchanged": "A tilted surface at eye level is all that is needed.",
+    "materials": [
+      "steel",
+      "wood",
+      "aluminium"
+    ],
+    "faqs": [
+      {
+        "question": "What came before the music stand?",
+        "answer": "Lecterns and choir desks used in churches to hold large music books."
+      },
+      {
+        "question": "Why are music stands adjustable?",
+        "answer": "Players may sit or stand, and need the music at eye level."
+      },
+      {
+        "question": "What is a conductor's stand?",
+        "answer": "A larger, sturdier stand that holds a full orchestral score."
+      }
+    ],
+    "image": {
+      "search_query": "folding music stand",
+      "wikimedia_commons_category": "Music stands",
+      "alt": "A black folding music stand"
+    },
+    "tags": [
+      "accessory",
+      "sheet music"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "guitar-pick",
+    "name": "Guitar pick",
+    "category": "Music, sound & signaling",
+    "invention": {
+      "display": "Antiquity",
+      "year": -500,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Ancient Greece",
+      "modern_country": "Greece",
+      "notes": "Plectra were used for lyres in ancient Greece; similar picks were used in other cultures. Date is approximate."
+    },
+    "inventor": null,
+    "short_description": "A small flat tool used to pluck or strum strings.",
+    "description": "The guitar pick, or plectrum, is a small flat piece of material held between the fingers to pluck strings. Ancient Greek lyre players used plectra, and modern picks use celluloid and nylon in place of tortoiseshell.",
+    "why_unchanged": "A small flat triangle is the simplest efficient shape for plucking strings.",
+    "materials": [
+      "celluloid",
+      "nylon",
+      "tortoiseshell",
+      "metal"
+    ],
+    "faqs": [
+      {
+        "question": "What were picks made from before plastic?",
+        "answer": "Tortoiseshell was popular, along with bone, wood and feathers."
+      },
+      {
+        "question": "Why do picks come in different thicknesses?",
+        "answer": "Thin picks are good for strumming; thicker ones give control for single notes."
+      },
+      {
+        "question": "What does 'plectrum' mean?",
+        "answer": "It comes from Greek 'plektron', meaning something to strike with."
+      }
+    ],
+    "image": {
+      "search_query": "guitar picks",
+      "wikimedia_commons_category": "Plectrums",
+      "alt": "Several guitar picks"
+    },
+    "tags": [
+      "accessory",
+      "guitar",
+      "ancient"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "violin-bow",
+    "name": "Violin bow",
+    "category": "Music, sound & signaling",
+    "invention": {
+      "display": "c. 1785",
+      "year": 1785,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Paris",
+      "modern_country": "France",
+      "notes": "François Xavier Tourte established the modern bow form in the late 18th century; earlier bows were shaped differently."
+    },
+    "inventor": "François Xavier Tourte",
+    "short_description": "A stick strung with horsehair used to play the violin and related instruments.",
+    "description": "The violin bow is a curved stick of pernambuco wood strung with horsehair. François Xavier Tourte fixed its modern form and proportions around 1785, which remains standard today.",
+    "why_unchanged": "Tourte's design gives balance and control, so bow makers still follow it.",
+    "materials": [
+      "pernambuco",
+      "horsehair",
+      "carbon fiber"
+    ],
+    "faqs": [
+      {
+        "question": "Who designed the modern bow?",
+        "answer": "François Xavier Tourte in Paris, around 1785."
+      },
+      {
+        "question": "What is rosin?",
+        "answer": "A resin rubbed on bow hair to create friction so the strings vibrate."
+      },
+      {
+        "question": "Why use horsehair?",
+        "answer": "Its microscopic texture grips the string when rosined; synthetic alternatives exist but horsehair remains standard."
+      }
+    ],
+    "image": {
+      "search_query": "violin bow horsehair",
+      "wikimedia_commons_category": "Bows (music)",
+      "alt": "A violin bow"
+    },
+    "tags": [
+      "accessory",
+      "strings",
+      "early modern"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "conductors-baton",
+    "name": "Conductor's baton",
+    "category": "Music, sound & signaling",
+    "invention": {
+      "display": "Early 19th century",
+      "year": 1820,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Germany and England",
+      "modern_country": null,
+      "notes": "Louis Spohr claimed to have introduced the baton in London in 1820, but this is disputed and other conductors used batons around the same time."
+    },
+    "inventor": null,
+    "short_description": "A slim stick used by conductors to direct an orchestra.",
+    "description": "The conductor's baton is a short, light stick with a handle that makes beat patterns clearly visible. It became standard in the 19th century, replacing rolled-up paper, violin bows and staffs.",
+    "why_unchanged": "A light stick is the clearest way to show the beat, so it never changed.",
+    "materials": [
+      "wood",
+      "fiberglass",
+      "cork"
+    ],
+    "faqs": [
+      {
+        "question": "When did batons become common?",
+        "answer": "During the early 19th century, as orchestras grew larger."
+      },
+      {
+        "question": "Do all conductors use a baton?",
+        "answer": "No. Some, especially choral conductors, prefer their hands."
+      },
+      {
+        "question": "How did conductors keep time before batons?",
+        "answer": "They used rolled paper, a violin bow or a heavy staff."
+      }
+    ],
+    "image": {
+      "search_query": "conductor baton",
+      "wikimedia_commons_category": "Batons (conducting)",
+      "alt": "A conductor's baton"
+    },
+    "tags": [
+      "accessory",
+      "orchestra"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "megaphone",
+    "name": "Megaphone",
+    "category": "Music, sound & signaling",
+    "invention": {
+      "display": "c. 1670s",
+      "year": 1670,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "England",
+      "modern_country": "United Kingdom",
+      "notes": "Samuel Morland published a speaking trumpet in 1671, but Athanasius Kircher also claimed the idea; Edison coined the name 'megaphone' in 1878 for a different listening device."
+    },
+    "inventor": null,
+    "short_description": "A cone that directs and amplifies the voice without electricity.",
+    "description": "The acoustic megaphone is a cone-shaped horn that focuses the voice in one direction and makes it carry farther. Early speaking trumpets were used on ships to hail other vessels, and the same simple cone is still used by cheerleaders, coaches and lifeguards.",
+    "why_unchanged": "A cone directs sound efficiently with no power, so the basic shape never changed.",
+    "materials": [
+      "metal",
+      "cardboard",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the megaphone?",
+        "answer": "Credit is disputed between Samuel Morland and Athanasius Kircher."
+      },
+      {
+        "question": "Who named it?",
+        "answer": "Thomas Edison coined 'megaphone' in 1878."
+      },
+      {
+        "question": "Where are acoustic megaphones still used?",
+        "answer": "In cheerleading, sports coaching and lifeguarding."
+      }
+    ],
+    "image": {
+      "search_query": "cheerleading megaphone",
+      "wikimedia_commons_category": "Megaphones",
+      "alt": "A megaphone"
+    },
+    "tags": [
+      "signal",
+      "voice"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "ear-trumpet",
+    "name": "Ear trumpet",
+    "category": "Music, sound & signaling",
+    "invention": {
+      "display": "17th century",
+      "year": 1630,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Europe",
+      "modern_country": "France",
+      "notes": "Described by Jean Leurechon in 1624; earlier use with animal horns is likely."
+    },
+    "inventor": null,
+    "short_description": "A funnel held to the ear to aid hearing.",
+    "description": "The ear trumpet is a horn-shaped funnel whose wide end gathers sound and whose narrow end is placed in the ear. Made of metal, horn or wood, it was the main hearing aid from the 17th century until electric hearing aids spread in the 20th century.",
+    "why_unchanged": "A funnel concentrates sound passively, needing no power or adjustment.",
+    "materials": [
+      "metal",
+      "horn",
+      "wood"
+    ],
+    "faqs": [
+      {
+        "question": "When were they used?",
+        "answer": "From the 17th century until the 20th century."
+      },
+      {
+        "question": "Did Beethoven use ear trumpets?",
+        "answer": "Yes. Johann Maelzel made several for him."
+      },
+      {
+        "question": "Are they still made?",
+        "answer": "Rarely, mostly as novelties or collectibles."
+      }
+    ],
+    "image": {
+      "search_query": "ear trumpet antique",
+      "wikimedia_commons_category": "Ear trumpets",
+      "alt": "An antique ear trumpet"
+    },
+    "tags": [
+      "sound",
+      "hearing"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "signal-flag",
+    "name": "Signal flag",
+    "category": "Music, sound & signaling",
+    "invention": {
+      "display": "17th century",
+      "year": 1650,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "European navies",
+      "modern_country": null,
+      "notes": "Flags were used for signaling earlier; date is approximate."
+    },
+    "inventor": null,
+    "short_description": "A colored flag hoisted to send messages, especially between ships.",
+    "description": "Signal flags are brightly colored flags hoisted on a ship's halyards to send messages visually. Navies developed flag codes in the 17th and 18th centuries, and today the International Code of Signals assigns each flag a letter and a standard meaning.",
+    "why_unchanged": "Bold colored cloth is visible at a distance and works without power or radio.",
+    "materials": [
+      "cloth",
+      "nylon"
+    ],
+    "faqs": [
+      {
+        "question": "What is the International Code of Signals?",
+        "answer": "It is an international system in which each flag stands for a letter and also carries a standard meaning when flown alone."
+      },
+      {
+        "question": "What famous signal was sent by flags?",
+        "answer": "Before the Battle of Trafalgar in 1805, Admiral Nelson signaled 'England expects that every man will do his duty' using Popham's flag code."
+      },
+      {
+        "question": "Are signal flags still used?",
+        "answer": "Yes, as a backup to radio, in harbors and for ceremonial 'dressing' of ships on special occasions."
+      }
+    ],
+    "image": {
+      "search_query": "maritime signal flags",
+      "wikimedia_commons_category": "Signal flags",
+      "alt": "Maritime signal flags"
+    },
+    "tags": [
+      "signal",
+      "maritime"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "percussion-mallet",
+    "name": "Percussion mallet",
+    "category": "Music, sound & signaling",
+    "invention": {
+      "display": "Antiquity",
+      "year": -500,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Worldwide",
+      "modern_country": null,
+      "notes": "Padded and hard beaters developed alongside gongs, xylophones and drums in many cultures; the date is only indicative."
+    },
+    "inventor": null,
+    "short_description": "A stick with a rounded head used to strike gongs, xylophones and drums.",
+    "description": "A percussion mallet is a handle, usually of wood or rattan, topped with a head of rubber, felt, yarn, wood or plastic. Soft heads draw warm tones from gongs and marimbas, while hard heads give bright attacks on xylophones and bells.",
+    "why_unchanged": "A handle with a weighted head is the simplest tool for striking, and only head materials have changed.",
+    "materials": [
+      "wood",
+      "rattan",
+      "felt",
+      "rubber",
+      "yarn"
+    ],
+    "faqs": [
+      {
+        "question": "Why do mallets have different heads?",
+        "answer": "The hardness of the head shapes the tone: soft heads sound warm and mellow, hard heads bright and sharp."
+      },
+      {
+        "question": "What is the difference between a mallet and a drumstick?",
+        "answer": "A mallet has a distinct rounded head, while a drumstick is a tapered stick with a small tip."
+      },
+      {
+        "question": "Why do some players hold four mallets?",
+        "answer": "Marimba and vibraphone players hold two in each hand to play chords."
+      }
+    ],
+    "image": {
+      "search_query": "percussion mallets marimba yarn",
+      "wikimedia_commons_category": "Mallets (percussion)",
+      "alt": "Several percussion mallets with different heads"
+    },
+    "tags": [
+      "percussion",
+      "accessory",
+      "ancient"
+    ],
+    "confidence": "low"
+  }
+]

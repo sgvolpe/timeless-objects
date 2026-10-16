@@ -1,0 +1,1293 @@
+[
+  {
+    "slug": "darts",
+    "name": "Darts",
+    "category": "Toys, games & sports",
+    "invention": {
+      "display": "c. 1890",
+      "year": 1890,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "England",
+      "modern_country": "United Kingdom",
+      "notes": "Darts as a pub game developed in late 19th-century England; a popular story links it to archers throwing cut-down arrows, but this is unproven."
+    },
+    "inventor": null,
+    "short_description": "Small weighted, flighted arrows thrown by hand at a target board.",
+    "description": "Throwing short arrows at a target became a popular English pub game in the late 19th century, and darts with wooden barrels and feather flights were common by the early 1900s. Modern darts use tungsten barrels and plastic flights, but the shape of point, barrel, shaft and flight is the same. Darts is now a major televised sport.",
+    "why_unchanged": "A weighted point at the front and stabilizing flights at the back are what make a dart fly straight.",
+    "materials": [
+      "wood",
+      "brass",
+      "tungsten",
+      "feathers",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "Where did the game of darts begin?",
+        "answer": "Darts as we know it developed in English pubs in the late 19th century."
+      },
+      {
+        "question": "Why are modern darts made of tungsten?",
+        "answer": "Tungsten is very dense, so the barrel can be slim yet heavy, allowing darts to cluster tightly on the board."
+      },
+      {
+        "question": "What are flights for?",
+        "answer": "Flights stabilize the dart in the air, much like the feathers on an arrow."
+      }
+    ],
+    "image": {
+      "search_query": "set of darts with flights",
+      "wikimedia_commons_category": "Darts (equipment)",
+      "alt": "Three darts with colourful flights"
+    },
+    "tags": [
+      "sports",
+      "pub games",
+      "throwing",
+      "industrial"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "dartboard",
+    "name": "Dartboard",
+    "category": "Toys, games & sports",
+    "invention": {
+      "display": "1896",
+      "year": 1896,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Lancashire, England",
+      "modern_country": "United Kingdom",
+      "notes": "The standard 'clock' numbering is often credited to Brian Gamlin in 1896, but his existence is unverified; Thomas William Buckle (c. 1913) is another claimant."
+    },
+    "inventor": null,
+    "short_description": "A round target divided into numbered segments with doubles, trebles and a bullseye.",
+    "description": "The standard clock-face dartboard numbering, which places high numbers beside low ones to punish inaccuracy, was in use by the early 20th century. Early boards were made from elm and had to be soaked to heal the holes, until sisal-fibre bristle boards took over from the 1930s. The board's layout of 20 segments, double and treble rings and bullseye remains standard worldwide.",
+    "why_unchanged": "The numbering scheme balances risk and reward so well that it has been kept unchanged for over a century.",
+    "materials": [
+      "sisal",
+      "elm wood",
+      "wire",
+      "paper"
+    ],
+    "faqs": [
+      {
+        "question": "Why are the numbers on a dartboard in that order?",
+        "answer": "The order places high and low numbers next to each other so that inaccurate throws are penalized."
+      },
+      {
+        "question": "What is a bristle dartboard made of?",
+        "answer": "Bristle boards are made of compressed sisal fibres, which close up after a dart is pulled out."
+      },
+      {
+        "question": "How high is a dartboard hung?",
+        "answer": "The centre of the bullseye is placed 1.73 metres (5 feet 8 inches) above the floor."
+      }
+    ],
+    "image": {
+      "search_query": "dartboard with darts",
+      "wikimedia_commons_category": "Dartboards",
+      "alt": "A bristle dartboard with three darts in the treble twenty"
+    },
+    "tags": [
+      "sports",
+      "pub games",
+      "target",
+      "industrial"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "bowling-pin",
+    "name": "Bowling pin",
+    "category": "Toys, games & sports",
+    "invention": {
+      "display": "Medieval period",
+      "year": 1300,
+      "approximate": true,
+      "era": "Medieval"
+    },
+    "place_of_invention": {
+      "region": "German-speaking Europe",
+      "modern_country": "Germany",
+      "notes": "Ninepins (Kegeln) is documented in medieval Germany; objects from an Egyptian grave of about 3200 BCE have been interpreted as a bowling game, but this is debated."
+    },
+    "inventor": null,
+    "short_description": "A bottle-shaped wooden pin set up in groups to be knocked down by a rolled ball.",
+    "description": "Games of knocking down pins with a ball were widespread in medieval Europe, especially the German ninepins. Ten-pin bowling developed in the United States in the 19th century and the pin was standardized by bowling organizations. Modern pins are hard maple coated in plastic, but the narrow-necked, wide-bellied shape is unchanged.",
+    "why_unchanged": "The tall, bottle-like profile makes pins topple and scatter in an exciting way, so the shape has endured.",
+    "materials": [
+      "maple wood",
+      "plastic coating"
+    ],
+    "faqs": [
+      {
+        "question": "How heavy is a bowling pin?",
+        "answer": "A regulation ten-pin bowling pin weighs about 1.4 to 1.6 kg and stands 38 cm tall."
+      },
+      {
+        "question": "Why did bowling switch from nine to ten pins?",
+        "answer": "A popular story says ten pins were adopted in the US to get around laws banning ninepins, but evidence for this is thin."
+      },
+      {
+        "question": "Is bowling an ancient game?",
+        "answer": "Pin games are documented in medieval Europe, and some researchers think similar games existed in ancient Egypt."
+      }
+    ],
+    "image": {
+      "search_query": "ten pin bowling pins",
+      "wikimedia_commons_category": "Bowling pins",
+      "alt": "Ten white bowling pins with red stripes"
+    },
+    "tags": [
+      "sports",
+      "bowling",
+      "medieval",
+      "wood"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "billiard-cue",
+    "name": "Billiard cue",
+    "category": "Toys, games & sports",
+    "invention": {
+      "display": "c. 1680",
+      "year": 1680,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "France and England",
+      "modern_country": "France",
+      "notes": "The cue developed from the butt end of the earlier billiard mace in the late 17th century; the leather tip is credited to François Mingaud in the early 19th century."
+    },
+    "inventor": null,
+    "short_description": "A long tapered stick used to strike balls in billiards, pool and snooker.",
+    "description": "Billiards was first played by pushing balls with a mace, a stick with a broad head. In the late 17th century players began striking with the narrow butt end, which became the cue. The leather tip and chalk added in the early 19th century allowed spin, giving the cue the form it has today.",
+    "why_unchanged": "A straight tapered shaft with a small tip is the most precise way to strike a ball, so the design has stayed.",
+    "materials": [
+      "ash",
+      "maple",
+      "leather",
+      "brass",
+      "carbon fiber"
+    ],
+    "faqs": [
+      {
+        "question": "Where does the word cue come from?",
+        "answer": "It comes from the French 'queue', meaning tail, referring to the narrow end of the old mace."
+      },
+      {
+        "question": "Why do players chalk the tip?",
+        "answer": "Chalk increases friction between tip and ball, preventing miscues and allowing spin."
+      },
+      {
+        "question": "Who added the leather tip?",
+        "answer": "The French player François Mingaud is credited with popularizing the leather cue tip in the early 19th century."
+      }
+    ],
+    "image": {
+      "search_query": "billiard cue and balls on table",
+      "wikimedia_commons_category": "Cue sticks",
+      "alt": "A wooden billiard cue resting on a pool table"
+    },
+    "tags": [
+      "sports",
+      "billiards",
+      "early modern",
+      "wood"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "shuttlecock",
+    "name": "Shuttlecock",
+    "category": "Toys, games & sports",
+    "invention": {
+      "display": "c. 1600",
+      "year": 1600,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "England",
+      "modern_country": "United Kingdom",
+      "notes": "Games with feathered shuttlecocks existed in ancient China, Japan, India and Greece; battledore and shuttlecock was popular in 17th-century England, and badminton emerged in the 1870s."
+    },
+    "inventor": null,
+    "short_description": "A cone of feathers set in a rounded cork base, hit back and forth with rackets in badminton.",
+    "description": "Feathered shuttlecocks were used in battledore and shuttlecock, a children's game popular in early modern Europe, and similar games existed for centuries in Asia. Badminton took shape in the 1870s and was named after Badminton House in England. Top-level shuttlecocks are still made from 16 goose feathers set in a cork base.",
+    "why_unchanged": "Feathers fixed in a weighted base create a high-drag projectile that always flies cork first, which nothing has bettered.",
+    "materials": [
+      "goose feathers",
+      "cork",
+      "leather",
+      "nylon"
+    ],
+    "faqs": [
+      {
+        "question": "How many feathers does a shuttlecock have?",
+        "answer": "A standard feather shuttlecock has 16 overlapping feathers."
+      },
+      {
+        "question": "Why does a shuttlecock always turn cork first?",
+        "answer": "The heavy cork base and high-drag feather skirt make it flip so that the base leads."
+      },
+      {
+        "question": "How fast can a shuttlecock travel?",
+        "answer": "Off a professional smash it can exceed 400 km/h, though it slows down very quickly."
+      }
+    ],
+    "image": {
+      "search_query": "badminton shuttlecock feathers",
+      "wikimedia_commons_category": "Shuttlecocks",
+      "alt": "A white feather shuttlecock with a cork base"
+    },
+    "tags": [
+      "sports",
+      "badminton",
+      "feathers",
+      "early modern"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "hacky-sack",
+    "name": "Hacky sack",
+    "category": "Toys, games & sports",
+    "invention": {
+      "display": "1972",
+      "year": 1972,
+      "approximate": false,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "Oregon City, Oregon",
+      "modern_country": "United States",
+      "notes": "The footbag game was created by John Stalberger and Mike Marshall in 1972; Hacky Sack is a trademark now owned by Wham-O."
+    },
+    "inventor": "John Stalberger and Mike Marshall",
+    "short_description": "A small bean bag kept in the air with the feet in the game of footbag.",
+    "description": "John Stalberger and Mike Marshall developed the hacky sack in 1972 as a fun way to exercise an injured knee. The small, soft bag filled with pellets became a playground and campus staple in the 1980s. Similar foot-juggling games exist in many cultures, such as Southeast Asian sepak takraw and Chinese jianzi.",
+    "why_unchanged": "A small soft bag that doesn't bounce away is exactly what foot juggling needs.",
+    "materials": [
+      "fabric",
+      "leather",
+      "plastic pellets",
+      "sand"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the hacky sack?",
+        "answer": "John Stalberger and Mike Marshall created it in Oregon in 1972."
+      },
+      {
+        "question": "What is footbag?",
+        "answer": "Footbag is the generic name for games played with a small bag kept aloft using the feet."
+      },
+      {
+        "question": "What is the goal of hacky sack?",
+        "answer": "In the casual 'circle' game, players pass the bag around without letting it touch the ground or using their hands."
+      }
+    ],
+    "image": {
+      "search_query": "hacky sack footbag",
+      "wikimedia_commons_category": "Footbags",
+      "alt": "A crocheted hacky sack on grass"
+    },
+    "tags": [
+      "sports",
+      "toys",
+      "modern",
+      "outdoor"
+    ],
+    "confidence": "high"
+  },
+  {
+    "slug": "jacks",
+    "name": "Jacks",
+    "category": "Toys, games & sports",
+    "invention": {
+      "display": "c. 500 BCE",
+      "year": -500,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Ancient Greece",
+      "modern_country": "Greece",
+      "notes": "Jacks descends from knucklebones (astragali), played in ancient Greece and Rome and elsewhere; metal six-pointed jacks with a rubber ball are a later version."
+    },
+    "inventor": null,
+    "short_description": "Small pointed pieces tossed and picked up between bounces of a ball.",
+    "description": "Jacks developed from knucklebones, a game played with sheep ankle bones across the ancient world, notably in Greece and Rome. Players toss the pieces, then pick up one, two or more at a time while a ball or another piece is in the air. Modern sets use six-pointed metal or plastic jacks and a small rubber ball.",
+    "why_unchanged": "Small pieces that can be scattered and grabbed are all the game needs, so its essence is unchanged.",
+    "materials": [
+      "bone",
+      "metal",
+      "plastic",
+      "rubber"
+    ],
+    "faqs": [
+      {
+        "question": "How do you play jacks?",
+        "answer": "You scatter the jacks, bounce the ball, pick up a set number of jacks and catch the ball before it bounces twice."
+      },
+      {
+        "question": "Where does jacks come from?",
+        "answer": "It comes from knucklebones, an ancient game played with small animal bones."
+      },
+      {
+        "question": "What are 'onesies' and 'twosies'?",
+        "answer": "They are the rounds of the game where you pick up the jacks one at a time, then two at a time, and so on."
+      }
+    ],
+    "image": {
+      "search_query": "metal jacks and rubber ball game",
+      "wikimedia_commons_category": "Jacks (game)",
+      "alt": "Metal jacks and a red rubber ball on a table"
+    },
+    "tags": [
+      "toys",
+      "children",
+      "ancient",
+      "games"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "pick-up-sticks",
+    "name": "Pick-up sticks",
+    "category": "Toys, games & sports",
+    "invention": {
+      "display": "19th century",
+      "year": 1850,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Europe",
+      "modern_country": "Germany",
+      "notes": "The game, known as Mikado in much of Europe, was popular in the 19th century; claims of an ancient Chinese origin are unverified."
+    },
+    "inventor": null,
+    "short_description": "A bundle of thin sticks dropped in a pile and removed one by one without moving the others.",
+    "description": "Pick-up sticks, also called Mikado or spillikins, became a popular parlour game in 19th-century Europe and America. Players drop a bundle of sticks and then take turns removing one at a time without disturbing the others. Sticks are coloured or banded to show their point value.",
+    "why_unchanged": "A handful of thin sticks is all the game needs, and its challenge depends on that simplicity.",
+    "materials": [
+      "wood",
+      "bamboo",
+      "plastic",
+      "bone"
+    ],
+    "faqs": [
+      {
+        "question": "What is Mikado?",
+        "answer": "Mikado is the European name for pick-up sticks, in which the highest-scoring stick is called the Mikado."
+      },
+      {
+        "question": "What is the rule if another stick moves?",
+        "answer": "If any other stick moves while you are picking one up, your turn ends."
+      },
+      {
+        "question": "What is another old name for the game?",
+        "answer": "In Britain it was traditionally called spillikins or jackstraws."
+      }
+    ],
+    "image": {
+      "search_query": "pick-up sticks game mikado",
+      "wikimedia_commons_category": "Mikado (game)",
+      "alt": "Coloured pick-up sticks scattered on a table"
+    },
+    "tags": [
+      "games",
+      "toys",
+      "dexterity",
+      "industrial"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "seesaw",
+    "name": "Seesaw",
+    "category": "Toys, games & sports",
+    "invention": {
+      "display": "17th century",
+      "year": 1650,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "England",
+      "modern_country": "United Kingdom",
+      "notes": "The English word 'see-saw' is recorded in the 1600s; the Korean seesaw game neolttwigi is also centuries old."
+    },
+    "inventor": null,
+    "short_description": "A long board balanced on a central pivot that two riders tip up and down.",
+    "description": "A plank balanced on a pivot is one of the simplest playground devices, known in Europe at least since the 17th century and in Korea as the traditional standing seesaw game neolttwigi. It became a standard fixture of playgrounds in the late 19th and early 20th centuries. Its fun comes from a simple lever: when one side goes down, the other goes up.",
+    "why_unchanged": "A lever on a fulcrum is the whole toy, so its form cannot be simplified.",
+    "materials": [
+      "wood",
+      "steel",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "What is another name for a seesaw?",
+        "answer": "In parts of the US it is called a teeter-totter."
+      },
+      {
+        "question": "What physics does a seesaw demonstrate?",
+        "answer": "It is a lever: a lighter rider can balance a heavier one by sitting farther from the pivot."
+      },
+      {
+        "question": "What is neolttwigi?",
+        "answer": "It is a traditional Korean game in which players stand on the ends of a board and bounce each other high into the air."
+      }
+    ],
+    "image": {
+      "search_query": "playground seesaw",
+      "wikimedia_commons_category": "Seesaws",
+      "alt": "Two children on a playground seesaw"
+    },
+    "tags": [
+      "playground",
+      "children",
+      "outdoor",
+      "early modern"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "swing",
+    "name": "Swing",
+    "category": "Toys, games & sports",
+    "invention": {
+      "display": "c. 1450 BCE",
+      "year": -1450,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Minoan Crete",
+      "modern_country": "Greece",
+      "notes": "A clay figurine of a woman on a swing from Hagia Triada, Crete (c. 1450 BCE) is an early depiction; swings appear in many ancient cultures."
+    },
+    "inventor": null,
+    "short_description": "A seat hung from ropes or chains that moves back and forth like a pendulum.",
+    "description": "Swinging is shown in Minoan art from Crete and in ancient Greek vase painting, where it was associated with festivals. Swings are found across cultures, from India's festival swings to European garden swings. Playground swings with chains and rubber seats became common in the 20th century.",
+    "why_unchanged": "A seat on two suspension lines is all a pendulum ride requires.",
+    "materials": [
+      "wood",
+      "rope",
+      "chain",
+      "rubber"
+    ],
+    "faqs": [
+      {
+        "question": "How old is the swing?",
+        "answer": "A Minoan figurine from about 1450 BCE shows a person on a swing, and swings were well known in ancient Greece."
+      },
+      {
+        "question": "How do you swing higher without a push?",
+        "answer": "Pumping your legs and leaning at the right moments shifts your centre of mass, adding energy to each swing."
+      },
+      {
+        "question": "What physics explains a swing?",
+        "answer": "A swing behaves like a pendulum, trading height for speed and back again."
+      }
+    ],
+    "image": {
+      "search_query": "playground swing",
+      "wikimedia_commons_category": "Swings",
+      "alt": "A wooden swing hanging from a tree"
+    },
+    "tags": [
+      "playground",
+      "children",
+      "ancient",
+      "outdoor"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "playground-slide",
+    "name": "Playground slide",
+    "category": "Toys, games & sports",
+    "invention": {
+      "display": "c. 1922",
+      "year": 1922,
+      "approximate": true,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "Kettering, England",
+      "modern_country": "United Kingdom",
+      "notes": "The slide at Wicksteed Park, installed in the early 1920s, is often called the oldest surviving playground slide; earlier slides existed in US playgrounds."
+    },
+    "inventor": null,
+    "short_description": "A smooth inclined chute that children climb up to and slide down.",
+    "description": "Playground slides appeared in the early 20th century as public playgrounds spread in Britain and the United States. One of the oldest surviving examples was built by Charles Wicksteed for his park in Kettering, England. Modern slides are made of plastic or stainless steel, but the ladder-and-chute design is unchanged.",
+    "why_unchanged": "A ladder and a smooth slope are all a slide needs, and gravity does the rest.",
+    "materials": [
+      "wood",
+      "steel",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "Where is the oldest playground slide?",
+        "answer": "The slide at Wicksteed Park in England, from the early 1920s, is often called the oldest surviving one."
+      },
+      {
+        "question": "Why are some slides made of plastic?",
+        "answer": "Plastic stays cooler in the sun than metal and can be moulded into tubes and spirals."
+      },
+      {
+        "question": "Why can slides give you a static shock?",
+        "answer": "Friction between clothing and plastic builds up static electricity as you slide."
+      }
+    ],
+    "image": {
+      "search_query": "playground slide",
+      "wikimedia_commons_category": "Playground slides",
+      "alt": "A metal slide in a children's playground"
+    },
+    "tags": [
+      "playground",
+      "children",
+      "modern",
+      "outdoor"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "sled",
+    "name": "Sled",
+    "category": "Toys, games & sports",
+    "invention": {
+      "display": "c. 7000 BCE",
+      "year": -7000,
+      "approximate": true,
+      "era": "Prehistoric"
+    },
+    "place_of_invention": {
+      "region": "Finland",
+      "modern_country": "Finland",
+      "notes": "Fragments of sledge runners from Finland date to the Mesolithic; sleds were likely used across northern regions."
+    },
+    "inventor": null,
+    "short_description": "A vehicle on runners for sliding over snow and ice.",
+    "description": "Sleds are among the oldest vehicles, with runner fragments from Mesolithic Finland and long use across the Arctic for transport. Children's sleds for sliding downhill became popular in the 19th century, including the steerable Flexible Flyer patented in 1889. The basic deck on runners has stayed the same.",
+    "why_unchanged": "A platform on smooth runners is the most efficient way to glide over snow.",
+    "materials": [
+      "wood",
+      "steel",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "How old is the sled?",
+        "answer": "Sled runner fragments from Finland are around 9,000 years old, making sleds one of the oldest vehicles."
+      },
+      {
+        "question": "What is the difference between a sled and a toboggan?",
+        "answer": "A sled has runners, while a toboggan has a flat bottom that rests directly on the snow."
+      },
+      {
+        "question": "What was the Flexible Flyer?",
+        "answer": "It was a steerable sled patented by Samuel Leeds Allen in 1889, which became a classic American toy."
+      }
+    ],
+    "image": {
+      "search_query": "wooden snow sled",
+      "wikimedia_commons_category": "Sleds",
+      "alt": "A wooden sled with metal runners in the snow"
+    },
+    "tags": [
+      "winter",
+      "snow",
+      "prehistoric",
+      "outdoor"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "ice-skates",
+    "name": "Ice skates",
+    "category": "Toys, games & sports",
+    "invention": {
+      "display": "c. 3000 BCE",
+      "year": -3000,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Finland",
+      "modern_country": "Finland",
+      "notes": "Bone skates were used in northern Europe for millennia; research suggests they may have originated in Finland. Steel-edged skates developed in the Netherlands in the 13th–14th centuries."
+    },
+    "inventor": null,
+    "short_description": "Boots or frames fitted with blades for gliding over ice.",
+    "description": "The earliest skates were animal bones strapped to the feet, used in northern Europe at least 4,000–5,000 years ago. Dutch craftsmen introduced sharpened metal blades in the late Middle Ages, allowing skaters to push off and glide. Today's figure, hockey and speed skates refine the same blade-under-boot design.",
+    "why_unchanged": "A narrow blade under the foot is what allows gliding on ice, and that principle cannot change.",
+    "materials": [
+      "bone",
+      "iron",
+      "steel",
+      "leather"
+    ],
+    "faqs": [
+      {
+        "question": "What were the first ice skates made of?",
+        "answer": "They were made of flattened animal bones strapped to the feet."
+      },
+      {
+        "question": "Why do ice skates glide?",
+        "answer": "A thin layer of water and loosely bound molecules at the ice surface reduces friction under the blade."
+      },
+      {
+        "question": "Why do figure skates have toe picks?",
+        "answer": "The serrated toe pick helps figure skaters grip the ice for jumps and spins."
+      }
+    ],
+    "image": {
+      "search_query": "ice skates on frozen lake",
+      "wikimedia_commons_category": "Ice skates",
+      "alt": "A pair of ice skates on a frozen pond"
+    },
+    "tags": [
+      "winter",
+      "ice",
+      "ancient",
+      "sports"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "skis",
+    "name": "Skis",
+    "category": "Toys, games & sports",
+    "invention": {
+      "display": "c. 6000 BCE",
+      "year": -6000,
+      "approximate": true,
+      "era": "Prehistoric"
+    },
+    "place_of_invention": {
+      "region": "Northern Russia and Scandinavia",
+      "modern_country": "Russia",
+      "notes": "Ski fragments from Vis I near Lake Sindor (Russia) date to around 6000 BCE; rock carvings in Norway and claims from China's Altai region are also cited."
+    },
+    "inventor": null,
+    "short_description": "Long, narrow boards attached to boots for gliding over snow.",
+    "description": "Skis were invented thousands of years ago for travel and hunting in snowy northern lands, with ancient fragments found in Russia and Scandinavia. Norwegian innovations in the 19th century turned skiing into a sport. Modern skis use composite materials and shaped sidecuts, but remain long boards bound to the feet.",
+    "why_unchanged": "Spreading weight on long, smooth boards is the essential solution for travelling over snow.",
+    "materials": [
+      "wood",
+      "fiberglass",
+      "steel",
+      "carbon fiber"
+    ],
+    "faqs": [
+      {
+        "question": "How old are skis?",
+        "answer": "The oldest ski fragments are about 8,000 years old, found in northern Russia."
+      },
+      {
+        "question": "Where did skiing become a sport?",
+        "answer": "Skiing as a sport developed in 19th-century Norway, especially the Telemark region."
+      },
+      {
+        "question": "Why are skis curved up at the front?",
+        "answer": "The upturned tip helps the ski ride over the snow instead of digging in."
+      }
+    ],
+    "image": {
+      "search_query": "wooden skis vintage",
+      "wikimedia_commons_category": "Skis",
+      "alt": "A pair of skis standing in the snow"
+    },
+    "tags": [
+      "winter",
+      "snow",
+      "prehistoric",
+      "sports"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "snowshoes",
+    "name": "Snowshoes",
+    "category": "Toys, games & sports",
+    "invention": {
+      "display": "c. 4000 BCE",
+      "year": -4000,
+      "approximate": true,
+      "era": "Prehistoric"
+    },
+    "place_of_invention": {
+      "region": "Central Asia (probable); Alps (oldest find)",
+      "modern_country": "Italy",
+      "notes": "Snowshoes are believed to have originated in Central Asia; one of the oldest surviving examples, from the Italian Alps, dates to around 3800 BCE."
+    },
+    "inventor": null,
+    "short_description": "Wide frames worn under the boots to spread weight and keep from sinking into snow.",
+    "description": "Snowshoes spread a walker's weight over a larger area so they do not sink into deep snow. They are thought to have originated in Central Asia, and one of the oldest examples, found in the Alps, is nearly 6,000 years old. Indigenous peoples of North America developed many refined designs of wooden frames laced with rawhide.",
+    "why_unchanged": "Distributing body weight over a large area is the whole principle, so the shape has persisted.",
+    "materials": [
+      "wood",
+      "rawhide",
+      "aluminum",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "How do snowshoes work?",
+        "answer": "They spread your weight over a larger surface, so you stay on top of deep snow instead of sinking."
+      },
+      {
+        "question": "How old are snowshoes?",
+        "answer": "One of the oldest known pairs, from the Italian Alps, is about 5,800 years old."
+      },
+      {
+        "question": "Who developed traditional snowshoe designs?",
+        "answer": "Indigenous peoples of North America created many styles, such as the bear paw and the long-tailed Ojibwe shoe."
+      }
+    ],
+    "image": {
+      "search_query": "traditional wooden snowshoes",
+      "wikimedia_commons_category": "Snowshoes",
+      "alt": "Traditional wooden snowshoes laced with rawhide"
+    },
+    "tags": [
+      "winter",
+      "snow",
+      "ancient",
+      "outdoor"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "dumbbell",
+    "name": "Dumbbell",
+    "category": "Toys, games & sports",
+    "invention": {
+      "display": "by 1711",
+      "year": 1711,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "England",
+      "modern_country": "United Kingdom",
+      "notes": "The term 'dumb bell' appears in early 18th-century England; ancient Greek athletes used hand weights called halteres."
+    },
+    "inventor": null,
+    "short_description": "A short bar with a weight at each end, lifted with one hand for strength training.",
+    "description": "Ancient Greek athletes trained with handheld weights called halteres, and by the early 18th century the English used weighted 'dumb bells'. The name is thought to come from bell-ringing practice devices that made no sound. Today's dumbbells, made of iron, rubber or chrome, keep the same handle-and-weights form.",
+    "why_unchanged": "A handle with balanced weights on either side is the simplest effective design for one-handed lifting.",
+    "materials": [
+      "iron",
+      "steel",
+      "rubber",
+      "neoprene"
+    ],
+    "faqs": [
+      {
+        "question": "Why is it called a dumbbell?",
+        "answer": "The name is thought to come from bell-ringing practice devices that were 'dumb', meaning silent."
+      },
+      {
+        "question": "Did ancient athletes use dumbbells?",
+        "answer": "Ancient Greeks used similar hand weights called halteres, especially for the long jump."
+      },
+      {
+        "question": "What is the difference between a dumbbell and a barbell?",
+        "answer": "A dumbbell is short and held in one hand, while a barbell is a long bar held with both hands."
+      }
+    ],
+    "image": {
+      "search_query": "pair of dumbbells",
+      "wikimedia_commons_category": "Dumbbells",
+      "alt": "A pair of iron dumbbells on a gym floor"
+    },
+    "tags": [
+      "fitness",
+      "weights",
+      "early modern",
+      "iron"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "kettlebell",
+    "name": "Kettlebell",
+    "category": "Toys, games & sports",
+    "invention": {
+      "display": "c. 1700",
+      "year": 1704,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Russia",
+      "modern_country": "Russia",
+      "notes": "The Russian word girya appears in a dictionary of 1704; similar handled weights were used in other cultures, including ancient Greece."
+    },
+    "inventor": null,
+    "short_description": "A cast-iron ball with a handle, swung and lifted for strength and conditioning.",
+    "description": "Kettlebells, known in Russia as girya, were originally used as counterweights in markets and became popular for strength training and feats in the 18th and 19th centuries. They are lifted, swung and pressed in dynamic movements that work the whole body. Kettlebell sport (girevoy sport) is a recognized discipline today.",
+    "why_unchanged": "A weight with an offset handle is ideal for swinging movements, so the simple cast design has remained.",
+    "materials": [
+      "cast iron",
+      "steel",
+      "vinyl"
+    ],
+    "faqs": [
+      {
+        "question": "Where do kettlebells come from?",
+        "answer": "They are associated with Russia, where the word girya is recorded from the early 1700s."
+      },
+      {
+        "question": "What is a kettlebell swing?",
+        "answer": "It is a hip-driven movement where the bell is swung between the legs and up to chest height."
+      },
+      {
+        "question": "How are kettlebells weighed traditionally?",
+        "answer": "Traditional Russian kettlebells are measured in poods; one pood is about 16 kg."
+      }
+    ],
+    "image": {
+      "search_query": "cast iron kettlebell",
+      "wikimedia_commons_category": "Kettlebells",
+      "alt": "A black cast-iron kettlebell"
+    },
+    "tags": [
+      "fitness",
+      "weights",
+      "early modern",
+      "iron"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "medicine-ball",
+    "name": "Medicine ball",
+    "category": "Toys, games & sports",
+    "invention": {
+      "display": "late 19th century",
+      "year": 1889,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "United States",
+      "modern_country": "United States",
+      "notes": "The term 'medicine ball' is recorded in the late 1880s; weighted balls of stuffed skins are said to have been used much earlier, but evidence is anecdotal."
+    },
+    "inventor": null,
+    "short_description": "A heavy, soft-sided ball thrown and caught for strength and conditioning.",
+    "description": "Weighted balls for exercise became popular in late 19th-century American gymnasiums under the name medicine ball, 'medicine' meaning health. Stories of ancient Persian wrestlers or Hippocrates using stuffed animal skins are frequently repeated but hard to verify. Today medicine balls are made of leather, rubber or vinyl and used in athletic training and rehabilitation.",
+    "why_unchanged": "A heavy ball that can be thrown and caught safely needs no further refinement.",
+    "materials": [
+      "leather",
+      "rubber",
+      "vinyl",
+      "sand"
+    ],
+    "faqs": [
+      {
+        "question": "Why is it called a medicine ball?",
+        "answer": "'Medicine' was used in the sense of something good for health."
+      },
+      {
+        "question": "What are medicine balls used for?",
+        "answer": "They are thrown, caught and lifted to build power, core strength and coordination."
+      },
+      {
+        "question": "Did Herbert Hoover play with one?",
+        "answer": "Yes. President Hoover and his staff played a medicine-ball game, later called Hooverball, at the White House."
+      }
+    ],
+    "image": {
+      "search_query": "medicine ball gym",
+      "wikimedia_commons_category": "Medicine balls",
+      "alt": "A leather medicine ball on a gym floor"
+    },
+    "tags": [
+      "fitness",
+      "weights",
+      "industrial",
+      "ball"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "rubiks-cube",
+    "name": "Rubik's Cube",
+    "category": "Toys, games & sports",
+    "invention": {
+      "display": "1974",
+      "year": 1974,
+      "approximate": false,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "Budapest",
+      "modern_country": "Hungary",
+      "notes": "Ernő Rubik built the first prototype in 1974 and patented it in Hungary in 1975."
+    },
+    "inventor": "Ernő Rubik",
+    "short_description": "A 3x3x3 twisting puzzle cube whose coloured faces must be restored.",
+    "description": "Hungarian architecture professor Ernő Rubik created the cube in 1974 as a tool to teach spatial thinking. Released internationally in 1980, it became one of the best-selling toys in history. The 3x3x3 mechanism of a core, centres, edges and corners is the same as Rubik's original.",
+    "why_unchanged": "The internal mechanism and colour scheme were complete from the start, so only manufacturing quality has changed.",
+    "materials": [
+      "plastic",
+      "stickers"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the Rubik's Cube?",
+        "answer": "Hungarian professor Ernő Rubik invented it in 1974."
+      },
+      {
+        "question": "How many positions does the cube have?",
+        "answer": "A standard Rubik's Cube has about 43 quintillion possible positions."
+      },
+      {
+        "question": "What is God's number?",
+        "answer": "It is the maximum number of moves needed to solve any position, proven in 2010 to be 20."
+      }
+    ],
+    "image": {
+      "search_query": "Rubik's Cube puzzle",
+      "wikimedia_commons_category": "Rubik's Cube",
+      "alt": "A scrambled Rubik's Cube showing coloured faces"
+    },
+    "tags": [
+      "puzzles",
+      "toys",
+      "modern",
+      "patent"
+    ],
+    "confidence": "high"
+  },
+  {
+    "slug": "ball",
+    "name": "Ball",
+    "category": "Toys, games & sports",
+    "invention": {
+      "display": "c. 1600 BCE",
+      "year": -1600,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Gulf Coast of Mesoamerica",
+      "modern_country": "Mexico",
+      "notes": "The oldest surviving rubber balls come from El Manatí, Mexico (c. 1600 BCE); balls of leather, cloth and other materials were made in many ancient cultures."
+    },
+    "inventor": null,
+    "short_description": "A round object for throwing, kicking, bouncing or rolling in play and sport.",
+    "description": "Balls are found in almost every culture, and the oldest surviving rubber balls, from El Manatí in Mexico, are about 3,600 years old. Ancient Egyptians, Greeks and Romans made balls of leather, linen and inflated bladders. Modern sports use specialized balls, but a simple sphere remains the most universal toy.",
+    "why_unchanged": "A sphere rolls and bounces in every direction equally, which is exactly what play requires.",
+    "materials": [
+      "rubber",
+      "leather",
+      "cloth",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "What are the oldest known balls?",
+        "answer": "Rubber balls from El Manatí in Mexico, dating to about 1600 BCE, are among the oldest surviving ones."
+      },
+      {
+        "question": "Did ancient Mesoamericans play ball games?",
+        "answer": "Yes. The Mesoamerican ballgame was played with a heavy rubber ball for thousands of years."
+      },
+      {
+        "question": "Why do balls bounce?",
+        "answer": "Elastic materials compress on impact and then spring back, pushing the ball away from the surface."
+      }
+    ],
+    "image": {
+      "search_query": "rubber ball toy",
+      "wikimedia_commons_category": "Balls",
+      "alt": "A red rubber ball on a playground"
+    },
+    "tags": [
+      "toys",
+      "sports",
+      "ancient",
+      "rubber"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "nine-mens-morris-board",
+    "name": "Nine men's morris board",
+    "category": "Toys, games & sports",
+    "invention": {
+      "display": "1st century BCE",
+      "year": -100,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Roman Empire",
+      "modern_country": "Italy",
+      "notes": "Morris boards are well attested in the Roman world; an Egyptian board from Kurna (c. 1400 BCE) is often cited but its dating is disputed."
+    },
+    "inventor": null,
+    "short_description": "A board of three nested squares joined at the midpoints, used for a game of forming rows of three.",
+    "description": "Nine men's morris, a strategy game where players form 'mills' of three pieces, was widely played in the Roman Empire and medieval Europe. Boards were carved into church benches, castle stones and cloister seats. The game is still sold with the same board of three concentric squares and 24 points.",
+    "why_unchanged": "The 24-point board is the game itself, so its layout has never needed to change.",
+    "materials": [
+      "wood",
+      "stone",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "How do you win nine men's morris?",
+        "answer": "You win by reducing your opponent to two pieces or leaving them with no legal moves."
+      },
+      {
+        "question": "What is a mill?",
+        "answer": "A mill is a row of three of your pieces, which lets you remove one of your opponent's pieces."
+      },
+      {
+        "question": "Is it mentioned in literature?",
+        "answer": "Yes. Shakespeare refers to 'the nine men's morris' in A Midsummer Night's Dream."
+      }
+    ],
+    "image": {
+      "search_query": "nine men's morris board game",
+      "wikimedia_commons_category": "Nine men's morris",
+      "alt": "A wooden nine men's morris board with black and white pieces"
+    },
+    "tags": [
+      "board games",
+      "strategy",
+      "ancient"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "mahjong-tiles",
+    "name": "Mahjong tiles",
+    "category": "Toys, games & sports",
+    "invention": {
+      "display": "c. 1850",
+      "year": 1850,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Eastern China (likely Ningbo area)",
+      "modern_country": "China",
+      "notes": "Mahjong developed from earlier Chinese card games in the mid-to-late 19th century; legends attributing it to Confucius are myths."
+    },
+    "inventor": null,
+    "short_description": "A set of 144 engraved tiles of suits, honours and flowers used in the game of mahjong.",
+    "description": "Mahjong emerged in 19th-century China from older card games and spread rapidly, reaching the West in the 1920s, when it became a craze in America. The game uses tiles in three suits, plus winds, dragons and flowers. Sets made of bone and bamboo have given way to plastic, but the tiles are unchanged in design.",
+    "why_unchanged": "The tile set encodes the game's rules, so changing it would mean changing the game.",
+    "materials": [
+      "bone",
+      "bamboo",
+      "ivory",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "How many tiles are in a mahjong set?",
+        "answer": "A standard Chinese set has 144 tiles, including flowers and seasons."
+      },
+      {
+        "question": "Was mahjong invented by Confucius?",
+        "answer": "No. That is a popular legend; historians date the game to 19th-century China."
+      },
+      {
+        "question": "Is mahjong solitaire the same game?",
+        "answer": "No. Mahjong solitaire is a matching puzzle that uses the tiles, while real mahjong is a four-player game of sets."
+      }
+    ],
+    "image": {
+      "search_query": "mahjong tiles set",
+      "wikimedia_commons_category": "Mahjong tiles",
+      "alt": "Mahjong tiles arranged on a green table"
+    },
+    "tags": [
+      "tiles",
+      "games",
+      "industrial",
+      "china"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "cup-and-ball",
+    "name": "Cup-and-ball",
+    "category": "Toys, games & sports",
+    "invention": {
+      "display": "16th century",
+      "year": 1550,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "France",
+      "modern_country": "France",
+      "notes": "The bilboquet was fashionable in 16th-century France, notably at the court of Henri III; similar catching toys exist in many Indigenous cultures."
+    },
+    "inventor": null,
+    "short_description": "A handle with a cup on top and a ball tied by a string, tossed up and caught in the cup.",
+    "description": "Cup-and-ball toys, called bilboquet in French, became a fashion at the French court in the 16th century and remained popular across Europe. Indigenous peoples of the Americas and the Arctic made similar catching toys from bone and hide. The design of a stick, a cup and a tethered ball is still sold everywhere.",
+    "why_unchanged": "A stick, cup and tethered ball are the simplest catching challenge possible.",
+    "materials": [
+      "wood",
+      "string",
+      "bone",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "What is a bilboquet?",
+        "answer": "Bilboquet is the French name for cup-and-ball, a toy popular at the French court in the 1500s."
+      },
+      {
+        "question": "How do you play cup-and-ball?",
+        "answer": "You swing or flick the ball up and try to catch it in the cup or on a spike."
+      },
+      {
+        "question": "Is kendama the same thing?",
+        "answer": "Kendama is a Japanese relative with extra cups and a spike, allowing many more tricks."
+      }
+    ],
+    "image": {
+      "search_query": "wooden cup and ball toy bilboquet",
+      "wikimedia_commons_category": "Bilboquets",
+      "alt": "A wooden cup-and-ball toy"
+    },
+    "tags": [
+      "toys",
+      "dexterity",
+      "early modern",
+      "wood"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "kendama",
+    "name": "Kendama",
+    "category": "Toys, games & sports",
+    "invention": {
+      "display": "1919",
+      "year": 1919,
+      "approximate": false,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "Hiroshima, Japan",
+      "modern_country": "Japan",
+      "notes": "Cup-and-ball toys reached Japan in the Edo period; the modern kendama with three cups and a spike was patented as the 'Nichigetsu Ball' by Hamaji Egusa in 1919."
+    },
+    "inventor": "Hamaji Egusa",
+    "short_description": "A Japanese skill toy with a handle, two side cups, a base cup, a spike and a ball on a string.",
+    "description": "Kendama developed from the cup-and-ball toys that reached Japan in the 18th century. In 1919 Hamaji Egusa created the modern design with a cross-piece, three cups and a spike, and the town of Hatsukaichi in Hiroshima is still a centre of production. Kendama has become a worldwide hobby with competitions and trick videos.",
+    "why_unchanged": "Its arrangement of cups and spike allows countless tricks, so the 1919 design has remained the standard.",
+    "materials": [
+      "wood",
+      "string",
+      "paint"
+    ],
+    "faqs": [
+      {
+        "question": "What are the parts of a kendama?",
+        "answer": "It has a handle (ken) with a spike, two side cups, a bottom cup, and a ball (tama) with a hole."
+      },
+      {
+        "question": "Who created the modern kendama?",
+        "answer": "Hamaji Egusa designed it in Hiroshima in 1919, calling it the Nichigetsu Ball."
+      },
+      {
+        "question": "What is the hardest basic trick?",
+        "answer": "Spiking the ball onto the ken's point, called tome-ken, is a classic challenge."
+      }
+    ],
+    "image": {
+      "search_query": "kendama toy wooden",
+      "wikimedia_commons_category": "Kendama",
+      "alt": "A wooden kendama with a red ball"
+    },
+    "tags": [
+      "toys",
+      "japan",
+      "modern",
+      "dexterity"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "dreidel",
+    "name": "Dreidel",
+    "category": "Toys, games & sports",
+    "invention": {
+      "display": "c. 1700",
+      "year": 1700,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Central and Eastern Europe",
+      "modern_country": "Germany",
+      "notes": "The dreidel is a Jewish adaptation of the teetotum, a lettered spinning top played in Europe; exact dating is uncertain."
+    },
+    "inventor": null,
+    "short_description": "A four-sided spinning top with Hebrew letters, played during Hanukkah.",
+    "description": "The dreidel adapts the European teetotum, a spinning top with letters on its sides used in gambling games. Jewish communities replaced the letters with the Hebrew nun, gimel, hei and shin, later read as 'a great miracle happened there'. It is spun during Hanukkah, with players winning or giving coins, nuts or chocolate.",
+    "why_unchanged": "A four-sided top that lands on a random face is all the game needs.",
+    "materials": [
+      "wood",
+      "plastic",
+      "clay",
+      "metal"
+    ],
+    "faqs": [
+      {
+        "question": "What do the letters on a dreidel mean?",
+        "answer": "They stand for 'Nes Gadol Haya Sham', meaning 'a great miracle happened there'; in Israel the last letter is pe for 'here'."
+      },
+      {
+        "question": "How do you play dreidel?",
+        "answer": "Each player spins in turn and, depending on the letter, takes nothing, all, half, or puts in to the pot."
+      },
+      {
+        "question": "Where did the dreidel come from?",
+        "answer": "It is adapted from the teetotum, a lettered top played in Europe for centuries."
+      }
+    ],
+    "image": {
+      "search_query": "Hanukkah dreidel",
+      "wikimedia_commons_category": "Dreidels",
+      "alt": "A wooden dreidel with Hebrew letters"
+    },
+    "tags": [
+      "toys",
+      "jewish",
+      "holidays",
+      "early modern"
+    ],
+    "confidence": "low"
+  }
+]

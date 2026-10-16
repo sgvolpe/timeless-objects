@@ -1,0 +1,1276 @@
+[
+  {
+    "slug": "chair",
+    "name": "Chair",
+    "category": "Household & furniture",
+    "invention": {
+      "display": "c. 3000 BCE",
+      "year": -3000,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Ancient Egypt",
+      "modern_country": "Egypt",
+      "notes": "Chairs with backs appear in Egyptian art and burials of the early dynasties; seated figures from the Aegean show them by the 3rd millennium BCE too."
+    },
+    "inventor": null,
+    "short_description": "A raised seat with a back, made for one person.",
+    "description": "Early chairs in Egypt were status objects reserved for royalty and officials, while ordinary people sat on stools or the floor. Surviving examples, such as the furniture of Queen Hetepheres (c. 2600 BCE), already show four legs, a seat and a backrest. Chairs became common household furniture in Europe only from about the 16th century.",
+    "why_unchanged": "Four legs, a seat and a back are the simplest stable way to support a seated human body.",
+    "materials": [
+      "wood",
+      "metal",
+      "plastic",
+      "rattan",
+      "upholstery"
+    ],
+    "faqs": [
+      {
+        "question": "When did chairs become common in ordinary homes?",
+        "answer": "In Europe, chairs stayed largely a mark of rank until roughly the 16th century; before that most people sat on benches, stools or chests."
+      },
+      {
+        "question": "Why is the head of a meeting called the 'chair'?",
+        "answer": "Because the most important person traditionally sat in the only chair while others used benches or stools, so the word came to stand for the authority itself."
+      },
+      {
+        "question": "What is the oldest surviving chair?",
+        "answer": "Some of the oldest are Egyptian, including the reconstructed furniture of Queen Hetepheres from around 2600 BCE and chairs from Tutankhamun's tomb."
+      }
+    ],
+    "image": {
+      "search_query": "wooden chair",
+      "wikimedia_commons_category": "Chairs",
+      "alt": "A simple wooden chair with four legs and a backrest"
+    },
+    "tags": [
+      "furniture",
+      "seating",
+      "ancient"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "stool",
+    "name": "Stool",
+    "category": "Household & furniture",
+    "invention": {
+      "display": "c. 3000 BCE or earlier",
+      "year": -3000,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Ancient Egypt and the Near East",
+      "modern_country": "Egypt",
+      "notes": "Stools are among the oldest documented furniture in Egyptian tombs, but simple stools were almost certainly used earlier and in many places independently."
+    },
+    "inventor": null,
+    "short_description": "A backless, armless seat on legs or a solid base.",
+    "description": "The stool is one of the oldest forms of furniture, found in ancient Egyptian tombs and depicted in Mesopotamian art. Three-legged stools were valued because they sit steadily on uneven floors. Today stools serve as kitchen seating, workshop seats and milking stools.",
+    "why_unchanged": "A flat seat on legs is the minimal possible piece of seating, so there is nothing to simplify or improve.",
+    "materials": [
+      "wood",
+      "metal",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "Why do milking stools have three legs?",
+        "answer": "Three legs always touch the ground at once, so a three-legged stool cannot wobble on an uneven barn floor."
+      },
+      {
+        "question": "Is the stool older than the chair?",
+        "answer": "Most historians believe so, since the stool is simpler and appears very early in Egyptian burials, but both are ancient."
+      },
+      {
+        "question": "What is the difference between a stool and an ottoman?",
+        "answer": "A stool is a hard raised seat on legs, while an ottoman is a low upholstered seat or footrest, usually without visible legs."
+      }
+    ],
+    "image": {
+      "search_query": "wooden three legged stool",
+      "wikimedia_commons_category": "Stools",
+      "alt": "A wooden three-legged stool"
+    },
+    "tags": [
+      "furniture",
+      "seating",
+      "ancient"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "bench",
+    "name": "Bench",
+    "category": "Household & furniture",
+    "invention": {
+      "display": "Neolithic (c. 4000 BCE)",
+      "year": -4000,
+      "approximate": true,
+      "era": "Prehistoric"
+    },
+    "place_of_invention": {
+      "region": "Neolithic settlements of Europe and the Near East",
+      "modern_country": "Various",
+      "notes": "Built-in benches of stone or clay appear in many Neolithic houses; no single place of origin can be identified."
+    },
+    "inventor": null,
+    "short_description": "A long seat for several people, with or without a back.",
+    "description": "Benches began as built-in ledges of earth, stone or clay along the walls of Neolithic homes. In medieval Europe the movable wooden bench was the standard seat in halls, with chairs reserved for the head of the household. Benches remain common in parks, churches, gyms and dining rooms.",
+    "why_unchanged": "A plank on supports is the cheapest way to seat many people at once.",
+    "materials": [
+      "wood",
+      "stone",
+      "metal"
+    ],
+    "faqs": [
+      {
+        "question": "Why is a court called 'the bench'?",
+        "answer": "Medieval judges sat on benches, so the bench came to stand for the court and the judges themselves."
+      },
+      {
+        "question": "Why are church pews like benches?",
+        "answer": "Pews are long benches that seat a whole congregation in rows; fixed pews became widespread in European churches in the late Middle Ages and after the Reformation."
+      },
+      {
+        "question": "Is the word 'bankrupt' related to benches?",
+        "answer": "It is often traced to Italian 'banca rotta', the broken bench or counter of a failed money-changer, though the story is partly folk etymology."
+      }
+    ],
+    "image": {
+      "search_query": "wooden park bench",
+      "wikimedia_commons_category": "Benches",
+      "alt": "A wooden bench in a park"
+    },
+    "tags": [
+      "furniture",
+      "seating",
+      "prehistoric"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "table",
+    "name": "Table",
+    "category": "Household & furniture",
+    "invention": {
+      "display": "c. 2500 BCE",
+      "year": -2500,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Ancient Egypt",
+      "modern_country": "Egypt",
+      "notes": "Raised tables for offerings and dining appear in Egyptian and Mesopotamian art; earlier low platforms likely existed elsewhere."
+    },
+    "inventor": null,
+    "short_description": "A flat raised surface supported by legs.",
+    "description": "Ancient Egyptians used small tables to hold food, offerings and objects, often low to the ground. Greeks and Romans used small tables placed beside dining couches, while large communal tables spread in medieval Europe. The basic form of a flat top on legs has barely changed.",
+    "why_unchanged": "A flat top held at working height by legs is the simplest way to lift objects off the floor.",
+    "materials": [
+      "wood",
+      "stone",
+      "metal",
+      "glass"
+    ],
+    "faqs": [
+      {
+        "question": "Why do we say 'set the table'?",
+        "answer": "Many medieval tables were loose boards laid on trestles and set up for meals, then taken down afterwards."
+      },
+      {
+        "question": "What is the standard height of a dining table?",
+        "answer": "Most dining tables are about 72 to 76 cm (28 to 30 inches) high, matched to standard chair seat heights."
+      },
+      {
+        "question": "Did ancient Romans eat at tables?",
+        "answer": "Wealthy Romans reclined on couches around small low tables rather than sitting upright at a large one."
+      }
+    ],
+    "image": {
+      "search_query": "wooden dining table",
+      "wikimedia_commons_category": "Tables (furniture)",
+      "alt": "A wooden table with four legs"
+    },
+    "tags": [
+      "furniture",
+      "surface",
+      "ancient"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "bed",
+    "name": "Bed",
+    "category": "Household & furniture",
+    "invention": {
+      "display": "c. 3000 BCE",
+      "year": -3000,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Ancient Egypt",
+      "modern_country": "Egypt",
+      "notes": "Raised wooden bed frames are known from early Egyptian tombs; Neolithic stone box beds at Skara Brae (Orkney, c. 3100 BCE) show raised sleeping places were also built elsewhere."
+    },
+    "inventor": null,
+    "short_description": "A raised frame that holds a mattress for sleeping.",
+    "description": "Early Egyptian beds were wooden frames with woven cord or leather supports, often sloping slightly, used with a separate headrest. Neolithic houses at Skara Brae in Scotland had stone box beds that were probably filled with bedding. Today's bed is still a frame lifting a sleeping surface off the floor.",
+    "why_unchanged": "Lifting the sleeper off the cold, damp and crawling floor is as useful now as it was 5,000 years ago.",
+    "materials": [
+      "wood",
+      "metal",
+      "rope",
+      "textile"
+    ],
+    "faqs": [
+      {
+        "question": "Why are beds raised off the floor?",
+        "answer": "A raised bed keeps the sleeper away from drafts, damp and insects, and makes it easier to get in and out."
+      },
+      {
+        "question": "Where does 'sleep tight' come from?",
+        "answer": "A popular explanation links it to rope-strung beds that had to be tightened, though the phrase's true origin is uncertain."
+      },
+      {
+        "question": "What did ancient Egyptians use instead of a pillow?",
+        "answer": "Many used a curved headrest of wood or stone placed under the neck."
+      }
+    ],
+    "image": {
+      "search_query": "wooden bed frame",
+      "wikimedia_commons_category": "Beds",
+      "alt": "A wooden bed frame with a mattress"
+    },
+    "tags": [
+      "furniture",
+      "sleep",
+      "ancient"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "hammock",
+    "name": "Hammock",
+    "category": "Household & furniture",
+    "invention": {
+      "display": "c. 1000 CE (pre-Columbian)",
+      "year": 1000,
+      "approximate": true,
+      "era": "Medieval"
+    },
+    "place_of_invention": {
+      "region": "Caribbean and northern South America",
+      "modern_country": "Various (Caribbean and South America)",
+      "notes": "Used by the Taíno and other Indigenous peoples long before European contact; the age is uncertain because fibre hammocks rarely survive. Europeans first recorded them in 1492."
+    },
+    "inventor": null,
+    "short_description": "A sling of fabric or netting hung between two points for sleeping or resting.",
+    "description": "Indigenous peoples of the Caribbean and the Amazon slept in hammocks woven from plant fibres, which kept them off damp ground and away from insects and snakes. Columbus's crews described them in 1492, and the Taíno word 'hamaka' entered European languages. Navies adopted hammocks for sailors' sleeping quarters by the 16th century.",
+    "why_unchanged": "A net or cloth slung between two anchor points needs no frame and conforms naturally to the body.",
+    "materials": [
+      "cotton",
+      "sisal",
+      "nylon",
+      "rope"
+    ],
+    "faqs": [
+      {
+        "question": "Why did sailors sleep in hammocks?",
+        "answer": "Hammocks swing with the ship's motion, take little space and can be rolled up during the day to free the deck."
+      },
+      {
+        "question": "How should you lie in a hammock?",
+        "answer": "Lying diagonally across a wide Brazilian- or Mayan-style hammock lets you lie almost flat."
+      },
+      {
+        "question": "Where does the word 'hammock' come from?",
+        "answer": "It comes via Spanish 'hamaca' from the Taíno word for this sleeping net."
+      }
+    ],
+    "image": {
+      "search_query": "woven hammock between trees",
+      "wikimedia_commons_category": "Hammocks",
+      "alt": "A woven hammock hanging between two trees"
+    },
+    "tags": [
+      "furniture",
+      "sleep",
+      "indigenous"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "cradle",
+    "name": "Cradle",
+    "category": "Household & furniture",
+    "invention": {
+      "display": "Antiquity (c. 1st millennium BCE)",
+      "year": -500,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Mediterranean and Near East",
+      "modern_country": "Various",
+      "notes": "Infant cradles are mentioned and depicted in Greek and Roman sources, and rocking cradles are well documented in medieval Europe. Origins are uncertain and likely multiple."
+    },
+    "inventor": null,
+    "short_description": "A small bed for an infant, often designed to rock gently.",
+    "description": "Cradles have been used since antiquity to keep a baby safe and close, and medieval European manuscripts often show wooden cradles on curved rockers. The gentle rocking motion helps soothe infants to sleep. Modern versions keep the same low, enclosed box shape.",
+    "why_unchanged": "A small enclosed bed that can be rocked meets a baby's need for safety and soothing perfectly.",
+    "materials": [
+      "wood",
+      "wicker",
+      "textile"
+    ],
+    "faqs": [
+      {
+        "question": "Why do cradles rock?",
+        "answer": "Gentle rocking soothes many infants and helps them fall asleep."
+      },
+      {
+        "question": "How is a cradle different from a crib?",
+        "answer": "A cradle is smaller and often rocks, while a crib is larger, stationary and used until the child is older."
+      },
+      {
+        "question": "What does 'from the cradle to the grave' mean?",
+        "answer": "It means throughout a person's entire life, from infancy to death."
+      }
+    ],
+    "image": {
+      "search_query": "wooden rocking cradle",
+      "wikimedia_commons_category": "Cradles",
+      "alt": "A wooden baby cradle on rockers"
+    },
+    "tags": [
+      "furniture",
+      "baby",
+      "sleep"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "chest",
+    "name": "Chest",
+    "category": "Household & furniture",
+    "invention": {
+      "display": "c. 2500 BCE",
+      "year": -2500,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Ancient Egypt",
+      "modern_country": "Egypt",
+      "notes": "Wooden chests are well preserved in Egyptian tombs, including many from Tutankhamun's burial; similar boxes were made across the ancient world."
+    },
+    "inventor": null,
+    "short_description": "A large lidded box used for storing clothing, linens and valuables.",
+    "description": "The chest was the essential piece of storage furniture from ancient Egypt to medieval Europe, doubling as seat, table and travel trunk. Medieval households kept clothes, documents and money in iron-bound chests. The hinged-lid box remains in use as the blanket chest, toy box and trunk.",
+    "why_unchanged": "A box with a hinged lid is the simplest secure container for bulky goods.",
+    "materials": [
+      "wood",
+      "iron",
+      "leather"
+    ],
+    "faqs": [
+      {
+        "question": "What is a hope chest?",
+        "answer": "A hope chest, or dowry chest, was filled with linens and household goods by a young woman in preparation for marriage."
+      },
+      {
+        "question": "How is a trunk different from a chest?",
+        "answer": "A trunk is a chest built for travel, usually with handles, a reinforced body and often a domed lid."
+      },
+      {
+        "question": "Did chests come before cupboards?",
+        "answer": "Yes; chests were the main storage furniture for millennia, and cupboards and chests of drawers developed later."
+      }
+    ],
+    "image": {
+      "search_query": "antique wooden chest",
+      "wikimedia_commons_category": "Chests (furniture)",
+      "alt": "An antique wooden storage chest with a hinged lid"
+    },
+    "tags": [
+      "furniture",
+      "storage",
+      "ancient"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "cabinet",
+    "name": "Cabinet",
+    "category": "Household & furniture",
+    "invention": {
+      "display": "16th century",
+      "year": 1550,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Renaissance Italy and Western Europe",
+      "modern_country": "Italy",
+      "notes": "Enclosed cupboards existed in the Middle Ages; the cabinet as a fine piece of furniture with doors and small compartments developed in 16th-century Europe."
+    },
+    "inventor": null,
+    "short_description": "A piece of furniture with shelves or drawers enclosed by doors.",
+    "description": "Medieval cupboards were simple boards or boxes for cups and food, but Renaissance craftsmen created cabinets with doors and compartments to store and display precious objects. Cabinets of curiosities held collections of natural wonders and art. Today cabinets are found in every kitchen, bathroom and office.",
+    "why_unchanged": "Shelves enclosed behind doors protect contents from dust and keep a room tidy, a need that has not changed.",
+    "materials": [
+      "wood",
+      "metal",
+      "glass",
+      "particleboard"
+    ],
+    "faqs": [
+      {
+        "question": "What was a cabinet of curiosities?",
+        "answer": "It was a room or piece of furniture where Renaissance collectors displayed natural specimens, art and rarities, a forerunner of the museum."
+      },
+      {
+        "question": "Why is a government's council of ministers called a cabinet?",
+        "answer": "The word once meant a small private room, and royal advisers met in the monarch's cabinet, so the name passed to the group."
+      },
+      {
+        "question": "What is the difference between a cabinet and a cupboard?",
+        "answer": "Today the words overlap; 'cupboard' originally meant a board for cups, while 'cabinet' implied a finer enclosed piece with doors and compartments."
+      }
+    ],
+    "image": {
+      "search_query": "wooden kitchen cabinet doors",
+      "wikimedia_commons_category": "Cabinets (furniture)",
+      "alt": "A wooden cabinet with closed doors"
+    },
+    "tags": [
+      "furniture",
+      "storage",
+      "renaissance"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "shelf",
+    "name": "Shelf",
+    "category": "Household & furniture",
+    "invention": {
+      "display": "c. 3100 BCE",
+      "year": -3100,
+      "approximate": true,
+      "era": "Prehistoric"
+    },
+    "place_of_invention": {
+      "region": "Neolithic Orkney (Skara Brae)",
+      "modern_country": "United Kingdom",
+      "notes": "Stone 'dressers' with shelves at Skara Brae are among the oldest surviving examples; wall ledges and niches were likely used even earlier."
+    },
+    "inventor": null,
+    "short_description": "A flat horizontal board fixed to a wall or frame for holding objects.",
+    "description": "At the Neolithic village of Skara Brae in Orkney, each house had a stone dresser with shelves facing the entrance, probably to display important possessions. Wooden shelves on brackets became common in later homes, shops and libraries. The form is still a horizontal plank held level.",
+    "why_unchanged": "A level board at a convenient height is the most direct way to store items off the floor.",
+    "materials": [
+      "wood",
+      "stone",
+      "metal",
+      "glass"
+    ],
+    "faqs": [
+      {
+        "question": "What is the oldest known shelf?",
+        "answer": "The stone dressers at Skara Brae in Scotland, built around 3100 BCE, are among the oldest surviving shelved furniture."
+      },
+      {
+        "question": "How much weight can a wall shelf hold?",
+        "answer": "It depends on the brackets and anchoring; shelves screwed into wall studs can hold far more than those held only by drywall plugs."
+      },
+      {
+        "question": "What does 'on the shelf' mean?",
+        "answer": "It means set aside or no longer in use, from the idea of something stored away on a shelf."
+      }
+    ],
+    "image": {
+      "search_query": "wooden wall shelf with books",
+      "wikimedia_commons_category": "Shelves",
+      "alt": "A wooden wall shelf holding books"
+    },
+    "tags": [
+      "furniture",
+      "storage",
+      "prehistoric"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "pillow",
+    "name": "Pillow",
+    "category": "Household & furniture",
+    "invention": {
+      "display": "c. 7000 BCE",
+      "year": -7000,
+      "approximate": true,
+      "era": "Prehistoric"
+    },
+    "place_of_invention": {
+      "region": "Mesopotamia",
+      "modern_country": "Iraq",
+      "notes": "Frequently cited as early Mesopotamian stone headrests, though the dating and identification are not firmly established. Soft stuffed pillows were later used by Greeks, Romans and Chinese."
+    },
+    "inventor": null,
+    "short_description": "A cushioned support for the head during sleep.",
+    "description": "Early head supports in Mesopotamia, Egypt and China were often hard, made of stone, wood or ceramic, and kept the head raised and hair tidy. Greeks and Romans used soft pillows stuffed with feathers, straw or reeds. The stuffed fabric pillow has stayed essentially the same ever since.",
+    "why_unchanged": "A soft, filled bag that supports the neck works for every sleeper and needs no mechanism.",
+    "materials": [
+      "cotton",
+      "feathers",
+      "down",
+      "polyester",
+      "foam"
+    ],
+    "faqs": [
+      {
+        "question": "Why did ancient people use hard pillows?",
+        "answer": "Hard headrests kept the head off the ground, away from insects, and protected elaborate hairstyles."
+      },
+      {
+        "question": "How often should pillows be replaced?",
+        "answer": "Many sleep experts suggest replacing pillows every one to two years as they lose support and collect allergens."
+      },
+      {
+        "question": "What is the difference between a pillow and a cushion?",
+        "answer": "A pillow usually supports the head in bed, while a cushion is for seating or decoration."
+      }
+    ],
+    "image": {
+      "search_query": "white bed pillows",
+      "wikimedia_commons_category": "Pillows",
+      "alt": "Two white pillows on a bed"
+    },
+    "tags": [
+      "bedding",
+      "sleep",
+      "ancient"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "blanket",
+    "name": "Blanket",
+    "category": "Household & furniture",
+    "invention": {
+      "display": "Prehistoric (Neolithic)",
+      "year": -5000,
+      "approximate": true,
+      "era": "Prehistoric"
+    },
+    "place_of_invention": {
+      "region": "Neolithic Eurasia",
+      "modern_country": "Various",
+      "notes": "Animal skins served as coverings from the Paleolithic; woven wool and plant-fibre coverings followed the Neolithic development of weaving. No single origin exists."
+    },
+    "inventor": null,
+    "short_description": "A large piece of soft cloth used as a warm covering.",
+    "description": "Before weaving, people slept under animal hides and furs. Once Neolithic communities learned to spin and weave wool and plant fibres, woven coverings became possible and spread widely. The rectangular woven blanket has been a basic household textile ever since.",
+    "why_unchanged": "A flat rectangle of insulating cloth is all that is needed to trap body heat.",
+    "materials": [
+      "wool",
+      "cotton",
+      "fleece",
+      "acrylic"
+    ],
+    "faqs": [
+      {
+        "question": "Is the blanket named after a person?",
+        "answer": "A popular story credits a 14th-century Flemish weaver named Thomas Blanket, but the word comes from Old French 'blanquette', a white woollen cloth."
+      },
+      {
+        "question": "Why do weighted blankets feel calming?",
+        "answer": "Many people find the gentle pressure soothing, though scientific evidence for their benefits is still limited."
+      },
+      {
+        "question": "What is a 'security blanket'?",
+        "answer": "It is a blanket a young child becomes attached to for comfort; the term was popularized by the Peanuts comic strip."
+      }
+    ],
+    "image": {
+      "search_query": "folded wool blanket",
+      "wikimedia_commons_category": "Blankets",
+      "alt": "A folded wool blanket"
+    },
+    "tags": [
+      "bedding",
+      "textile",
+      "prehistoric"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "quilt",
+    "name": "Quilt",
+    "category": "Household & furniture",
+    "invention": {
+      "display": "c. 1360-1400 (oldest surviving bed quilts)",
+      "year": 1380,
+      "approximate": true,
+      "era": "Medieval"
+    },
+    "place_of_invention": {
+      "region": "Sicily",
+      "modern_country": "Italy",
+      "notes": "Quilting as a technique is much older (a quilted textile from Noin-Ula, Mongolia, dates to around the 1st century BCE); the Tristan Quilts from Sicily are among the oldest surviving quilted bedcovers."
+    },
+    "inventor": null,
+    "short_description": "A bed covering made of layers of fabric and padding stitched together.",
+    "description": "A quilt sandwiches a layer of batting between two fabrics and holds them together with lines of stitching. The Tristan Quilts, made in Sicily in the late 14th century, are among the earliest surviving quilted bedcovers. Patchwork quilting later became a celebrated folk art, especially in North America.",
+    "why_unchanged": "Stitching layers together keeps the filling evenly spread, a solution that cannot be bettered with thread and cloth.",
+    "materials": [
+      "cotton",
+      "wool",
+      "polyester batting",
+      "silk"
+    ],
+    "faqs": [
+      {
+        "question": "What is the difference between a quilt and a duvet?",
+        "answer": "A quilt is stitched through all its layers and usually thinner, while a duvet is a loosely filled bag typically used inside a removable cover."
+      },
+      {
+        "question": "What is a quilting bee?",
+        "answer": "It is a social gathering where people work together on a quilt, a tradition especially strong in 19th-century America."
+      },
+      {
+        "question": "Are quilts only for beds?",
+        "answer": "No; quilted fabric is also used in clothing, wall hangings and historically as padding under armour."
+      }
+    ],
+    "image": {
+      "search_query": "patchwork quilt",
+      "wikimedia_commons_category": "Quilts",
+      "alt": "A colourful patchwork quilt"
+    },
+    "tags": [
+      "bedding",
+      "textile",
+      "craft"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "pile-rug",
+    "name": "Pile rug",
+    "category": "Household & furniture",
+    "invention": {
+      "display": "c. 400 BCE (oldest surviving)",
+      "year": -400,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Altai Mountains, Siberia",
+      "modern_country": "Russia",
+      "notes": "The Pazyryk carpet, found frozen in a Scythian burial mound, is the oldest known knotted-pile carpet; the technique may have originated in Central Asia or Persia."
+    },
+    "inventor": null,
+    "short_description": "A floor covering with a soft surface made of knotted yarn tufts.",
+    "description": "Knotted-pile rugs are made by tying short lengths of yarn around the warp threads of a loom, creating a dense, soft surface. The Pazyryk carpet from about the 4th century BCE shows that the technique was already highly refined. Hand-knotted rugs from Persia, Anatolia and the Caucasus are still made the same way.",
+    "why_unchanged": "Hand-knotting yields a durable, insulating surface, and the loom process has no better manual alternative.",
+    "materials": [
+      "wool",
+      "silk",
+      "cotton"
+    ],
+    "faqs": [
+      {
+        "question": "What is the oldest known carpet?",
+        "answer": "The Pazyryk carpet, discovered in Siberia in 1949 and dating from about the 4th century BCE, is the oldest known knotted-pile carpet."
+      },
+      {
+        "question": "How is a rug different from a carpet?",
+        "answer": "A rug usually covers part of a floor and is movable, while a carpet often covers a whole room."
+      },
+      {
+        "question": "Why are hand-knotted rugs expensive?",
+        "answer": "A single rug can contain hundreds of thousands of individually tied knots and take months to make."
+      }
+    ],
+    "image": {
+      "search_query": "persian hand knotted rug",
+      "wikimedia_commons_category": "Pazyryk carpet",
+      "alt": "A hand-knotted Persian rug"
+    },
+    "tags": [
+      "textile",
+      "floor",
+      "ancient"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "woven-mat",
+    "name": "Woven mat",
+    "category": "Household & furniture",
+    "invention": {
+      "display": "Neolithic (c. 7000 BCE)",
+      "year": -7000,
+      "approximate": true,
+      "era": "Prehistoric"
+    },
+    "place_of_invention": {
+      "region": "Near East",
+      "modern_country": "Various",
+      "notes": "Impressions of woven mats in early Near Eastern settlements suggest great antiquity; mat-making from reeds and grasses arose independently in many cultures."
+    },
+    "inventor": null,
+    "short_description": "A flat floor covering woven from reeds, grass, rushes or other plant fibre.",
+    "description": "Mats woven from plant materials are among the oldest household textiles, used for sitting, sleeping and covering earth floors. Traces of mats appear in early farming settlements of the Near East, and mat weaving was practised from Africa to Asia and the Americas. Woven reed, rush and palm-leaf mats are still made by hand around the world.",
+    "why_unchanged": "Over-under weaving of local plant fibres is the simplest way to make a flat, durable surface.",
+    "materials": [
+      "reed",
+      "rush",
+      "palm leaf",
+      "seagrass",
+      "bamboo"
+    ],
+    "faqs": [
+      {
+        "question": "What are traditional woven mats made from?",
+        "answer": "Common materials include reeds, rushes, palm leaves, bamboo, seagrass and jute."
+      },
+      {
+        "question": "How do you clean a reed or seagrass mat?",
+        "answer": "Vacuum regularly and spot-clean with a damp cloth; avoid soaking, since natural fibres can warp or rot."
+      },
+      {
+        "question": "Are woven mats used for prayer?",
+        "answer": "Yes; mats are used in many traditions, and woven prayer mats are common in Muslim households."
+      }
+    ],
+    "image": {
+      "search_query": "woven reed mat",
+      "wikimedia_commons_category": "Mats",
+      "alt": "A hand-woven reed floor mat"
+    },
+    "tags": [
+      "textile",
+      "floor",
+      "prehistoric"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "curtain",
+    "name": "Curtain",
+    "category": "Household & furniture",
+    "invention": {
+      "display": "Ancient (c. 1500 BCE)",
+      "year": -1500,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Ancient Near East and Egypt",
+      "modern_country": "Various",
+      "notes": "Hanging cloths used as doorways, dividers and sun shades appear across ancient civilizations; window curtains became common in European homes from the Middle Ages onward."
+    },
+    "inventor": null,
+    "short_description": "A piece of fabric hung to screen a window, doorway or space.",
+    "description": "Ancient peoples hung animal skins and woven cloths across doorways and openings for privacy and to keep out dust and cold. Textile hangings around beds and across windows became common in medieval and early modern Europe. The idea of fabric hanging from a rod has not changed.",
+    "why_unchanged": "A hanging cloth that slides aside is the simplest movable barrier against light, cold and prying eyes.",
+    "materials": [
+      "cotton",
+      "linen",
+      "velvet",
+      "polyester",
+      "silk"
+    ],
+    "faqs": [
+      {
+        "question": "What is the difference between curtains and drapes?",
+        "answer": "Drapes are usually heavier, lined and floor-length, while curtains are often lighter and can be any length."
+      },
+      {
+        "question": "Why does 'curtains' mean the end?",
+        "answer": "In theatre the curtain falls at the end of a play, so 'curtains' came to mean the end of something."
+      },
+      {
+        "question": "Do curtains help keep a room warm?",
+        "answer": "Yes; thick, lined curtains reduce heat loss through windows, especially when drawn at night."
+      }
+    ],
+    "image": {
+      "search_query": "linen curtains on window",
+      "wikimedia_commons_category": "Curtains",
+      "alt": "Linen curtains hanging at a window"
+    },
+    "tags": [
+      "textile",
+      "window",
+      "ancient"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "window-shutter",
+    "name": "Window shutter",
+    "category": "Household & furniture",
+    "invention": {
+      "display": "Ancient Greece (c. 500 BCE)",
+      "year": -500,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Ancient Greece and Rome",
+      "modern_country": "Greece",
+      "notes": "Greek and Roman buildings used wooden or stone shutters; similar solid window covers were developed independently elsewhere."
+    },
+    "inventor": null,
+    "short_description": "A hinged panel that closes over a window to block light, weather or intruders.",
+    "description": "Before glass was common, solid shutters were the main way to close a window opening against weather and thieves. Ancient Greek and Roman buildings used wooden or marble shutters, and louvred shutters later let air in while blocking sun. Hinged shutters remain popular in Mediterranean and colonial-style homes.",
+    "why_unchanged": "A hinged panel over an opening is the most direct way to seal or shade it.",
+    "materials": [
+      "wood",
+      "metal",
+      "vinyl"
+    ],
+    "faqs": [
+      {
+        "question": "What are louvred shutters for?",
+        "answer": "Angled slats let air circulate while blocking direct sunlight and rain, ideal for hot climates."
+      },
+      {
+        "question": "Why do many houses have shutters that don't close?",
+        "answer": "Over time shutters became mostly ornamental, and many modern ones are fixed to the wall only for looks."
+      },
+      {
+        "question": "What are plantation shutters?",
+        "answer": "They are interior shutters with wide adjustable louvres, associated with homes in the American South."
+      }
+    ],
+    "image": {
+      "search_query": "wooden window shutters",
+      "wikimedia_commons_category": "Window shutters",
+      "alt": "Wooden shutters on a house window"
+    },
+    "tags": [
+      "window",
+      "home fixture",
+      "ancient"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "door-knocker",
+    "name": "Door knocker",
+    "category": "Household & furniture",
+    "invention": {
+      "display": "12th century (early surviving European examples)",
+      "year": 1150,
+      "approximate": true,
+      "era": "Medieval"
+    },
+    "place_of_invention": {
+      "region": "Medieval Europe",
+      "modern_country": "United Kingdom",
+      "notes": "Ring-shaped door pulls existed in Greek and Roman times; the Durham Cathedral sanctuary knocker (12th century) is one of the best-known early knockers. Precise origins are uncertain."
+    },
+    "inventor": null,
+    "short_description": "A hinged metal ring or bar fixed to a door and struck to announce a visitor.",
+    "description": "A door knocker is a hinged metal piece that strikes a plate on a door, making a loud sound inside the building. Medieval European churches and houses used bronze or iron ring knockers, sometimes shaped like lion heads. Knockers remain a traditional feature of front doors despite the arrival of the electric doorbell.",
+    "why_unchanged": "A hinged weight striking a metal plate is loud, needs no power and never breaks down.",
+    "materials": [
+      "brass",
+      "iron",
+      "bronze"
+    ],
+    "faqs": [
+      {
+        "question": "What was a sanctuary knocker?",
+        "answer": "In medieval England, fugitives who grasped the knocker of certain churches, such as Durham Cathedral, could claim sanctuary."
+      },
+      {
+        "question": "Why are many door knockers shaped like lions?",
+        "answer": "Lion heads were traditional symbols of strength and protection on doorways."
+      },
+      {
+        "question": "Where is a famous door knocker?",
+        "answer": "The black door of 10 Downing Street in London has one of the most photographed knockers in the world."
+      }
+    ],
+    "image": {
+      "search_query": "brass lion head door knocker",
+      "wikimedia_commons_category": "Door knockers",
+      "alt": "A brass lion head door knocker"
+    },
+    "tags": [
+      "door",
+      "home fixture",
+      "medieval"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "doorstop",
+    "name": "Doorstop",
+    "category": "Household & furniture",
+    "invention": {
+      "display": "18th century (cast-iron doorstops)",
+      "year": 1775,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "England",
+      "modern_country": "United Kingdom",
+      "notes": "Simple wooden wedges and stones were used to prop doors long before; decorative cast-iron doorstops became popular in 18th-century England, when many doors were hung on self-closing rising hinges."
+    },
+    "inventor": null,
+    "short_description": "An object used to hold a door open or stop it from hitting a wall.",
+    "description": "The humble wedge has been used to prop doors for centuries, but dedicated decorative doorstops became popular in Georgian England, where heavy cast-iron or brass figures held doors open. Rubber wedges and wall-mounted stops are today's common forms. The wedge principle has never changed.",
+    "why_unchanged": "A wedge jammed under a door uses friction and nothing else, which is already perfect.",
+    "materials": [
+      "rubber",
+      "wood",
+      "cast iron",
+      "brass"
+    ],
+    "faqs": [
+      {
+        "question": "Why did Georgian homes need heavy doorstops?",
+        "answer": "Many doors were hung on rising hinges that made them swing shut, so a heavy stop was needed to keep them open."
+      },
+      {
+        "question": "How does a wedge doorstop work?",
+        "answer": "The wedge slides under the door, and friction between the door, wedge and floor stops it from moving."
+      },
+      {
+        "question": "Are antique doorstops collectible?",
+        "answer": "Yes; cast-iron figural doorstops from the 19th and early 20th centuries are popular collectibles."
+      }
+    ],
+    "image": {
+      "search_query": "cast iron doorstop",
+      "wikimedia_commons_category": "Doorstops",
+      "alt": "A decorative cast-iron doorstop holding a door open"
+    },
+    "tags": [
+      "door",
+      "home fixture",
+      "georgian"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "broom",
+    "name": "Broom",
+    "category": "Household & furniture",
+    "invention": {
+      "display": "Ancient (c. 3000 BCE)",
+      "year": -3000,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Various ancient cultures",
+      "modern_country": "Various",
+      "notes": "Bundles of twigs, grasses or reeds were used for sweeping across the ancient world; the flat broom is credited to the Shakers in the early 19th century, and broomcorn brooms were made commercially in Massachusetts from the 1790s."
+    },
+    "inventor": null,
+    "short_description": "A brush of bundled fibres on a long handle, used for sweeping floors.",
+    "description": "For thousands of years people swept with bundles of twigs, straw or grass tied to a stick. In the 1790s farmers in Massachusetts began making brooms from broomcorn, and the Shakers developed the flat broom, which sweeps more efficiently than a round one. Synthetic bristles have replaced some natural fibres, but the design is the same.",
+    "why_unchanged": "Bristles fanned at the end of a long handle sweep efficiently without bending, so nothing better is needed.",
+    "materials": [
+      "broomcorn",
+      "straw",
+      "twigs",
+      "plastic bristles",
+      "wood"
+    ],
+    "faqs": [
+      {
+        "question": "Why are witches shown riding brooms?",
+        "answer": "The image comes from European folklore and witch-trial era imagery, where the broom was a common household object associated with women."
+      },
+      {
+        "question": "Who invented the flat broom?",
+        "answer": "The Shakers, a religious community in the United States, are credited with flattening the round broom in the early 19th century."
+      },
+      {
+        "question": "What does 'a new broom sweeps clean' mean?",
+        "answer": "It means a newcomer to a job often makes energetic changes at first."
+      }
+    ],
+    "image": {
+      "search_query": "straw broom",
+      "wikimedia_commons_category": "Brooms",
+      "alt": "A traditional straw broom with a wooden handle"
+    },
+    "tags": [
+      "cleaning",
+      "household",
+      "ancient"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "dustpan",
+    "name": "Dustpan",
+    "category": "Household & furniture",
+    "invention": {
+      "display": "19th century",
+      "year": 1850,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Europe and the United States",
+      "modern_country": "Various",
+      "notes": "Simple flat pans for collecting sweepings were likely used earlier; Lloyd P. Ray received a US patent for an improved long-handled dustpan in 1897."
+    },
+    "inventor": null,
+    "short_description": "A flat scoop into which dirt is swept from the floor.",
+    "description": "A dustpan is a shallow, flat-edged scoop that lets sweepings be gathered and carried away without spilling. Tin and wooden pans were common household items by the 19th century. In 1897 Lloyd P. Ray patented a long-handled dustpan that spared users from bending down.",
+    "why_unchanged": "A thin leading edge and a raised back are all a dustpan needs to catch and hold dust.",
+    "materials": [
+      "plastic",
+      "tin",
+      "steel",
+      "wood"
+    ],
+    "faqs": [
+      {
+        "question": "Who was Lloyd P. Ray?",
+        "answer": "Lloyd P. Ray was an African American inventor who patented an improved dustpan with a long handle in 1897."
+      },
+      {
+        "question": "Why do some dustpans have rubber edges?",
+        "answer": "A flexible lip lies flat against the floor so the last line of dust does not slip underneath."
+      },
+      {
+        "question": "Why is a dustpan usually paired with a brush?",
+        "answer": "A short hand brush lets you sweep debris precisely into the pan with one hand while holding the pan with the other."
+      }
+    ],
+    "image": {
+      "search_query": "dustpan and brush",
+      "wikimedia_commons_category": "Dustpans",
+      "alt": "A dustpan with a matching hand brush"
+    },
+    "tags": [
+      "cleaning",
+      "household",
+      "industrial"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "mop",
+    "name": "Mop",
+    "category": "Household & furniture",
+    "invention": {
+      "display": "15th century or earlier",
+      "year": 1450,
+      "approximate": true,
+      "era": "Medieval"
+    },
+    "place_of_invention": {
+      "region": "Western Europe",
+      "modern_country": "Various",
+      "notes": "The English word 'mop' is recorded from the 15th century, and cloths on sticks were likely used earlier. Later improvements include Thomas W. Stewart's 1893 US mop patent with a wringing mechanism."
+    },
+    "inventor": null,
+    "short_description": "A bundle of absorbent fibres or cloth on a handle, used to wash floors.",
+    "description": "Mops made of rags or yarn tied to a stick were used on ships' decks and floors for centuries. In the 19th century inventors added clamping heads and wringers, but the core idea of absorbent strands on a pole remained. String mops and flat mops are still standard cleaning tools.",
+    "why_unchanged": "Absorbent strands on a long handle lift water off the floor without the user kneeling.",
+    "materials": [
+      "cotton",
+      "microfibre",
+      "sponge",
+      "wood",
+      "aluminium"
+    ],
+    "faqs": [
+      {
+        "question": "Why are sailors sometimes called 'swabbies'?",
+        "answer": "Sailors cleaned, or 'swabbed', the decks with mops called swabs, so the nickname stuck."
+      },
+      {
+        "question": "How often should a mop head be replaced?",
+        "answer": "Many cleaners recommend washing mop heads after each use and replacing them every few months to avoid spreading bacteria."
+      },
+      {
+        "question": "What is a 'mop-up' operation?",
+        "answer": "It means finishing off remaining tasks, from the idea of mopping up the last of a spill."
+      }
+    ],
+    "image": {
+      "search_query": "cotton string mop and bucket",
+      "wikimedia_commons_category": "Mops",
+      "alt": "A cotton string mop next to a bucket"
+    },
+    "tags": [
+      "cleaning",
+      "household",
+      "medieval"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "scrub-brush",
+    "name": "Scrub brush",
+    "category": "Household & furniture",
+    "invention": {
+      "display": "Early modern period",
+      "year": 1700,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Europe",
+      "modern_country": "Various",
+      "notes": "Brushes of plant fibre or animal hair are very old; the stiff-bristled block brush for scrubbing floors and laundry was a standard household tool in Europe by the 18th century. Precise origin unknown."
+    },
+    "inventor": null,
+    "short_description": "A handheld brush with stiff bristles set in a block, used for scrubbing surfaces.",
+    "description": "Scrub brushes have a wooden or plastic block filled with stiff bristles, sometimes shaped to fit the hand. They were essential for cleaning wooden floors, stone steps and laundry before machines took over. They are still used for tough cleaning jobs everywhere.",
+    "why_unchanged": "A block of stiff bristles concentrates hand pressure into scrubbing power, and that physics has not changed.",
+    "materials": [
+      "wood",
+      "plastic",
+      "natural bristle",
+      "nylon"
+    ],
+    "faqs": [
+      {
+        "question": "What bristles do scrub brushes use?",
+        "answer": "Traditional brushes used plant fibres such as tampico or animal hair; modern ones mostly use nylon or polypropylene."
+      },
+      {
+        "question": "Why do some scrub brushes have a pointed end?",
+        "answer": "The pointed tip reaches into corners and along edges where a rectangular brush cannot."
+      },
+      {
+        "question": "How do you clean a scrub brush?",
+        "answer": "Rinse it thoroughly, soak it in hot soapy water or diluted vinegar, and let it dry bristles-down."
+      }
+    ],
+    "image": {
+      "search_query": "wooden scrub brush",
+      "wikimedia_commons_category": "Scrubbing brushes",
+      "alt": "A wooden scrub brush with stiff bristles"
+    },
+    "tags": [
+      "cleaning",
+      "household",
+      "brush"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "feather-duster",
+    "name": "Feather duster",
+    "category": "Household & furniture",
+    "invention": {
+      "display": "1876 (patent)",
+      "year": 1876,
+      "approximate": false,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "United States",
+      "modern_country": "United States",
+      "notes": "Feathers were used for dusting earlier, but Susan Hibbard received a US patent for a feather duster in 1876, after a dispute in which her husband tried to claim the invention."
+    },
+    "inventor": "Susan Hibbard",
+    "short_description": "A stick with a tuft of feathers used to remove dust from delicate surfaces.",
+    "description": "Susan Hibbard of the United States patented a feather duster made from turkey feathers in 1876, winning a dispute with her husband over the credit. Ostrich-feather dusters later became popular because their fine barbs hold dust. The design of feathers bundled on a handle is still sold today.",
+    "why_unchanged": "Fine feathers trap dust without scratching, so no redesign has been necessary.",
+    "materials": [
+      "ostrich feathers",
+      "turkey feathers",
+      "wood",
+      "synthetic fibres"
+    ],
+    "faqs": [
+      {
+        "question": "Why are ostrich feathers used in dusters?",
+        "answer": "Ostrich feathers have soft, fine barbs that build static and hold dust rather than just pushing it around."
+      },
+      {
+        "question": "Who invented the feather duster?",
+        "answer": "Susan Hibbard received a US patent for a feather duster in 1876."
+      },
+      {
+        "question": "How do you clean a feather duster?",
+        "answer": "Shake it outside, and occasionally wash it gently in lukewarm water with mild soap and let it air-dry."
+      }
+    ],
+    "image": {
+      "search_query": "ostrich feather duster",
+      "wikimedia_commons_category": "Feather dusters",
+      "alt": "An ostrich feather duster with a wooden handle"
+    },
+    "tags": [
+      "cleaning",
+      "household",
+      "patent"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "washboard",
+    "name": "Washboard",
+    "category": "Household & furniture",
+    "invention": {
+      "display": "18th century",
+      "year": 1750,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Europe",
+      "modern_country": "Various",
+      "notes": "Ridged wooden boards for washing clothes were used in Europe in the 18th century; Stephen Rust received a US patent for an improved washboard in 1833. The exact origin is unknown."
+    },
+    "inventor": null,
+    "short_description": "A ridged board on which wet clothes are rubbed to clean them.",
+    "description": "Clothes are soaped and rubbed up and down the ridged surface of a washboard, forcing water and soap through the fibres. Wooden boards were later fitted with corrugated metal or glass surfaces in the 19th century. Washboards are still used for hand laundry and as instruments in folk and zydeco music.",
+    "why_unchanged": "Corrugated ridges plus friction is the simplest effective way to scrub fabric by hand.",
+    "materials": [
+      "wood",
+      "zinc",
+      "steel",
+      "glass"
+    ],
+    "faqs": [
+      {
+        "question": "Are washboards still used for laundry?",
+        "answer": "Yes, in many places without washing machines and by travellers or campers doing hand laundry."
+      },
+      {
+        "question": "How is a washboard used as an instrument?",
+        "answer": "Players scrape the ridges with thimbles or spoons to create rhythm, especially in zydeco, skiffle and jug band music."
+      },
+      {
+        "question": "Why did some washboards have glass surfaces?",
+        "answer": "Glass was smooth, rust-proof and gentle on fabric, and was used when metal was scarce in wartime."
+      }
+    ],
+    "image": {
+      "search_query": "vintage washboard",
+      "wikimedia_commons_category": "Washboards",
+      "alt": "A vintage wooden and metal washboard"
+    },
+    "tags": [
+      "laundry",
+      "household",
+      "cleaning"
+    ],
+    "confidence": "low"
+  }
+]

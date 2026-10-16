@@ -1,0 +1,1266 @@
+[
+  {
+    "slug": "wardrobe",
+    "name": "Wardrobe",
+    "category": "Household & furniture",
+    "invention": {
+      "display": "17th century",
+      "year": 1650,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "France and Western Europe",
+      "modern_country": "France",
+      "notes": "Large upright cupboards for hanging or storing clothes, such as the French armoire, developed from medieval chests and cupboards; no single inventor or place is known."
+    },
+    "inventor": null,
+    "short_description": "A tall cupboard with doors for hanging and storing clothes.",
+    "description": "In the Middle Ages clothes were kept folded in chests, and a 'wardrobe' was a room where garments were stored. By the 17th century, tall freestanding cupboards such as the French armoire became fashionable for storing clothes upright. Built-in and freestanding wardrobes today keep the same tall, door-fronted form.",
+    "why_unchanged": "A tall box with doors and a rail stores clothes hanging and dust-free in a small footprint.",
+    "materials": [
+      "wood",
+      "veneer",
+      "particleboard",
+      "metal"
+    ],
+    "faqs": [
+      {
+        "question": "What is the difference between a wardrobe and an armoire?",
+        "answer": "An armoire is a type of tall, often ornate wardrobe, originally French; today the words are used almost interchangeably."
+      },
+      {
+        "question": "Why was a wardrobe originally a room?",
+        "answer": "Medieval households kept clothing and valuables in a 'garderobe' or wardrobe room, and the name later passed to the furniture."
+      },
+      {
+        "question": "Which famous book features a wardrobe?",
+        "answer": "C. S. Lewis's 'The Lion, the Witch and the Wardrobe' (1950), in which children enter Narnia through one."
+      }
+    ],
+    "image": {
+      "search_query": "wooden wardrobe",
+      "wikimedia_commons_category": "Wardrobes",
+      "alt": "A tall wooden wardrobe with two doors"
+    },
+    "tags": [
+      "furniture",
+      "storage",
+      "clothing"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "picture-frame",
+    "name": "Picture frame",
+    "category": "Household & furniture",
+    "invention": {
+      "display": "15th century (separate frames)",
+      "year": 1450,
+      "approximate": true,
+      "era": "Medieval"
+    },
+    "place_of_invention": {
+      "region": "Renaissance Italy and Northern Europe",
+      "modern_country": "Italy",
+      "notes": "Painted borders and carved surrounds were integral to many earlier panels, and a framed Roman-era Fayum portrait from Egypt is known; frames made separately from the picture became standard in 15th-century Europe."
+    },
+    "inventor": null,
+    "short_description": "A border that surrounds and protects a picture, photograph or artwork.",
+    "description": "Early panel paintings often had frames carved from the same piece of wood as the painting surface. In the 15th century, frames began to be made separately and attached, allowing them to be changed with fashion. Today's frames still use the same moulding, glazing and backing structure.",
+    "why_unchanged": "A rigid border that protects the edges and sets the image apart from the wall needs no reinvention.",
+    "materials": [
+      "wood",
+      "gilt",
+      "metal",
+      "glass",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "Why are many old frames gilded?",
+        "answer": "Gold leaf reflected candlelight and signalled the value of the painting and its owner."
+      },
+      {
+        "question": "What is a mat or passe-partout?",
+        "answer": "It is a card border placed between the frame and artwork that adds space and keeps the image from touching the glass."
+      },
+      {
+        "question": "Should picture frame glass be UV-protective?",
+        "answer": "For valuable or light-sensitive works, UV-filtering glazing helps slow fading."
+      }
+    ],
+    "image": {
+      "search_query": "ornate gilded picture frame",
+      "wikimedia_commons_category": "Picture frames",
+      "alt": "An ornate gilded picture frame"
+    },
+    "tags": [
+      "decor",
+      "art",
+      "renaissance"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "vase",
+    "name": "Vase",
+    "category": "Household & furniture",
+    "invention": {
+      "display": "Ancient (c. 3000 BCE)",
+      "year": -3000,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Mesopotamia, Egypt and China",
+      "modern_country": "Various",
+      "notes": "Decorative pottery vessels were made in many early civilizations; using a vase specifically to display cut flowers is documented in ancient Egypt and became widespread in China and later Europe."
+    },
+    "inventor": null,
+    "short_description": "An open decorative vessel, often used to hold cut flowers.",
+    "description": "Ancient potters in Mesopotamia, Egypt and China made ornamental vessels, and Egyptians placed flowers in vessels for offerings and decoration. Greek painted vases and Chinese porcelain later became celebrated art forms. The tall, open-mouthed vessel holding flowers in water is unchanged.",
+    "why_unchanged": "A narrow-necked open vessel holds water and supports stems, so its form needs no improvement.",
+    "materials": [
+      "ceramic",
+      "porcelain",
+      "glass",
+      "metal"
+    ],
+    "faqs": [
+      {
+        "question": "How do you keep cut flowers fresh in a vase?",
+        "answer": "Use clean water, trim stems at an angle and change the water every couple of days."
+      },
+      {
+        "question": "Why are Ming vases so famous?",
+        "answer": "Ming dynasty porcelain, especially blue-and-white ware, is prized for its quality, and rare pieces sell for millions."
+      },
+      {
+        "question": "What is the Portland Vase?",
+        "answer": "It is a Roman cameo-glass vase from around the 1st century CE, now in the British Museum."
+      }
+    ],
+    "image": {
+      "search_query": "ceramic vase with flowers",
+      "wikimedia_commons_category": "Vases",
+      "alt": "A ceramic vase holding fresh flowers"
+    },
+    "tags": [
+      "decor",
+      "ceramics",
+      "ancient"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "futon",
+    "name": "Futon",
+    "category": "Household & furniture",
+    "invention": {
+      "display": "17th century (cotton futon)",
+      "year": 1650,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Japan",
+      "modern_country": "Japan",
+      "notes": "Japanese bedding laid on the floor developed over centuries; padded cotton futon mattresses became common during the Edo period as cotton cultivation spread. Dating is approximate."
+    },
+    "inventor": null,
+    "short_description": "A padded mattress laid on the floor for sleeping and folded away by day.",
+    "description": "Traditional Japanese bedding consists of a shikibuton mattress and a kakebuton quilt laid on tatami mats at night. Cotton-filled futons became widespread during the Edo period, and they are folded and stored in a cupboard each morning to free the room. Western 'futons' adapted the idea to sofa beds, but the Japanese form is unchanged.",
+    "why_unchanged": "A foldable floor mattress makes one room serve for living and sleeping, which remains valuable.",
+    "materials": [
+      "cotton",
+      "wool",
+      "polyester"
+    ],
+    "faqs": [
+      {
+        "question": "Why are futons aired in the sun?",
+        "answer": "Hanging futons in sunlight dries out moisture and helps keep them fresh and fluffy."
+      },
+      {
+        "question": "Is a Japanese futon the same as a Western futon?",
+        "answer": "No; a Japanese futon is a thin floor mattress, while a Western futon is often a thick mattress on a convertible sofa frame."
+      },
+      {
+        "question": "What is a shikibuton?",
+        "answer": "It is the bottom mattress of a Japanese futon set, laid directly on tatami."
+      }
+    ],
+    "image": {
+      "search_query": "japanese futon on tatami",
+      "wikimedia_commons_category": "Futons",
+      "alt": "A Japanese futon laid out on tatami mats"
+    },
+    "tags": [
+      "bedding",
+      "japan",
+      "sleep"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "tatami-mat",
+    "name": "Tatami mat",
+    "category": "Household & furniture",
+    "invention": {
+      "display": "Heian period (c. 8th-12th century)",
+      "year": 900,
+      "approximate": true,
+      "era": "Medieval"
+    },
+    "place_of_invention": {
+      "region": "Japan",
+      "modern_country": "Japan",
+      "notes": "Tatami began as movable mats for sitting and sleeping in aristocratic Heian homes and later covered whole floors; the standardized room-covering tatami spread from the Muromachi period."
+    },
+    "inventor": null,
+    "short_description": "A thick rectangular floor mat of rice straw covered with woven rush.",
+    "description": "Tatami mats were originally portable seats and beds for Japanese nobility, then became fixed floor coverings in whole rooms. Each mat has a rice-straw core covered with woven igusa rush and bound with cloth edges. Japanese rooms are still measured in numbers of tatami.",
+    "why_unchanged": "A firm, cushioned, breathable rectangle that tiles a room is ideal for floor living.",
+    "materials": [
+      "rice straw",
+      "igusa rush",
+      "cloth",
+      "foam"
+    ],
+    "faqs": [
+      {
+        "question": "How big is a tatami mat?",
+        "answer": "Sizes vary by region, but a typical mat is about 1.8 by 0.9 metres, a 2:1 ratio."
+      },
+      {
+        "question": "Why are Japanese rooms measured in tatami?",
+        "answer": "Rooms were laid out to fit whole mats, so a room's size is described as a number of mats, such as six-mat room."
+      },
+      {
+        "question": "Should you wear shoes on tatami?",
+        "answer": "No; tatami are walked on with bare feet or socks to protect the delicate rush surface."
+      }
+    ],
+    "image": {
+      "search_query": "tatami mat room",
+      "wikimedia_commons_category": "Tatami",
+      "alt": "A Japanese room covered with tatami mats"
+    },
+    "tags": [
+      "floor",
+      "japan",
+      "medieval"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "folding-screen",
+    "name": "Folding screen",
+    "category": "Household & furniture",
+    "invention": {
+      "display": "c. 2nd century BCE",
+      "year": -200,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "China",
+      "modern_country": "China",
+      "notes": "Folding screens are recorded in China by the Han dynasty, and possibly earlier; they spread to Japan, Korea and later Europe."
+    },
+    "inventor": null,
+    "short_description": "A free-standing screen of hinged panels used to divide a room or block drafts.",
+    "description": "Folding screens were developed in China, where hinged panels of wood, lacquer or silk divided spaces and blocked drafts. They spread to Japan as byōbu, often painted by leading artists, and reached Europe in the 17th and 18th centuries. Today they still serve as room dividers and dressing screens.",
+    "why_unchanged": "Hinged panels stand by themselves in a zigzag and fold flat, a design that cannot be simplified.",
+    "materials": [
+      "wood",
+      "paper",
+      "silk",
+      "lacquer",
+      "metal"
+    ],
+    "faqs": [
+      {
+        "question": "What is a byōbu?",
+        "answer": "A byōbu is a Japanese folding screen, often decorated with paintings or gold leaf."
+      },
+      {
+        "question": "How does a folding screen stand up?",
+        "answer": "Its panels are set at angles in a zigzag, which keeps it stable without any base."
+      },
+      {
+        "question": "Why were folding screens used in Western bedrooms?",
+        "answer": "They provided privacy for dressing and blocked cold drafts."
+      }
+    ],
+    "image": {
+      "search_query": "chinese folding screen",
+      "wikimedia_commons_category": "Folding screens",
+      "alt": "A painted Chinese folding screen"
+    },
+    "tags": [
+      "furniture",
+      "china",
+      "ancient"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "shoji-screen",
+    "name": "Shoji screen",
+    "category": "Household & furniture",
+    "invention": {
+      "display": "c. 12th century",
+      "year": 1200,
+      "approximate": true,
+      "era": "Medieval"
+    },
+    "place_of_invention": {
+      "region": "Japan",
+      "modern_country": "Japan",
+      "notes": "Sliding paper-covered doors developed in Japanese architecture from the Heian period onward; the familiar latticed shoji became widespread with the shoin style of the Muromachi period. Dating is approximate."
+    },
+    "inventor": null,
+    "short_description": "A sliding door or panel made of translucent paper on a wooden lattice.",
+    "description": "Shoji are sliding panels of washi paper stretched over a light wooden grid, used in traditional Japanese homes as doors, windows and room dividers. The paper diffuses soft daylight into the room while giving privacy. Modern shoji are made in the same way, sometimes with tougher synthetic paper.",
+    "why_unchanged": "Paper on a wooden lattice is light, translucent and slides easily, which is exactly what is needed.",
+    "materials": [
+      "wood",
+      "washi paper"
+    ],
+    "faqs": [
+      {
+        "question": "What is the difference between shoji and fusuma?",
+        "answer": "Shoji use translucent paper to let light through, while fusuma are opaque sliding panels used between rooms."
+      },
+      {
+        "question": "How do you repair a torn shoji?",
+        "answer": "Small tears can be patched with paper, or the whole panel can be re-papered with rice glue."
+      },
+      {
+        "question": "Why do shoji slide instead of swing?",
+        "answer": "Sliding panels save space and let rooms be opened up or divided flexibly."
+      }
+    ],
+    "image": {
+      "search_query": "shoji sliding doors",
+      "wikimedia_commons_category": "Shōji",
+      "alt": "Japanese shoji sliding doors with paper panels"
+    },
+    "tags": [
+      "home fixture",
+      "japan",
+      "medieval"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "daybed",
+    "name": "Daybed",
+    "category": "Household & furniture",
+    "invention": {
+      "display": "c. 7th century BCE",
+      "year": -650,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Ancient Greece",
+      "modern_country": "Greece",
+      "notes": "The Greek kline and Roman lectus were couches used for both reclining by day and sleeping; Egyptians also had similar couches. The form has many ancient antecedents."
+    },
+    "inventor": null,
+    "short_description": "A couch-like bed used for lounging by day and sleeping by night.",
+    "description": "Ancient Greeks reclined on klinai at banquets, and Romans used similar couches for dining and resting. The daybed reappeared in 17th-century Europe as a fashionable lounging piece. Today's daybeds, often with three sides, serve as sofas and guest beds.",
+    "why_unchanged": "A low single bed with a back or ends serves as seating and a bed with no added mechanism.",
+    "materials": [
+      "wood",
+      "metal",
+      "upholstery"
+    ],
+    "faqs": [
+      {
+        "question": "Did the Greeks really eat lying down?",
+        "answer": "Yes; at a symposium, Greek men reclined on couches while eating and drinking."
+      },
+      {
+        "question": "How is a daybed different from a sofa bed?",
+        "answer": "A daybed is already a bed shape and needs no unfolding, while a sofa bed converts from a sofa."
+      },
+      {
+        "question": "What mattress size does a daybed use?",
+        "answer": "Most daybeds use a standard twin or single mattress."
+      }
+    ],
+    "image": {
+      "search_query": "daybed with cushions",
+      "wikimedia_commons_category": "Daybeds",
+      "alt": "A daybed with cushions"
+    },
+    "tags": [
+      "furniture",
+      "sleep",
+      "ancient"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "trestle-table",
+    "name": "Trestle table",
+    "category": "Household & furniture",
+    "invention": {
+      "display": "Medieval period",
+      "year": 1100,
+      "approximate": true,
+      "era": "Medieval"
+    },
+    "place_of_invention": {
+      "region": "Europe",
+      "modern_country": "Various",
+      "notes": "Boards laid on trestles were used in antiquity and became the standard dining table in medieval European halls; no single origin is known."
+    },
+    "inventor": null,
+    "short_description": "A table made of a board resting on separate supports called trestles.",
+    "description": "In medieval halls, tables were often boards laid on trestles for meals and cleared away afterwards so the space could be used for other purposes. Later trestle tables had fixed supports joined by a stretcher. Folding trestles and boards are still used for markets, events and workshops.",
+    "why_unchanged": "A top on two detachable supports is easy to build, carry and store.",
+    "materials": [
+      "wood",
+      "metal"
+    ],
+    "faqs": [
+      {
+        "question": "Why were medieval tables taken apart?",
+        "answer": "Great halls served many functions, so tables were dismantled after meals to clear the floor."
+      },
+      {
+        "question": "What is a trestle?",
+        "answer": "A trestle is a supporting frame, often with splayed legs, used in pairs to hold up a board."
+      },
+      {
+        "question": "Are trestle tables still made?",
+        "answer": "Yes; folding trestle tables are common for events, and fixed trestle-base dining tables are popular in farmhouse style."
+      }
+    ],
+    "image": {
+      "search_query": "wooden trestle table",
+      "wikimedia_commons_category": "Trestle tables",
+      "alt": "A wooden trestle table"
+    },
+    "tags": [
+      "furniture",
+      "surface",
+      "medieval"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "chest-of-drawers",
+    "name": "Chest of drawers",
+    "category": "Household & furniture",
+    "invention": {
+      "display": "17th century",
+      "year": 1650,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "England and Western Europe",
+      "modern_country": "United Kingdom",
+      "notes": "Developed from lidded chests that gained one or two drawers at the bottom (the 'mule chest'); full chests of drawers became common in the later 17th century."
+    },
+    "inventor": null,
+    "short_description": "A piece of furniture with stacked horizontal drawers for storing clothes.",
+    "description": "Lidded chests made it hard to reach items at the bottom, so cabinet-makers added drawers below the lid. By the later 17th century, chests made entirely of drawers became popular in England and Europe. The design of stacked sliding drawers in a case is still used today.",
+    "why_unchanged": "Stacked drawers give direct access to every item without unpacking, a lasting improvement on the chest.",
+    "materials": [
+      "wood",
+      "veneer",
+      "particleboard"
+    ],
+    "faqs": [
+      {
+        "question": "What is a mule chest?",
+        "answer": "It is a transitional chest with a hinged lid and one or more drawers in the base."
+      },
+      {
+        "question": "What is the difference between a dresser and a chest of drawers?",
+        "answer": "In American usage a dresser is usually wide and low, often with a mirror, while a chest of drawers is taller and narrower."
+      },
+      {
+        "question": "How do you fix a sticking wooden drawer?",
+        "answer": "Rubbing wax or a candle along the runners often helps it slide smoothly."
+      }
+    ],
+    "image": {
+      "search_query": "antique chest of drawers",
+      "wikimedia_commons_category": "Chests of drawers",
+      "alt": "An antique wooden chest of drawers"
+    },
+    "tags": [
+      "furniture",
+      "storage",
+      "early modern"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "bookcase",
+    "name": "Bookcase",
+    "category": "Household & furniture",
+    "invention": {
+      "display": "1666",
+      "year": 1666,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "London, England",
+      "modern_country": "United Kingdom",
+      "notes": "The glass-fronted bookcases commissioned by diarist Samuel Pepys in 1666 are often cited as among the earliest freestanding domestic bookcases in England; books were previously stored in chests, presses or on lecterns."
+    },
+    "inventor": null,
+    "short_description": "A piece of furniture with shelves for storing books.",
+    "description": "Before bookcases, books were kept in chests, on lecterns or chained to library shelves, often stored flat or with the spine inward. In 1666 Samuel Pepys commissioned glass-fronted oak bookcases, now at Magdalene College, Cambridge, among the earliest of their kind in England. Bookcases have kept their tall, shelved form ever since.",
+    "why_unchanged": "Vertical books on horizontal shelves make the best use of wall space, so the form endures.",
+    "materials": [
+      "wood",
+      "glass",
+      "metal"
+    ],
+    "faqs": [
+      {
+        "question": "Where are Samuel Pepys's bookcases now?",
+        "answer": "They are in the Pepys Library at Magdalene College, Cambridge."
+      },
+      {
+        "question": "Why did medieval libraries chain books?",
+        "answer": "Books were extremely valuable, so they were chained to shelves or desks to prevent theft."
+      },
+      {
+        "question": "How deep should a bookcase be?",
+        "answer": "Most books fit on shelves about 25 to 30 cm deep, though art books need more."
+      }
+    ],
+    "image": {
+      "search_query": "wooden bookcase full of books",
+      "wikimedia_commons_category": "Bookcases",
+      "alt": "A wooden bookcase filled with books"
+    },
+    "tags": [
+      "furniture",
+      "storage",
+      "books"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "coat-stand",
+    "name": "Coat stand",
+    "category": "Household & furniture",
+    "invention": {
+      "display": "19th century",
+      "year": 1860,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Europe",
+      "modern_country": "Various",
+      "notes": "Free-standing hat and coat stands became popular in 19th-century homes and cafés; the bentwood version made famous by Thonet in Austria spread widely. No single inventor is known."
+    },
+    "inventor": null,
+    "short_description": "A free-standing pole with hooks at the top for hanging coats and hats.",
+    "description": "Coat stands became common in Victorian hallways and European cafés, where guests needed a place for coats and hats. The bentwood stand, made by steaming and bending beech, became an icon of Viennese café culture. The pole-with-hooks design is unchanged.",
+    "why_unchanged": "A central pole with radiating hooks holds many garments in a tiny footprint.",
+    "materials": [
+      "wood",
+      "bentwood",
+      "metal"
+    ],
+    "faqs": [
+      {
+        "question": "What is a hall tree?",
+        "answer": "A hall tree is a larger coat stand that often includes a mirror, a bench and an umbrella holder."
+      },
+      {
+        "question": "Why are bentwood coat stands associated with cafés?",
+        "answer": "The Thonet company supplied bentwood furniture to many Viennese and European cafés in the 19th century."
+      },
+      {
+        "question": "How do you stop a coat stand from tipping?",
+        "answer": "Hang coats evenly on all sides and choose a stand with a heavy or wide base."
+      }
+    ],
+    "image": {
+      "search_query": "bentwood coat stand",
+      "wikimedia_commons_category": "Coat racks",
+      "alt": "A bentwood coat stand with hats and coats"
+    },
+    "tags": [
+      "furniture",
+      "storage",
+      "industrial"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "warming-pan",
+    "name": "Warming pan",
+    "category": "Household & furniture",
+    "invention": {
+      "display": "16th century",
+      "year": 1550,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "England and Western Europe",
+      "modern_country": "Various",
+      "notes": "Covered pans filled with embers for warming beds were common in Europe by the 16th and 17th centuries; exact origin unknown."
+    },
+    "inventor": null,
+    "short_description": "A covered metal pan on a long handle, filled with hot coals and passed between bed sheets to warm them.",
+    "description": "Before central heating, beds could be icy, so households filled a lidded brass or copper pan with embers and moved it between the sheets before bedtime. The long handle kept the user's hands away from the heat. Warming pans are now mostly decorative, but the design is unchanged.",
+    "why_unchanged": "A lidded pan on a long handle carries heat safely into a bed with nothing more required.",
+    "materials": [
+      "brass",
+      "copper",
+      "wood"
+    ],
+    "faqs": [
+      {
+        "question": "How was a warming pan used?",
+        "answer": "It was filled with embers, closed, and slid back and forth between the sheets to avoid scorching them."
+      },
+      {
+        "question": "What replaced the warming pan?",
+        "answer": "Hot water bottles, and later electric blankets, became safer alternatives."
+      },
+      {
+        "question": "Why do warming pans have holes in the lid?",
+        "answer": "The holes let a little air reach the embers so they keep glowing."
+      }
+    ],
+    "image": {
+      "search_query": "antique brass warming pan",
+      "wikimedia_commons_category": "Warming pans",
+      "alt": "An antique brass warming pan with a long handle"
+    },
+    "tags": [
+      "bedding",
+      "heating",
+      "early modern"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "hot-water-bottle",
+    "name": "Hot water bottle",
+    "category": "Household & furniture",
+    "invention": {
+      "display": "1903",
+      "year": 1903,
+      "approximate": false,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "Croatia (then Austria-Hungary)",
+      "modern_country": "Croatia",
+      "notes": "Eduard Penkala is credited with patenting the rubber hot-water bottle in 1903; containers of hot water or heated stones were used for warmth long before."
+    },
+    "inventor": "Eduard Penkala",
+    "short_description": "A sealed rubber bag filled with hot water to provide warmth.",
+    "description": "People had long warmed beds with heated bricks, stones and metal containers of hot water. In 1903 the inventor Eduard Penkala, working in Zagreb, patented a rubber hot-water bottle. The flat rubber bag with a screw stopper is still produced in almost the same form.",
+    "why_unchanged": "A soft, sealed rubber bag holds heat and conforms to the body, so it has never needed redesign.",
+    "materials": [
+      "natural rubber",
+      "PVC",
+      "fleece cover"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the rubber hot water bottle?",
+        "answer": "Eduard Penkala, a Croatian inventor, is credited with the 1903 rubber hot-water bottle."
+      },
+      {
+        "question": "Why shouldn't you use boiling water?",
+        "answer": "Boiling water can weaken the rubber and cause burns, so manufacturers recommend hot, not boiling, water."
+      },
+      {
+        "question": "How often should a hot water bottle be replaced?",
+        "answer": "Rubber degrades over time; many makers print a manufacture date and suggest replacing bottles every two to three years."
+      }
+    ],
+    "image": {
+      "search_query": "rubber hot water bottle",
+      "wikimedia_commons_category": "Hot water bottles",
+      "alt": "A rubber hot water bottle with a knitted cover"
+    },
+    "tags": [
+      "bedding",
+      "heating",
+      "modern"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "mattress",
+    "name": "Mattress",
+    "category": "Household & furniture",
+    "invention": {
+      "display": "c. 75,000 BCE",
+      "year": -75000,
+      "approximate": true,
+      "era": "Prehistoric"
+    },
+    "place_of_invention": {
+      "region": "Sibudu Cave, KwaZulu-Natal",
+      "modern_country": "South Africa",
+      "notes": "Layers of plant bedding about 77,000 years old found at Sibudu Cave are the oldest known; stuffed mattresses on frames came much later in Egypt, Persia and Rome."
+    },
+    "inventor": null,
+    "short_description": "A padded pad on which a person sleeps.",
+    "description": "The oldest known bedding, found at Sibudu Cave in South Africa, consisted of layers of sedges and rushes, some containing insect-repelling leaves. Later cultures stuffed cloth bags with straw, wool, feathers or horsehair. Modern mattresses with springs or foam keep the same idea of a thick padded layer.",
+    "why_unchanged": "A padded layer between body and hard surface is all a sleeper needs.",
+    "materials": [
+      "cotton",
+      "wool",
+      "foam",
+      "steel springs",
+      "latex"
+    ],
+    "faqs": [
+      {
+        "question": "What is the oldest known bedding?",
+        "answer": "About 77,000-year-old layers of plant bedding were found at Sibudu Cave in South Africa."
+      },
+      {
+        "question": "Why did ancient bedding include aromatic leaves?",
+        "answer": "Leaves from plants such as Cape laurel contain chemicals that repel mosquitoes and other insects."
+      },
+      {
+        "question": "How often should you replace a mattress?",
+        "answer": "Many experts suggest every seven to ten years, depending on comfort and wear."
+      }
+    ],
+    "image": {
+      "search_query": "mattress on bed",
+      "wikimedia_commons_category": "Mattresses",
+      "alt": "A mattress on a bed frame"
+    },
+    "tags": [
+      "bedding",
+      "sleep",
+      "prehistoric"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "duvet",
+    "name": "Duvet",
+    "category": "Household & furniture",
+    "invention": {
+      "display": "17th-18th century",
+      "year": 1700,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Northern Europe",
+      "modern_country": "Various",
+      "notes": "Down- and feather-filled covers were used in Scandinavia and Germany long before they became common in Britain and North America in the late 20th century. Precise origin is unknown."
+    },
+    "inventor": null,
+    "short_description": "A soft flat bag filled with down, feathers or synthetic fibre, used as a bed covering.",
+    "description": "Northern Europeans, especially in Scandinavia and Germany, slept under feather-filled covers, sometimes called eiderdowns after the eider duck. Duvets spread to Britain in the 1960s and later to North America as an alternative to sheets and blankets. The filled bag inside a removable cover remains the same today.",
+    "why_unchanged": "A loosely filled bag traps air for warmth with almost no weight, which is hard to improve on.",
+    "materials": [
+      "down",
+      "feathers",
+      "polyester fibre",
+      "cotton"
+    ],
+    "faqs": [
+      {
+        "question": "What is the difference between a duvet and a comforter?",
+        "answer": "A duvet is usually used inside a removable cover, while a comforter is typically a finished covering used as is."
+      },
+      {
+        "question": "What does 'tog' mean?",
+        "answer": "Tog is a British measure of a duvet's thermal insulation; higher tog means warmer."
+      },
+      {
+        "question": "Why is it called an eiderdown?",
+        "answer": "Eiderdown comes from the soft down of the eider duck, a traditional filling."
+      }
+    ],
+    "image": {
+      "search_query": "white duvet on bed",
+      "wikimedia_commons_category": "Duvets",
+      "alt": "A white duvet on a bed"
+    },
+    "tags": [
+      "bedding",
+      "textile",
+      "early modern"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "bed-sheet",
+    "name": "Bed sheet",
+    "category": "Household & furniture",
+    "invention": {
+      "display": "Ancient (c. 2000 BCE)",
+      "year": -2000,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Ancient Egypt",
+      "modern_country": "Egypt",
+      "notes": "Linen cloths for beds were used in ancient Egypt, where flax weaving was highly developed; sheets were also used across the ancient Mediterranean."
+    },
+    "inventor": null,
+    "short_description": "A large rectangle of cloth spread over a mattress or under covers.",
+    "description": "Ancient Egyptians wove fine linen and used it for clothing and bedding. Linen sheets became prized household goods in medieval Europe, often listed in wills and dowries. Cotton sheets and fitted sheets are common today, but the flat rectangle of cloth is unchanged.",
+    "why_unchanged": "A washable layer between sleeper and bedding keeps the bed clean, and a rectangle of cloth does this perfectly.",
+    "materials": [
+      "cotton",
+      "linen",
+      "silk",
+      "polyester"
+    ],
+    "faqs": [
+      {
+        "question": "What does thread count mean?",
+        "answer": "Thread count is the number of threads per square inch of fabric; higher counts often feel smoother, but quality also depends on fibre."
+      },
+      {
+        "question": "When was the fitted sheet invented?",
+        "answer": "Fitted sheets with elastic corners became common in the mid-20th century."
+      },
+      {
+        "question": "How often should sheets be washed?",
+        "answer": "Many experts recommend washing sheets about once a week."
+      }
+    ],
+    "image": {
+      "search_query": "white cotton bed sheets",
+      "wikimedia_commons_category": "Bed sheets",
+      "alt": "Crisp white cotton bed sheets"
+    },
+    "tags": [
+      "bedding",
+      "textile",
+      "ancient"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "venetian-blind",
+    "name": "Venetian blind",
+    "category": "Household & furniture",
+    "invention": {
+      "display": "18th century",
+      "year": 1769,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "London, England",
+      "modern_country": "United Kingdom",
+      "notes": "Slatted blinds were advertised in London in the 18th century and patented by Edward Bevan in 1841; the name links them to Venice, though Persian origins are also claimed. Origins are disputed."
+    },
+    "inventor": null,
+    "short_description": "A window blind of horizontal slats that can be tilted or raised with cords.",
+    "description": "Venetian blinds have horizontal slats linked by cords or tapes, so they can be tilted to control light or drawn up completely. They were sold in 18th-century London and America, and Edward Bevan patented an improved version in 1841. Modern aluminium, wooden and vinyl blinds work the same way.",
+    "why_unchanged": "Tiltable slats offer fine control of light and privacy with simple cords.",
+    "materials": [
+      "aluminium",
+      "wood",
+      "vinyl"
+    ],
+    "faqs": [
+      {
+        "question": "Why are they called Venetian blinds?",
+        "answer": "The name suggests they reached Europe via Venetian traders, though the exact origin is uncertain."
+      },
+      {
+        "question": "How do you clean venetian blinds?",
+        "answer": "Close the slats and wipe with a damp cloth or use a duster, then reverse and repeat."
+      },
+      {
+        "question": "Are corded blinds safe for children?",
+        "answer": "Looped cords can be a strangulation hazard, so safety devices or cordless designs are recommended in homes with small children."
+      }
+    ],
+    "image": {
+      "search_query": "venetian blinds window",
+      "wikimedia_commons_category": "Venetian blinds",
+      "alt": "A window with venetian blinds"
+    },
+    "tags": [
+      "window",
+      "home fixture",
+      "early modern"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "carpet-beater",
+    "name": "Carpet beater",
+    "category": "Household & furniture",
+    "invention": {
+      "display": "19th century",
+      "year": 1850,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Europe",
+      "modern_country": "Various",
+      "notes": "Wicker and rattan carpet beaters were common household tools in 19th-century Europe and America; earlier simple sticks were used. No inventor is known."
+    },
+    "inventor": null,
+    "short_description": "A paddle of bent rattan or wire used to beat dust out of rugs.",
+    "description": "Before vacuum cleaners, rugs were hung over a line or rail outdoors and beaten to drive out dust. Carpet beaters made of looped rattan or wire were standard household tools in the 19th century. They are still used for cleaning rugs in many parts of the world.",
+    "why_unchanged": "A flexible looped paddle strikes hard without damaging fibres, and nothing more is needed.",
+    "materials": [
+      "rattan",
+      "wicker",
+      "steel wire",
+      "wood"
+    ],
+    "faqs": [
+      {
+        "question": "How do you beat a rug?",
+        "answer": "Hang it over a line or rail outdoors and strike the back firmly with the beater until dust stops coming out."
+      },
+      {
+        "question": "Why are carpet beaters shaped like loops?",
+        "answer": "Loops spread the impact and flex, making beating efficient and gentle on the rug."
+      },
+      {
+        "question": "Are carpet beaters still used?",
+        "answer": "Yes, especially for hand-knotted rugs and in places where large rugs are cleaned outdoors."
+      }
+    ],
+    "image": {
+      "search_query": "rattan carpet beater",
+      "wikimedia_commons_category": "Carpet beaters",
+      "alt": "A rattan carpet beater"
+    },
+    "tags": [
+      "cleaning",
+      "household",
+      "industrial"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "hand-brush",
+    "name": "Hand brush",
+    "category": "Household & furniture",
+    "invention": {
+      "display": "Early modern period",
+      "year": 1700,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Europe",
+      "modern_country": "Various",
+      "notes": "Short-handled sweeping brushes for hearths, tables and floors were common household tools in Europe by the 18th century; no single origin is known."
+    },
+    "inventor": null,
+    "short_description": "A short-handled brush used with a dustpan to sweep up small amounts of dirt.",
+    "description": "The hand brush lets debris be swept precisely into a dustpan or off tables and hearths. Hearth brushes and hand brushes of bristle or horsehair were standard in early modern households. Plastic and wood versions are used the same way today.",
+    "why_unchanged": "Bristles on a short handle give control for small sweeping jobs, so the design endures.",
+    "materials": [
+      "wood",
+      "plastic",
+      "horsehair",
+      "nylon bristles"
+    ],
+    "faqs": [
+      {
+        "question": "What is a whisk broom?",
+        "answer": "It is a small hand broom of stiff fibres used for brushing clothes, furniture or small areas."
+      },
+      {
+        "question": "What bristles are best for a hand brush?",
+        "answer": "Soft bristles like horsehair suit fine dust, while stiff ones work better on coarse debris."
+      },
+      {
+        "question": "How do you clean a hand brush?",
+        "answer": "Comb out debris and wash it in warm soapy water, then let it dry."
+      }
+    ],
+    "image": {
+      "search_query": "hand brush and dustpan",
+      "wikimedia_commons_category": "Brushes",
+      "alt": "A hand brush lying on a dustpan"
+    },
+    "tags": [
+      "cleaning",
+      "household",
+      "brush"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "lint-roller",
+    "name": "Lint roller",
+    "category": "Household & furniture",
+    "invention": {
+      "display": "1956",
+      "year": 1956,
+      "approximate": false,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "United States",
+      "modern_country": "United States",
+      "notes": "Nicholas McKay is credited with inventing the adhesive lint roller in 1956; it was later marketed under the Helmac brand."
+    },
+    "inventor": "Nicholas McKay",
+    "short_description": "A handled roller covered with sticky paper that lifts lint and hair from clothing.",
+    "description": "Nicholas McKay devised the lint roller in 1956, wrapping a roller in adhesive tape with the sticky side out. As each layer fills with lint, it is peeled off to reveal a fresh one. The design is still essentially the same.",
+    "why_unchanged": "A rolling sticky surface with tear-off layers is the fastest way to lift lint from fabric.",
+    "materials": [
+      "plastic",
+      "adhesive paper",
+      "cardboard"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the lint roller?",
+        "answer": "Nicholas McKay is credited with inventing it in 1956."
+      },
+      {
+        "question": "Does a lint roller remove pet hair?",
+        "answer": "Yes; it is one of the most popular tools for removing pet hair from clothes and furniture."
+      },
+      {
+        "question": "Is there a reusable lint roller?",
+        "answer": "Yes; some use washable sticky silicone or fabric brushes instead of disposable sheets."
+      }
+    ],
+    "image": {
+      "search_query": "lint roller on clothing",
+      "wikimedia_commons_category": "Lint rollers",
+      "alt": "A lint roller being used on a jacket"
+    },
+    "tags": [
+      "cleaning",
+      "laundry",
+      "modern"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "squeegee",
+    "name": "Squeegee",
+    "category": "Household & furniture",
+    "invention": {
+      "display": "1936 (window squeegee)",
+      "year": 1936,
+      "approximate": false,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "Oakland, California",
+      "modern_country": "United States",
+      "notes": "Simple rubber-bladed squeegees were used on ships' decks earlier; Ettore Steccone patented the lightweight single-blade window squeegee in 1936, the design used by window cleaners ever since."
+    },
+    "inventor": "Ettore Steccone",
+    "short_description": "A rubber blade on a handle used to wipe water from windows and smooth surfaces.",
+    "description": "Window washers once used heavy, multi-bladed squeegees. In 1936, Italian-born Ettore Steccone in Oakland, California, patented a light brass squeegee with a single replaceable rubber blade. His design remains the professional standard for cleaning glass.",
+    "why_unchanged": "A single straight rubber edge wipes water cleanly off glass, a solution that cannot be bettered.",
+    "materials": [
+      "rubber",
+      "brass",
+      "stainless steel",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the modern window squeegee?",
+        "answer": "Ettore Steccone patented the single-blade window squeegee in 1936."
+      },
+      {
+        "question": "How do professionals avoid streaks?",
+        "answer": "They use a clean, sharp blade and wipe the edge between strokes, often in an S-shaped motion."
+      },
+      {
+        "question": "Where else are squeegees used?",
+        "answer": "They are used in screen printing, on shower glass and for clearing water from floors."
+      }
+    ],
+    "image": {
+      "search_query": "window cleaning squeegee",
+      "wikimedia_commons_category": "Squeegees",
+      "alt": "A window squeegee on a wet window"
+    },
+    "tags": [
+      "cleaning",
+      "window",
+      "patent"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "ironing-board",
+    "name": "Ironing board",
+    "category": "Household & furniture",
+    "invention": {
+      "display": "1858 (patent)",
+      "year": 1858,
+      "approximate": false,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "United States",
+      "modern_country": "United States",
+      "notes": "Boards laid across tables or chairs were used earlier; a folding ironing table was patented in the US by W. Vandenburg and J. Harvey in 1858, and Sarah Boone patented an improved narrow board for sleeves in 1892."
+    },
+    "inventor": null,
+    "short_description": "A padded folding board on legs on which clothes are ironed.",
+    "description": "Clothes were once ironed on tables or planks set across chairs. In the mid-19th century inventors patented folding ironing tables, and in 1892 Sarah Boone patented a narrow, curved board that made ironing sleeves and bodices easier. Modern ironing boards keep the padded, tapered top on folding legs.",
+    "why_unchanged": "A narrow padded surface with a tapered end fits garments perfectly and folds away.",
+    "materials": [
+      "steel",
+      "wood",
+      "cotton cover",
+      "foam"
+    ],
+    "faqs": [
+      {
+        "question": "Who was Sarah Boone?",
+        "answer": "Sarah Boone was an African American inventor who patented an improved ironing board in 1892."
+      },
+      {
+        "question": "Why is one end of an ironing board pointed?",
+        "answer": "The narrow end lets you slip sleeves, collars and trouser legs over it."
+      },
+      {
+        "question": "Why does an ironing board cover have a reflective surface?",
+        "answer": "A reflective cover bounces heat back into the fabric, which can speed ironing."
+      }
+    ],
+    "image": {
+      "search_query": "folding ironing board",
+      "wikimedia_commons_category": "Ironing boards",
+      "alt": "A folding ironing board with an iron"
+    },
+    "tags": [
+      "laundry",
+      "patent",
+      "household"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "candle-snuffer",
+    "name": "Candle snuffer",
+    "category": "Household & furniture",
+    "invention": {
+      "display": "16th-17th century",
+      "year": 1600,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Europe",
+      "modern_country": "Various",
+      "notes": "Scissor-like 'snuffers' for trimming wicks and cone-shaped extinguishers for putting out flames were both used in early modern Europe; their exact origin is unknown."
+    },
+    "inventor": null,
+    "short_description": "A small cone on a handle used to put out a candle flame.",
+    "description": "A candle snuffer is a small metal cup on a long handle, lowered over a flame to starve it of oxygen. It avoids blowing out a candle, which can spray wax and create smoke. Snuffers were common in churches and homes and are still sold with candle accessories.",
+    "why_unchanged": "A cone that cuts off oxygen is the cleanest way to extinguish a flame.",
+    "materials": [
+      "brass",
+      "silver",
+      "steel"
+    ],
+    "faqs": [
+      {
+        "question": "Why use a snuffer instead of blowing out a candle?",
+        "answer": "A snuffer avoids spattering wax and reduces smoke and the smell of a smouldering wick."
+      },
+      {
+        "question": "What were scissor snuffers?",
+        "answer": "They were scissor-like tools used to trim wicks and catch the cut part, needed before self-trimming wicks."
+      },
+      {
+        "question": "Why do churches use long-handled snuffers?",
+        "answer": "Long handles reach tall candles and altar candlesticks safely."
+      }
+    ],
+    "image": {
+      "search_query": "brass candle snuffer",
+      "wikimedia_commons_category": "Candle snuffers",
+      "alt": "A brass candle snuffer"
+    },
+    "tags": [
+      "lighting",
+      "fire",
+      "early modern"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "chamberstick",
+    "name": "Chamberstick",
+    "category": "Household & furniture",
+    "invention": {
+      "display": "17th century",
+      "year": 1650,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Europe",
+      "modern_country": "Various",
+      "notes": "Short candle holders with a saucer and a handle were used to carry light to bedrooms in early modern Europe; no single origin is known."
+    },
+    "inventor": null,
+    "short_description": "A short candlestick with a wide drip tray and a finger handle, designed to be carried.",
+    "description": "Before electric light, people carried a chamberstick to light their way to bed. Its wide saucer caught dripping wax, and the ring handle made it easy to hold. Many examples also included a small snuffer clipped to the handle.",
+    "why_unchanged": "A low, wide holder with a handle is the safest way to carry a lit candle.",
+    "materials": [
+      "brass",
+      "pewter",
+      "silver",
+      "enamelled tin"
+    ],
+    "faqs": [
+      {
+        "question": "Why does a chamberstick have a wide base?",
+        "answer": "The saucer catches dripping wax and keeps the candlestick stable when set down."
+      },
+      {
+        "question": "What does 'chamber' refer to?",
+        "answer": "It refers to the bedchamber, where people carried the candle at night."
+      },
+      {
+        "question": "Are chambersticks still used?",
+        "answer": "They are mostly decorative today, but remain handy during power cuts and for candlelit rooms."
+      }
+    ],
+    "image": {
+      "search_query": "brass chamberstick",
+      "wikimedia_commons_category": "Chambersticks",
+      "alt": "A brass chamberstick with a candle"
+    },
+    "tags": [
+      "lighting",
+      "fire",
+      "early modern"
+    ],
+    "confidence": "low"
+  }
+]

@@ -1,0 +1,1310 @@
+[
+  {
+    "slug": "fork",
+    "name": "Fork",
+    "category": "Tableware & containers",
+    "invention": {
+      "display": "c. 4th century CE (table use)",
+      "year": 400,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Eastern Roman (Byzantine) Empire",
+      "modern_country": "Turkey",
+      "notes": "Bone forks are known from Bronze Age China and cooking forks from ancient Egypt and Rome; the personal table fork spread from Byzantium to Italy around the 11th century and to the rest of Europe by the 17th–18th centuries."
+    },
+    "inventor": null,
+    "short_description": "A handled utensil with two or more tines used to spear and lift food.",
+    "description": "Large forks were used for cooking and serving long before small personal forks appeared at the table. Table forks were in use among Byzantine elites in late antiquity and reached Venice in the 11th century, where they were initially viewed as an affectation. By the 18th century the four-tined table fork had become standard across Europe.",
+    "why_unchanged": "A handle with a few pointed tines is the simplest way to pierce and hold food, so only the number and curve of the tines have varied.",
+    "materials": [
+      "stainless steel",
+      "silver",
+      "bone",
+      "wood",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "When did people start eating with forks in Europe?",
+        "answer": "Personal forks reached Italy from Byzantium around the 11th century but only became common across Europe in the 17th and 18th centuries."
+      },
+      {
+        "question": "Why do modern forks usually have four tines?",
+        "answer": "Four tines became standard in the 18th–19th centuries because they hold food better than two or three while still fitting comfortably in the mouth."
+      },
+      {
+        "question": "Were forks ever considered controversial?",
+        "answer": "Yes. Medieval churchmen criticized the fork as an unnecessary luxury, and many Europeans continued to eat with knives, spoons and fingers for centuries."
+      }
+    ],
+    "image": {
+      "search_query": "silver table fork on white background",
+      "wikimedia_commons_category": "Forks",
+      "alt": "A polished metal dinner fork with four tines"
+    },
+    "tags": [
+      "cutlery",
+      "eating",
+      "ancient",
+      "metal"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "spoon",
+    "name": "Spoon",
+    "category": "Tableware & containers",
+    "invention": {
+      "display": "Prehistoric",
+      "year": -5000,
+      "approximate": true,
+      "era": "Prehistoric"
+    },
+    "place_of_invention": {
+      "region": "Various",
+      "modern_country": null,
+      "notes": "Shells and pieces of wood were used as scoops long before recorded history; carved bone, wood and ivory spoons appear in many Neolithic and ancient cultures independently."
+    },
+    "inventor": null,
+    "short_description": "A utensil with a shallow bowl on a handle, used for eating liquids and soft foods.",
+    "description": "The spoon is probably the oldest eating utensil, evolving from shells and hollowed pieces of wood or bone. Ancient Egyptians made decorated spoons of ivory, wood and slate, and Romans used metal spoons in several standard shapes. The basic form of a small bowl on a straight handle has never needed rethinking.",
+    "why_unchanged": "A small bowl on a handle is the most direct way to carry liquid to the mouth, so only materials and proportions have changed.",
+    "materials": [
+      "stainless steel",
+      "silver",
+      "wood",
+      "bone",
+      "plastic",
+      "horn"
+    ],
+    "faqs": [
+      {
+        "question": "What is the origin of the word spoon?",
+        "answer": "It comes from Old English 'spon', meaning a chip or splinter of wood, reflecting the utensil's wooden origins."
+      },
+      {
+        "question": "Why do people say someone was 'born with a silver spoon'?",
+        "answer": "Silver spoons were traditional christening gifts in wealthy families, so the phrase came to mean being born into privilege."
+      },
+      {
+        "question": "Is the spoon older than the fork?",
+        "answer": "Yes, by thousands of years. Spoons were used in prehistoric times, while personal table forks only became common in Europe in the last few centuries."
+      }
+    ],
+    "image": {
+      "search_query": "wooden and metal spoons",
+      "wikimedia_commons_category": "Spoons",
+      "alt": "A row of spoons in different sizes"
+    },
+    "tags": [
+      "cutlery",
+      "eating",
+      "prehistoric"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "table-knife",
+    "name": "Table knife",
+    "category": "Tableware & containers",
+    "invention": {
+      "display": "1637 (rounded-tip table knife)",
+      "year": 1637,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Paris",
+      "modern_country": "France",
+      "notes": "Cutting knives are prehistoric. The blunt, round-ended dinner knife is traditionally linked to Cardinal Richelieu in 1637 and to a later decree by Louis XIV restricting pointed knives; these accounts are anecdotal."
+    },
+    "inventor": null,
+    "short_description": "A blunt-tipped knife used at the table for cutting and spreading food.",
+    "description": "For most of history diners carried their own pointed knives and used them to spear food. In 17th-century France the table knife acquired a rounded tip, a change tradition attributes to Cardinal Richelieu's distaste for guests picking their teeth with knife points. Once the fork took over spearing, the blunt dinner knife became standard across Europe and has kept that form since.",
+    "why_unchanged": "Once forks handled spearing, a short blade with a rounded end was all a diner needed, and nothing has improved on it.",
+    "materials": [
+      "stainless steel",
+      "silver",
+      "bone",
+      "wood"
+    ],
+    "faqs": [
+      {
+        "question": "Why are dinner knives rounded at the end?",
+        "answer": "The rounded tip became fashionable in 17th-century France, reportedly to stop diners from using knife points as toothpicks or weapons, and it stuck once forks were used to spear food."
+      },
+      {
+        "question": "Is the Richelieu story true?",
+        "answer": "It is widely repeated but rests on anecdote rather than firm documentation, so it should be treated as tradition."
+      },
+      {
+        "question": "Which side of the plate does the knife go on?",
+        "answer": "In Western table settings the knife is placed to the right of the plate with the blade facing inward."
+      }
+    ],
+    "image": {
+      "search_query": "dinner knife table setting",
+      "wikimedia_commons_category": "Table knives",
+      "alt": "A stainless steel dinner knife with a rounded tip"
+    },
+    "tags": [
+      "cutlery",
+      "eating",
+      "early modern",
+      "metal"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "chopsticks",
+    "name": "Chopsticks",
+    "category": "Tableware & containers",
+    "invention": {
+      "display": "c. 1200 BCE",
+      "year": -1200,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Yellow River valley (Shang dynasty)",
+      "modern_country": "China",
+      "notes": "Bronze chopsticks were excavated at Yinxu, the late Shang dynasty capital near Anyang; they may first have been cooking implements before becoming eating utensils."
+    },
+    "inventor": null,
+    "short_description": "A pair of slender sticks held in one hand and used to pick up food.",
+    "description": "The earliest surviving chopsticks are bronze examples from the Shang dynasty site of Yinxu in China. They were probably first used for cooking and only later became the main eating utensil, spreading to Japan, Korea and Vietnam. Styles differ by country, but the pair of tapered sticks is unchanged.",
+    "why_unchanged": "Two sticks operated like extended fingers already offer precise, versatile grip, leaving nothing essential to add.",
+    "materials": [
+      "bamboo",
+      "wood",
+      "lacquer",
+      "metal",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "How old are chopsticks?",
+        "answer": "The oldest known examples are bronze chopsticks from the Shang dynasty site of Yinxu in China, roughly 3,000 years old."
+      },
+      {
+        "question": "Why are Korean chopsticks often made of metal?",
+        "answer": "Metal chopsticks have a long tradition in Korea; they are durable and easy to clean, and stainless steel is now the most common material there."
+      },
+      {
+        "question": "Is it rude to stick chopsticks upright in rice?",
+        "answer": "In much of East Asia, yes, because chopsticks standing in rice resemble incense sticks used at funerals."
+      }
+    ],
+    "image": {
+      "search_query": "bamboo chopsticks on rest",
+      "wikimedia_commons_category": "Chopsticks",
+      "alt": "A pair of wooden chopsticks resting on a bowl"
+    },
+    "tags": [
+      "cutlery",
+      "eating",
+      "ancient",
+      "china",
+      "asia"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "plate",
+    "name": "Plate",
+    "category": "Tableware & containers",
+    "invention": {
+      "display": "Prehistoric",
+      "year": -6000,
+      "approximate": true,
+      "era": "Prehistoric"
+    },
+    "place_of_invention": {
+      "region": "Various",
+      "modern_country": null,
+      "notes": "Flat dishes of wood, stone, leaves and later fired clay were used independently by many early societies; no single origin can be identified."
+    },
+    "inventor": null,
+    "short_description": "A flat, shallow dish from which food is eaten or served.",
+    "description": "Early people ate from leaves, flat stones, wooden boards and bread, and flat ceramic dishes appeared as pottery spread through the Neolithic world. Plates of pewter, silver and earthenware were common in Europe by the late Middle Ages, and porcelain plates were imported from China in large numbers from the 16th century. The shallow, rimmed round dish has remained the norm.",
+    "why_unchanged": "A flat, slightly rimmed surface is the simplest way to hold and present food, so only materials and decoration have changed.",
+    "materials": [
+      "ceramic",
+      "porcelain",
+      "wood",
+      "metal",
+      "glass",
+      "melamine"
+    ],
+    "faqs": [
+      {
+        "question": "Why are most plates round?",
+        "answer": "Round plates are easy to throw on a potter's wheel, stack well and have no corners to chip, which is why the shape became standard."
+      },
+      {
+        "question": "What did people eat from before plates were common in Europe?",
+        "answer": "In the Middle Ages many people ate from trenchers, which were thick slices of stale bread or flat wooden boards."
+      },
+      {
+        "question": "What is the difference between a plate and a dish?",
+        "answer": "A plate is usually flat and individual, while a dish tends to be deeper and is often used for serving."
+      }
+    ],
+    "image": {
+      "search_query": "white ceramic dinner plate",
+      "wikimedia_commons_category": "Plates (dishware)",
+      "alt": "A plain white ceramic dinner plate"
+    },
+    "tags": [
+      "tableware",
+      "prehistoric",
+      "ceramic"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "bowl",
+    "name": "Bowl",
+    "category": "Tableware & containers",
+    "invention": {
+      "display": "Prehistoric",
+      "year": -10000,
+      "approximate": true,
+      "era": "Prehistoric"
+    },
+    "place_of_invention": {
+      "region": "Various",
+      "modern_country": null,
+      "notes": "Gourds, shells and wooden bowls likely came first; some of the oldest pottery vessels, from East Asia, date to around 18,000–14,000 years ago, and bowls appear in many independent pottery traditions."
+    },
+    "inventor": null,
+    "short_description": "A round, deep, open vessel used to hold food or liquid.",
+    "description": "Bowls are among the oldest manufactured objects, made first from natural materials like gourds and wood and then from fired clay. Early pottery traditions in East Asia, Africa and the Near East all produced bowls. The open, rounded form remains universal for soups, grains and mixed dishes.",
+    "why_unchanged": "A rounded open vessel holds liquids and loose food securely and is easy to make, so the shape never needed improvement.",
+    "materials": [
+      "ceramic",
+      "wood",
+      "glass",
+      "metal",
+      "stone",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "Is the bowl one of the oldest human-made objects?",
+        "answer": "Yes. Bowls were among the earliest forms made once people began firing clay, and wooden or gourd bowls are probably even older."
+      },
+      {
+        "question": "Why are bowls round?",
+        "answer": "A round inner surface has no corners where food gets stuck, distributes heat evenly and is easy to shape by hand or on a wheel."
+      },
+      {
+        "question": "What is a footed bowl?",
+        "answer": "A footed bowl has a small ring or pedestal on its base that raises it slightly, making it more stable and easier to pick up when hot."
+      }
+    ],
+    "image": {
+      "search_query": "ceramic bowls stacked",
+      "wikimedia_commons_category": "Bowls",
+      "alt": "A set of stacked ceramic bowls"
+    },
+    "tags": [
+      "tableware",
+      "prehistoric",
+      "ceramic",
+      "vessel"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "cup",
+    "name": "Cup",
+    "category": "Tableware & containers",
+    "invention": {
+      "display": "Prehistoric",
+      "year": -6000,
+      "approximate": true,
+      "era": "Prehistoric"
+    },
+    "place_of_invention": {
+      "region": "Various",
+      "modern_country": null,
+      "notes": "Drinking vessels of horn, wood, gourd and fired clay arose independently in many places; no single origin is known."
+    },
+    "inventor": null,
+    "short_description": "A small open vessel used for drinking.",
+    "description": "People have shaped small drinking vessels from natural materials since prehistory, and ceramic cups appear widely in Neolithic sites. Ancient civilizations made cups of clay, metal, stone and glass, often with elaborate decoration. The simple open vessel sized for one person remains the basis of every modern cup.",
+    "why_unchanged": "An open vessel sized for one hand and one drink is all that drinking requires, so its basic form has stayed the same.",
+    "materials": [
+      "ceramic",
+      "glass",
+      "metal",
+      "wood",
+      "paper",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "What is the difference between a cup and a mug?",
+        "answer": "A mug is generally taller, heavier and straight-sided, and is used without a saucer, while a cup is usually smaller and often paired with a saucer."
+      },
+      {
+        "question": "Why does a 'cup' also mean a unit of measure?",
+        "answer": "Cooks used ordinary drinking cups to measure ingredients, and the volume was eventually standardized in recipes."
+      },
+      {
+        "question": "How old are the oldest cups?",
+        "answer": "Ceramic cups are known from Neolithic sites several thousand years old, and cups of wood, horn or gourd were likely used even earlier."
+      }
+    ],
+    "image": {
+      "search_query": "simple ceramic drinking cup",
+      "wikimedia_commons_category": "Cups",
+      "alt": "A plain ceramic cup on a table"
+    },
+    "tags": [
+      "drinkware",
+      "prehistoric",
+      "vessel"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "mug",
+    "name": "Mug",
+    "category": "Tableware & containers",
+    "invention": {
+      "display": "Neolithic period",
+      "year": -4000,
+      "approximate": true,
+      "era": "Prehistoric"
+    },
+    "place_of_invention": {
+      "region": "Europe and the Near East",
+      "modern_country": null,
+      "notes": "Handled drinking vessels appear in several Neolithic and Bronze Age cultures; dating and origin vary by region and are not tied to one place."
+    },
+    "inventor": null,
+    "short_description": "A sturdy cylindrical drinking cup with a handle, used without a saucer.",
+    "description": "Handled drinking vessels of clay and wood appear in prehistoric Europe and the Near East, and later of pewter and stoneware in medieval Europe. The modern ceramic mug became an everyday item with the rise of hot drinks such as coffee and tea. Its straight sides, thick walls and single handle are unchanged.",
+    "why_unchanged": "A thick-walled cylinder with one handle keeps drinks warm and fingers cool, so there has been no need to redesign it.",
+    "materials": [
+      "ceramic",
+      "stoneware",
+      "enamel",
+      "glass",
+      "metal"
+    ],
+    "faqs": [
+      {
+        "question": "Why do mugs have thick walls?",
+        "answer": "Thick walls retain heat and make the mug sturdy, so it can be used daily without a saucer."
+      },
+      {
+        "question": "How old is the handled mug?",
+        "answer": "Handled drinking vessels date back to prehistoric times, with examples known from Neolithic and Bronze Age Europe."
+      },
+      {
+        "question": "Can mugs go in the microwave?",
+        "answer": "Most plain ceramic mugs can, but mugs with metallic decoration or metal bodies should not be microwaved."
+      }
+    ],
+    "image": {
+      "search_query": "ceramic coffee mug",
+      "wikimedia_commons_category": "Mugs",
+      "alt": "A ceramic mug with a handle on a wooden table"
+    },
+    "tags": [
+      "drinkware",
+      "prehistoric",
+      "ceramic",
+      "coffee",
+      "tea"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "tumbler",
+    "name": "Tumbler",
+    "category": "Tableware & containers",
+    "invention": {
+      "display": "1st century BCE (blown glass beakers)",
+      "year": -50,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Eastern Mediterranean (Roman world)",
+      "modern_country": null,
+      "notes": "Glassblowing arose on the Syro-Palestinian coast in the 1st century BCE, and Romans made straight-sided glass beakers; the English word tumbler dates to the 17th century, when some such cups had rounded bases that tipped over."
+    },
+    "inventor": null,
+    "short_description": "A flat-bottomed drinking glass without a stem or handle.",
+    "description": "Straight-sided glass drinking beakers became widespread in the Roman world after glassblowing was developed. The English name 'tumbler' is said to come from 17th-century cups with rounded or pointed bottoms that could not be set down until emptied. Today the term refers to the simple flat-bottomed glass found in nearly every kitchen.",
+    "why_unchanged": "A plain flat-bottomed cylinder is cheap to make, easy to clean and stable on a table, so it remains unchanged.",
+    "materials": [
+      "glass",
+      "plastic",
+      "stainless steel"
+    ],
+    "faqs": [
+      {
+        "question": "Why is it called a tumbler?",
+        "answer": "The name is thought to come from early drinking cups with rounded bottoms that tumbled over if set down, though modern tumblers have flat bases."
+      },
+      {
+        "question": "Is a tumbler the same as a highball glass?",
+        "answer": "A highball glass is a taller type of tumbler; 'tumbler' is the general name for any stemless, handleless flat-bottomed glass."
+      },
+      {
+        "question": "When did glass tumblers become common?",
+        "answer": "Glass beakers were common in the Roman Empire, and mass-produced pressed glass made tumblers cheap and universal in the 19th century."
+      }
+    ],
+    "image": {
+      "search_query": "glass tumbler water",
+      "wikimedia_commons_category": "Tumblers (glasses)",
+      "alt": "A clear glass tumbler filled with water"
+    },
+    "tags": [
+      "drinkware",
+      "glass",
+      "ancient",
+      "roman"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "wine-glass",
+    "name": "Wine glass",
+    "category": "Tableware & containers",
+    "invention": {
+      "display": "15th century",
+      "year": 1450,
+      "approximate": true,
+      "era": "Medieval"
+    },
+    "place_of_invention": {
+      "region": "Venice (Murano)",
+      "modern_country": "Italy",
+      "notes": "Stemmed cups existed in antiquity, but the thin stemmed glass associated with wine was developed by Venetian glassmakers on Murano in the 15th–16th centuries; English lead glass later made sturdier versions."
+    },
+    "inventor": null,
+    "short_description": "A stemmed glass with a bowl and foot, used for drinking wine.",
+    "description": "Venetian glassmakers on the island of Murano produced fine stemmed drinking glasses during the Renaissance, which became luxury items across Europe. In the late 17th century English lead crystal made stemmed glasses clearer and stronger. The bowl, stem and foot layout has remained the same ever since.",
+    "why_unchanged": "The stem keeps warm hands away from the wine and the bowl concentrates aroma, which is exactly what the design still does.",
+    "materials": [
+      "glass",
+      "crystal"
+    ],
+    "faqs": [
+      {
+        "question": "Why do wine glasses have stems?",
+        "answer": "The stem lets you hold the glass without warming the wine with your hand and keeps fingerprints off the bowl."
+      },
+      {
+        "question": "Do different wines need different glasses?",
+        "answer": "Many glassmakers shape bowls for specific wines, but a general-purpose tulip-shaped wine glass works well for most wines."
+      },
+      {
+        "question": "Where were early wine glasses made?",
+        "answer": "Fine stemmed glasses were a specialty of Venetian glassmakers on Murano from the 15th century onward."
+      }
+    ],
+    "image": {
+      "search_query": "wine glass with red wine",
+      "wikimedia_commons_category": "Wine glasses",
+      "alt": "A stemmed wine glass partly filled with red wine"
+    },
+    "tags": [
+      "drinkware",
+      "glass",
+      "wine",
+      "renaissance",
+      "italy"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "jug",
+    "name": "Jug",
+    "category": "Tableware & containers",
+    "invention": {
+      "display": "c. 3000 BCE",
+      "year": -3000,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Near East and eastern Mediterranean",
+      "modern_country": null,
+      "notes": "Ceramic pouring vessels with handles and spouts appear across many Bronze Age cultures; earlier forms existed and no single origin is known."
+    },
+    "inventor": null,
+    "short_description": "A vessel with a handle and a lip or spout, used for holding and pouring liquids.",
+    "description": "Handled pouring vessels of fired clay were common across the Bronze Age Mediterranean and Near East. Over millennia they have been made of earthenware, stoneware, pewter, glass and plastic for water, milk, wine and beer. The combination of a belly, a handle and a pouring lip is the same today.",
+    "why_unchanged": "A handle on one side and a spout on the other is the simplest arrangement for controlled pouring, so the form never changed.",
+    "materials": [
+      "ceramic",
+      "glass",
+      "metal",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "What is the difference between a jug and a pitcher?",
+        "answer": "The words often mean the same thing; in British English 'jug' is used for most pouring vessels, while in American English 'pitcher' is common for open-topped ones."
+      },
+      {
+        "question": "How old are jugs?",
+        "answer": "Handled pouring vessels were made of clay by Bronze Age peoples around 5,000 years ago, and probably earlier."
+      },
+      {
+        "question": "Why do jugs have a lip?",
+        "answer": "The lip or spout narrows the flow so liquid pours in a controlled stream instead of spilling down the side."
+      }
+    ],
+    "image": {
+      "search_query": "ceramic water jug",
+      "wikimedia_commons_category": "Jugs",
+      "alt": "A ceramic jug with a handle and spout"
+    },
+    "tags": [
+      "serveware",
+      "pouring",
+      "ancient",
+      "ceramic"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "teapot",
+    "name": "Teapot",
+    "category": "Tableware & containers",
+    "invention": {
+      "display": "c. 1500 (Ming dynasty)",
+      "year": 1500,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Yixing, Jiangsu province",
+      "modern_country": "China",
+      "notes": "Teapots emerged in China when loose-leaf steeping replaced powdered and whisked tea during the Ming dynasty; Yixing clay pots are among the earliest recognized examples, though exact dating is debated."
+    },
+    "inventor": null,
+    "short_description": "A lidded vessel with a spout and handle used to steep and pour tea.",
+    "description": "Before the Ming dynasty, Chinese tea was mostly powdered or boiled, so there was no need for a steeping pot. As loose-leaf tea became fashionable, potters in Yixing produced small unglazed clay teapots that set the pattern. Chinese porcelain teapots were exported to Europe in the 17th century and the design remains essentially the same.",
+    "why_unchanged": "A body for steeping, a lid to hold in heat, a spout and a handle cover everything tea needs, so the form has remained intact.",
+    "materials": [
+      "clay",
+      "porcelain",
+      "ceramic",
+      "glass",
+      "silver",
+      "cast iron"
+    ],
+    "faqs": [
+      {
+        "question": "Where was the teapot invented?",
+        "answer": "In China, where the shift to steeping loose-leaf tea during the Ming dynasty created the need for a dedicated pot; Yixing teapots are among the earliest."
+      },
+      {
+        "question": "Why are Yixing teapots left unglazed?",
+        "answer": "Unglazed Yixing clay is porous and is said to absorb the flavor of tea over time, so many owners use one pot for one type of tea."
+      },
+      {
+        "question": "When did teapots reach Europe?",
+        "answer": "Chinese teapots arrived along with tea in the 17th century, and European potteries began copying them soon after."
+      }
+    ],
+    "image": {
+      "search_query": "yixing clay teapot",
+      "wikimedia_commons_category": "Teapots",
+      "alt": "A small clay teapot with spout and handle"
+    },
+    "tags": [
+      "tea",
+      "serveware",
+      "china",
+      "ceramic"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "saucer",
+    "name": "Saucer",
+    "category": "Tableware & containers",
+    "invention": {
+      "display": "c. 1700 (with handled cups in Europe)",
+      "year": 1700,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "China and Europe",
+      "modern_country": null,
+      "notes": "Chinese tea bowls were often set on stands; in Europe the small dish under a teacup became standard in the early 18th century. The word originally meant a small dish for sauces."
+    },
+    "inventor": null,
+    "short_description": "A small shallow dish placed under a cup.",
+    "description": "Saucers began as small dishes for holding sauces at the table, hence the name. When tea and coffee drinking spread in Europe in the 17th and 18th centuries, porcelain cups were sold with matching dishes to catch drips and protect tables. Some drinkers even poured tea into the saucer to cool it. The shallow, ringed dish under a cup remains unchanged.",
+    "why_unchanged": "A shallow dish with a small recess for the cup's foot does the job of catching drips perfectly, so it has stayed the same.",
+    "materials": [
+      "porcelain",
+      "ceramic",
+      "glass"
+    ],
+    "faqs": [
+      {
+        "question": "Why is it called a saucer?",
+        "answer": "The word originally referred to a small dish for sauces before it became the dish placed under a cup."
+      },
+      {
+        "question": "Did people really drink from saucers?",
+        "answer": "Yes. In the 18th and 19th centuries it was common in some places to pour hot tea into the saucer to cool it before sipping."
+      },
+      {
+        "question": "Why do saucers have a ring or dip in the middle?",
+        "answer": "The recess keeps the cup from sliding while it is carried."
+      }
+    ],
+    "image": {
+      "search_query": "porcelain cup and saucer",
+      "wikimedia_commons_category": "Saucers",
+      "alt": "A porcelain saucer under a teacup"
+    },
+    "tags": [
+      "tea",
+      "coffee",
+      "tableware",
+      "porcelain",
+      "early modern"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "drinking-straw",
+    "name": "Drinking straw",
+    "category": "Tableware & containers",
+    "invention": {
+      "display": "c. 2600 BCE",
+      "year": -2600,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Sumer (Ur)",
+      "modern_country": "Iraq",
+      "notes": "A gold-and-lapis drinking tube was found in the Royal Cemetery at Ur, and Sumerian art shows people drinking beer through long tubes. The modern spiral-wound paper straw was patented by Marvin C. Stone in the USA in 1888."
+    },
+    "inventor": null,
+    "short_description": "A thin tube used to sip a drink.",
+    "description": "Sumerians drank beer through long tubes to avoid sediment floating in the brew, and examples made of precious metals survive from the Royal Cemetery at Ur. For centuries people also used hollow rye stalks. In 1888 Marvin Stone patented the paper drinking straw, and later plastic, metal and plant-based versions kept the same simple tube.",
+    "why_unchanged": "A hollow tube is the entire design, so changing materials is the only thing left to do.",
+    "materials": [
+      "paper",
+      "plastic",
+      "stainless steel",
+      "glass",
+      "bamboo",
+      "rye straw"
+    ],
+    "faqs": [
+      {
+        "question": "Why did ancient Sumerians use straws?",
+        "answer": "Their beer had husks and sediment floating on top, so drinking through a long tube let them reach the clearer liquid underneath."
+      },
+      {
+        "question": "Who invented the paper straw?",
+        "answer": "Marvin C. Stone patented a spiral-wound paper drinking straw in the United States in 1888."
+      },
+      {
+        "question": "Why are straws called straws?",
+        "answer": "Before paper straws, people commonly used hollow stalks of rye grass, which is literally straw."
+      }
+    ],
+    "image": {
+      "search_query": "drinking straws in glass",
+      "wikimedia_commons_category": "Drinking straws",
+      "alt": "Several drinking straws in a glass"
+    },
+    "tags": [
+      "drinkware",
+      "ancient",
+      "mesopotamia"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "napkin-ring",
+    "name": "Napkin ring",
+    "category": "Tableware & containers",
+    "invention": {
+      "display": "c. 1800",
+      "year": 1800,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Europe (often linked to France)",
+      "modern_country": null,
+      "notes": "Napkin rings became widespread in 19th-century Europe and America among middle-class households; they are often said to have originated in France around the time of the Revolution, but the claim is not well documented."
+    },
+    "inventor": null,
+    "short_description": "A ring used to hold a rolled cloth napkin at the table.",
+    "description": "Napkin rings emerged in the 19th century, when cloth napkins were reused for several meals between washes. Each family member had a personalized ring so that they could identify their own napkin. They are now mostly decorative, but the simple band remains the same.",
+    "why_unchanged": "A band that holds a rolled napkin needs no mechanism, so its form has stayed constant.",
+    "materials": [
+      "silver",
+      "wood",
+      "bone",
+      "metal",
+      "ceramic"
+    ],
+    "faqs": [
+      {
+        "question": "Why were napkin rings invented?",
+        "answer": "In the 19th century napkins were reused between washes, and personalized rings let each family member find their own."
+      },
+      {
+        "question": "Are napkin rings still used?",
+        "answer": "Today they are mostly decorative and used for formal or festive table settings."
+      },
+      {
+        "question": "What were early napkin rings made of?",
+        "answer": "Silver and silver-plated rings were popular, often engraved with initials, alongside wood, bone and ivory."
+      }
+    ],
+    "image": {
+      "search_query": "silver napkin rings table setting",
+      "wikimedia_commons_category": "Napkin rings",
+      "alt": "A cloth napkin held by a silver napkin ring"
+    },
+    "tags": [
+      "table setting",
+      "linen",
+      "industrial"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "jar",
+    "name": "Jar",
+    "category": "Tableware & containers",
+    "invention": {
+      "display": "c. 18,000 BCE",
+      "year": -18000,
+      "approximate": true,
+      "era": "Prehistoric"
+    },
+    "place_of_invention": {
+      "region": "East Asia (Xianrendong Cave, Jiangxi)",
+      "modern_country": "China",
+      "notes": "Pottery fragments from Xianrendong Cave in China are dated to about 20,000–18,000 years ago and are among the oldest known vessels; pottery jars then developed independently in several regions."
+    },
+    "inventor": null,
+    "short_description": "A wide-mouthed, cylindrical container used for storing food and other goods.",
+    "description": "Jars are among the earliest pottery forms, with fragments from China dated to roughly 20,000 years ago. Ancient peoples used clay jars to store grain, oil, wine and water, and glass jars spread in Roman times. Whether made of clay, glass or plastic, a jar is still a wide-mouthed vessel with a sealable top.",
+    "why_unchanged": "A wide mouth for filling and a sealable top for storage remain the ideal arrangement for keeping food.",
+    "materials": [
+      "ceramic",
+      "glass",
+      "stoneware",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "What is the oldest known pottery?",
+        "answer": "Fragments from Xianrendong Cave in China, dated to around 20,000 years ago, are among the oldest pottery vessels yet found."
+      },
+      {
+        "question": "What is the difference between a jar and a bottle?",
+        "answer": "A jar has a wide mouth that lets you reach inside, while a bottle has a narrow neck designed for pouring liquids."
+      },
+      {
+        "question": "Why are jars good for preserving food?",
+        "answer": "A wide mouth makes them easy to fill and empty, and a tight lid keeps out air, moisture and pests."
+      }
+    ],
+    "image": {
+      "search_query": "glass storage jars pantry",
+      "wikimedia_commons_category": "Jars",
+      "alt": "Several storage jars on a shelf"
+    },
+    "tags": [
+      "storage",
+      "container",
+      "prehistoric",
+      "ceramic"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "amphora",
+    "name": "Amphora",
+    "category": "Tableware & containers",
+    "invention": {
+      "display": "c. 15th century BCE",
+      "year": -1500,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Levantine coast (Canaan)",
+      "modern_country": null,
+      "notes": "Archaeologists trace the amphora to Bronze Age Canaanite storage jars on the Levantine coast, in what is now Lebanon, Syria and Israel; the form was later adopted and standardized by Greeks and Romans."
+    },
+    "inventor": null,
+    "short_description": "A two-handled ceramic jar with a narrow neck, used to transport wine, oil and other goods.",
+    "description": "Amphorae were the shipping containers of the ancient Mediterranean, carrying wine, olive oil and fish sauce by sea. The form grew from Canaanite storage jars and was widely adopted by Greeks, Phoenicians and Romans. Their pointed bases could be packed in sand or ship holds, and similar clay jars are still made for wine today.",
+    "why_unchanged": "Two handles, a narrow neck and a tapered base solve carrying, sealing and packing, which is why the shape lasted for millennia.",
+    "materials": [
+      "terracotta",
+      "clay"
+    ],
+    "faqs": [
+      {
+        "question": "Why do many amphorae have pointed bottoms?",
+        "answer": "The pointed base let them be stacked in rows on ships, pushed into sand and used as a third handle for pouring."
+      },
+      {
+        "question": "What did amphorae carry?",
+        "answer": "Mostly wine and olive oil, but also fish sauce, grain, olives and other goods traded around the Mediterranean."
+      },
+      {
+        "question": "Are amphorae still used?",
+        "answer": "Yes. Some winemakers use clay amphorae to ferment and age wine, reviving the ancient method."
+      }
+    ],
+    "image": {
+      "search_query": "ancient greek amphora",
+      "wikimedia_commons_category": "Amphorae",
+      "alt": "A terracotta amphora with two handles"
+    },
+    "tags": [
+      "storage",
+      "ancient",
+      "mediterranean",
+      "ceramic",
+      "wine"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "barrel",
+    "name": "Barrel",
+    "category": "Tableware & containers",
+    "invention": {
+      "display": "c. 350 BCE",
+      "year": -350,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Celtic Europe (Gaul and the Alps)",
+      "modern_country": null,
+      "notes": "Roman writers credit Celtic peoples with stave barrels; Herodotus describes palm-wood casks in Mesopotamia earlier, so the precise origin is uncertain."
+    },
+    "inventor": null,
+    "short_description": "A cylindrical wooden container made of bent staves bound by hoops.",
+    "description": "Wooden barrels were used by Celtic peoples in Gaul and the Alps and were adopted by the Romans, who came to prefer them to fragile clay amphorae. The bulging shape lets a heavy barrel be rolled and pivoted easily. Coopers still build barrels by hand from oak staves and metal hoops in essentially the same way.",
+    "why_unchanged": "The curved staves and hoops make a strong, rollable, watertight container, which is why coopers still use the ancient design.",
+    "materials": [
+      "oak",
+      "wood",
+      "iron hoops",
+      "steel"
+    ],
+    "faqs": [
+      {
+        "question": "Why are barrels bulged in the middle?",
+        "answer": "The bulge, called the bilge, lets one person roll and turn a heavy barrel easily and makes the hoops grip tightly."
+      },
+      {
+        "question": "Who makes barrels?",
+        "answer": "Barrels are made by coopers, a traditional craft that still uses many of the same techniques as centuries ago."
+      },
+      {
+        "question": "Why are wine and whisky aged in oak barrels?",
+        "answer": "Oak is strong and watertight and adds flavor and tannins while allowing slow oxidation through the wood."
+      }
+    ],
+    "image": {
+      "search_query": "oak wine barrels cellar",
+      "wikimedia_commons_category": "Barrels",
+      "alt": "Rows of oak barrels in a cellar"
+    },
+    "tags": [
+      "storage",
+      "wood",
+      "ancient",
+      "wine",
+      "celtic"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "bottle",
+    "name": "Bottle",
+    "category": "Tableware & containers",
+    "invention": {
+      "display": "c. 1500 BCE (glass bottles)",
+      "year": -1500,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Mesopotamia and Egypt",
+      "modern_country": null,
+      "notes": "Core-formed glass bottles were made in Mesopotamia and Egypt in the mid-2nd millennium BCE; pottery, gourd and leather bottles are older. Glassblowing in the 1st century BCE made glass bottles common."
+    },
+    "inventor": null,
+    "short_description": "A container with a narrow neck used for storing and pouring liquids.",
+    "description": "Early glass bottles were small luxury vessels for perfume and oils made in Egypt and Mesopotamia. The invention of glassblowing in the 1st century BCE made bottles cheap and widespread in the Roman world. Machine production in the 20th century made them ubiquitous, but the narrow-necked form is the same.",
+    "why_unchanged": "A wide body for volume and a narrow neck for pouring and sealing is an ideal combination that has never been improved upon.",
+    "materials": [
+      "glass",
+      "ceramic",
+      "plastic",
+      "aluminum"
+    ],
+    "faqs": [
+      {
+        "question": "When were glass bottles first made?",
+        "answer": "Small core-formed glass bottles were made in Egypt and Mesopotamia around 3,500 years ago, long before glassblowing."
+      },
+      {
+        "question": "Why do bottles have narrow necks?",
+        "answer": "A narrow neck makes pouring controlled and lets the bottle be sealed with a small cork or cap."
+      },
+      {
+        "question": "When did bottles become mass-produced?",
+        "answer": "Michael Owens' automatic bottle-making machine of 1903 made glass bottles cheap and abundant."
+      }
+    ],
+    "image": {
+      "search_query": "glass bottles",
+      "wikimedia_commons_category": "Bottles",
+      "alt": "Several glass bottles on a shelf"
+    },
+    "tags": [
+      "container",
+      "glass",
+      "ancient",
+      "drink"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "cork-stopper",
+    "name": "Cork stopper",
+    "category": "Tableware & containers",
+    "invention": {
+      "display": "c. 5th century BCE",
+      "year": -500,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Mediterranean (Greek and Roman world)",
+      "modern_country": null,
+      "notes": "Greeks and Romans used cork to seal amphorae; cork stoppers for glass wine bottles became common in 17th-century Europe."
+    },
+    "inventor": null,
+    "short_description": "A plug of cork bark used to seal bottles.",
+    "description": "Cork from the bark of the cork oak was used in the ancient Mediterranean to seal amphorae and other vessels. With the rise of strong glass wine bottles in 17th-century Europe, cork stoppers became the standard closure. Cork is still harvested in Portugal and Spain and cut into the same simple cylinders.",
+    "why_unchanged": "Cork is naturally compressible, elastic and watertight, so a simple cylinder of it still seals bottles well.",
+    "materials": [
+      "cork"
+    ],
+    "faqs": [
+      {
+        "question": "Where does cork come from?",
+        "answer": "Cork is the bark of the cork oak, harvested every nine years or so without cutting down the tree, mainly in Portugal and Spain."
+      },
+      {
+        "question": "Why is cork good for sealing wine?",
+        "answer": "It compresses to fit the neck, expands to seal it and lets in tiny amounts of oxygen that some wines benefit from."
+      },
+      {
+        "question": "What is 'corked' wine?",
+        "answer": "It is wine tainted by a compound called TCA, sometimes found in cork, which gives a musty smell."
+      }
+    ],
+    "image": {
+      "search_query": "wine corks pile",
+      "wikimedia_commons_category": "Corks (stoppers)",
+      "alt": "A pile of natural cork stoppers"
+    },
+    "tags": [
+      "closure",
+      "wine",
+      "ancient",
+      "cork"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "basket",
+    "name": "Basket",
+    "category": "Tableware & containers",
+    "invention": {
+      "display": "Prehistoric",
+      "year": -10000,
+      "approximate": true,
+      "era": "Prehistoric"
+    },
+    "place_of_invention": {
+      "region": "Various",
+      "modern_country": null,
+      "notes": "Basketry impressions in clay from Central Europe are around 27,000 years old, and baskets were made independently all over the world; actual woven baskets rarely survive."
+    },
+    "inventor": null,
+    "short_description": "A container woven from flexible materials such as reeds, willow or grass.",
+    "description": "Basketry is one of humanity's oldest crafts, predating pottery in many places. Baskets were used for gathering, carrying and storing food, and techniques such as coiling and plaiting appear across all continents. Most baskets are still woven by hand in essentially the same way.",
+    "why_unchanged": "Weaving flexible fibers produces a light, strong container from local materials, so the technique has not needed to change.",
+    "materials": [
+      "willow",
+      "rattan",
+      "reed",
+      "bamboo",
+      "grass",
+      "palm"
+    ],
+    "faqs": [
+      {
+        "question": "Is basketry older than pottery?",
+        "answer": "In many regions, yes. Impressions of woven fibers in fired clay show that weaving was practiced at least 27,000 years ago."
+      },
+      {
+        "question": "Can baskets be made by machine?",
+        "answer": "Very few baskets are machine-made; most are still woven by hand."
+      },
+      {
+        "question": "What are baskets made from?",
+        "answer": "Almost any flexible plant material, including willow, rattan, reed, bamboo, palm leaves and grasses."
+      }
+    ],
+    "image": {
+      "search_query": "woven wicker basket",
+      "wikimedia_commons_category": "Baskets",
+      "alt": "A handwoven wicker basket"
+    },
+    "tags": [
+      "container",
+      "woven",
+      "prehistoric",
+      "handcraft"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "crate",
+    "name": "Crate",
+    "category": "Tableware & containers",
+    "invention": {
+      "display": "Antiquity (exact origin unknown)",
+      "year": -500,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Various",
+      "modern_country": null,
+      "notes": "Wooden boxes and slatted containers were used for transport in many ancient societies; no specific origin of the slatted crate is documented."
+    },
+    "inventor": null,
+    "short_description": "A wooden box with open slats used to transport goods such as fruit and bottles.",
+    "description": "Wooden boxes for carrying goods have been used since antiquity, and slatted crates became standard for transporting produce, bottles and goods. The gaps between slats let air circulate and reduce weight. Although plastic crates are now common, wooden crates are still built the same way.",
+    "why_unchanged": "A box of slats is light, ventilated, stackable and quick to build, so the basic design remains unchanged.",
+    "materials": [
+      "wood",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "Why do crates have gaps between the slats?",
+        "answer": "The gaps reduce weight, use less wood and allow air to circulate, which keeps fruit and vegetables fresh."
+      },
+      {
+        "question": "What is the difference between a crate and a box?",
+        "answer": "A crate is usually sturdier and has open sides or slats, while a box is fully enclosed."
+      },
+      {
+        "question": "Are wooden crates reused?",
+        "answer": "Yes. Many are reused for shipping or repurposed as furniture and storage."
+      }
+    ],
+    "image": {
+      "search_query": "wooden fruit crate",
+      "wikimedia_commons_category": "Wooden crates",
+      "alt": "A slatted wooden crate full of apples"
+    },
+    "tags": [
+      "container",
+      "wood",
+      "transport",
+      "storage"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "sack",
+    "name": "Sack",
+    "category": "Tableware & containers",
+    "invention": {
+      "display": "Prehistoric",
+      "year": -5000,
+      "approximate": true,
+      "era": "Prehistoric"
+    },
+    "place_of_invention": {
+      "region": "Various",
+      "modern_country": null,
+      "notes": "Woven and leather bags were made independently in many prehistoric cultures; few early examples survive, so dating is approximate."
+    },
+    "inventor": null,
+    "short_description": "A large bag of coarse woven fabric used to carry and store bulk goods.",
+    "description": "Once people learned to weave plant fibers, they made bags for carrying grain and other goods. Sacks of hemp, flax and later jute and cotton became the standard packaging for flour, grain, coffee and potatoes. Despite new materials like woven polypropylene, the sack is still a simple fabric bag tied at the top.",
+    "why_unchanged": "A fabric bag that can be filled, tied and carried is as simple as a container can be, so it hasn't changed.",
+    "materials": [
+      "jute",
+      "hemp",
+      "burlap",
+      "cotton",
+      "polypropylene"
+    ],
+    "faqs": [
+      {
+        "question": "What is burlap?",
+        "answer": "Burlap, or hessian, is a coarse fabric woven from jute and was a standard material for sacks in the 19th and 20th centuries."
+      },
+      {
+        "question": "Why are coffee beans shipped in sacks?",
+        "answer": "Jute sacks are strong, cheap and breathable, letting green coffee beans stay dry during long sea voyages."
+      },
+      {
+        "question": "Is a sack the same as a bag?",
+        "answer": "A sack is usually a large, coarse bag used for bulk goods, while 'bag' is a broader term."
+      }
+    ],
+    "image": {
+      "search_query": "burlap sack grain",
+      "wikimedia_commons_category": "Sacks",
+      "alt": "A burlap sack filled with grain"
+    },
+    "tags": [
+      "container",
+      "textile",
+      "prehistoric",
+      "storage"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "bucket",
+    "name": "Bucket",
+    "category": "Tableware & containers",
+    "invention": {
+      "display": "c. 1000 BCE or earlier",
+      "year": -1000,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Various (Europe and the Near East)",
+      "modern_country": null,
+      "notes": "Leather, bark and wooden stave buckets were used in many ancient cultures; there is no single documented origin."
+    },
+    "inventor": null,
+    "short_description": "An open-topped round container with a handle, used to carry liquids.",
+    "description": "Buckets have been made from leather, bark, wood and metal since ancient times, notably as wooden stave buckets used by Celtic, Roman and other peoples. They were indispensable for drawing water from wells, milking and firefighting. Today's metal and plastic buckets keep the same tapered cylinder and swinging handle.",
+    "why_unchanged": "An open container with a bail handle is the simplest way to carry liquid, so its form has stayed essentially the same.",
+    "materials": [
+      "wood",
+      "leather",
+      "metal",
+      "galvanized steel",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "What is the difference between a bucket and a pail?",
+        "answer": "The words are generally interchangeable, though 'pail' is sometimes used for smaller buckets."
+      },
+      {
+        "question": "Why are buckets tapered?",
+        "answer": "The taper lets empty buckets nest inside one another and makes them easier to mold or build."
+      },
+      {
+        "question": "Where does the phrase 'kick the bucket' come from?",
+        "answer": "Its origin is uncertain; one theory links it to a beam called a 'bucket' used to hang animals, but none is proven."
+      }
+    ],
+    "image": {
+      "search_query": "metal bucket with handle",
+      "wikimedia_commons_category": "Buckets",
+      "alt": "A metal bucket with a handle"
+    },
+    "tags": [
+      "container",
+      "water",
+      "ancient",
+      "carrying"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "gourd-canteen",
+    "name": "Gourd canteen",
+    "category": "Tableware & containers",
+    "invention": {
+      "display": "Prehistoric",
+      "year": -8000,
+      "approximate": true,
+      "era": "Prehistoric"
+    },
+    "place_of_invention": {
+      "region": "Africa and Asia",
+      "modern_country": null,
+      "notes": "The bottle gourd was among the earliest domesticated plants and spread widely, reaching the Americas thousands of years ago; drying gourds into water containers was practiced independently in many cultures."
+    },
+    "inventor": null,
+    "short_description": "A hollowed and dried gourd used as a container for water or other liquids.",
+    "description": "The bottle gourd was among the earliest plants humans cultivated, valued not as food but as a ready-made container. Dried and hollowed gourds were used to carry water across Africa, Asia and the Americas. Many communities still use gourd canteens, and the shape inspired later ceramic and metal flasks.",
+    "why_unchanged": "Nature provides the whole design, a light, waterproof shell with a narrow neck, so there was nothing to change.",
+    "materials": [
+      "bottle gourd",
+      "calabash"
+    ],
+    "faqs": [
+      {
+        "question": "What is a bottle gourd?",
+        "answer": "A hard-shelled gourd, Lagenaria siceraria, grown since prehistoric times and dried for use as a container."
+      },
+      {
+        "question": "How is a gourd made into a canteen?",
+        "answer": "The gourd is dried until its shell hardens, the seeds and pulp are removed and the opening is plugged with a stopper."
+      },
+      {
+        "question": "Are gourd canteens still used?",
+        "answer": "Yes. They are still used in parts of Africa, Asia and Latin America and by craftspeople worldwide."
+      }
+    ],
+    "image": {
+      "search_query": "dried gourd water bottle",
+      "wikimedia_commons_category": "Bottle gourds",
+      "alt": "A dried gourd used as a water bottle"
+    },
+    "tags": [
+      "container",
+      "water",
+      "prehistoric",
+      "natural"
+    ],
+    "confidence": "low"
+  }
+]

@@ -1,0 +1,1265 @@
+[
+  {
+    "slug": "can-opener",
+    "name": "Can opener",
+    "category": "Kitchen & cooking",
+    "invention": {
+      "display": "1870",
+      "year": 1870,
+      "approximate": false,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Connecticut",
+      "modern_country": "United States",
+      "notes": "William Lyman patented the rotating-wheel can opener in 1870; Ezra Warner's earlier 1858 lever opener used a different principle. A serrated drive wheel was added in the 1920s."
+    },
+    "inventor": "William Lyman",
+    "short_description": "A hand tool with a rotating cutting wheel that runs around the rim of a can.",
+    "description": "Tin cans were in use decades before a convenient opener existed, and early cans were opened with hammers and chisels. In 1870 William Lyman patented an opener with a cutting wheel that rolled around the rim. With a serrated feed wheel added in the 1920s, the hand-cranked rotary opener has hardly changed since.",
+    "why_unchanged": "A rolling blade guided by the rim cuts cleanly with little effort, so the core mechanism endured.",
+    "materials": [
+      "stainless steel",
+      "carbon steel",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "Were cans invented before can openers?",
+        "answer": "Yes, tin cans appeared in the early 1800s, decades before practical can openers."
+      },
+      {
+        "question": "Who invented the rotary can opener?",
+        "answer": "William Lyman patented the rolling cutting-wheel design in 1870."
+      },
+      {
+        "question": "What is a safety can opener?",
+        "answer": "It cuts the side of the can below the rim so the lid lifts off without sharp edges."
+      }
+    ],
+    "image": {
+      "search_query": "hand crank can opener",
+      "wikimedia_commons_category": "Can openers",
+      "alt": "A hand-cranked rotary can opener on a can"
+    },
+    "tags": [
+      "cans",
+      "19th century",
+      "patent"
+    ],
+    "confidence": "high"
+  },
+  {
+    "slug": "bottle-opener",
+    "name": "Bottle opener",
+    "category": "Kitchen & cooking",
+    "invention": {
+      "display": "1894",
+      "year": 1894,
+      "approximate": false,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Baltimore, Maryland",
+      "modern_country": "United States",
+      "notes": "William Painter patented the crown cork bottle cap in 1892 and a matching opener in 1894."
+    },
+    "inventor": "William Painter",
+    "short_description": "A small lever tool used to pry crown caps off bottles.",
+    "description": "When William Painter invented the crimped crown cork cap in 1892, a dedicated tool was needed to remove it, and he patented a bottle opener in 1894. The tool hooks under the cap's edge and uses the bottle top as a fulcrum. Wall-mounted, keychain and 'church key' openers all use the same lever principle.",
+    "why_unchanged": "A short lever under a crimped cap pops it instantly, and crown caps themselves have not changed.",
+    "materials": [
+      "steel",
+      "stainless steel",
+      "brass"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the bottle opener?",
+        "answer": "William Painter, who also invented the crown cork cap, patented an opener in 1894."
+      },
+      {
+        "question": "Why is it called a 'church key'?",
+        "answer": "The nickname likely comes from its resemblance to large old keys; the term was later also used for can piercers."
+      },
+      {
+        "question": "How many crimps does a crown cap have?",
+        "answer": "The standard crown cap has 21 crimps."
+      }
+    ],
+    "image": {
+      "search_query": "bottle opener crown cap",
+      "wikimedia_commons_category": "Bottle openers",
+      "alt": "A metal bottle opener removing a crown cap"
+    },
+    "tags": [
+      "drinks",
+      "lever",
+      "patent"
+    ],
+    "confidence": "high"
+  },
+  {
+    "slug": "corkscrew",
+    "name": "Corkscrew",
+    "category": "Kitchen & cooking",
+    "invention": {
+      "display": "17th century",
+      "year": 1650,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "England",
+      "modern_country": "United Kingdom",
+      "notes": "Early corkscrews likely derived from gun worms used to clean musket barrels; the first patent was granted to Samuel Henshall in 1795."
+    },
+    "inventor": null,
+    "short_description": "A spiral metal worm with a handle used to pull corks from bottles.",
+    "description": "The corkscrew appeared in 17th-century England, probably adapted from the 'gun worm' used to clear musket barrels. Samuel Henshall received the first corkscrew patent in 1795. Countless lever and winged variations exist, but the simple T-shaped corkscrew remains in use.",
+    "why_unchanged": "A helix grips the cork from within, and pulling straight up is still the most direct way to remove it.",
+    "materials": [
+      "steel",
+      "wood",
+      "brass"
+    ],
+    "faqs": [
+      {
+        "question": "How old is the corkscrew?",
+        "answer": "It dates to the 17th century in England, and the first patent was granted in 1795."
+      },
+      {
+        "question": "What is the spiral part called?",
+        "answer": "It is called the worm or helix."
+      },
+      {
+        "question": "What is a waiter's friend?",
+        "answer": "A folding corkscrew with a lever arm that rests on the bottle lip for easier pulling."
+      }
+    ],
+    "image": {
+      "search_query": "corkscrew wine cork",
+      "wikimedia_commons_category": "Corkscrews",
+      "alt": "A T-handle corkscrew in a wine cork"
+    },
+    "tags": [
+      "wine",
+      "17th century",
+      "tool"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "garlic-press",
+    "name": "Garlic press",
+    "category": "Kitchen & cooking",
+    "invention": {
+      "display": "Mid-20th century",
+      "year": 1950,
+      "approximate": true,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "Switzerland",
+      "modern_country": "Switzerland",
+      "notes": "The modern lever garlic press is often linked to Karl Zysset (founder of Zyliss) around 1950, but earlier presses existed and credit is unclear."
+    },
+    "inventor": null,
+    "short_description": "A hinged tool that forces garlic cloves through a grid of small holes.",
+    "description": "Lever presses for crushing garlic became popular in mid-20th-century Europe, with Swiss models from Zyliss among the best known. A clove is placed in a perforated chamber and squeezed by a plunger, producing finely crushed garlic in seconds. The hinged design has been essentially unchanged since.",
+    "why_unchanged": "A lever and a perforated chamber crush garlic instantly, so the design needs nothing more.",
+    "materials": [
+      "stainless steel",
+      "aluminum",
+      "zinc alloy"
+    ],
+    "faqs": [
+      {
+        "question": "Do I need to peel garlic before pressing?",
+        "answer": "Many presses work with unpeeled cloves; the skin stays behind in the chamber."
+      },
+      {
+        "question": "Does pressed garlic taste different from chopped?",
+        "answer": "Yes, pressing ruptures more cells, producing a stronger, sharper flavor."
+      },
+      {
+        "question": "How do you clean a garlic press?",
+        "answer": "Rinse immediately and use the tool's cleaning teeth or a small brush to clear the holes."
+      }
+    ],
+    "image": {
+      "search_query": "garlic press stainless steel",
+      "wikimedia_commons_category": "Garlic presses",
+      "alt": "A stainless steel garlic press with garlic"
+    },
+    "tags": [
+      "garlic",
+      "lever",
+      "20th century"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "cookie-cutter",
+    "name": "Cookie cutter",
+    "category": "Kitchen & cooking",
+    "invention": {
+      "display": "16th-17th century",
+      "year": 1600,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Europe",
+      "modern_country": "Germany",
+      "notes": "Shaped biscuits were made in Europe for centuries; tin cutters became widespread as tinsmithing grew. Dating is uncertain."
+    },
+    "inventor": null,
+    "short_description": "A thin metal or plastic outline used to press shapes out of rolled dough.",
+    "description": "Decorative biscuits were made in Europe for centuries, and German bakers are especially associated with shaped Christmas cookies. Tinsmiths made cutters in hearts, stars and animals, and they became common in home kitchens. A thin edged outline pressed into dough is still the whole tool.",
+    "why_unchanged": "A sharp outline cuts dough cleanly in one press, so there is nothing left to improve.",
+    "materials": [
+      "tin",
+      "stainless steel",
+      "copper",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "How old are cookie cutters?",
+        "answer": "Tin cookie cutters were common in Europe and America by the 18th and 19th centuries, and shaped biscuits are older."
+      },
+      {
+        "question": "How do I stop dough from sticking?",
+        "answer": "Dip the cutter in flour between cuts and keep the dough chilled."
+      },
+      {
+        "question": "Can cookie cutters be used for other foods?",
+        "answer": "Yes, they shape sandwiches, fruit, pancakes and fondant."
+      }
+    ],
+    "image": {
+      "search_query": "metal cookie cutters dough",
+      "wikimedia_commons_category": "Cookie cutters",
+      "alt": "Metal cookie cutters on rolled dough"
+    },
+    "tags": [
+      "baking",
+      "cookies",
+      "tin"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "vegetable-peeler",
+    "name": "Vegetable peeler",
+    "category": "Kitchen & cooking",
+    "invention": {
+      "display": "1947",
+      "year": 1947,
+      "approximate": false,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "Davos",
+      "modern_country": "Switzerland",
+      "notes": "Alfred Neweczerzal designed the Rex swivel-blade peeler in 1947, produced by Zena; simpler fixed-blade peelers existed earlier."
+    },
+    "inventor": "Alfred Neweczerzal",
+    "short_description": "A tool with a slotted blade that removes a thin layer of skin from fruit and vegetables.",
+    "description": "Fixed-blade peelers existed before, but the Swiss Rex peeler of 1947 introduced the swiveling transverse blade that follows a vegetable's curves. Designed by Alfred Neweczerzal, it remains in production in almost the same form. Its Y-shaped layout inspired many of today's peelers.",
+    "why_unchanged": "A swiveling slotted blade peels thinly and safely on any shape, which is all a peeler needs to do.",
+    "materials": [
+      "stainless steel",
+      "carbon steel",
+      "aluminum",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the vegetable peeler?",
+        "answer": "The Swiss Rex swivel peeler was designed by Alfred Neweczerzal in 1947."
+      },
+      {
+        "question": "Why use a peeler instead of a knife?",
+        "answer": "A peeler removes a thinner, more even layer, wasting less of the vegetable."
+      },
+      {
+        "question": "What is a Y-peeler?",
+        "answer": "A peeler with the blade set across the handle, like the Rex, which is efficient for long strokes."
+      }
+    ],
+    "image": {
+      "search_query": "rex swiss vegetable peeler",
+      "wikimedia_commons_category": "Vegetable peelers",
+      "alt": "A Y-shaped vegetable peeler peeling a carrot"
+    },
+    "tags": [
+      "peeling",
+      "swiss design",
+      "20th century"
+    ],
+    "confidence": "high"
+  },
+  {
+    "slug": "apple-corer",
+    "name": "Apple corer",
+    "category": "Kitchen & cooking",
+    "invention": {
+      "display": "18th century",
+      "year": 1750,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Europe and North America",
+      "modern_country": "Various",
+      "notes": "Hand corers carved from bone or made of metal were in use in the 18th century; origins are not documented."
+    },
+    "inventor": null,
+    "short_description": "A tube-shaped blade pushed through an apple to remove its core.",
+    "description": "Simple apple corers, sometimes carved from bone, were used in 18th-century homes. A round, sharpened tube is pushed through the fruit and twisted out, taking the seeds and core with it. Wedger-corers that also slice the fruit are a later addition, but the basic tube is unchanged.",
+    "why_unchanged": "A sharpened tube removes a core in one push, so the basic tool needs no change.",
+    "materials": [
+      "stainless steel",
+      "bone",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "How do you use an apple corer?",
+        "answer": "Center it over the stem, push down through the apple and twist to pull out the core."
+      },
+      {
+        "question": "Can it be used on other fruit?",
+        "answer": "Yes, it works on pears and can hollow out vegetables like zucchini for stuffing."
+      },
+      {
+        "question": "What were old apple corers made from?",
+        "answer": "Some 18th- and 19th-century corers were carved from sheep bone."
+      }
+    ],
+    "image": {
+      "search_query": "apple corer kitchen tool",
+      "wikimedia_commons_category": "Apple corers",
+      "alt": "An apple corer pushed through an apple"
+    },
+    "tags": [
+      "fruit",
+      "apples",
+      "utensil"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "apple-peeler",
+    "name": "Apple peeler",
+    "category": "Kitchen & cooking",
+    "invention": {
+      "display": "1803",
+      "year": 1803,
+      "approximate": false,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Pennsylvania",
+      "modern_country": "United States",
+      "notes": "Moses Coates received a US patent for an apple parer in 1803; many crank parers were patented later in the century."
+    },
+    "inventor": "Moses Coates",
+    "short_description": "A hand-cranked machine that peels, and often cores and slices, an apple as it turns.",
+    "description": "Moses Coates of Pennsylvania patented an apple parer in 1803, and inventors filed many improved crank designs throughout the 19th century. The apple is speared on a fork and turned by a crank while a blade rides along its surface. Cast-iron and modern clamp-on versions still work the same way.",
+    "why_unchanged": "Turning the fruit against a fixed blade peels it in seconds, and the gearing needs no modern help.",
+    "materials": [
+      "cast iron",
+      "steel",
+      "wood"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the apple peeler?",
+        "answer": "Moses Coates received a US patent for an apple parer in 1803."
+      },
+      {
+        "question": "Can it core and slice too?",
+        "answer": "Many models peel, core and spiral-slice the apple in one turn of the crank."
+      },
+      {
+        "question": "Will it work on potatoes?",
+        "answer": "Yes, many apple peelers also peel firm, round potatoes."
+      }
+    ],
+    "image": {
+      "search_query": "crank apple peeler corer",
+      "wikimedia_commons_category": "Apple parers",
+      "alt": "A hand-cranked apple peeler with an apple"
+    },
+    "tags": [
+      "fruit",
+      "apples",
+      "crank",
+      "19th century"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "cherry-pitter",
+    "name": "Cherry pitter",
+    "category": "Kitchen & cooking",
+    "invention": {
+      "display": "19th century",
+      "year": 1870,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "United States",
+      "modern_country": "United States",
+      "notes": "Many mechanical cherry pitters were patented in the US in the late 19th century; no single inventor is credited."
+    },
+    "inventor": null,
+    "short_description": "A small hand tool or machine that punches the stone out of a cherry.",
+    "description": "Cherry pitters were patented in large numbers in the late 1800s as home canning grew. The handheld version cradles a cherry while a plunger pushes the pit out through a hole. Plier-style pitters with the same plunger action are still sold and work on olives too.",
+    "why_unchanged": "A plunger pushing a pit through a cup is the fastest way to stone small fruit.",
+    "materials": [
+      "stainless steel",
+      "cast iron",
+      "aluminum",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "How does a cherry pitter work?",
+        "answer": "The cherry sits in a cup with a hole, and a plunger pushes the pit through the hole."
+      },
+      {
+        "question": "Can a cherry pitter pit olives?",
+        "answer": "Yes, most handheld pitters work well on olives."
+      },
+      {
+        "question": "How else can you pit cherries?",
+        "answer": "A sturdy straw, chopstick or paperclip can push out pits, though more slowly."
+      }
+    ],
+    "image": {
+      "search_query": "cherry pitter tool",
+      "wikimedia_commons_category": "Cherry pitters",
+      "alt": "A handheld cherry pitter with cherries"
+    },
+    "tags": [
+      "fruit",
+      "cherries",
+      "19th century"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "egg-slicer",
+    "name": "Egg slicer",
+    "category": "Kitchen & cooking",
+    "invention": {
+      "display": "Early 20th century",
+      "year": 1900,
+      "approximate": true,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "Germany",
+      "modern_country": "Germany",
+      "notes": "Wire egg slicers became popular in early 20th-century Germany; specific inventor claims are not well documented."
+    },
+    "inventor": null,
+    "short_description": "A hinged frame of taut wires that slices a hard-boiled egg into even rounds.",
+    "description": "Egg slicers with a cradle and hinged frame of thin wires became common in early 20th-century Europe. Pressing the frame down cuts a peeled hard-boiled egg into neat, uniform slices. The aluminum cradle-and-wire design looks almost identical today.",
+    "why_unchanged": "Taut wires slice soft food cleanly and evenly, so the design has stayed the same.",
+    "materials": [
+      "aluminum",
+      "stainless steel wire",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "How do you use an egg slicer?",
+        "answer": "Place a peeled hard-boiled egg in the cradle and press the wire frame down."
+      },
+      {
+        "question": "Can it slice anything else?",
+        "answer": "Yes, it works for mushrooms, strawberries, kiwis and soft cheese."
+      },
+      {
+        "question": "Can I make wedges?",
+        "answer": "Turn the egg 90 degrees after the first cut and slice again for cubes, or use a wedge-style model."
+      }
+    ],
+    "image": {
+      "search_query": "wire egg slicer",
+      "wikimedia_commons_category": "Egg slicers",
+      "alt": "A wire egg slicer with sliced egg"
+    },
+    "tags": [
+      "eggs",
+      "slicing",
+      "20th century"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "egg-separator",
+    "name": "Egg separator",
+    "category": "Kitchen & cooking",
+    "invention": {
+      "display": "Early 20th century",
+      "year": 1900,
+      "approximate": true,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "Various",
+      "modern_country": "Various",
+      "notes": "Slotted egg separators became common kitchen gadgets around the turn of the 20th century; origin undocumented."
+    },
+    "inventor": null,
+    "short_description": "A small cup with slots that holds the yolk while the white drains away.",
+    "description": "Separating yolks and whites is central to baking, and slotted egg separators became common kitchen gadgets in the early 1900s. The egg is cracked into a shallow cup; the white slides through the slots while the yolk stays put. Simple tin, ceramic and plastic versions are still sold.",
+    "why_unchanged": "Gravity and a slotted cup do the work, so there is no reason to change the design.",
+    "materials": [
+      "stainless steel",
+      "ceramic",
+      "plastic",
+      "tin"
+    ],
+    "faqs": [
+      {
+        "question": "Why separate eggs?",
+        "answer": "Whites whip into foams for meringues and souffles, while yolks enrich custards and sauces."
+      },
+      {
+        "question": "Are eggs easier to separate cold or warm?",
+        "answer": "Cold eggs separate more easily, but whites whip better at room temperature."
+      },
+      {
+        "question": "What if some yolk gets into the whites?",
+        "answer": "Even a trace of fat can stop whites from whipping, so remove it with a piece of shell."
+      }
+    ],
+    "image": {
+      "search_query": "egg separator yolk white",
+      "wikimedia_commons_category": "Egg separators",
+      "alt": "An egg separator holding a yolk"
+    },
+    "tags": [
+      "eggs",
+      "baking",
+      "utensil"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "pastry-blender",
+    "name": "Pastry blender",
+    "category": "Kitchen & cooking",
+    "invention": {
+      "display": "Early 20th century",
+      "year": 1920,
+      "approximate": true,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "United States",
+      "modern_country": "United States",
+      "notes": "Several US patents for wire and blade pastry blenders were filed in the early 20th century; no single inventor is credited."
+    },
+    "inventor": null,
+    "short_description": "A handle with curved wires or blades used to cut fat into flour.",
+    "description": "Pastry blenders became common in American kitchens in the early 20th century. Pressing the curved wires or blades through butter and flour breaks the fat into small pieces without melting it with warm hands. The result is the flaky texture of pie crusts, biscuits and scones.",
+    "why_unchanged": "Curved wires cut cold fat into flour quickly without warming it, which is all the tool must do.",
+    "materials": [
+      "stainless steel",
+      "wood",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "What is a pastry blender for?",
+        "answer": "It cuts cold butter or shortening into flour for flaky pie crusts, scones and biscuits."
+      },
+      {
+        "question": "Why not use your hands?",
+        "answer": "Hands warm the butter, which can make pastry tough instead of flaky."
+      },
+      {
+        "question": "What can replace a pastry blender?",
+        "answer": "Two knives, a fork or a food processor can all cut fat into flour."
+      }
+    ],
+    "image": {
+      "search_query": "pastry blender butter flour",
+      "wikimedia_commons_category": "Pastry blenders",
+      "alt": "A pastry blender cutting butter into flour"
+    },
+    "tags": [
+      "baking",
+      "pastry",
+      "20th century"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "pastry-brush",
+    "name": "Pastry brush",
+    "category": "Kitchen & cooking",
+    "invention": {
+      "display": "Early modern period",
+      "year": 1600,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Europe",
+      "modern_country": "Various",
+      "notes": "Feather brushes were traditionally used to glaze pastry; dating is uncertain."
+    },
+    "inventor": null,
+    "short_description": "A small brush used to spread glazes, egg wash, butter or oil.",
+    "description": "Bakers once glazed pastry with bundles of feathers, and bristle brushes became common later. The brush applies a thin, even coat of egg wash or butter so pastries bake with a shiny, golden crust. Silicone bristles are a recent change in material, not in design.",
+    "why_unchanged": "Fine bristles spread liquid thinly and evenly, so the simple brush remains the best tool.",
+    "materials": [
+      "natural bristle",
+      "silicone",
+      "wood",
+      "feathers"
+    ],
+    "faqs": [
+      {
+        "question": "What did bakers use before pastry brushes?",
+        "answer": "Bundles of goose feathers were traditionally used to apply glazes."
+      },
+      {
+        "question": "Should I choose silicone or natural bristles?",
+        "answer": "Natural bristles spread thin coats more evenly, while silicone is easier to clean."
+      },
+      {
+        "question": "What is egg wash?",
+        "answer": "Beaten egg, sometimes with water or milk, brushed on pastry for color and shine."
+      }
+    ],
+    "image": {
+      "search_query": "pastry brush egg wash",
+      "wikimedia_commons_category": "Pastry brushes",
+      "alt": "A pastry brush applying egg wash"
+    },
+    "tags": [
+      "baking",
+      "pastry",
+      "brush"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "piping-bag",
+    "name": "Piping bag",
+    "category": "Kitchen & cooking",
+    "invention": {
+      "display": "19th century",
+      "year": 1850,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "France",
+      "modern_country": "France",
+      "notes": "Pastry bags became standard in 19th-century French patisserie; claims about a specific inventor are not reliably documented."
+    },
+    "inventor": null,
+    "short_description": "A cone-shaped bag fitted with a nozzle used to pipe icing, cream or dough.",
+    "description": "Piping bags became an essential tool of 19th-century French pastry, used for meringues, choux pastry and decorative icing. Squeezing the bag forces its contents through a shaped tip, producing stars, ribbons and rosettes. Cloth gave way to plastic and silicone, but the cone and nozzle are unchanged.",
+    "why_unchanged": "A squeezable cone with a shaped tip gives precise control, so the tool has stayed the same.",
+    "materials": [
+      "cotton",
+      "nylon",
+      "silicone",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "What is a piping bag used for?",
+        "answer": "It is used to pipe icing, whipped cream, meringue, choux pastry and mashed potatoes."
+      },
+      {
+        "question": "Can I make a piping bag at home?",
+        "answer": "Yes, a zip-top bag with a corner snipped off or a parchment cone works for simple piping."
+      },
+      {
+        "question": "What is a coupler?",
+        "answer": "A two-part fitting that lets you change nozzles without emptying the bag."
+      }
+    ],
+    "image": {
+      "search_query": "piping bag icing cake",
+      "wikimedia_commons_category": "Pastry bags",
+      "alt": "A piping bag decorating a cake"
+    },
+    "tags": [
+      "baking",
+      "decorating",
+      "french"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "bench-scraper",
+    "name": "Bench scraper",
+    "category": "Kitchen & cooking",
+    "invention": {
+      "display": "Early modern period",
+      "year": 1700,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Europe",
+      "modern_country": "Various",
+      "notes": "Flat scrapers have long been used by bakers to divide and move dough; no specific origin is documented."
+    },
+    "inventor": null,
+    "short_description": "A flat rectangular blade with a handle used to cut, lift and scrape dough.",
+    "description": "Bakers have long used flat blades to divide dough and clear their work surfaces. The bench scraper, a stiff rectangle of metal or plastic with a handle along one edge, cuts dough into portions and scoops up chopped food. It is among the cheapest and most used tools in any bakery.",
+    "why_unchanged": "A straight stiff edge cuts, lifts and cleans with one tool, so the design is complete.",
+    "materials": [
+      "stainless steel",
+      "plastic",
+      "wood"
+    ],
+    "faqs": [
+      {
+        "question": "What is a bench scraper used for?",
+        "answer": "Dividing dough, cleaning flour off the counter and transferring chopped food to a pot."
+      },
+      {
+        "question": "What is the difference between a bench scraper and a bowl scraper?",
+        "answer": "A bench scraper is rigid with a straight edge; a bowl scraper is flexible and curved to fit a bowl."
+      },
+      {
+        "question": "Can it cut vegetables?",
+        "answer": "It can cut soft items, but its main role is scooping and moving food."
+      }
+    ],
+    "image": {
+      "search_query": "bench scraper dough",
+      "wikimedia_commons_category": "Bench scrapers",
+      "alt": "A metal bench scraper dividing dough"
+    },
+    "tags": [
+      "baking",
+      "dough",
+      "utensil"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "pastry-wheel",
+    "name": "Pastry wheel",
+    "category": "Kitchen & cooking",
+    "invention": {
+      "display": "18th century",
+      "year": 1750,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Europe and North America",
+      "modern_country": "Various",
+      "notes": "Decorative 'jagging wheels' for crimping pies were common in the 18th century, often carved by sailors from ivory or bone."
+    },
+    "inventor": null,
+    "short_description": "A wheel on a handle used to cut and crimp pastry and pasta dough.",
+    "description": "In the 18th century, jagging wheels were used to cut decorative edges on pies and pastry. Some were elaborately carved by sailors from whale ivory as gifts. Today's fluted pastry wheels and ravioli cutters work in exactly the same way.",
+    "why_unchanged": "A rolling blade cuts long lines and fluted edges smoothly, a function that has needed no change.",
+    "materials": [
+      "stainless steel",
+      "brass",
+      "wood",
+      "bone"
+    ],
+    "faqs": [
+      {
+        "question": "What is a jagging wheel?",
+        "answer": "It is an old name for a pastry wheel with a fluted edge used to cut and crimp pastry."
+      },
+      {
+        "question": "Why are antique pastry wheels collectible?",
+        "answer": "Some were carved from whale ivory by 18th- and 19th-century sailors as scrimshaw."
+      },
+      {
+        "question": "Can a pastry wheel cut pasta?",
+        "answer": "Yes, it is commonly used for ravioli and other filled or shaped pasta."
+      }
+    ],
+    "image": {
+      "search_query": "fluted pastry wheel cutter",
+      "wikimedia_commons_category": "Pastry wheels",
+      "alt": "A fluted pastry wheel cutting dough"
+    },
+    "tags": [
+      "baking",
+      "pastry",
+      "18th century"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "funnel",
+    "name": "Funnel",
+    "category": "Kitchen & cooking",
+    "invention": {
+      "display": "Antiquity",
+      "year": -500,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Various",
+      "modern_country": "Various",
+      "notes": "Funnels of pottery, metal and horn were used in many ancient cultures; no single origin is known."
+    },
+    "inventor": null,
+    "short_description": "A cone with a narrow tube used to channel liquids or powders into small openings.",
+    "description": "Funnels were made from pottery, bronze and horn in many ancient cultures for filling jars and amphorae. A wide mouth catches the liquid, and a narrow stem guides it into a small opening. Kitchen funnels in steel, plastic and silicone still share that exact form.",
+    "why_unchanged": "A cone narrowing to a tube is the simplest geometry for guiding a flow, so it cannot be improved.",
+    "materials": [
+      "stainless steel",
+      "plastic",
+      "silicone",
+      "glass"
+    ],
+    "faqs": [
+      {
+        "question": "What is a wide-mouth funnel for?",
+        "answer": "It is used to fill canning jars with jams and pickles without spilling."
+      },
+      {
+        "question": "Why does a funnel sometimes stop flowing?",
+        "answer": "Air trapped in the container can block the flow; lifting the funnel slightly lets air escape."
+      },
+      {
+        "question": "What is a funnel used for in baking?",
+        "answer": "Some funnels with a plunger stopper portion batter for crepes or pancakes."
+      }
+    ],
+    "image": {
+      "search_query": "kitchen funnel stainless steel",
+      "wikimedia_commons_category": "Funnels",
+      "alt": "A kitchen funnel pouring liquid into a bottle"
+    },
+    "tags": [
+      "liquids",
+      "pouring",
+      "ancient"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "measuring-cups",
+    "name": "Measuring cups",
+    "category": "Kitchen & cooking",
+    "invention": {
+      "display": "1896",
+      "year": 1896,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Boston, Massachusetts",
+      "modern_country": "United States",
+      "notes": "Fannie Farmer's 1896 Boston Cooking-School Cook Book popularized standardized level cup measurements; she did not invent the cups."
+    },
+    "inventor": null,
+    "short_description": "Graduated cups used to measure ingredients by volume.",
+    "description": "Before standard measures, recipes called for a 'teacup' or 'a handful'. Fannie Farmer's 1896 Boston Cooking-School Cook Book promoted precise, level measurements in standard cups, and graduated measuring cups soon became household tools. Nested sets and spouted liquid cups are still standard in American kitchens.",
+    "why_unchanged": "Fixed-volume cups give repeatable results with no calculation, so they remain unchanged.",
+    "materials": [
+      "stainless steel",
+      "glass",
+      "plastic",
+      "aluminum"
+    ],
+    "faqs": [
+      {
+        "question": "Who standardized the measuring cup?",
+        "answer": "Fannie Farmer popularized standard level measurements in her 1896 cookbook."
+      },
+      {
+        "question": "Why are there separate dry and liquid measuring cups?",
+        "answer": "Dry cups are leveled off at the top, while liquid cups have a spout and room above the line to prevent spills."
+      },
+      {
+        "question": "Is a US cup the same as a metric cup?",
+        "answer": "No, a US cup is about 237 ml, while a metric cup used in Australia and elsewhere is 250 ml."
+      }
+    ],
+    "image": {
+      "search_query": "nested measuring cups flour",
+      "wikimedia_commons_category": "Measuring cups",
+      "alt": "A set of nested measuring cups"
+    },
+    "tags": [
+      "baking",
+      "measuring",
+      "19th century"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "measuring-spoons",
+    "name": "Measuring spoons",
+    "category": "Kitchen & cooking",
+    "invention": {
+      "display": "Late 19th century",
+      "year": 1890,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "United States",
+      "modern_country": "United States",
+      "notes": "Standard measuring spoons spread along with level measurements promoted by American cookbooks in the late 1800s; no single inventor."
+    },
+    "inventor": null,
+    "short_description": "A set of graduated spoons used to measure small amounts of ingredients.",
+    "description": "As cookbooks adopted precise measures in the late 19th century, sets of standard measuring spoons became common. They measure small quantities of spices, leaveners and salt, where accuracy matters most. Ring-linked sets in tablespoon, teaspoon and fractional sizes are unchanged.",
+    "why_unchanged": "Fixed small volumes make recipes repeatable, and the set has no need for further change.",
+    "materials": [
+      "stainless steel",
+      "plastic",
+      "aluminum"
+    ],
+    "faqs": [
+      {
+        "question": "How many teaspoons are in a tablespoon?",
+        "answer": "There are three teaspoons in a tablespoon."
+      },
+      {
+        "question": "Why level off the spoon?",
+        "answer": "Leveling with a straight edge gives the exact amount, which matters for baking powder and salt."
+      },
+      {
+        "question": "Is a measuring teaspoon the same as a cutlery teaspoon?",
+        "answer": "No, eating spoons vary in size, while measuring spoons are standardized."
+      }
+    ],
+    "image": {
+      "search_query": "measuring spoons set",
+      "wikimedia_commons_category": "Measuring spoons",
+      "alt": "A set of stainless steel measuring spoons"
+    },
+    "tags": [
+      "baking",
+      "measuring",
+      "19th century"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "mandoline",
+    "name": "Mandoline",
+    "category": "Kitchen & cooking",
+    "invention": {
+      "display": "Early modern period",
+      "year": 1700,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Europe",
+      "modern_country": "France",
+      "notes": "Associated with French kitchens; the origin and date of the slicing board are not documented."
+    },
+    "inventor": null,
+    "short_description": "A flat board with an adjustable blade used to slice vegetables thinly and evenly.",
+    "description": "The mandoline is a slicing board with a fixed blade set into it, over which vegetables are slid back and forth. It produces uniformly thin slices, julienne strips and waffle cuts far faster than a knife. Professional kitchens adopted it for consistent cuts, and its basic layout is unchanged.",
+    "why_unchanged": "Sliding food across a fixed blade gives perfectly even slices every time.",
+    "materials": [
+      "stainless steel",
+      "plastic",
+      "wood"
+    ],
+    "faqs": [
+      {
+        "question": "Why is it called a mandoline?",
+        "answer": "The name is often linked to the strumming motion of the musical instrument."
+      },
+      {
+        "question": "Is a mandoline dangerous?",
+        "answer": "Its blade is very sharp, so a hand guard or cut-resistant glove is strongly recommended."
+      },
+      {
+        "question": "What can you make with it?",
+        "answer": "Potato chips, gratins, coleslaw, julienned vegetables and paper-thin fruit slices."
+      }
+    ],
+    "image": {
+      "search_query": "mandoline slicer vegetables",
+      "wikimedia_commons_category": "Mandolines (kitchen utensils)",
+      "alt": "A mandoline slicer cutting potato slices"
+    },
+    "tags": [
+      "slicing",
+      "vegetables",
+      "french"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "potato-masher",
+    "name": "Potato masher",
+    "category": "Kitchen & cooking",
+    "invention": {
+      "display": "19th century",
+      "year": 1850,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Europe and North America",
+      "modern_country": "Various",
+      "notes": "Wooden pounders were used long before; wire-grid and perforated metal mashers spread in the 19th century."
+    },
+    "inventor": null,
+    "short_description": "A handle with a wire grid or perforated plate used to mash cooked food.",
+    "description": "Cooks long mashed vegetables with wooden pounders, and metal mashers with zig-zag wires or perforated plates became common in the 19th century. Pressing down forces soft food through the gaps, breaking it into a smooth mash. The same two styles are sold today.",
+    "why_unchanged": "Pressing soft food through gaps is the simplest way to mash, so the design has not changed.",
+    "materials": [
+      "stainless steel",
+      "wire",
+      "wood",
+      "nylon"
+    ],
+    "faqs": [
+      {
+        "question": "Which is better: wire or plate masher?",
+        "answer": "Plate mashers with holes give a smoother result, while wire mashers leave a more rustic texture."
+      },
+      {
+        "question": "Why is my mashed potato gluey?",
+        "answer": "Overworking releases starch; mash gently and avoid food processors."
+      },
+      {
+        "question": "What else can a masher be used for?",
+        "answer": "Mashing beans, avocados, bananas, berries and breaking up ground meat while cooking."
+      }
+    ],
+    "image": {
+      "search_query": "potato masher mashed potatoes",
+      "wikimedia_commons_category": "Potato mashers",
+      "alt": "A potato masher in a pot of mashed potatoes"
+    },
+    "tags": [
+      "potatoes",
+      "mashing",
+      "19th century"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "potato-ricer",
+    "name": "Potato ricer",
+    "category": "Kitchen & cooking",
+    "invention": {
+      "display": "Late 19th century",
+      "year": 1880,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "United States",
+      "modern_country": "United States",
+      "notes": "Lever-operated ricers were patented in the US in the late 19th century; no single inventor is clearly credited."
+    },
+    "inventor": null,
+    "short_description": "A lever press that forces cooked potatoes through small holes into rice-like strands.",
+    "description": "Potato ricers became popular kitchen tools in late 19th-century America. A cooked potato is placed in a perforated basket and a plunger presses it through, yielding fluffy, lump-free strands. Chefs still prefer them for the smoothest mashed potatoes and gnocchi.",
+    "why_unchanged": "A lever press gives smooth, airy results without overworking starch, so the tool remains unchanged.",
+    "materials": [
+      "stainless steel",
+      "aluminum",
+      "cast iron"
+    ],
+    "faqs": [
+      {
+        "question": "Why is it called a ricer?",
+        "answer": "The pressed potato comes out in strands about the size of rice grains."
+      },
+      {
+        "question": "Do I need to peel potatoes first?",
+        "answer": "No, many ricers trap the skin in the basket."
+      },
+      {
+        "question": "What else can it do?",
+        "answer": "It can squeeze water from spinach, make spaetzle and prepare gnocchi dough."
+      }
+    ],
+    "image": {
+      "search_query": "potato ricer mashed potatoes",
+      "wikimedia_commons_category": "Potato ricers",
+      "alt": "A potato ricer pressing potato strands"
+    },
+    "tags": [
+      "potatoes",
+      "lever",
+      "19th century"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "meat-tenderizer",
+    "name": "Meat tenderizer",
+    "category": "Kitchen & cooking",
+    "invention": {
+      "display": "19th century",
+      "year": 1850,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Europe and North America",
+      "modern_country": "Various",
+      "notes": "Meat has been pounded with mallets and blunt tools for centuries; the dedicated textured mallet's origin is not documented."
+    },
+    "inventor": null,
+    "short_description": "A mallet with a flat face and a textured face used to pound and flatten meat.",
+    "description": "Cooks have long pounded meat to tenderize it, and the textured meat mallet became a standard kitchen tool. The spiked face breaks up tough fibers, while the flat face flattens cutlets for schnitzel or scaloppine. Wooden and metal versions remain unchanged.",
+    "why_unchanged": "A heavy mallet with two faces does both tenderizing and flattening, so no redesign is needed.",
+    "materials": [
+      "aluminum",
+      "stainless steel",
+      "wood"
+    ],
+    "faqs": [
+      {
+        "question": "Why pound meat?",
+        "answer": "Pounding breaks down tough fibers and creates an even thickness so meat cooks uniformly."
+      },
+      {
+        "question": "Which side should I use?",
+        "answer": "Use the textured side to tenderize and the flat side to flatten cutlets."
+      },
+      {
+        "question": "How can I avoid splatter?",
+        "answer": "Place the meat between sheets of plastic wrap or in a bag before pounding."
+      }
+    ],
+    "image": {
+      "search_query": "meat tenderizer mallet",
+      "wikimedia_commons_category": "Meat tenderizers",
+      "alt": "A meat mallet on a cutlet"
+    },
+    "tags": [
+      "meat",
+      "mallet",
+      "utensil"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "meat-grinder",
+    "name": "Meat grinder",
+    "category": "Kitchen & cooking",
+    "invention": {
+      "display": "Early 19th century",
+      "year": 1830,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Baden",
+      "modern_country": "Germany",
+      "notes": "German inventor Karl Drais is widely credited with the hand-cranked meat mincer; the exact year is uncertain."
+    },
+    "inventor": "Karl Drais",
+    "short_description": "A hand-cranked machine that pushes meat through a rotating blade and perforated plate.",
+    "description": "The hand-cranked meat mincer is credited to Karl Drais, the German inventor also known for an early forerunner of the bicycle. Meat is fed into a hopper, pushed by a screw against a cutting blade, and forced through a plate with holes. Cast-iron table-clamp grinders of this design are still used for sausages and fresh mince.",
+    "why_unchanged": "A screw, blade and perforated plate mince meat efficiently, and electric models simply motorize it.",
+    "materials": [
+      "cast iron",
+      "stainless steel",
+      "tin-plated steel"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the meat grinder?",
+        "answer": "It is generally credited to Karl Drais, who also invented the 'running machine', an ancestor of the bicycle."
+      },
+      {
+        "question": "Why grind meat at home?",
+        "answer": "You control the cut, fat content and freshness of the mince."
+      },
+      {
+        "question": "What else can a meat grinder do?",
+        "answer": "With attachments it can stuff sausages and grind vegetables or nuts."
+      }
+    ],
+    "image": {
+      "search_query": "hand crank cast iron meat grinder",
+      "wikimedia_commons_category": "Meat grinders",
+      "alt": "A cast-iron hand-cranked meat grinder"
+    },
+    "tags": [
+      "meat",
+      "crank",
+      "19th century",
+      "german"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "bakers-peel",
+    "name": "Baker's peel",
+    "category": "Kitchen & cooking",
+    "invention": {
+      "display": "Antiquity",
+      "year": 100,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Roman Empire",
+      "modern_country": "Italy",
+      "notes": "Long-handled peels were used in Roman bakeries such as those at Pompeii; similar tools existed elsewhere."
+    },
+    "inventor": null,
+    "short_description": "A flat, shovel-like paddle used to slide bread and pizza into and out of an oven.",
+    "description": "Roman bakers used long-handled paddles to load and unload bread from deep wood-fired ovens, as at Pompeii. The flat blade slides under a loaf and the long handle keeps the baker away from the heat. Pizzerias and bakeries still use the same peels of wood or metal.",
+    "why_unchanged": "A flat blade on a long handle is the only practical way to reach into a deep hot oven.",
+    "materials": [
+      "wood",
+      "aluminum",
+      "steel"
+    ],
+    "faqs": [
+      {
+        "question": "Why is it called a peel?",
+        "answer": "The word comes from the Latin pala, meaning spade."
+      },
+      {
+        "question": "Should I use a wooden or metal peel?",
+        "answer": "Wood releases raw dough more easily, while thin metal slides under baked items better."
+      },
+      {
+        "question": "How do I stop dough sticking to the peel?",
+        "answer": "Dust the peel with flour, semolina or cornmeal before placing the dough."
+      }
+    ],
+    "image": {
+      "search_query": "wooden pizza peel oven",
+      "wikimedia_commons_category": "Peels (tools)",
+      "alt": "A wooden peel sliding pizza into an oven"
+    },
+    "tags": [
+      "baking",
+      "bread",
+      "pizza",
+      "roman"
+    ],
+    "confidence": "low"
+  }
+]

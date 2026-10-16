@@ -1,0 +1,1267 @@
+[
+  {
+    "slug": "oyster-knife",
+    "name": "Oyster knife",
+    "category": "Kitchen & cooking",
+    "invention": {
+      "display": "19th century",
+      "year": 1850,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Europe and North America",
+      "modern_country": "Various",
+      "notes": "Short, stout shucking knives became common with the 19th-century oyster boom; regional styles vary and no inventor is known."
+    },
+    "inventor": null,
+    "short_description": "A short, thick, blunt-edged knife used to pry open oyster shells.",
+    "description": "Oysters were eaten in huge quantities in 19th-century cities, and specialized shucking knives became standard among oyster sellers. The blade is short, rigid and pointed rather than sharp, so it can be wedged into the hinge and twisted. Regional patterns like the Boston, New Haven and Galveston styles still exist.",
+    "why_unchanged": "A stiff, short lever is exactly what is needed to pop a hinge, so the tool has stayed simple.",
+    "materials": [
+      "stainless steel",
+      "carbon steel",
+      "wood",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "How do you use an oyster knife?",
+        "answer": "Insert the tip into the hinge of the shell, twist to pop it open, then slide the blade along the top shell to cut the muscle."
+      },
+      {
+        "question": "Is an oyster knife sharp?",
+        "answer": "Not very; it relies on a strong tip and rigid blade rather than a keen edge."
+      },
+      {
+        "question": "How can I shuck safely?",
+        "answer": "Hold the oyster in a folded towel or wear a cut-resistant glove so a slipping blade cannot hurt your hand."
+      }
+    ],
+    "image": {
+      "search_query": "oyster knife shucking",
+      "wikimedia_commons_category": "Oyster knives",
+      "alt": "An oyster knife opening an oyster"
+    },
+    "tags": [
+      "knife",
+      "seafood",
+      "19th century"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "honing-steel",
+    "name": "Honing steel",
+    "category": "Kitchen & cooking",
+    "invention": {
+      "display": "18th to 19th century",
+      "year": 1800,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Europe",
+      "modern_country": "Various",
+      "notes": "Butchers' sharpening steels were in use in Europe by at least the 19th century; exact origin is not documented."
+    },
+    "inventor": null,
+    "short_description": "A long rod of hardened steel or ceramic used to realign a knife's edge.",
+    "description": "Butchers and cooks have long kept a steel rod at hand to maintain their knives between sharpenings. Drawing the blade along the rod at an angle straightens the microscopic edge that bends during use. The handle-and-rod design hangs in nearly every professional kitchen today.",
+    "why_unchanged": "A hard straight rod realigns an edge in seconds, so nothing more elaborate is needed.",
+    "materials": [
+      "hardened steel",
+      "ceramic",
+      "diamond-coated steel"
+    ],
+    "faqs": [
+      {
+        "question": "Does a honing steel sharpen knives?",
+        "answer": "Mostly it realigns the edge rather than removing metal; a whetstone or sharpener is needed to truly resharpen."
+      },
+      {
+        "question": "How often should I hone?",
+        "answer": "Many cooks hone briefly before each use to keep the edge straight."
+      },
+      {
+        "question": "At what angle should I hold the knife?",
+        "answer": "Typically about 15 to 20 degrees, matching the knife's original edge angle."
+      }
+    ],
+    "image": {
+      "search_query": "honing steel knife sharpening",
+      "wikimedia_commons_category": "Sharpening steels",
+      "alt": "A chef honing a knife on a steel rod"
+    },
+    "tags": [
+      "knife care",
+      "steel",
+      "butchery"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "kitchen-shears",
+    "name": "Kitchen shears",
+    "category": "Kitchen & cooking",
+    "invention": {
+      "display": "c. 100 CE",
+      "year": 100,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Roman Empire",
+      "modern_country": "Various",
+      "notes": "Pivoted cross-blade scissors were used in the Roman world; earlier spring shears existed in Egypt and elsewhere. Kitchen shears are a later specialization."
+    },
+    "inventor": null,
+    "short_description": "Heavy-duty scissors used to cut food, herbs, poultry and packaging.",
+    "description": "Scissors with two blades on a central pivot were used in the Roman Empire, building on earlier spring-type shears. Kitchen shears adapt the design with thicker blades, sometimes serrated, for cutting poultry bones and herbs. Many come apart for cleaning but keep the same pivot principle.",
+    "why_unchanged": "Two blades on a pivot give strong, controlled cutting, a mechanism that has not changed in two thousand years.",
+    "materials": [
+      "stainless steel",
+      "plastic",
+      "nylon"
+    ],
+    "faqs": [
+      {
+        "question": "How old are scissors?",
+        "answer": "Spring shears go back thousands of years, and pivoted scissors like ours were used in the Roman Empire."
+      },
+      {
+        "question": "What is the notch near the handle for?",
+        "answer": "Many kitchen shears have serrated grips for cracking nuts, opening bottles or holding stems."
+      },
+      {
+        "question": "What are poultry shears?",
+        "answer": "They are stronger kitchen shears, often spring-loaded with curved blades, for cutting through poultry bones."
+      }
+    ],
+    "image": {
+      "search_query": "kitchen shears cutting herbs",
+      "wikimedia_commons_category": "Kitchen scissors",
+      "alt": "Kitchen shears cutting fresh herbs"
+    },
+    "tags": [
+      "cutting",
+      "utensil",
+      "roman"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "cutting-board",
+    "name": "Cutting board",
+    "category": "Kitchen & cooking",
+    "invention": {
+      "display": "Antiquity",
+      "year": -1000,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Various",
+      "modern_country": "Various",
+      "notes": "Boards and blocks for cutting food were used by many ancient cultures; no specific origin is known."
+    },
+    "inventor": null,
+    "short_description": "A flat board, usually wood or plastic, used as a surface for cutting food.",
+    "description": "Cooks have always needed a surface that protects both the knife and the table, and flat boards of wood or stone served this purpose in many ancient cultures. End-grain butcher blocks and flat chopping boards are still the standard. Materials now include plastic and composites, but the board itself is unchanged.",
+    "why_unchanged": "A flat, slightly yielding surface is all that is required to cut safely and protect a blade.",
+    "materials": [
+      "wood",
+      "bamboo",
+      "plastic",
+      "composite"
+    ],
+    "faqs": [
+      {
+        "question": "Is wood or plastic more hygienic?",
+        "answer": "Both can be safe when cleaned properly; well-maintained wood is naturally resilient, and plastic can go in a dishwasher."
+      },
+      {
+        "question": "Why use separate boards for meat and vegetables?",
+        "answer": "Separate boards reduce the risk of spreading bacteria from raw meat to foods eaten raw."
+      },
+      {
+        "question": "How do I stop a board from slipping?",
+        "answer": "Place a damp towel or a rubber mat underneath it."
+      }
+    ],
+    "image": {
+      "search_query": "wooden cutting board kitchen",
+      "wikimedia_commons_category": "Cutting boards",
+      "alt": "A wooden cutting board with chopped vegetables"
+    },
+    "tags": [
+      "cutting",
+      "wood",
+      "ancient"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "skewer",
+    "name": "Skewer",
+    "category": "Kitchen & cooking",
+    "invention": {
+      "display": "Prehistoric (firm evidence c. 1650 BCE)",
+      "year": -1650,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Aegean",
+      "modern_country": "Greece",
+      "notes": "Cooking food on sticks is almost certainly prehistoric; stone skewer supports from Bronze Age Akrotiri on Santorini are among the earliest clear evidence."
+    },
+    "inventor": null,
+    "short_description": "A thin pointed rod of metal or wood used to hold food for grilling.",
+    "description": "Roasting food on sticks over fire is one of the oldest cooking methods. Bronze Age stone supports found at Akrotiri on Santorini were used to hold skewers above coals, much like a modern souvlaki grill. Kebabs, satay, yakitori and brochettes all rely on the same simple pointed rod.",
+    "why_unchanged": "A pointed rod holds food over heat with no extra parts, so there has never been a reason to change it.",
+    "materials": [
+      "stainless steel",
+      "bamboo",
+      "wood"
+    ],
+    "faqs": [
+      {
+        "question": "How old is the skewer?",
+        "answer": "Cooking on sticks is prehistoric, and Bronze Age skewer supports have been found on the Greek island of Santorini."
+      },
+      {
+        "question": "Why soak wooden skewers?",
+        "answer": "Soaking them in water for about 30 minutes helps stop them from burning on the grill."
+      },
+      {
+        "question": "Why are some metal skewers flat?",
+        "answer": "Flat or square skewers stop food from spinning when you turn them."
+      }
+    ],
+    "image": {
+      "search_query": "metal skewers kebab grill",
+      "wikimedia_commons_category": "Skewers",
+      "alt": "Kebabs on metal skewers over a grill"
+    },
+    "tags": [
+      "grilling",
+      "kebab",
+      "prehistoric"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "cooking-chopsticks",
+    "name": "Cooking chopsticks",
+    "category": "Kitchen & cooking",
+    "invention": {
+      "display": "c. 1200 BCE",
+      "year": -1200,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "China (Shang dynasty)",
+      "modern_country": "China",
+      "notes": "Bronze chopsticks from the Shang-era site of Yinxu are among the earliest known; scholars believe chopsticks were first used for cooking before eating."
+    },
+    "inventor": null,
+    "short_description": "Extra-long chopsticks used to stir, flip and fry food.",
+    "description": "Chopsticks are thought to have started in China as cooking tools for reaching into pots of boiling water or oil. Bronze chopsticks found at the Shang dynasty site of Yinxu are among the oldest examples. Long cooking chopsticks, called saibashi in Japan, remain a favorite for frying tempura and beating eggs.",
+    "why_unchanged": "Two slender sticks give precise, heat-safe control, and their simplicity leaves nothing to improve.",
+    "materials": [
+      "bamboo",
+      "wood",
+      "stainless steel"
+    ],
+    "faqs": [
+      {
+        "question": "Were chopsticks first used for cooking?",
+        "answer": "Many historians believe so; they were used to reach into hot pots long before they became eating utensils."
+      },
+      {
+        "question": "What are saibashi?",
+        "answer": "They are Japanese cooking chopsticks, often 30 cm or longer, sometimes tied together at the top."
+      },
+      {
+        "question": "Why use chopsticks for frying?",
+        "answer": "They let you turn delicate food like tempura gently and keep your hand away from hot oil."
+      }
+    ],
+    "image": {
+      "search_query": "long cooking chopsticks frying",
+      "wikimedia_commons_category": "Cooking chopsticks",
+      "alt": "Long bamboo cooking chopsticks in a pan"
+    },
+    "tags": [
+      "chinese",
+      "asian",
+      "utensil",
+      "ancient"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "cooking-pot",
+    "name": "Cooking pot",
+    "category": "Kitchen & cooking",
+    "invention": {
+      "display": "c. 18,000 BCE",
+      "year": -18000,
+      "approximate": true,
+      "era": "Prehistoric"
+    },
+    "place_of_invention": {
+      "region": "Xianrendong Cave, Jiangxi",
+      "modern_country": "China",
+      "notes": "Pottery fragments from Xianrendong Cave, about 20,000 years old, are among the earliest known cooking vessels; pottery also developed independently in Japan and elsewhere."
+    },
+    "inventor": null,
+    "short_description": "A deep, round vessel used to boil, simmer and stew food.",
+    "description": "Some of the oldest known pottery, found in Xianrendong Cave in China, was used for cooking about 20,000 years ago. Being able to boil food opened up new ingredients and techniques for early humans. From clay to bronze, iron and steel, the round, deep pot remains the backbone of the kitchen.",
+    "why_unchanged": "A deep round vessel holds liquid and spreads heat evenly, the ideal shape for boiling.",
+    "materials": [
+      "clay",
+      "cast iron",
+      "stainless steel",
+      "aluminum",
+      "copper"
+    ],
+    "faqs": [
+      {
+        "question": "How old is the cooking pot?",
+        "answer": "Pottery shards from China used for cooking date back around 20,000 years."
+      },
+      {
+        "question": "Why are most pots round?",
+        "answer": "A round shape distributes heat evenly and has no corners where food can stick or burn."
+      },
+      {
+        "question": "What is the best material for a pot?",
+        "answer": "Stainless steel with an aluminum or copper core is durable and heats evenly; cast iron holds heat well for slow cooking."
+      }
+    ],
+    "image": {
+      "search_query": "cooking pot on stove",
+      "wikimedia_commons_category": "Cooking pots",
+      "alt": "A steel cooking pot simmering on a stove"
+    },
+    "tags": [
+      "cookware",
+      "pottery",
+      "prehistoric"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "saucepan",
+    "name": "Saucepan",
+    "category": "Kitchen & cooking",
+    "invention": {
+      "display": "Antiquity",
+      "year": -100,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Roman Empire",
+      "modern_country": "Various",
+      "notes": "Long-handled bronze pans (often called trullae or paterae by archaeologists) were common in the Roman world; the saucepan's precise origin is unclear."
+    },
+    "inventor": null,
+    "short_description": "A deep pan with a long handle used for sauces, boiling and heating liquids.",
+    "description": "Bronze pans with long handles were widely used in the Roman world for heating and serving food. The long handle let cooks move the pan without touching the hot body. The modern saucepan, with straight sides, a lid and a handle, follows the same basic layout.",
+    "why_unchanged": "A deep vessel with a single long handle is easy to pour and control, so the shape endures.",
+    "materials": [
+      "stainless steel",
+      "copper",
+      "aluminum",
+      "enamelled steel"
+    ],
+    "faqs": [
+      {
+        "question": "What is the difference between a saucepan and a pot?",
+        "answer": "A saucepan has one long handle and is usually smaller, while pots typically have two short handles."
+      },
+      {
+        "question": "Why are copper saucepans prized?",
+        "answer": "Copper responds very quickly to changes in heat, giving precise control for delicate sauces."
+      },
+      {
+        "question": "What size saucepan is most useful?",
+        "answer": "A 2 to 3 liter saucepan covers most everyday tasks such as rice, sauces and vegetables."
+      }
+    ],
+    "image": {
+      "search_query": "stainless steel saucepan stove",
+      "wikimedia_commons_category": "Saucepans",
+      "alt": "A stainless steel saucepan with a lid"
+    },
+    "tags": [
+      "cookware",
+      "sauces",
+      "roman"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "frying-pan",
+    "name": "Frying pan",
+    "category": "Kitchen & cooking",
+    "invention": {
+      "display": "Antiquity",
+      "year": -500,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Ancient Mediterranean",
+      "modern_country": "Various",
+      "notes": "Shallow frying pans are attested in ancient Greece and Rome; earlier examples may exist in Mesopotamia, but evidence is limited."
+    },
+    "inventor": null,
+    "short_description": "A shallow, flat-bottomed pan with sloped sides and a long handle used for frying and searing.",
+    "description": "Shallow metal pans for frying were used in the ancient Mediterranean, and Roman cooks had bronze and iron versions. The low, sloping sides allow steam to escape and let food be flipped easily. Whether cast iron, steel or nonstick, the shape is the same.",
+    "why_unchanged": "A wide flat base with low sides maximizes contact with heat, which is exactly what frying needs.",
+    "materials": [
+      "cast iron",
+      "carbon steel",
+      "stainless steel",
+      "aluminum"
+    ],
+    "faqs": [
+      {
+        "question": "What is the difference between a frying pan and a skillet?",
+        "answer": "The terms are mostly interchangeable; both describe a shallow, flat pan with flared sides."
+      },
+      {
+        "question": "How do you season a cast-iron pan?",
+        "answer": "Coat it with a thin layer of oil and heat it until the oil polymerizes into a protective, nonstick layer."
+      },
+      {
+        "question": "Why do frying pans have sloped sides?",
+        "answer": "Sloping sides let moisture escape and make it easy to slide a spatula under food."
+      }
+    ],
+    "image": {
+      "search_query": "cast iron frying pan",
+      "wikimedia_commons_category": "Frying pans",
+      "alt": "A cast-iron frying pan with fried eggs"
+    },
+    "tags": [
+      "cookware",
+      "frying",
+      "ancient"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "wok",
+    "name": "Wok",
+    "category": "Kitchen & cooking",
+    "invention": {
+      "display": "c. 200 BCE",
+      "year": -200,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "China (Han dynasty)",
+      "modern_country": "China",
+      "notes": "Pottery models of wok-like pans date from the Han dynasty; the exact origin is debated."
+    },
+    "inventor": null,
+    "short_description": "A deep, round-bottomed pan used for stir-frying, steaming and deep-frying.",
+    "description": "The wok is thought to have developed in China around the Han dynasty. Its rounded bottom concentrates intense heat in the center while the sloped sides stay cooler, letting cooks push food up and away. The thin carbon-steel wok is still the workhorse of Chinese cooking.",
+    "why_unchanged": "The curved bowl suits fast, high-heat cooking and many techniques at once, so its shape endures.",
+    "materials": [
+      "carbon steel",
+      "cast iron",
+      "stainless steel"
+    ],
+    "faqs": [
+      {
+        "question": "Why is a wok round-bottomed?",
+        "answer": "The curve focuses heat in the center and lets cooks toss food and move it to cooler sides."
+      },
+      {
+        "question": "What is 'wok hei'?",
+        "answer": "Cantonese for 'breath of the wok', the smoky, seared flavor from cooking over very high heat."
+      },
+      {
+        "question": "Can I use a wok on an electric stove?",
+        "answer": "Yes, flat-bottomed woks are made for flat burners, though they lose some of the round wok's heat zones."
+      }
+    ],
+    "image": {
+      "search_query": "carbon steel wok stir fry flames",
+      "wikimedia_commons_category": "Woks",
+      "alt": "A carbon-steel wok over a flame"
+    },
+    "tags": [
+      "chinese",
+      "cookware",
+      "stir-fry",
+      "ancient"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "dutch-oven",
+    "name": "Dutch oven",
+    "category": "Kitchen & cooking",
+    "invention": {
+      "display": "1707",
+      "year": 1707,
+      "approximate": false,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "England",
+      "modern_country": "United Kingdom",
+      "notes": "Abraham Darby patented a sand-casting process for iron pots in 1707, inspired by Dutch methods; heavy lidded cooking pots existed earlier."
+    },
+    "inventor": null,
+    "short_description": "A heavy, thick-walled cast-iron pot with a tight-fitting lid used for braising and baking.",
+    "description": "In 1707 Englishman Abraham Darby patented a process for casting iron pots in sand, a technique he had studied in the Netherlands, which helped popularize the 'Dutch' pot. These heavy pots could sit among coals with embers on the lid, serving as ovens. Today's enamelled versions are prized for braises, stews and bread.",
+    "why_unchanged": "Thick iron walls and a snug lid hold steady heat and moisture, which no new material has bettered.",
+    "materials": [
+      "cast iron",
+      "enamelled cast iron"
+    ],
+    "faqs": [
+      {
+        "question": "Why is it called a Dutch oven?",
+        "answer": "The name likely refers to the Dutch casting methods Abraham Darby adapted to make the pots in England."
+      },
+      {
+        "question": "Can you bake bread in a Dutch oven?",
+        "answer": "Yes, the trapped steam helps create a crisp, crackling crust at home."
+      },
+      {
+        "question": "What is the difference between enamelled and bare cast iron?",
+        "answer": "Enamelled iron needs no seasoning and handles acidic foods, while bare iron must be seasoned but tolerates very high heat."
+      }
+    ],
+    "image": {
+      "search_query": "cast iron dutch oven",
+      "wikimedia_commons_category": "Dutch ovens",
+      "alt": "A cast-iron Dutch oven with lid"
+    },
+    "tags": [
+      "cookware",
+      "cast iron",
+      "braising"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "griddle",
+    "name": "Griddle",
+    "category": "Kitchen & cooking",
+    "invention": {
+      "display": "Antiquity",
+      "year": -1000,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Various",
+      "modern_country": "Various",
+      "notes": "Flat stones and later metal plates were used to cook flatbreads in many ancient cultures."
+    },
+    "inventor": null,
+    "short_description": "A flat cooking surface heated from below for pancakes, flatbreads and searing.",
+    "description": "Cooking on hot flat stones is among the oldest techniques, and flat iron plates later replaced stone. In Scotland and Wales the 'girdle' baked oatcakes and scones; elsewhere tavas, comals and plancha serve the same role. The wide flat plate is unchanged.",
+    "why_unchanged": "A flat hot surface is the simplest way to cook flatbreads and pancakes evenly.",
+    "materials": [
+      "cast iron",
+      "steel",
+      "stone",
+      "aluminum"
+    ],
+    "faqs": [
+      {
+        "question": "What is the difference between a griddle and a frying pan?",
+        "answer": "A griddle is flat with no or very low sides, while a frying pan has raised sides."
+      },
+      {
+        "question": "What is a 'girdle'?",
+        "answer": "It is the traditional Scottish word for a griddle used to bake oatcakes and scones."
+      },
+      {
+        "question": "What foods cook best on a griddle?",
+        "answer": "Pancakes, flatbreads, eggs, burgers and grilled sandwiches all benefit from its broad even surface."
+      }
+    ],
+    "image": {
+      "search_query": "cast iron griddle pancakes",
+      "wikimedia_commons_category": "Griddles",
+      "alt": "Pancakes cooking on a cast-iron griddle"
+    },
+    "tags": [
+      "cookware",
+      "flatbread",
+      "ancient"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "comal",
+    "name": "Comal",
+    "category": "Kitchen & cooking",
+    "invention": {
+      "display": "1st millennium BCE",
+      "year": -500,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Mesoamerica",
+      "modern_country": "Mexico",
+      "notes": "Clay comales appear in Mesoamerican archaeology alongside the spread of tortilla-making; dating estimates vary."
+    },
+    "inventor": null,
+    "short_description": "A smooth, flat griddle used in Mexico and Central America to cook tortillas and toast ingredients.",
+    "description": "The comal developed in Mesoamerica as tortillas became a staple, originally made of clay and set over a fire. It is used to cook tortillas, char chiles and toast seeds and spices. Many kitchens now use steel or cast-iron comales, but the round flat form is the same.",
+    "why_unchanged": "A thin flat disc heats quickly and evenly, ideal for tortillas, so the design never needed altering.",
+    "materials": [
+      "clay",
+      "cast iron",
+      "carbon steel"
+    ],
+    "faqs": [
+      {
+        "question": "What is a comal used for?",
+        "answer": "It is used to cook tortillas and to toast or char chiles, tomatoes, garlic and spices."
+      },
+      {
+        "question": "What were comales made of originally?",
+        "answer": "They were made of clay and placed over a wood fire."
+      },
+      {
+        "question": "Can a comal be used on a modern stove?",
+        "answer": "Yes, metal comales work on gas and electric burners."
+      }
+    ],
+    "image": {
+      "search_query": "comal tortillas griddle",
+      "wikimedia_commons_category": "Comales",
+      "alt": "Tortillas cooking on a round comal"
+    },
+    "tags": [
+      "mexican",
+      "cookware",
+      "tortilla",
+      "mesoamerica"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "kettle",
+    "name": "Kettle",
+    "category": "Kitchen & cooking",
+    "invention": {
+      "display": "Antiquity",
+      "year": -2000,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Ancient Near East",
+      "modern_country": "Various",
+      "notes": "Metal vessels for boiling water were used in many ancient cultures; claims of specific earliest kettles are not well documented."
+    },
+    "inventor": null,
+    "short_description": "A vessel with a spout, handle and lid used for boiling water.",
+    "description": "Metal pots for heating water have existed since antiquity, and the spouted kettle became common as tea and coffee spread. The stovetop kettle, often with a whistle, became a fixture of homes in the 19th and 20th centuries. Its spout, lid and handle remain unchanged.",
+    "why_unchanged": "A closed vessel with a spout is the most efficient way to boil and pour water safely.",
+    "materials": [
+      "stainless steel",
+      "copper",
+      "enamelled steel",
+      "cast iron"
+    ],
+    "faqs": [
+      {
+        "question": "Why do kettles whistle?",
+        "answer": "Steam forced through a small opening in the spout cap vibrates and produces a whistle when water boils."
+      },
+      {
+        "question": "What causes white scale inside a kettle?",
+        "answer": "Hard water leaves calcium and magnesium deposits, which can be removed with vinegar or citric acid."
+      },
+      {
+        "question": "What is a tetsubin?",
+        "answer": "It is a traditional Japanese cast-iron kettle used to heat water for tea."
+      }
+    ],
+    "image": {
+      "search_query": "stovetop kettle",
+      "wikimedia_commons_category": "Kettles",
+      "alt": "A stovetop kettle on a gas burner"
+    },
+    "tags": [
+      "water",
+      "tea",
+      "cookware"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "double-boiler",
+    "name": "Double boiler",
+    "category": "Kitchen & cooking",
+    "invention": {
+      "display": "Antiquity (legendary)",
+      "year": 200,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Alexandria",
+      "modern_country": "Egypt",
+      "notes": "The bain-marie is traditionally named after Maria the Jewess, an alchemist of Roman-era Alexandria; the attribution is legendary rather than documented."
+    },
+    "inventor": null,
+    "short_description": "A pair of nested pots in which simmering water gently heats the contents of the upper pot.",
+    "description": "The double boiler, or bain-marie, is traditionally linked to Maria the Jewess, an early alchemist said to have devised water-bath heating. The arrangement surrounds food with gentle, steady heat that never exceeds the boiling point of water. It is used to melt chocolate, make custards and keep sauces warm.",
+    "why_unchanged": "Water limits the temperature naturally, so the setup gives perfect gentle heat with no controls.",
+    "materials": [
+      "stainless steel",
+      "glass",
+      "enamelled steel",
+      "copper"
+    ],
+    "faqs": [
+      {
+        "question": "Why is it called a bain-marie?",
+        "answer": "The French name means 'Mary's bath', after Maria the Jewess, the alchemist traditionally credited with the method."
+      },
+      {
+        "question": "What is a double boiler used for?",
+        "answer": "Melting chocolate, cooking custards and hollandaise, and keeping delicate sauces warm without scorching."
+      },
+      {
+        "question": "Can I make one myself?",
+        "answer": "Yes, set a heatproof bowl over a pot of simmering water so the bowl does not touch the water."
+      }
+    ],
+    "image": {
+      "search_query": "double boiler melting chocolate",
+      "wikimedia_commons_category": "Bain-marie",
+      "alt": "Chocolate melting in a double boiler"
+    },
+    "tags": [
+      "cookware",
+      "alchemy",
+      "gentle heat"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "bamboo-steamer",
+    "name": "Bamboo steamer",
+    "category": "Kitchen & cooking",
+    "invention": {
+      "display": "Neolithic origins",
+      "year": -5000,
+      "approximate": true,
+      "era": "Prehistoric"
+    },
+    "place_of_invention": {
+      "region": "China",
+      "modern_country": "China",
+      "notes": "Ceramic steaming vessels appear in Neolithic China; woven bamboo steamers developed later and their date is uncertain."
+    },
+    "inventor": null,
+    "short_description": "Stackable round baskets of woven bamboo placed over boiling water to steam food.",
+    "description": "Steaming has deep roots in China, where Neolithic potters made steamer vessels with perforated bases thousands of years ago. Stackable bamboo baskets with woven lids became the classic form, absorbing excess moisture so food stays dry on the surface. They are indispensable for dumplings, buns and dim sum.",
+    "why_unchanged": "Bamboo is light, cheap and absorbs condensation, so stacking baskets over water remains ideal.",
+    "materials": [
+      "bamboo"
+    ],
+    "faqs": [
+      {
+        "question": "Why use bamboo instead of metal?",
+        "answer": "Bamboo absorbs condensation, so drips do not fall back onto food and make it soggy."
+      },
+      {
+        "question": "How do you stop food sticking?",
+        "answer": "Line the basket with parchment, cabbage leaves or a cloth before adding dumplings."
+      },
+      {
+        "question": "Can several layers cook at once?",
+        "answer": "Yes, baskets stack so different foods steam together; the bottom layer cooks fastest."
+      }
+    ],
+    "image": {
+      "search_query": "bamboo steamer dumplings",
+      "wikimedia_commons_category": "Bamboo steamers",
+      "alt": "Stacked bamboo steamer baskets with dumplings"
+    },
+    "tags": [
+      "chinese",
+      "steaming",
+      "bamboo",
+      "dim sum"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "tagine",
+    "name": "Tagine",
+    "category": "Kitchen & cooking",
+    "invention": {
+      "display": "Medieval period",
+      "year": 800,
+      "approximate": true,
+      "era": "Medieval"
+    },
+    "place_of_invention": {
+      "region": "North Africa (Maghreb)",
+      "modern_country": "Morocco",
+      "notes": "Associated with Berber and Moroccan cooking; its origins are debated, with some tracing it to the 8th-9th centuries."
+    },
+    "inventor": null,
+    "short_description": "A North African clay cooking pot with a tall conical lid.",
+    "description": "The tagine is closely tied to Berber and Moroccan cuisine and has been used for centuries for slow-cooked stews of meat, vegetables and fruit. Its cone-shaped lid traps steam, which condenses and drips back into the food. The dish cooked in it shares its name.",
+    "why_unchanged": "The cone recirculates moisture with no moving parts, so food stays tender with little water.",
+    "materials": [
+      "clay",
+      "ceramic",
+      "cast iron"
+    ],
+    "faqs": [
+      {
+        "question": "Why does a tagine have a cone-shaped lid?",
+        "answer": "The cone collects steam, which condenses and returns to the dish, keeping the stew moist."
+      },
+      {
+        "question": "Is the tagine the pot or the dish?",
+        "answer": "Both; the stew cooked in the pot is also called tagine."
+      },
+      {
+        "question": "Can I use a clay tagine on a gas stove?",
+        "answer": "Yes, with low heat and a heat diffuser to prevent cracking."
+      }
+    ],
+    "image": {
+      "search_query": "moroccan clay tagine pot",
+      "wikimedia_commons_category": "Tajines",
+      "alt": "A clay tagine with conical lid"
+    },
+    "tags": [
+      "moroccan",
+      "clay",
+      "cookware",
+      "north africa"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "couscoussier",
+    "name": "Couscoussier",
+    "category": "Kitchen & cooking",
+    "invention": {
+      "display": "c. 13th century",
+      "year": 1250,
+      "approximate": true,
+      "era": "Medieval"
+    },
+    "place_of_invention": {
+      "region": "Maghreb",
+      "modern_country": "Algeria / Morocco / Tunisia",
+      "notes": "Couscous is first documented in 13th-century North African and Andalusian texts; the steaming pot is assumed to be at least as old."
+    },
+    "inventor": null,
+    "short_description": "A two-part pot in which couscous steams above a simmering stew.",
+    "description": "The couscoussier is a tall pot topped by a perforated basket. Stew simmers below while its fragrant steam rises to cook the couscous above, a technique used across the Maghreb since at least the 13th century. Traditional versions were clay; today they are often aluminum or steel.",
+    "why_unchanged": "Steaming grain over stew cooks both at once and flavors the grain, so the pairing remains unchanged.",
+    "materials": [
+      "aluminum",
+      "stainless steel",
+      "clay",
+      "copper"
+    ],
+    "faqs": [
+      {
+        "question": "How does a couscoussier work?",
+        "answer": "Stew boils in the lower pot while couscous in the perforated top steams in the rising vapor."
+      },
+      {
+        "question": "How old is couscous?",
+        "answer": "It is described in North African and Andalusian cookbooks from the 13th century."
+      },
+      {
+        "question": "Why steam couscous several times?",
+        "answer": "Repeated steaming and fluffing gives light, separate grains."
+      }
+    ],
+    "image": {
+      "search_query": "couscoussier couscous pot",
+      "wikimedia_commons_category": "Couscoussiers",
+      "alt": "A metal couscoussier steaming couscous"
+    },
+    "tags": [
+      "north african",
+      "steaming",
+      "cookware",
+      "medieval"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "paella-pan",
+    "name": "Paella pan",
+    "category": "Kitchen & cooking",
+    "invention": {
+      "display": "19th century",
+      "year": 1850,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Valencia",
+      "modern_country": "Spain",
+      "notes": "Paella developed in the Valencia region, with the dish recognisable by the 19th century; the pan's wide, shallow form likely predates the name."
+    },
+    "inventor": null,
+    "short_description": "A wide, shallow, two-handled pan used to cook paella over an open flame.",
+    "description": "The paella pan comes from the rice-growing region around Valencia, where cooks needed to spread rice thinly over a fire. In Valencian, 'paella' actually means 'pan', and the dish took its name from the vessel. Its broad, shallow shape promotes the prized crispy bottom layer called socarrat.",
+    "why_unchanged": "A thin layer of rice over a wide flame cooks evenly and forms a crust, so the shape is still essential.",
+    "materials": [
+      "carbon steel",
+      "enamelled steel",
+      "stainless steel"
+    ],
+    "faqs": [
+      {
+        "question": "What does 'paella' mean?",
+        "answer": "In Valencian it means 'pan', and the rice dish is named after it."
+      },
+      {
+        "question": "What is socarrat?",
+        "answer": "The caramelized, crispy layer of rice that forms on the bottom of the pan."
+      },
+      {
+        "question": "Why is the pan so shallow?",
+        "answer": "A thin layer of rice cooks evenly and develops socarrat over the whole base."
+      }
+    ],
+    "image": {
+      "search_query": "paella pan valencia",
+      "wikimedia_commons_category": "Paella pans",
+      "alt": "A wide paella pan full of rice and seafood"
+    },
+    "tags": [
+      "spanish",
+      "rice",
+      "cookware"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "manual-coffee-grinder",
+    "name": "Manual coffee grinder",
+    "category": "Kitchen & cooking",
+    "invention": {
+      "display": "16th century",
+      "year": 1550,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Ottoman Empire",
+      "modern_country": "Turkey",
+      "notes": "Cylindrical brass hand mills spread with coffee drinking in the Ottoman world; burr mills for spices are older. Exact dating is uncertain."
+    },
+    "inventor": null,
+    "short_description": "A hand-cranked mill that crushes coffee beans between grinding burrs.",
+    "description": "As coffee spread through the Ottoman Empire in the 16th century, cylindrical brass hand mills were used to grind beans finely. Box-shaped wooden grinders followed in Europe. Many coffee lovers still choose hand grinders for their consistency and quiet operation.",
+    "why_unchanged": "Crank-driven burrs grind evenly without electricity, and the principle has needed no improvement.",
+    "materials": [
+      "brass",
+      "steel",
+      "wood",
+      "ceramic burrs"
+    ],
+    "faqs": [
+      {
+        "question": "Why grind coffee fresh?",
+        "answer": "Ground coffee loses aroma quickly, so grinding just before brewing gives better flavor."
+      },
+      {
+        "question": "What is a burr grinder?",
+        "answer": "It crushes beans between two textured surfaces for an even grind, unlike blade grinders that chop."
+      },
+      {
+        "question": "What grind size is used for Turkish coffee?",
+        "answer": "Turkish coffee needs an extremely fine, powdery grind, which traditional brass mills produce."
+      }
+    ],
+    "image": {
+      "search_query": "brass turkish coffee grinder hand mill",
+      "wikimedia_commons_category": "Coffee grinders",
+      "alt": "A brass Turkish hand coffee grinder"
+    },
+    "tags": [
+      "coffee",
+      "grinding",
+      "ottoman"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "tandoor",
+    "name": "Tandoor",
+    "category": "Kitchen & cooking",
+    "invention": {
+      "display": "c. 2600 BCE",
+      "year": -2600,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Indus Valley and Mesopotamia",
+      "modern_country": "Pakistan / India",
+      "notes": "Cylindrical clay ovens appear at Harappan sites and in Mesopotamia; scholars debate where the form originated."
+    },
+    "inventor": null,
+    "short_description": "A cylindrical clay oven heated by fire at its base, used for breads and roasted meats.",
+    "description": "Cylindrical clay ovens similar to the tandoor have been found at sites of the Indus Valley civilization and in ancient Mesopotamia. Bread dough is slapped onto the hot inner walls, while skewered meat cooks in the intense heat. It remains central to naan, tandoori chicken and many Central and South Asian breads.",
+    "why_unchanged": "Clay walls store and radiate extreme heat, which suits flatbreads and kebabs perfectly.",
+    "materials": [
+      "clay",
+      "brick",
+      "steel casing"
+    ],
+    "faqs": [
+      {
+        "question": "How is bread cooked in a tandoor?",
+        "answer": "Dough is pressed onto the hot clay wall, where it bakes in a minute or two."
+      },
+      {
+        "question": "How hot does a tandoor get?",
+        "answer": "Temperatures can exceed 400 C (750 F), far hotter than most home ovens."
+      },
+      {
+        "question": "Is the tandoor only used in India?",
+        "answer": "No, similar ovens are used across Central Asia, Iran, the Caucasus and the Middle East."
+      }
+    ],
+    "image": {
+      "search_query": "tandoor clay oven naan",
+      "wikimedia_commons_category": "Tandoors",
+      "alt": "Naan bread inside a clay tandoor oven"
+    },
+    "tags": [
+      "oven",
+      "clay",
+      "bread",
+      "ancient"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "moka-pot",
+    "name": "Moka pot",
+    "category": "Kitchen & cooking",
+    "invention": {
+      "display": "1933",
+      "year": 1933,
+      "approximate": false,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "Omegna, Piedmont",
+      "modern_country": "Italy",
+      "notes": "Patented by Alfonso Bialetti; the design is often attributed to collaborator Luigi De Ponti."
+    },
+    "inventor": "Alfonso Bialetti",
+    "short_description": "An octagonal stovetop coffee maker that pushes steam-pressured water up through ground coffee.",
+    "description": "Alfonso Bialetti introduced the moka pot in Italy in 1933, bringing strong espresso-style coffee into homes. Water in the bottom chamber heats, building pressure that forces it through coffee grounds into the upper chamber. Its octagonal aluminum shape has barely changed and is in design museum collections.",
+    "why_unchanged": "The three-part pressure design works perfectly on any stove, so Bialetti's original remains the template.",
+    "materials": [
+      "aluminum",
+      "stainless steel"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the moka pot?",
+        "answer": "Alfonso Bialetti launched it in 1933; Luigi De Ponti is often credited with the design."
+      },
+      {
+        "question": "Does a moka pot make espresso?",
+        "answer": "It makes strong, concentrated coffee, but at lower pressure than an espresso machine."
+      },
+      {
+        "question": "Why is it octagonal?",
+        "answer": "The faceted shape reflects the Art Deco style of the 1930s and became Bialetti's signature look."
+      }
+    ],
+    "image": {
+      "search_query": "bialetti moka pot stovetop",
+      "wikimedia_commons_category": "Moka pots",
+      "alt": "An aluminum moka pot on a stovetop"
+    },
+    "tags": [
+      "coffee",
+      "italian",
+      "design classic"
+    ],
+    "confidence": "high"
+  },
+  {
+    "slug": "french-press",
+    "name": "French press",
+    "category": "Kitchen & cooking",
+    "invention": {
+      "display": "1852-1929",
+      "year": 1929,
+      "approximate": true,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "France and Italy",
+      "modern_country": "France / Italy",
+      "notes": "Frenchmen Mayer and Delforge patented a plunger brewer in 1852; Attilio Calimani and Giulio Moneta's 1929 Italian patent is closer to the modern form. Credit is disputed."
+    },
+    "inventor": null,
+    "short_description": "A cylindrical coffee maker with a mesh plunger that separates grounds from brewed coffee.",
+    "description": "An early plunger coffee maker was patented in France in 1852, and in 1929 Italian designers patented a version closer to the modern press. Coarse coffee steeps in hot water, then a mesh filter is pushed down to trap the grounds. The glass beaker and plunger design has been unchanged for decades.",
+    "why_unchanged": "Steeping and pressing need no paper filters or power, and the result is simple and full-bodied.",
+    "materials": [
+      "glass",
+      "stainless steel",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the French press?",
+        "answer": "Credit is disputed: a French patent dates to 1852, and an Italian patent from 1929 is closer to today's design."
+      },
+      {
+        "question": "What grind should I use?",
+        "answer": "A coarse grind keeps grounds from slipping past the filter and avoids over-extraction."
+      },
+      {
+        "question": "How long should coffee steep?",
+        "answer": "About four minutes is a common starting point."
+      }
+    ],
+    "image": {
+      "search_query": "french press coffee",
+      "wikimedia_commons_category": "French presses",
+      "alt": "A glass French press with coffee"
+    },
+    "tags": [
+      "coffee",
+      "brewing",
+      "glass"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "cezve",
+    "name": "Cezve",
+    "category": "Kitchen & cooking",
+    "invention": {
+      "display": "16th century",
+      "year": 1550,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Ottoman Empire",
+      "modern_country": "Turkey",
+      "notes": "Linked to the spread of coffee in the Ottoman world; the precise date of the pot's form is uncertain."
+    },
+    "inventor": null,
+    "short_description": "A small long-handled pot used to brew Turkish coffee.",
+    "description": "The cezve, also called an ibrik, arose with coffee culture in the Ottoman Empire. Finely ground coffee, water and often sugar are heated together until a foam rises. Its narrow neck traps the foam and its long handle keeps hands away from the heat.",
+    "why_unchanged": "A small flared pot with a long handle is perfectly suited to unfiltered coffee and has not changed.",
+    "materials": [
+      "copper",
+      "brass",
+      "stainless steel"
+    ],
+    "faqs": [
+      {
+        "question": "What is the difference between a cezve and an ibrik?",
+        "answer": "The words are often used interchangeably for the small pot used to brew Turkish coffee."
+      },
+      {
+        "question": "Why is the neck narrower than the base?",
+        "answer": "The narrow neck helps form and hold the foam on top of the coffee."
+      },
+      {
+        "question": "Is Turkish coffee filtered?",
+        "answer": "No, the fine grounds settle at the bottom of the cup."
+      }
+    ],
+    "image": {
+      "search_query": "copper cezve turkish coffee",
+      "wikimedia_commons_category": "Cezves",
+      "alt": "A copper cezve with Turkish coffee"
+    },
+    "tags": [
+      "coffee",
+      "ottoman",
+      "copper"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "nutcracker",
+    "name": "Nutcracker",
+    "category": "Kitchen & cooking",
+    "invention": {
+      "display": "4th-3rd century BCE",
+      "year": -300,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Southern Italy (Magna Graecia)",
+      "modern_country": "Italy",
+      "notes": "A bronze lever nutcracker from Taranto, dated to the 4th-3rd century BCE, is among the earliest known; people cracked nuts with stones long before."
+    },
+    "inventor": null,
+    "short_description": "A hinged lever tool used to crack the shells of nuts.",
+    "description": "People cracked nuts with stones for thousands of years, but hinged metal nutcrackers appear by the Hellenistic period. A bronze example from Taranto in southern Italy is among the earliest known. The two-handled lever design is still the most common form today.",
+    "why_unchanged": "Two levers on a hinge multiply hand strength, a mechanism too efficient to need replacing.",
+    "materials": [
+      "steel",
+      "cast iron",
+      "brass",
+      "wood"
+    ],
+    "faqs": [
+      {
+        "question": "How old is the nutcracker?",
+        "answer": "Hinged metal nutcrackers date back at least to the 4th or 3rd century BCE."
+      },
+      {
+        "question": "How does a nutcracker work?",
+        "answer": "It is a lever: squeezing the handles multiplies force at the hinge to crack the shell."
+      },
+      {
+        "question": "Why are there decorative soldier nutcrackers?",
+        "answer": "Carved wooden figures became popular in 19th-century Germany and were made famous by the ballet The Nutcracker."
+      }
+    ],
+    "image": {
+      "search_query": "metal nutcracker walnuts",
+      "wikimedia_commons_category": "Nutcrackers (tool)",
+      "alt": "A metal lever nutcracker with walnuts"
+    },
+    "tags": [
+      "nuts",
+      "lever",
+      "ancient"
+    ],
+    "confidence": "medium"
+  }
+]

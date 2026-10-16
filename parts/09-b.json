@@ -1,0 +1,1259 @@
+[
+  {
+    "slug": "sistrum",
+    "name": "Sistrum",
+    "category": "Music, sound & signaling",
+    "invention": {
+      "display": "c. 2500 BCE",
+      "year": -2500,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Ancient Egypt",
+      "modern_country": "Egypt",
+      "notes": "Well documented in Egyptian art and temple ritual; similar rattles existed in Mesopotamia."
+    },
+    "inventor": null,
+    "short_description": "A handheld frame rattle with loose metal rods or discs.",
+    "description": "The sistrum has a U-shaped metal frame on a handle, crossed by loose rods that jingle when shaken. Sacred to the goddess Hathor in ancient Egypt, it is still used in the liturgy of the Ethiopian Orthodox Church.",
+    "why_unchanged": "A frame with sliding rods gives a bright shimmer in a single hand-held piece.",
+    "materials": [
+      "bronze",
+      "brass",
+      "wood"
+    ],
+    "faqs": [
+      {
+        "question": "What was the sistrum used for in Egypt?",
+        "answer": "It was shaken in temple rituals, especially in worship of the goddesses Hathor and Isis."
+      },
+      {
+        "question": "Is the sistrum still played?",
+        "answer": "Yes. Ethiopian Orthodox priests use a version called the tsenatsil in church services."
+      },
+      {
+        "question": "How does it sound?",
+        "answer": "Shaking it makes the loose rods or discs rattle with a bright metallic jingle."
+      }
+    ],
+    "image": {
+      "search_query": "ancient egyptian sistrum rattle",
+      "wikimedia_commons_category": "Sistrums",
+      "alt": "A bronze sistrum with loose metal rods"
+    },
+    "tags": [
+      "percussion",
+      "egypt",
+      "ancient"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "agogo",
+    "name": "Agogô",
+    "category": "Music, sound & signaling",
+    "invention": {
+      "display": "Date unknown (traditional)",
+      "year": 1700,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "West Africa (Yoruba) and Brazil",
+      "modern_country": "Brazil",
+      "notes": "Derived from West African double bells such as the Yoruba agogo and established in Brazil through the slave trade; dating is uncertain."
+    },
+    "inventor": null,
+    "short_description": "A pair of joined metal bells of different pitches struck with a stick.",
+    "description": "The agogô consists of two or more cone-shaped iron bells joined by a curved handle and struck with a wooden stick. With roots in Yoruba music, it is a key instrument of Brazilian samba and Afro-Brazilian religious music.",
+    "why_unchanged": "Two welded bells give a high and low note in one handheld piece.",
+    "materials": [
+      "iron",
+      "steel",
+      "wood"
+    ],
+    "faqs": [
+      {
+        "question": "What does agogô mean?",
+        "answer": "The word comes from Yoruba and means 'bell'."
+      },
+      {
+        "question": "How is it played?",
+        "answer": "One hand holds it by the handle while the other strikes the bells with a stick; squeezing the bells together adds a click."
+      },
+      {
+        "question": "Where is the agogô used?",
+        "answer": "It is heard in samba, capoeira and Candomblé religious music in Brazil."
+      }
+    ],
+    "image": {
+      "search_query": "agogo double bell samba",
+      "wikimedia_commons_category": "Agogôs",
+      "alt": "A metal agogô double bell with a stick"
+    },
+    "tags": [
+      "percussion",
+      "brazil",
+      "bell"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "steelpan",
+    "name": "Steelpan",
+    "category": "Music, sound & signaling",
+    "invention": {
+      "display": "1930s–1940s",
+      "year": 1940,
+      "approximate": true,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "Trinidad and Tobago",
+      "modern_country": "Trinidad and Tobago",
+      "notes": "Developed in Port of Spain by several pioneers; credit is disputed among figures such as Winston 'Spree' Simon and Ellie Mannette."
+    },
+    "inventor": null,
+    "short_description": "A tuned percussion instrument hammered from an oil drum.",
+    "description": "The steelpan is made by sinking the top of a steel oil drum into a bowl and hammering tuned note areas into it. It emerged in Trinidad during the 1930s and 1940s and is the country's national instrument, played in large steel bands at Carnival.",
+    "why_unchanged": "Once the hammered-bowl layout was established in the mid-20th century, it has remained the standard.",
+    "materials": [
+      "steel"
+    ],
+    "faqs": [
+      {
+        "question": "Is the steelpan the only acoustic instrument invented in the 20th century?",
+        "answer": "It is often described as one of the few major acoustic instruments invented in the 20th century."
+      },
+      {
+        "question": "How is a steelpan made?",
+        "answer": "The drum top is stretched into a bowl, note areas are marked and hammered, then heated and fine-tuned."
+      },
+      {
+        "question": "What is a steel band?",
+        "answer": "A steel band is an ensemble of pans of different ranges, from high tenor pans to bass pans made from whole drums."
+      }
+    ],
+    "image": {
+      "search_query": "trinidad steelpan steel drum",
+      "wikimedia_commons_category": "Steelpans",
+      "alt": "A chromed steelpan with hammered note areas"
+    },
+    "tags": [
+      "percussion",
+      "caribbean",
+      "modern"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "pellet-drum",
+    "name": "Pellet drum",
+    "category": "Music, sound & signaling",
+    "invention": {
+      "display": "Antiquity",
+      "year": -500,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Asia",
+      "modern_country": "China",
+      "notes": "Found in China (bolang gu), India and Tibet (damaru) and elsewhere; the origin is uncertain."
+    },
+    "inventor": null,
+    "short_description": "A small two-headed drum on a handle, struck by beads on cords when twirled.",
+    "description": "A pellet drum has two drumheads and two beads tied on cords; twisting the handle back and forth makes the beads strike the heads. Versions include the Indian and Tibetan damaru and the Chinese bolang gu, used by peddlers, in ritual, and as children's toys.",
+    "why_unchanged": "Swinging pellets do the striking, so one hand can play it with no other parts.",
+    "materials": [
+      "wood",
+      "skin",
+      "paper",
+      "cord",
+      "beads"
+    ],
+    "faqs": [
+      {
+        "question": "How do you play a pellet drum?",
+        "answer": "Roll the handle quickly between your palms so the beads swing and hit both heads."
+      },
+      {
+        "question": "What is a damaru?",
+        "answer": "The damaru is an hourglass-shaped pellet drum from India and Tibet, associated with the Hindu god Shiva."
+      },
+      {
+        "question": "Why did street vendors use them?",
+        "answer": "In China, peddlers twirled pellet drums to announce their arrival."
+      }
+    ],
+    "image": {
+      "search_query": "pellet drum damaru bolang gu",
+      "wikimedia_commons_category": "Pellet drums",
+      "alt": "A small pellet drum with beads on cords"
+    },
+    "tags": [
+      "percussion",
+      "asia",
+      "toy"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "drumsticks",
+    "name": "Drumsticks",
+    "category": "Music, sound & signaling",
+    "invention": {
+      "display": "Antiquity",
+      "year": -3000,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Worldwide",
+      "modern_country": null,
+      "notes": "Beaters are as old as drums themselves; no single origin can be identified and the date is only indicative."
+    },
+    "inventor": null,
+    "short_description": "A pair of tapered wooden sticks used to strike drums.",
+    "description": "Drumsticks are slim rods, usually of hickory, maple or oak, with a shaped tip for striking drums and cymbals. Beaters have been used since ancient times, and the modern tapered stick took shape with European military snare drumming.",
+    "why_unchanged": "A balanced wooden stick is the most direct extension of the hand for striking a drum.",
+    "materials": [
+      "hickory",
+      "maple",
+      "oak",
+      "nylon"
+    ],
+    "faqs": [
+      {
+        "question": "What do the letters on drumsticks mean?",
+        "answer": "Codes like 5A, 7A and 2B describe thickness and weight, with A sticks lighter and B sticks heavier."
+      },
+      {
+        "question": "Why do some drumsticks have nylon tips?",
+        "answer": "Nylon tips resist chipping and give a brighter sound on cymbals."
+      },
+      {
+        "question": "Which wood is most common?",
+        "answer": "Hickory is popular because it is strong and absorbs shock well."
+      }
+    ],
+    "image": {
+      "search_query": "pair of hickory drumsticks",
+      "wikimedia_commons_category": "Drumsticks",
+      "alt": "A pair of wooden drumsticks"
+    },
+    "tags": [
+      "percussion",
+      "accessory",
+      "wood"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "wind-chime",
+    "name": "Wind chime",
+    "category": "Music, sound & signaling",
+    "invention": {
+      "display": "Antiquity",
+      "year": -1000,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "China and the ancient world",
+      "modern_country": "China",
+      "notes": "Wind-activated bells and chimes appear in ancient China and Rome (tintinnabulum); the precise origin is uncertain."
+    },
+    "inventor": null,
+    "short_description": "Hanging tubes, rods or bells that ring when moved by the wind.",
+    "description": "Wind chimes are suspended tubes, bells or bars that strike each other or a central clapper in the breeze. They were hung from Chinese temples and pagodas, used in Roman homes, and are now common garden decorations.",
+    "why_unchanged": "Hanging resonant pieces only need the wind to play, so the idea needed no improvement.",
+    "materials": [
+      "metal",
+      "bamboo",
+      "glass",
+      "shell",
+      "wood"
+    ],
+    "faqs": [
+      {
+        "question": "What are wind chimes for?",
+        "answer": "Historically they were used to ward off evil spirits, warn of wind and for decoration; today they are mostly ornamental."
+      },
+      {
+        "question": "How are metal wind chimes tuned?",
+        "answer": "The length and thickness of each tube determines its pitch, so makers cut tubes to precise lengths."
+      },
+      {
+        "question": "What is a Japanese furin?",
+        "answer": "A furin is a small glass or iron wind bell hung in summer, its sound associated with coolness."
+      }
+    ],
+    "image": {
+      "search_query": "metal tube wind chime hanging",
+      "wikimedia_commons_category": "Wind chimes",
+      "alt": "A metal wind chime hanging outdoors"
+    },
+    "tags": [
+      "sound",
+      "garden",
+      "ancient"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "watchmans-rattle",
+    "name": "Watchman's rattle",
+    "category": "Music, sound & signaling",
+    "invention": {
+      "display": "Early Modern period",
+      "year": 1600,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Europe",
+      "modern_country": "United Kingdom",
+      "notes": "Ratchet rattles were used across Europe; their use by watchmen and early police in Britain is well documented before whistles replaced them in the 1880s."
+    },
+    "inventor": null,
+    "short_description": "A wooden ratchet rattle whirled to make a loud clacking alarm.",
+    "description": "The watchman's rattle has a wooden tongue that clacks against a cogwheel as the frame is swung around the handle. Night watchmen and early police used it to raise alarms until whistles replaced it, and the same ratchet design survives as football rattles and Purim groggers.",
+    "why_unchanged": "A cog and flexible tongue produce a loud noise with a single swing, so it was never redesigned.",
+    "materials": [
+      "wood"
+    ],
+    "faqs": [
+      {
+        "question": "Why did police stop using rattles?",
+        "answer": "In Britain, whistles replaced rattles in the 1880s because they were lighter and could be heard farther."
+      },
+      {
+        "question": "How does a ratchet rattle work?",
+        "answer": "Spinning the frame drags a wooden tongue over a cogwheel, making rapid loud clicks."
+      },
+      {
+        "question": "Where can you still hear them?",
+        "answer": "Similar rattles are used by sports fans and as groggers during the Jewish festival of Purim."
+      }
+    ],
+    "image": {
+      "search_query": "wooden watchman rattle ratchet",
+      "wikimedia_commons_category": "Ratchets (instruments)",
+      "alt": "An old wooden watchman's rattle"
+    },
+    "tags": [
+      "signal",
+      "alarm",
+      "wood"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "bell",
+    "name": "Bell",
+    "category": "Music, sound & signaling",
+    "invention": {
+      "display": "c. 2000 BCE",
+      "year": -2000,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Ancient China",
+      "modern_country": "China",
+      "notes": "Early metal bells are found in Bronze Age China; clay bells may be older, and bells developed in several regions."
+    },
+    "inventor": null,
+    "short_description": "A hollow cup-shaped metal object that rings when struck.",
+    "description": "A bell is a hollow, flared metal body struck by an internal clapper or external hammer. Bronze bells were made in ancient China and later spread across the world for religious ceremonies, timekeeping and alarms.",
+    "why_unchanged": "The flared bronze cup is acoustically ideal for a loud, lasting ring.",
+    "materials": [
+      "bronze",
+      "brass",
+      "iron",
+      "steel"
+    ],
+    "faqs": [
+      {
+        "question": "Why are bells usually made of bronze?",
+        "answer": "Bell bronze, about four parts copper to one part tin, produces a resonant, long-lasting tone."
+      },
+      {
+        "question": "How are large bells made?",
+        "answer": "They are cast by pouring molten bronze into a mold, then tuned by shaving metal from the inside."
+      },
+      {
+        "question": "What is a carillon?",
+        "answer": "A carillon is a set of at least 23 tuned bells played from a keyboard, usually in a tower."
+      }
+    ],
+    "image": {
+      "search_query": "bronze church bell",
+      "wikimedia_commons_category": "Bells",
+      "alt": "A large bronze bell"
+    },
+    "tags": [
+      "signal",
+      "ancient",
+      "metal"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "handbell",
+    "name": "Handbell",
+    "category": "Music, sound & signaling",
+    "invention": {
+      "display": "17th–18th century",
+      "year": 1700,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "England",
+      "modern_country": "United Kingdom",
+      "notes": "Tuned handbells developed in England, reportedly to let church bell ringers practice indoors; small hand-held bells are far older."
+    },
+    "inventor": null,
+    "short_description": "A tuned bell with a handle, rung by hand.",
+    "description": "Tuned handbells are bronze bells with a leather or plastic handle and a hinged clapper that strikes in one direction. English change ringers used them to practice, and handbell choirs now play melodies with each ringer handling a few notes.",
+    "why_unchanged": "The cast bell with a one-way clapper already gives clean, controllable notes.",
+    "materials": [
+      "bronze",
+      "leather",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "Why were tuned handbells invented?",
+        "answer": "They let church bell ringers practice their sequences indoors without ringing the heavy tower bells."
+      },
+      {
+        "question": "How does a handbell choir work?",
+        "answer": "Each ringer is responsible for a few notes, and together the group plays complete melodies."
+      },
+      {
+        "question": "Why does the clapper only move one way?",
+        "answer": "A hinged clapper prevents a double strike, giving a single clear note."
+      }
+    ],
+    "image": {
+      "search_query": "handbell choir bells",
+      "wikimedia_commons_category": "Handbells",
+      "alt": "A set of tuned bronze handbells"
+    },
+    "tags": [
+      "bell",
+      "church",
+      "music"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "cowbell",
+    "name": "Cowbell",
+    "category": "Music, sound & signaling",
+    "invention": {
+      "display": "Antiquity",
+      "year": -1000,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Worldwide (pastoral cultures)",
+      "modern_country": null,
+      "notes": "Animal bells were used by herders in many ancient cultures; no single origin exists and the date is indicative."
+    },
+    "inventor": null,
+    "short_description": "A simple metal bell hung on livestock to locate them.",
+    "description": "The cowbell is usually made of folded and riveted sheet metal with a clapper inside, hung from a collar. Herders used it to track grazing animals, and a clapperless version struck with a stick became a staple of Latin and popular music.",
+    "why_unchanged": "A folded metal bell is cheap, tough and loud enough to hear across a pasture.",
+    "materials": [
+      "iron",
+      "steel",
+      "brass",
+      "leather"
+    ],
+    "faqs": [
+      {
+        "question": "Why do cows wear bells?",
+        "answer": "The sound helps farmers find animals grazing in mountains or forests."
+      },
+      {
+        "question": "How is a musical cowbell different?",
+        "answer": "It has no clapper and is struck with a drumstick, giving a sharp tone used in salsa and rock."
+      },
+      {
+        "question": "Are cowbells still used in the Alps?",
+        "answer": "Yes. Large decorative bells are worn during traditional cattle drives, and smaller ones remain in daily use."
+      }
+    ],
+    "image": {
+      "search_query": "swiss cowbell on leather strap",
+      "wikimedia_commons_category": "Cowbells",
+      "alt": "A metal cowbell on a leather collar"
+    },
+    "tags": [
+      "bell",
+      "farm",
+      "signal"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "ships-bell",
+    "name": "Ship's bell",
+    "category": "Music, sound & signaling",
+    "invention": {
+      "display": "c. 15th–16th century",
+      "year": 1500,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "European seafaring nations",
+      "modern_country": null,
+      "notes": "Bells were used aboard ships from at least the late Middle Ages; the system of striking them to mark watches developed later."
+    },
+    "inventor": null,
+    "short_description": "A bronze bell on a ship used to mark time and sound warnings.",
+    "description": "A ship's bell is a heavy brass or bronze bell rung to mark half-hour intervals of each four-hour watch and to signal in fog. It usually bears the ship's name and is often kept as a memorial when the ship is retired.",
+    "why_unchanged": "A loud, sturdy bell still works on a rolling deck without power.",
+    "materials": [
+      "brass",
+      "bronze"
+    ],
+    "faqs": [
+      {
+        "question": "What does 'eight bells' mean?",
+        "answer": "It marks the end of a four-hour watch, with one strike added every half hour."
+      },
+      {
+        "question": "Is the ship's bell used in fog?",
+        "answer": "Yes. International rules require ships at anchor in fog to ring a bell at intervals."
+      },
+      {
+        "question": "Why is the ship's name on the bell?",
+        "answer": "It identifies the vessel, and recovered bells are often the key to identifying shipwrecks."
+      }
+    ],
+    "image": {
+      "search_query": "brass ship bell engraved",
+      "wikimedia_commons_category": "Ship's bells",
+      "alt": "A polished brass ship's bell"
+    },
+    "tags": [
+      "bell",
+      "maritime",
+      "signal"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "sleigh-bells",
+    "name": "Sleigh bells",
+    "category": "Music, sound & signaling",
+    "invention": {
+      "display": "Early Modern period",
+      "year": 1600,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Europe",
+      "modern_country": null,
+      "notes": "Closed crotal bells are known from the Bronze Age; their use on horse harnesses for sleighs is documented later. The date is indicative."
+    },
+    "inventor": null,
+    "short_description": "Small closed bells with a loose pellet, attached to a strap or handle.",
+    "description": "Sleigh bells are round crotal bells with a slit and a loose metal ball inside, mounted on a leather strap or stick. Fixed to horse harnesses, they warned of approaching sleighs, which moved almost silently on snow.",
+    "why_unchanged": "A closed bell with a rolling pellet jingles with any movement and cannot lose its clapper.",
+    "materials": [
+      "brass",
+      "steel",
+      "leather",
+      "wood"
+    ],
+    "faqs": [
+      {
+        "question": "Why did sleighs need bells?",
+        "answer": "Sleighs glide quietly on snow, so bells warned pedestrians and other drivers."
+      },
+      {
+        "question": "What is a crotal bell?",
+        "answer": "It is a closed bell with a pellet inside, unlike an open bell with a clapper."
+      },
+      {
+        "question": "Are sleigh bells used in orchestras?",
+        "answer": "Yes. Composers including Mozart and Mahler wrote parts for sleigh bells."
+      }
+    ],
+    "image": {
+      "search_query": "sleigh bells on leather strap",
+      "wikimedia_commons_category": "Sleigh bells",
+      "alt": "Brass sleigh bells on a leather strap"
+    },
+    "tags": [
+      "bell",
+      "winter",
+      "signal"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "bicycle-bell",
+    "name": "Bicycle bell",
+    "category": "Music, sound & signaling",
+    "invention": {
+      "display": "1877",
+      "year": 1877,
+      "approximate": false,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "England",
+      "modern_country": "United Kingdom",
+      "notes": "Commonly credited to John Richard Dedicoat; some sources describe earlier bicycle bells."
+    },
+    "inventor": "John Richard Dedicoat",
+    "short_description": "A thumb-operated bell fixed to a bicycle's handlebar.",
+    "description": "The bicycle bell is a metal dome mounted on the handlebar and rung with a thumb lever. It appeared soon after the bicycle became popular in the 1870s and is still required by law on bicycles in some countries.",
+    "why_unchanged": "A small dome and lever give a clear warning without power or maintenance.",
+    "materials": [
+      "steel",
+      "brass",
+      "aluminium",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the bicycle bell?",
+        "answer": "It is usually credited to John Richard Dedicoat in England in 1877."
+      },
+      {
+        "question": "Is a bike bell legally required?",
+        "answer": "In some countries, such as Germany and the Netherlands, bicycles must have a bell."
+      },
+      {
+        "question": "How does a bike bell ring?",
+        "answer": "A thumb lever drives a striker or spinning gears that hit the inside of the dome."
+      }
+    ],
+    "image": {
+      "search_query": "bicycle bell on handlebar",
+      "wikimedia_commons_category": "Bicycle bells",
+      "alt": "A chrome bicycle bell on a handlebar"
+    },
+    "tags": [
+      "bell",
+      "bicycle",
+      "signal"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "service-bell",
+    "name": "Service bell",
+    "category": "Music, sound & signaling",
+    "invention": {
+      "display": "19th century",
+      "year": 1850,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Europe and North America",
+      "modern_country": null,
+      "notes": "Desk call bells were common by the later 19th century; no reliable inventor is known."
+    },
+    "inventor": null,
+    "short_description": "A dome-shaped desk bell rung by tapping a plunger on top.",
+    "description": "The service bell, or call bell, has a metal dome over a base with a spring-loaded plunger that strikes the dome when pressed. It became a fixture of hotel reception desks and shop counters for summoning staff.",
+    "why_unchanged": "One tap gives a crisp, attention-getting ring, so the form remained unchanged.",
+    "materials": [
+      "steel",
+      "brass",
+      "chrome",
+      "cast iron"
+    ],
+    "faqs": [
+      {
+        "question": "Where are service bells used?",
+        "answer": "On hotel reception desks, shop counters and in kitchens to signal orders are ready."
+      },
+      {
+        "question": "How does a service bell work?",
+        "answer": "Pressing the plunger moves a hammer that strikes the inside of the dome."
+      },
+      {
+        "question": "Why is it sometimes called a call bell?",
+        "answer": "Its purpose is to call staff to the desk."
+      }
+    ],
+    "image": {
+      "search_query": "chrome desk service bell",
+      "wikimedia_commons_category": "Desk bells",
+      "alt": "A chrome service bell on a counter"
+    },
+    "tags": [
+      "bell",
+      "hospitality",
+      "signal"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "musical-spoons",
+    "name": "Musical spoons",
+    "category": "Music, sound & signaling",
+    "invention": {
+      "display": "Date unknown (folk tradition)",
+      "year": 1800,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Europe and North America",
+      "modern_country": null,
+      "notes": "Spoons are played in Irish, Russian, Appalachian and other folk traditions; no origin can be fixed and the date is indicative."
+    },
+    "inventor": null,
+    "short_description": "Two spoons held back to back and clacked as a rhythm instrument.",
+    "description": "Musical spoons are two spoons held with their convex sides facing each other and struck against the knee and hand. They are a folk percussion tradition in many cultures, including Russian wooden lozhki and Irish and American folk music.",
+    "why_unchanged": "Ordinary spoons already make a sharp click, so no special design was needed.",
+    "materials": [
+      "metal",
+      "wood"
+    ],
+    "faqs": [
+      {
+        "question": "How do you play the spoons?",
+        "answer": "Hold two spoons back to back with a finger between the handles, then strike them between your knee and palm."
+      },
+      {
+        "question": "What are lozhki?",
+        "answer": "Lozhki are painted wooden spoons used as percussion in Russian folk music."
+      },
+      {
+        "question": "Are special spoons made for playing?",
+        "answer": "Yes, some are joined at the handle, but ordinary kitchen spoons work well."
+      }
+    ],
+    "image": {
+      "search_query": "playing musical spoons folk",
+      "wikimedia_commons_category": "Spoons (musical instrument)",
+      "alt": "Two spoons held back to back for playing"
+    },
+    "tags": [
+      "percussion",
+      "folk",
+      "kitchen"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "bamboo-flute",
+    "name": "Bamboo flute",
+    "category": "Music, sound & signaling",
+    "invention": {
+      "display": "1st millennium BCE",
+      "year": -900,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "China and India",
+      "modern_country": "China",
+      "notes": "Transverse bamboo flutes are documented in ancient China (dizi) and India (bansuri); the place of origin is debated."
+    },
+    "inventor": null,
+    "short_description": "A simple keyless flute made from a bamboo tube with finger holes.",
+    "description": "Bamboo flutes are tubes with a blowing hole and finger holes, played sideways or vertically. Instruments like the Chinese dizi and Indian bansuri preserve a design that is thousands of years old.",
+    "why_unchanged": "A bamboo tube is naturally hollow and resonant, making a ready-made flute.",
+    "materials": [
+      "bamboo"
+    ],
+    "faqs": [
+      {
+        "question": "How is a bamboo flute played?",
+        "answer": "The player blows across the embouchure hole and covers finger holes to change notes."
+      },
+      {
+        "question": "What is special about the Chinese dizi?",
+        "answer": "It has an extra hole covered with a thin membrane that gives it a buzzing, bright tone."
+      },
+      {
+        "question": "How old are flutes in general?",
+        "answer": "Bone flutes from Germany are around 40,000 years old, making flutes among the oldest instruments."
+      }
+    ],
+    "image": {
+      "search_query": "bamboo flute bansuri dizi",
+      "wikimedia_commons_category": "Bamboo flutes",
+      "alt": "A bamboo flute with finger holes"
+    },
+    "tags": [
+      "wind",
+      "asia",
+      "ancient"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "pan-flute",
+    "name": "Pan flute",
+    "category": "Music, sound & signaling",
+    "invention": {
+      "display": "Antiquity",
+      "year": -500,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Ancient Greece, China and the Andes",
+      "modern_country": "Greece",
+      "notes": "Panpipes arose independently in several regions, including ancient Greece (syrinx), China and the Andes; the date is indicative."
+    },
+    "inventor": null,
+    "short_description": "A row of closed pipes of different lengths blown across the top.",
+    "description": "The pan flute is a set of tubes of graded lengths bound together, each closed at the bottom and sounding one note. Named after the Greek god Pan, panpipes are central to Andean music and Romanian folk music.",
+    "why_unchanged": "Each tube plays one note, so the row of pipes needs no keys or holes.",
+    "materials": [
+      "bamboo",
+      "cane",
+      "wood",
+      "clay"
+    ],
+    "faqs": [
+      {
+        "question": "Why is it called a pan flute?",
+        "answer": "In Greek mythology the god Pan made it from reeds; the Greek name is syrinx."
+      },
+      {
+        "question": "How do you play it?",
+        "answer": "Blow across the open top of each pipe, moving the instrument to choose notes."
+      },
+      {
+        "question": "What are Andean panpipes called?",
+        "answer": "They are called siku or zampoña."
+      }
+    ],
+    "image": {
+      "search_query": "bamboo pan flute panpipes",
+      "wikimedia_commons_category": "Pan flutes",
+      "alt": "A bamboo pan flute"
+    },
+    "tags": [
+      "wind",
+      "ancient",
+      "folk"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "recorder",
+    "name": "Recorder",
+    "category": "Music, sound & signaling",
+    "invention": {
+      "display": "14th century",
+      "year": 1350,
+      "approximate": true,
+      "era": "Medieval"
+    },
+    "place_of_invention": {
+      "region": "Europe",
+      "modern_country": "Netherlands",
+      "notes": "One of the oldest surviving recorders was found in Dordrecht in the Netherlands and dates to the 14th century."
+    },
+    "inventor": null,
+    "short_description": "A wooden or plastic whistle flute with seven finger holes and a thumb hole.",
+    "description": "The recorder is a duct flute, meaning air is channeled to a sharp edge by a mouthpiece, with seven finger holes and a thumb hole. It was popular in Renaissance and Baroque Europe and is now widely used to teach music in schools.",
+    "why_unchanged": "The fipple mouthpiece makes sound reliably, so only the materials changed.",
+    "materials": [
+      "boxwood",
+      "maple",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "Why is the recorder used in schools?",
+        "answer": "It is inexpensive and easy to start playing because the mouthpiece forms the tone for you."
+      },
+      {
+        "question": "What sizes of recorder exist?",
+        "answer": "Common sizes include sopranino, soprano, alto, tenor and bass."
+      },
+      {
+        "question": "Did Baroque composers write for the recorder?",
+        "answer": "Yes. Bach, Handel and Telemann all wrote music for the recorder."
+      }
+    ],
+    "image": {
+      "search_query": "wooden alto recorder",
+      "wikimedia_commons_category": "Recorders (musical instrument)",
+      "alt": "A wooden recorder"
+    },
+    "tags": [
+      "wind",
+      "medieval",
+      "school"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "ocarina",
+    "name": "Ocarina",
+    "category": "Music, sound & signaling",
+    "invention": {
+      "display": "1853",
+      "year": 1853,
+      "approximate": false,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Budrio, Italy",
+      "modern_country": "Italy",
+      "notes": "Giuseppe Donati created the modern ocarina; vessel flutes are thousands of years old in China and Mesoamerica."
+    },
+    "inventor": "Giuseppe Donati",
+    "short_description": "An egg-shaped vessel flute with finger holes.",
+    "description": "The ocarina is a closed ceramic vessel with a mouthpiece and finger holes, whose pitch depends on how much hole area is open. Giuseppe Donati developed the modern sweet-potato-shaped version in Budrio in 1853, drawing on an ancient family of vessel flutes.",
+    "why_unchanged": "The enclosed chamber produces pure tones with a simple fingering system that needed no change.",
+    "materials": [
+      "ceramic",
+      "clay",
+      "plastic",
+      "wood"
+    ],
+    "faqs": [
+      {
+        "question": "What does ocarina mean?",
+        "answer": "In the Bologna dialect it means 'little goose', a reference to its shape."
+      },
+      {
+        "question": "How old are vessel flutes?",
+        "answer": "Vessel flutes such as the Chinese xun date back several thousand years."
+      },
+      {
+        "question": "Why did the ocarina become famous again?",
+        "answer": "The 1998 video game The Legend of Zelda: Ocarina of Time renewed interest worldwide."
+      }
+    ],
+    "image": {
+      "search_query": "ceramic ocarina",
+      "wikimedia_commons_category": "Ocarinas",
+      "alt": "A ceramic ocarina"
+    },
+    "tags": [
+      "wind",
+      "italy",
+      "ceramic"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "tin-whistle",
+    "name": "Tin whistle",
+    "category": "Music, sound & signaling",
+    "invention": {
+      "display": "c. 1840s",
+      "year": 1843,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Manchester, England",
+      "modern_country": "United Kingdom",
+      "notes": "Robert Clarke is credited with mass-producing tinplate whistles; simpler duct whistles are much older."
+    },
+    "inventor": "Robert Clarke",
+    "short_description": "A simple six-hole whistle flute, also called the penny whistle.",
+    "description": "The tin whistle is a narrow metal tube with a fipple mouthpiece and six finger holes. Mass-produced cheaply in the 19th century, it became a central instrument in Irish traditional music.",
+    "why_unchanged": "Six holes and a fixed mouthpiece already cover a full diatonic scale.",
+    "materials": [
+      "tinplate",
+      "brass",
+      "nickel",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "Why is it called a penny whistle?",
+        "answer": "It was cheap, reportedly sold for a penny in the 19th century."
+      },
+      {
+        "question": "What key are tin whistles in?",
+        "answer": "The most common is D, which suits Irish traditional tunes."
+      },
+      {
+        "question": "Is a tin whistle hard to learn?",
+        "answer": "Basic tunes come quickly, while ornaments such as cuts and rolls take years to master."
+      }
+    ],
+    "image": {
+      "search_query": "irish tin whistle",
+      "wikimedia_commons_category": "Tin whistles",
+      "alt": "A brass tin whistle with a plastic mouthpiece"
+    },
+    "tags": [
+      "wind",
+      "irish",
+      "folk"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "pea-whistle",
+    "name": "Pea whistle",
+    "category": "Music, sound & signaling",
+    "invention": {
+      "display": "1884",
+      "year": 1884,
+      "approximate": false,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Birmingham, England",
+      "modern_country": "United Kingdom",
+      "notes": "Joseph Hudson's company produced the Acme Thunderer pea whistle in 1884; earlier, Hudson made the London police whistle (1883)."
+    },
+    "inventor": "Joseph Hudson",
+    "short_description": "A metal or plastic whistle with a small ball inside that creates a trilling sound.",
+    "description": "The pea whistle has a chamber containing a small ball, or pea, that rattles in the airflow to produce a warbling blast. Joseph Hudson's Acme Thunderer of 1884 became the standard for referees, police and lifeguards.",
+    "why_unchanged": "The chamber and pea give a loud, attention-grabbing trill that needs nothing more.",
+    "materials": [
+      "brass",
+      "nickel-plated brass",
+      "plastic",
+      "cork"
+    ],
+    "faqs": [
+      {
+        "question": "What is the pea made of?",
+        "answer": "Originally cork; today many are made of synthetic materials that do not swell when wet."
+      },
+      {
+        "question": "Why do referees use pea whistles?",
+        "answer": "Their trilling tone cuts through crowd noise and is easy to recognize."
+      },
+      {
+        "question": "Is the Acme Thunderer still made?",
+        "answer": "Yes. Acme Whistles in Birmingham still produces it."
+      }
+    ],
+    "image": {
+      "search_query": "referee pea whistle metal",
+      "wikimedia_commons_category": "Whistles",
+      "alt": "A metal referee whistle"
+    },
+    "tags": [
+      "signal",
+      "sport",
+      "whistle"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "dog-whistle",
+    "name": "Dog whistle",
+    "category": "Music, sound & signaling",
+    "invention": {
+      "display": "1876",
+      "year": 1876,
+      "approximate": false,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "England",
+      "modern_country": "United Kingdom",
+      "notes": "Francis Galton built an adjustable high-frequency whistle to test hearing in humans and animals."
+    },
+    "inventor": "Francis Galton",
+    "short_description": "A whistle with a frequency too high for most people to hear but audible to dogs.",
+    "description": "The dog whistle produces ultrasonic or near-ultrasonic sound that dogs hear clearly while most humans hear little. It derives from the 'Galton whistle' of 1876, built to study the upper limits of hearing, and is used in dog training.",
+    "why_unchanged": "A small whistle tuned high is all that is needed, so the form never changed.",
+    "materials": [
+      "brass",
+      "steel",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "Why can dogs hear it but people cannot?",
+        "answer": "Dogs hear frequencies well above the human upper limit of about 20 kHz."
+      },
+      {
+        "question": "What was the original purpose?",
+        "answer": "Francis Galton used it to test hearing ranges in people and animals."
+      },
+      {
+        "question": "Is it used in training?",
+        "answer": "Yes. Trainers use it because the sound carries far and is consistent."
+      }
+    ],
+    "image": {
+      "search_query": "silent dog whistle",
+      "wikimedia_commons_category": "Dog whistles",
+      "alt": "A metal dog whistle on a lanyard"
+    },
+    "tags": [
+      "signal",
+      "animals",
+      "whistle"
+    ],
+    "confidence": "high"
+  },
+  {
+    "slug": "boatswains-call",
+    "name": "Boatswain's call",
+    "category": "Music, sound & signaling",
+    "invention": {
+      "display": "Medieval period",
+      "year": 1250,
+      "approximate": true,
+      "era": "Medieval"
+    },
+    "place_of_invention": {
+      "region": "England / Europe",
+      "modern_country": "United Kingdom",
+      "notes": "Whistles were used on ships in the Middle Ages; the date and place of origin are traditional and not well documented."
+    },
+    "inventor": null,
+    "short_description": "A curved metal whistle used to pass orders on naval ships.",
+    "description": "The boatswain's call, or bosun's pipe, is a thin metal tube leading to a small ball, played by cupping the hand to change pitch. It was used to relay commands over the noise of a ship and is still used in naval ceremonies.",
+    "why_unchanged": "The pitch is controlled by the hand, so the simple metal pipe has stayed the same.",
+    "materials": [
+      "silver",
+      "brass",
+      "nickel"
+    ],
+    "faqs": [
+      {
+        "question": "What is 'piping aboard'?",
+        "answer": "It is a naval honor in which the boatswain's call is sounded as a dignitary boards a ship."
+      },
+      {
+        "question": "How is the pitch changed?",
+        "answer": "The player opens and closes the hand around the ball to raise and lower the tone."
+      },
+      {
+        "question": "Is it still used?",
+        "answer": "Yes, in many navies for ceremonies and traditional signals."
+      }
+    ],
+    "image": {
+      "search_query": "boatswain call bosun pipe",
+      "wikimedia_commons_category": "Boatswain's calls",
+      "alt": "A silver boatswain's call on a chain"
+    },
+    "tags": [
+      "signal",
+      "maritime",
+      "whistle"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "slide-whistle",
+    "name": "Slide whistle",
+    "category": "Music, sound & signaling",
+    "invention": {
+      "display": "19th century",
+      "year": 1850,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "England",
+      "modern_country": "United Kingdom",
+      "notes": "Its exact origin is uncertain; it became popular in the early 20th century."
+    },
+    "inventor": null,
+    "short_description": "A whistle with a sliding plunger that changes its pitch smoothly.",
+    "description": "The slide whistle is a fipple whistle with a plunger inside the tube; moving the plunger changes the length of the air column. Its rising and falling glide became a classic sound effect in cartoons and comedy.",
+    "why_unchanged": "The plunger gives continuous pitch with no fingering, a design too simple to improve.",
+    "materials": [
+      "metal",
+      "plastic",
+      "wood"
+    ],
+    "faqs": [
+      {
+        "question": "How does a slide whistle change pitch?",
+        "answer": "Pushing the plunger shortens the air column for a higher note; pulling lengthens it for a lower one."
+      },
+      {
+        "question": "Is it used in serious music?",
+        "answer": "Yes. Composers including Ravel used it in orchestral works."
+      },
+      {
+        "question": "Why is it linked to cartoons?",
+        "answer": "Its swooping glide was a popular effect for falls and jumps in animation."
+      }
+    ],
+    "image": {
+      "search_query": "slide whistle",
+      "wikimedia_commons_category": "Slide whistles",
+      "alt": "A slide whistle with its plunger extended"
+    },
+    "tags": [
+      "wind",
+      "toy",
+      "sound effect"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "harmonica",
+    "name": "Harmonica",
+    "category": "Music, sound & signaling",
+    "invention": {
+      "display": "1820s",
+      "year": 1825,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Germany and Austria",
+      "modern_country": "Germany",
+      "notes": "Several people are credited with early mouth harmonicas, including Christian Friedrich Buschmann; the Richter tuning appeared around 1826. Matthias Hohner began mass production in 1857."
+    },
+    "inventor": null,
+    "short_description": "A small free-reed instrument played by blowing and drawing air through holes.",
+    "description": "The harmonica contains metal reeds in slots, one set sounding on breath out and another on breath in. Developed in Central Europe in the 1820s and mass-produced by Hohner from 1857, it became central to blues, folk and country music.",
+    "why_unchanged": "The diatonic reed layout gives chords and melody in a pocket-sized form that never needed change.",
+    "materials": [
+      "brass",
+      "steel",
+      "wood",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "How does a harmonica work?",
+        "answer": "Air flowing through each hole makes a thin metal reed vibrate; blowing and drawing sound different reeds."
+      },
+      {
+        "question": "What is bending?",
+        "answer": "Players change the shape of their mouth to lower the pitch of a note, essential to blues harmonica."
+      },
+      {
+        "question": "Why is it called a 'harp' by blues players?",
+        "answer": "'Blues harp' is a nickname; the term was also a Hohner model name."
+      }
+    ],
+    "image": {
+      "search_query": "diatonic harmonica",
+      "wikimedia_commons_category": "Harmonicas",
+      "alt": "A chrome diatonic harmonica"
+    },
+    "tags": [
+      "wind",
+      "blues",
+      "free reed"
+    ],
+    "confidence": "low"
+  }
+]

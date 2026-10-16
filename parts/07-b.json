@@ -1,0 +1,1265 @@
+[
+  {
+    "slug": "spring-clothespin",
+    "name": "Spring clothespin",
+    "category": "Household & furniture",
+    "invention": {
+      "display": "1853 (patent)",
+      "year": 1853,
+      "approximate": false,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Springfield, Vermont",
+      "modern_country": "United States",
+      "notes": "David M. Smith patented the spring-hinged clothespin in 1853; one-piece wooden pegs without springs are older."
+    },
+    "inventor": "David M. Smith",
+    "short_description": "Two wooden or plastic levers joined by a coiled spring that clamp laundry to a line.",
+    "description": "Before the spring clothespin, laundry was held with one-piece split wooden pegs. In 1853 David M. Smith of Springfield, Vermont, patented a design with two levers and a spring that grips firmly. The familiar form, refined in the late 19th century, is still made by the millions.",
+    "why_unchanged": "Two levers and a spring give a strong one-handed clamp with almost no material.",
+    "materials": [
+      "wood",
+      "steel spring",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the spring clothespin?",
+        "answer": "David M. Smith of Springfield, Vermont, received a patent for it in 1853."
+      },
+      {
+        "question": "What did people use before spring clothespins?",
+        "answer": "They used one-piece wooden pegs with a slot cut into them, often made by hand."
+      },
+      {
+        "question": "Is there a giant clothespin sculpture?",
+        "answer": "Yes, Claes Oldenburg's 'Clothespin' (1976) is a 45-foot steel sculpture in Philadelphia."
+      }
+    ],
+    "image": {
+      "search_query": "wooden spring clothespins",
+      "wikimedia_commons_category": "Clothespins",
+      "alt": "Wooden spring clothespins on a line"
+    },
+    "tags": [
+      "laundry",
+      "patent",
+      "spring"
+    ],
+    "confidence": "high"
+  },
+  {
+    "slug": "clothesline",
+    "name": "Clothesline",
+    "category": "Household & furniture",
+    "invention": {
+      "display": "Ancient",
+      "year": -1000,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Various",
+      "modern_country": "Various",
+      "notes": "Hanging washed clothes to dry on cords or branches is ancient and universal; no single origin can be identified."
+    },
+    "inventor": null,
+    "short_description": "A rope or wire stretched between supports on which washed clothes are hung to dry.",
+    "description": "People have dried laundry in the sun and wind on ropes, branches and fences since ancient times. The stretched line between posts or across a yard became a standard household fixture, and rotary clotheslines appeared in the 20th century. Line-drying remains common worldwide and saves energy.",
+    "why_unchanged": "Sun and wind dry clothes for free, and a taut line is the simplest way to expose them.",
+    "materials": [
+      "rope",
+      "cotton cord",
+      "plastic-coated wire"
+    ],
+    "faqs": [
+      {
+        "question": "Is line-drying better for clothes?",
+        "answer": "It is gentler on fabrics than a tumble dryer, saves energy, and sunlight can help bleach whites."
+      },
+      {
+        "question": "What is a rotary clothesline?",
+        "answer": "It is an umbrella-like frame of lines on a central pole, popularized in Australia by the Hills Hoist from 1945."
+      },
+      {
+        "question": "Are clotheslines banned anywhere?",
+        "answer": "Some homeowners' associations have restricted them, prompting 'right to dry' laws in several US states."
+      }
+    ],
+    "image": {
+      "search_query": "laundry on clothesline",
+      "wikimedia_commons_category": "Clotheslines",
+      "alt": "Laundry hanging on a clothesline"
+    },
+    "tags": [
+      "laundry",
+      "outdoor",
+      "ancient"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "flat-iron",
+    "name": "Flat iron",
+    "category": "Household & furniture",
+    "invention": {
+      "display": "By the 17th century in Europe",
+      "year": 1600,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Europe",
+      "modern_country": "Various",
+      "notes": "Pan-shaped irons filled with hot coals were used in Han-dynasty China (from around the 1st century BCE), and smoothing stones earlier; solid flat irons heated on the fire were common in Europe by the 17th century."
+    },
+    "inventor": null,
+    "short_description": "A heavy iron with a flat sole, heated on a stove and used to press clothes.",
+    "description": "Flat irons, also called sad irons, were solid metal blocks with a handle that were heated on a stove or fire and pushed over damp fabric. Households kept several irons heating in rotation. Electric irons later replaced the fire, but the flat heated sole and handle are unchanged.",
+    "why_unchanged": "Heat plus weight on a smooth sole is exactly what smooths fabric fibres.",
+    "materials": [
+      "cast iron",
+      "steel",
+      "brass"
+    ],
+    "faqs": [
+      {
+        "question": "Why was it called a 'sad iron'?",
+        "answer": "'Sad' was an old word for solid or heavy, describing the dense metal iron."
+      },
+      {
+        "question": "How did people know when the iron was hot enough?",
+        "answer": "They often spat on it or flicked water on the sole and listened for a sizzle."
+      },
+      {
+        "question": "Who improved the flat iron with a removable handle?",
+        "answer": "Mary Florence Potts patented a design with a detachable wooden handle in 1870s America, so the handle stayed cool while irons were swapped."
+      }
+    ],
+    "image": {
+      "search_query": "antique cast iron flat iron",
+      "wikimedia_commons_category": "Flat irons",
+      "alt": "An antique cast-iron flat iron"
+    },
+    "tags": [
+      "laundry",
+      "household",
+      "metal"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "clothes-drying-rack",
+    "name": "Clothes drying rack",
+    "category": "Household & furniture",
+    "invention": {
+      "display": "18th century",
+      "year": 1750,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Europe",
+      "modern_country": "Various",
+      "notes": "Wooden frames for drying linen indoors, often called 'clothes horses' in English from the 18th century, were widely used; their exact origin is unknown."
+    },
+    "inventor": null,
+    "short_description": "A free-standing or wall-mounted frame for hanging laundry to dry indoors.",
+    "description": "Indoor drying racks let households dry laundry by the fire or on rainy days. The folding wooden 'clothes horse' and ceiling-hung pulley airers were common in British and European homes. Folding metal and wooden racks remain popular energy-saving alternatives to tumble dryers.",
+    "why_unchanged": "Parallel bars in a folding frame expose the most fabric to air in the least floor space.",
+    "materials": [
+      "wood",
+      "steel",
+      "aluminium",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "Why is it called a 'clothes horse'?",
+        "answer": "Like a sawhorse, it is a frame on legs that holds something up, in this case laundry."
+      },
+      {
+        "question": "What is a pulley airer?",
+        "answer": "It is a rack hung from the ceiling that is raised and lowered with a rope, using warm air near the ceiling to dry clothes."
+      },
+      {
+        "question": "Does drying clothes indoors cause damp?",
+        "answer": "It can raise humidity, so ventilation or a dehumidifier helps prevent condensation and mould."
+      }
+    ],
+    "image": {
+      "search_query": "folding wooden clothes drying rack",
+      "wikimedia_commons_category": "Clothes horses",
+      "alt": "A folding wooden clothes drying rack with laundry"
+    },
+    "tags": [
+      "laundry",
+      "household",
+      "folding"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "candle",
+    "name": "Candle",
+    "category": "Household & furniture",
+    "invention": {
+      "display": "c. 500 BCE",
+      "year": -500,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Ancient Rome and Etruria",
+      "modern_country": "Italy",
+      "notes": "Romans made wicked tallow candles; candles may have been developed independently in China, and earlier rushlights and tapers existed in Egypt."
+    },
+    "inventor": null,
+    "short_description": "A stick of wax or tallow with a central wick that burns to give light.",
+    "description": "The Romans dipped papyrus or rush wicks repeatedly in melted tallow or beeswax to make candles. For centuries candles were a main source of indoor light, made from tallow, beeswax, spermaceti and later paraffin. Today they are used mostly for ambience, celebration and emergencies.",
+    "why_unchanged": "A wick drawing melted fuel up by capillary action is a self-regulating, mechanism-free light.",
+    "materials": [
+      "paraffin wax",
+      "beeswax",
+      "soy wax",
+      "tallow",
+      "cotton wick"
+    ],
+    "faqs": [
+      {
+        "question": "How does a candle burn?",
+        "answer": "The flame melts wax near the wick, the liquid wax is drawn up the wick and vaporized, and the vapour burns."
+      },
+      {
+        "question": "Why do candles have different burn times?",
+        "answer": "Burn time depends on wax type, wick size and candle diameter; beeswax tends to burn slower than paraffin."
+      },
+      {
+        "question": "What is a 'candle clock'?",
+        "answer": "A candle marked at regular intervals that shows passing time as it burns down."
+      }
+    ],
+    "image": {
+      "search_query": "lit white candle",
+      "wikimedia_commons_category": "Candles",
+      "alt": "A lit white candle"
+    },
+    "tags": [
+      "lighting",
+      "fire",
+      "ancient"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "candlestick",
+    "name": "Candlestick",
+    "category": "Household & furniture",
+    "invention": {
+      "display": "c. 6th century BCE",
+      "year": -550,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Etruria (central Italy)",
+      "modern_country": "Italy",
+      "notes": "Etruscan and Roman bronze candle holders are among the earliest known; medieval Europe used spiked 'pricket' candlesticks before the socket type became standard."
+    },
+    "inventor": null,
+    "short_description": "A holder with a cup or spike that keeps a candle upright.",
+    "description": "Etruscans and Romans made bronze stands to hold candles, and medieval churches used tall pricket candlesticks with a spike. The socket candlestick, with a cup to grip the candle and a drip pan, became standard in later centuries. Candlesticks remain common decorative objects.",
+    "why_unchanged": "A stable base with a socket is all that is needed to keep a candle safely upright.",
+    "materials": [
+      "brass",
+      "silver",
+      "pewter",
+      "wood",
+      "glass"
+    ],
+    "faqs": [
+      {
+        "question": "What is a pricket candlestick?",
+        "answer": "It is a candlestick with a sharp spike onto which the candle is pushed, common in medieval churches."
+      },
+      {
+        "question": "Why do some candlesticks have a drip pan?",
+        "answer": "The pan, or bobeche, catches melting wax so it doesn't drip onto the table."
+      },
+      {
+        "question": "What is the difference between a candlestick and a candelabrum?",
+        "answer": "A candlestick holds one candle, while a candelabrum has several branches for multiple candles."
+      }
+    ],
+    "image": {
+      "search_query": "brass candlestick",
+      "wikimedia_commons_category": "Candlesticks",
+      "alt": "A brass candlestick holding a candle"
+    },
+    "tags": [
+      "lighting",
+      "fire",
+      "ancient"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "oil-lamp",
+    "name": "Oil lamp",
+    "category": "Household & furniture",
+    "invention": {
+      "display": "c. 15,000 BCE",
+      "year": -15000,
+      "approximate": true,
+      "era": "Prehistoric"
+    },
+    "place_of_invention": {
+      "region": "Upper Paleolithic Europe",
+      "modern_country": "France",
+      "notes": "Carved stone lamps burning animal fat have been found at Lascaux and other Paleolithic caves; clay lamps later became widespread across the Near East and Mediterranean."
+    },
+    "inventor": null,
+    "short_description": "A vessel holding oil or fat with a wick that burns to give light.",
+    "description": "Paleolithic people burned animal fat in hollowed stones, and lamps found at Lascaux in France lit cave painters' work. Clay lamps with a spout for the wick spread across the ancient Near East, Greece and Rome. Oil lamps are still used in religious ceremonies such as Diwali and in places without electricity.",
+    "why_unchanged": "A reservoir of fuel feeding a wick is the simplest steady flame, unchanged for millennia.",
+    "materials": [
+      "clay",
+      "stone",
+      "brass",
+      "olive oil",
+      "cotton wick"
+    ],
+    "faqs": [
+      {
+        "question": "What fuel did ancient oil lamps use?",
+        "answer": "They burned animal fat, olive oil, sesame oil and other plant oils depending on the region."
+      },
+      {
+        "question": "What is a diya?",
+        "answer": "A diya is a small clay oil lamp used in South Asia, especially during the festival of Diwali."
+      },
+      {
+        "question": "Were the lamps of Aladdin real oil lamps?",
+        "answer": "Yes, the story imagines a typical Middle Eastern oil lamp with a spout for the wick."
+      }
+    ],
+    "image": {
+      "search_query": "ancient clay oil lamp",
+      "wikimedia_commons_category": "Oil lamps",
+      "alt": "An ancient clay oil lamp"
+    },
+    "tags": [
+      "lighting",
+      "fire",
+      "prehistoric"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "lantern",
+    "name": "Lantern",
+    "category": "Household & furniture",
+    "invention": {
+      "display": "Ancient (c. 1st century BCE)",
+      "year": -100,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Roman world and China",
+      "modern_country": "Various",
+      "notes": "Romans used lanterns with panes of thin horn or bladder; paper and silk lanterns were developed independently in China."
+    },
+    "inventor": null,
+    "short_description": "A portable enclosed light with transparent sides and a carrying handle.",
+    "description": "A lantern surrounds a flame with a protective case so it can be carried in wind and rain. Romans used lanterns with translucent horn panes, and glass panels became common later. Candle and oil lanterns are still used for camping and decoration, along with electric versions in the same shape.",
+    "why_unchanged": "A shielded flame with a handle solves wind and portability in one simple design.",
+    "materials": [
+      "metal",
+      "glass",
+      "horn",
+      "paper"
+    ],
+    "faqs": [
+      {
+        "question": "Why were lanterns once called 'lanthorns'?",
+        "answer": "In English the word was often spelled 'lanthorn' because the panes were made of thin, translucent horn."
+      },
+      {
+        "question": "What is a hurricane lantern?",
+        "answer": "It is a lantern with a glass chimney and air flow design that keeps the flame burning in strong wind."
+      },
+      {
+        "question": "Why are lanterns important in festivals?",
+        "answer": "Lanterns symbolize light and hope in many cultures, such as the Chinese Lantern Festival."
+      }
+    ],
+    "image": {
+      "search_query": "old metal and glass lantern",
+      "wikimedia_commons_category": "Lanterns",
+      "alt": "An old metal and glass lantern with a candle"
+    },
+    "tags": [
+      "lighting",
+      "fire",
+      "portable"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "torch",
+    "name": "Torch",
+    "category": "Household & furniture",
+    "invention": {
+      "display": "Paleolithic",
+      "year": -30000,
+      "approximate": true,
+      "era": "Prehistoric"
+    },
+    "place_of_invention": {
+      "region": "Various",
+      "modern_country": "Various",
+      "notes": "Traces of torch use have been found in Paleolithic caves in Europe; flaming brands were used worldwide and have no single origin."
+    },
+    "inventor": null,
+    "short_description": "A stick with a burning end, carried as a source of light.",
+    "description": "Prehistoric people carried burning sticks and bundles of resinous wood to light caves, and soot marks on cave walls show where torches were tapped. Later torches were wrapped in cloth soaked with pitch or fat. Flaming torches are still used in ceremonies, the Olympic torch relay and outdoor lighting.",
+    "why_unchanged": "A fuel-soaked stick is the most portable fire possible, needing no container.",
+    "materials": [
+      "wood",
+      "pitch",
+      "resin",
+      "cloth"
+    ],
+    "faqs": [
+      {
+        "question": "How did prehistoric people use torches in caves?",
+        "answer": "They carried burning sticks or bundles to light their way and the walls, leaving soot marks archaeologists still find."
+      },
+      {
+        "question": "Why is a flashlight called a 'torch' in Britain?",
+        "answer": "When electric flashlights arrived, British English simply kept the old word for a handheld light."
+      },
+      {
+        "question": "When did the Olympic torch relay start?",
+        "answer": "The modern torch relay began at the 1936 Berlin Olympics."
+      }
+    ],
+    "image": {
+      "search_query": "burning wooden torch",
+      "wikimedia_commons_category": "Torches (fire)",
+      "alt": "A burning wooden torch"
+    },
+    "tags": [
+      "lighting",
+      "fire",
+      "prehistoric"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "friction-match",
+    "name": "Friction match",
+    "category": "Household & furniture",
+    "invention": {
+      "display": "1826",
+      "year": 1826,
+      "approximate": false,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Stockton-on-Tees, England",
+      "modern_country": "United Kingdom",
+      "notes": "John Walker, a chemist, discovered the friction match in 1826 but did not patent it; others soon copied and sold the idea."
+    },
+    "inventor": "John Walker",
+    "short_description": "A small stick with a chemical head that ignites when struck against a rough surface.",
+    "description": "John Walker, a chemist in Stockton-on-Tees, found that a stick coated with chemicals burst into flame when scraped. He sold his 'friction lights' from 1827 but never patented them. Strike-anywhere matches still follow the same principle.",
+    "why_unchanged": "A combustible head that ignites by friction is all a match needs; nothing has proved simpler.",
+    "materials": [
+      "wood",
+      "phosphorus sesquisulfide",
+      "potassium chlorate"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the friction match?",
+        "answer": "English chemist John Walker discovered it in 1826 in Stockton-on-Tees."
+      },
+      {
+        "question": "Why didn't John Walker patent his match?",
+        "answer": "He reportedly felt it should benefit the public, so he never patented it."
+      },
+      {
+        "question": "What is a 'strike anywhere' match?",
+        "answer": "It is a match whose head contains all the chemicals needed to ignite on any rough surface."
+      }
+    ],
+    "image": {
+      "search_query": "strike anywhere matches",
+      "wikimedia_commons_category": "Matches",
+      "alt": "A box of wooden strike-anywhere matches"
+    },
+    "tags": [
+      "fire",
+      "chemistry",
+      "industrial"
+    ],
+    "confidence": "high"
+  },
+  {
+    "slug": "safety-match",
+    "name": "Safety match",
+    "category": "Household & furniture",
+    "invention": {
+      "display": "1844",
+      "year": 1844,
+      "approximate": false,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Sweden",
+      "modern_country": "Sweden",
+      "notes": "Gustaf Erik Pasch patented the idea of putting red phosphorus on the striking surface in 1844; Johan Edvard Lundström improved and mass-produced safety matches in Jönköping from the 1850s."
+    },
+    "inventor": "Gustaf Erik Pasch",
+    "short_description": "A match that lights only when struck on a special surface on its box.",
+    "description": "Early matches used toxic white phosphorus and lit too easily. In 1844 Swedish chemist Gustaf Erik Pasch separated the chemicals, putting red phosphorus on the striking strip, and the Lundström brothers of Jönköping made the design a commercial success. The safety match and its striking box are unchanged today.",
+    "why_unchanged": "Splitting the chemistry between head and box made matches safe without adding complexity.",
+    "materials": [
+      "wood",
+      "cardboard",
+      "red phosphorus",
+      "potassium chlorate"
+    ],
+    "faqs": [
+      {
+        "question": "Why are they called safety matches?",
+        "answer": "They only light when struck on the box's special strip, so they rarely ignite by accident."
+      },
+      {
+        "question": "Why was white phosphorus dangerous?",
+        "answer": "It was toxic and caused 'phossy jaw', a disease of match factory workers, and was later banned."
+      },
+      {
+        "question": "Where were safety matches mass-produced first?",
+        "answer": "In Jönköping, Sweden, which became famous worldwide for its match industry."
+      }
+    ],
+    "image": {
+      "search_query": "box of safety matches",
+      "wikimedia_commons_category": "Safety matches",
+      "alt": "A matchbox with safety matches"
+    },
+    "tags": [
+      "fire",
+      "chemistry",
+      "industrial"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "flint-and-steel",
+    "name": "Flint and steel",
+    "category": "Household & furniture",
+    "invention": {
+      "display": "Iron Age (c. 1st millennium BCE)",
+      "year": -800,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Europe and Asia",
+      "modern_country": "Various",
+      "notes": "Fire-making by striking flint against iron pyrite is much older (Ötzi the Iceman carried such a kit around 3300 BCE); steel strikers appear once iron working spread in the Iron Age."
+    },
+    "inventor": null,
+    "short_description": "A fire-starting kit in which a steel striker is struck against flint to throw sparks onto tinder.",
+    "description": "When a piece of hard steel is struck against sharp flint, tiny shavings of metal fly off and ignite as sparks. Caught on charred cloth or tinder, they can be blown into a flame. Flint and steel was the standard way to make fire until matches arrived in the 19th century, and it is still used by bushcraft enthusiasts.",
+    "why_unchanged": "Steel striking hard stone reliably makes sparks, so the kit needs no improvement.",
+    "materials": [
+      "flint",
+      "high-carbon steel",
+      "char cloth"
+    ],
+    "faqs": [
+      {
+        "question": "Is it the flint or the steel that sparks?",
+        "answer": "The sparks are tiny particles of steel shaved off by the sharp flint, which burn as they fly."
+      },
+      {
+        "question": "What is char cloth?",
+        "answer": "It is cloth heated without oxygen until charred, which catches sparks easily and glows."
+      },
+      {
+        "question": "How did people make fire before steel?",
+        "answer": "They struck flint against iron pyrite or used friction methods such as the bow drill."
+      }
+    ],
+    "image": {
+      "search_query": "flint and steel fire striker",
+      "wikimedia_commons_category": "Fire strikers",
+      "alt": "A steel fire striker and a piece of flint"
+    },
+    "tags": [
+      "fire",
+      "survival",
+      "iron age"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "fireplace-poker",
+    "name": "Fireplace poker",
+    "category": "Household & furniture",
+    "invention": {
+      "display": "Medieval period",
+      "year": 1300,
+      "approximate": true,
+      "era": "Medieval"
+    },
+    "place_of_invention": {
+      "region": "Europe",
+      "modern_country": "Various",
+      "notes": "Iron rods for stirring fires are as old as the hearth; the poker as part of a fireplace tool set became standard after wall fireplaces with chimneys spread in medieval Europe."
+    },
+    "inventor": null,
+    "short_description": "A metal rod used to stir and arrange burning logs or coals.",
+    "description": "A poker lets you move burning fuel safely, breaking up coals and adding air to revive a fire. With the spread of wall fireplaces in medieval Europe, iron pokers became standard hearth tools. Many have a hook or spike near the tip for moving logs.",
+    "why_unchanged": "A long iron rod keeps hands away from the heat, which is all the job requires.",
+    "materials": [
+      "wrought iron",
+      "steel",
+      "brass"
+    ],
+    "faqs": [
+      {
+        "question": "Why does a poker have a hook?",
+        "answer": "The hook lets you pull logs toward you, while the point pushes them away."
+      },
+      {
+        "question": "What is 'Wittgenstein's poker'?",
+        "answer": "It refers to a 1946 Cambridge argument in which philosopher Ludwig Wittgenstein reportedly brandished a poker at Karl Popper."
+      },
+      {
+        "question": "What else comes in a fireplace tool set?",
+        "answer": "Typical sets include a poker, tongs, shovel and brush on a stand."
+      }
+    ],
+    "image": {
+      "search_query": "wrought iron fireplace poker",
+      "wikimedia_commons_category": "Fireplace tools",
+      "alt": "A wrought-iron fireplace poker by a hearth"
+    },
+    "tags": [
+      "fire",
+      "hearth",
+      "medieval"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "bellows",
+    "name": "Bellows",
+    "category": "Household & furniture",
+    "invention": {
+      "display": "c. 1500 BCE",
+      "year": -1500,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Ancient Egypt",
+      "modern_country": "Egypt",
+      "notes": "Egyptian tomb paintings, such as in the tomb of Rekhmire, show foot-operated bellows for metalworking; simple blowpipes came before, and hand bellows were used across many cultures."
+    },
+    "inventor": null,
+    "short_description": "A device with a flexible bag that blows a jet of air when squeezed, used to fan a fire.",
+    "description": "Bellows force air into a fire, raising its temperature, which was vital for metalworking. Egyptian smiths used foot-operated bellows by about 1500 BCE, and small hand bellows became common household hearth tools. Fireplace bellows today still use two hinged boards and a leather bag with a nozzle.",
+    "why_unchanged": "Two boards, a flexible bag and a nozzle pump air with no moving parts to wear out.",
+    "materials": [
+      "wood",
+      "leather",
+      "brass"
+    ],
+    "faqs": [
+      {
+        "question": "How do bellows make a fire hotter?",
+        "answer": "They supply extra oxygen, which speeds up burning and raises the temperature."
+      },
+      {
+        "question": "How do bellows refill with air?",
+        "answer": "A one-way flap valve lets air in when the handles open and closes when they are squeezed."
+      },
+      {
+        "question": "Were bellows important for metalworking?",
+        "answer": "Yes; without bellows, furnaces could not get hot enough to smelt and forge metals efficiently."
+      }
+    ],
+    "image": {
+      "search_query": "leather fireplace bellows",
+      "wikimedia_commons_category": "Bellows",
+      "alt": "A pair of wooden and leather fireplace bellows"
+    },
+    "tags": [
+      "fire",
+      "hearth",
+      "ancient"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "coat-hook",
+    "name": "Coat hook",
+    "category": "Household & furniture",
+    "invention": {
+      "display": "Medieval period",
+      "year": 1200,
+      "approximate": true,
+      "era": "Medieval"
+    },
+    "place_of_invention": {
+      "region": "Europe",
+      "modern_country": "Various",
+      "notes": "Wall pegs and iron hooks for hanging garments are ancient and widespread; no specific origin is known."
+    },
+    "inventor": null,
+    "short_description": "A hook fixed to a wall or door for hanging coats, hats and bags.",
+    "description": "Hooks and pegs for hanging garments are among the simplest home fixtures, forged by blacksmiths or carved from wood. Many coat hooks have a double prong, a long one for coats and a short one for hats. They are found by front doors, in bathrooms and in cloakrooms everywhere.",
+    "why_unchanged": "A hook uses gravity alone to hold a garment, so it cannot be simplified further.",
+    "materials": [
+      "iron",
+      "brass",
+      "wood",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "Why do some coat hooks have two prongs?",
+        "answer": "The upper prong traditionally holds a hat and the lower one a coat."
+      },
+      {
+        "question": "How should coat hooks be mounted?",
+        "answer": "For heavy coats, screw them into a wall stud or use suitable anchors, typically around 150-170 cm above the floor."
+      },
+      {
+        "question": "What is a cloakroom?",
+        "answer": "It is a room in a public building where visitors leave coats, often on rows of hooks or hangers."
+      }
+    ],
+    "image": {
+      "search_query": "iron coat hooks on wall",
+      "wikimedia_commons_category": "Coat hooks",
+      "alt": "A row of iron coat hooks on a wall"
+    },
+    "tags": [
+      "home fixture",
+      "storage",
+      "medieval"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "wire-coat-hanger",
+    "name": "Wire coat hanger",
+    "category": "Household & furniture",
+    "invention": {
+      "display": "1869-1903",
+      "year": 1903,
+      "approximate": true,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "United States",
+      "modern_country": "United States",
+      "notes": "O. A. North received an 1869 US patent for a clothes hanger, and Albert J. Parkhouse is often credited with the bent-wire hanger in 1903 at the Timberlake Wire and Novelty Company in Jackson, Michigan; the attribution is disputed."
+    },
+    "inventor": null,
+    "short_description": "A shaped wire frame with a hook, used to hang clothes on a rail.",
+    "description": "The familiar wire hanger, a triangle of bent wire with a hook on top, spread in the early 20th century. Albert J. Parkhouse is popularly said to have bent one from wire in 1903 when his workplace lacked coat hooks, but earlier patents exist. Wooden and plastic hangers use the same shoulder-shaped form.",
+    "why_unchanged": "A shoulder-shaped frame with a hook keeps clothes wrinkle-free using a single piece of wire.",
+    "materials": [
+      "steel wire",
+      "wood",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the wire coat hanger?",
+        "answer": "It is often credited to Albert J. Parkhouse in 1903, but earlier hanger patents, such as O. A. North's in 1869, mean the credit is disputed."
+      },
+      {
+        "question": "Why do dry cleaners use wire hangers?",
+        "answer": "They are cheap, light and can be recycled or returned for reuse."
+      },
+      {
+        "question": "Are wire hangers bad for clothes?",
+        "answer": "Thin wire can leave marks and stretch shoulders on heavy garments, so wider wooden or padded hangers are often preferred."
+      }
+    ],
+    "image": {
+      "search_query": "wire coat hangers",
+      "wikimedia_commons_category": "Coat hangers",
+      "alt": "Several wire coat hangers on a rail"
+    },
+    "tags": [
+      "laundry",
+      "storage",
+      "wire"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "peg-rail",
+    "name": "Peg rail",
+    "category": "Household & furniture",
+    "invention": {
+      "display": "Late 18th century (Shaker style)",
+      "year": 1790,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "New England",
+      "modern_country": "United States",
+      "notes": "Wooden pegs set into wall boards are much older; the Shakers made the continuous peg rail a signature feature of their buildings from the late 18th century."
+    },
+    "inventor": null,
+    "short_description": "A wooden board with a row of turned pegs, mounted on a wall for hanging things.",
+    "description": "The Shakers, a religious community in the United States, lined their rooms with peg rails to hang clothes, tools and even chairs off the floor for cleaning. The simple board of turned wooden pegs became an icon of practical design. Peg rails are still popular in hallways and kitchens.",
+    "why_unchanged": "A row of pegs on a board is maximally simple and endlessly adaptable storage.",
+    "materials": [
+      "wood"
+    ],
+    "faqs": [
+      {
+        "question": "Why did the Shakers hang chairs on the wall?",
+        "answer": "Hanging chairs on peg rails cleared the floor for sweeping, reflecting their emphasis on order and cleanliness."
+      },
+      {
+        "question": "What are Shaker pegs made of?",
+        "answer": "Traditionally turned hardwoods such as maple or cherry."
+      },
+      {
+        "question": "Where are peg rails used today?",
+        "answer": "They are common in entryways, mudrooms, kitchens and children's rooms."
+      }
+    ],
+    "image": {
+      "search_query": "shaker peg rail",
+      "wikimedia_commons_category": "Shaker furniture",
+      "alt": "A wooden Shaker peg rail with hanging items"
+    },
+    "tags": [
+      "storage",
+      "home fixture",
+      "shaker"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "spring-mousetrap",
+    "name": "Spring mousetrap",
+    "category": "Household & furniture",
+    "invention": {
+      "display": "1894 (patent)",
+      "year": 1894,
+      "approximate": false,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Abingdon, Illinois",
+      "modern_country": "United States",
+      "notes": "William C. Hooker received a US patent for a spring-loaded snap trap in 1894; James Henry Atkinson patented the similar 'Little Nipper' in Britain in 1897."
+    },
+    "inventor": "William C. Hooker",
+    "short_description": "A wooden base with a spring-loaded bar that snaps shut when a mouse takes the bait.",
+    "description": "William C. Hooker of Abingdon, Illinois, patented the spring-loaded snap trap in 1894, and James Henry Atkinson's British 'Little Nipper' followed in 1897. Despite thousands of later mousetrap patents, the classic wooden snap trap remains the best seller. It became a byword for a design that is hard to improve.",
+    "why_unchanged": "A spring, a bar and a trigger kill quickly and cheaply, so countless 'better mousetraps' have failed to replace it.",
+    "materials": [
+      "wood",
+      "steel spring",
+      "steel wire"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the snap mousetrap?",
+        "answer": "William C. Hooker patented it in the US in 1894, and James Henry Atkinson patented a similar British design in 1897."
+      },
+      {
+        "question": "What is the best bait for a mousetrap?",
+        "answer": "Peanut butter or chocolate often work better than cheese because they are sticky and aromatic."
+      },
+      {
+        "question": "What does 'build a better mousetrap' mean?",
+        "answer": "It means creating an improved version of a common product, a phrase often attributed to Ralph Waldo Emerson."
+      }
+    ],
+    "image": {
+      "search_query": "wooden snap mousetrap",
+      "wikimedia_commons_category": "Mousetraps",
+      "alt": "A classic wooden spring mousetrap"
+    },
+    "tags": [
+      "pest control",
+      "patent",
+      "spring"
+    ],
+    "confidence": "high"
+  },
+  {
+    "slug": "fly-swatter",
+    "name": "Fly swatter",
+    "category": "Household & furniture",
+    "invention": {
+      "display": "1900 (patent)",
+      "year": 1900,
+      "approximate": false,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "United States",
+      "modern_country": "United States",
+      "notes": "Robert R. Montgomery patented a 'fly-killer' in 1900; the name 'fly swatter' was popularized around 1905 by Kansas health official Samuel Crumbine."
+    },
+    "inventor": "Robert R. Montgomery",
+    "short_description": "A flat perforated paddle on a handle used to kill flies.",
+    "description": "Robert R. Montgomery patented a wire-mesh 'fly-killer' in 1900. In 1905 Dr. Samuel Crumbine of Kansas, campaigning against flies as disease carriers, popularized the name 'fly swatter', inspired by a baseball chant of 'swat the ball'. Plastic swatters keep the same mesh paddle and long handle.",
+    "why_unchanged": "Holes in the paddle let air pass so the fly feels no warning, and the long handle adds speed.",
+    "materials": [
+      "plastic",
+      "wire mesh",
+      "wood"
+    ],
+    "faqs": [
+      {
+        "question": "Why does a fly swatter have holes?",
+        "answer": "The holes reduce air resistance and pressure, so the fly doesn't sense the swatter coming."
+      },
+      {
+        "question": "Who named the fly swatter?",
+        "answer": "Kansas public health official Samuel Crumbine popularized the name around 1905."
+      },
+      {
+        "question": "Why is it hard to swat flies?",
+        "answer": "Flies process visual motion very quickly and can plan an escape jump in a fraction of a second."
+      }
+    ],
+    "image": {
+      "search_query": "plastic fly swatter",
+      "wikimedia_commons_category": "Fly swatters",
+      "alt": "A plastic fly swatter"
+    },
+    "tags": [
+      "pest control",
+      "patent",
+      "insects"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "mosquito-net",
+    "name": "Mosquito net",
+    "category": "Household & furniture",
+    "invention": {
+      "display": "c. 5th century BCE (earliest record)",
+      "year": -450,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Ancient Egypt",
+      "modern_country": "Egypt",
+      "notes": "The Greek historian Herodotus described Egyptians sleeping under nets to avoid mosquitoes; nets were probably used independently in other tropical regions."
+    },
+    "inventor": null,
+    "short_description": "A fine mesh curtain hung over a bed to keep out mosquitoes and other insects.",
+    "description": "Herodotus wrote in the 5th century BCE that Egyptians in marshy areas slept under fishing nets to escape gnats. Fine mesh nets hung over beds became common across tropical Asia, Africa and the Americas. Today insecticide-treated bed nets are one of the most effective tools against malaria.",
+    "why_unchanged": "A fine mesh barrier stops insects while letting air through, with nothing to break.",
+    "materials": [
+      "cotton",
+      "polyester",
+      "nylon"
+    ],
+    "faqs": [
+      {
+        "question": "Do mosquito nets prevent malaria?",
+        "answer": "Yes; insecticide-treated nets greatly reduce malaria infections and are widely distributed by public health programmes."
+      },
+      {
+        "question": "What mesh size does a mosquito net need?",
+        "answer": "Nets typically use a mesh fine enough to stop mosquitoes, often around 156 holes per square inch or more."
+      },
+      {
+        "question": "How old is the mosquito net?",
+        "answer": "Herodotus described Egyptians sleeping under nets about 2,500 years ago."
+      }
+    ],
+    "image": {
+      "search_query": "mosquito net over bed",
+      "wikimedia_commons_category": "Mosquito nets",
+      "alt": "A white mosquito net hanging over a bed"
+    },
+    "tags": [
+      "bedding",
+      "insects",
+      "health"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "doormat",
+    "name": "Doormat",
+    "category": "Household & furniture",
+    "invention": {
+      "display": "19th century (coir doormats)",
+      "year": 1850,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Britain",
+      "modern_country": "United Kingdom",
+      "notes": "Rush and reed mats were laid at entrances much earlier; coir doormats made from coconut fibre became widespread in Victorian Britain. Exact origins are unknown."
+    },
+    "inventor": null,
+    "short_description": "A mat placed at an entrance for wiping shoes before entering.",
+    "description": "People have long laid rushes or mats at doorways to catch mud. In the 19th century, bristly coir mats made from coconut husk fibre became the standard doormat, and today rubber and synthetic versions are also common. Many carry a printed 'Welcome'.",
+    "why_unchanged": "Stiff fibres scrape dirt off soles and trap it, which is all a doormat must do.",
+    "materials": [
+      "coir",
+      "rubber",
+      "polypropylene",
+      "jute"
+    ],
+    "faqs": [
+      {
+        "question": "What is coir?",
+        "answer": "Coir is a tough fibre from the husk of coconuts, ideal for scraping shoes."
+      },
+      {
+        "question": "Should a doormat be inside or outside?",
+        "answer": "Many experts recommend both: a coarse mat outside to scrape dirt and an absorbent one inside to catch moisture."
+      },
+      {
+        "question": "What does it mean to be a 'doormat'?",
+        "answer": "It describes a person who lets others treat them badly without complaint."
+      }
+    ],
+    "image": {
+      "search_query": "coir doormat welcome",
+      "wikimedia_commons_category": "Doormats",
+      "alt": "A coir doormat in front of a door"
+    },
+    "tags": [
+      "floor",
+      "home fixture",
+      "entrance"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "rocking-chair",
+    "name": "Rocking chair",
+    "category": "Household & furniture",
+    "invention": {
+      "display": "Early 18th century",
+      "year": 1725,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "England and North America",
+      "modern_country": "Various",
+      "notes": "Rocking chairs appear in England and the American colonies in the early 1700s, likely by adding rockers to existing chairs; the popular claim that Benjamin Franklin invented it is not supported by evidence."
+    },
+    "inventor": null,
+    "short_description": "A chair mounted on curved rockers so that it rocks back and forth.",
+    "description": "Rocking chairs emerged in the early 18th century, possibly by fitting cradle-style rockers to ordinary chairs. They became especially popular in North America, with styles such as the Boston rocker. The curved rockers and chair body are still the same today.",
+    "why_unchanged": "Two curved runners turn any chair into a soothing rocker, a design that needs nothing more.",
+    "materials": [
+      "wood",
+      "wicker",
+      "metal"
+    ],
+    "faqs": [
+      {
+        "question": "Did Benjamin Franklin invent the rocking chair?",
+        "answer": "That is a popular myth; rocking chairs existed in the early 18th century, but there is no solid evidence that Franklin invented them."
+      },
+      {
+        "question": "Is rocking good for you?",
+        "answer": "Gentle rocking can be calming and is used in some care settings for people with dementia."
+      },
+      {
+        "question": "What is a Boston rocker?",
+        "answer": "It is a popular 19th-century American rocking chair with a spindle back and a curved seat."
+      }
+    ],
+    "image": {
+      "search_query": "wooden rocking chair on porch",
+      "wikimedia_commons_category": "Rocking chairs",
+      "alt": "A wooden rocking chair on a porch"
+    },
+    "tags": [
+      "furniture",
+      "seating",
+      "rocking"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "folding-chair",
+    "name": "Folding chair",
+    "category": "Household & furniture",
+    "invention": {
+      "display": "c. 2000 BCE",
+      "year": -2000,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Ancient Egypt",
+      "modern_country": "Egypt",
+      "notes": "Folding stools with crossed legs are known from Middle Kingdom Egypt; a Bronze Age folding stool from Guldhøj, Denmark (c. 1400 BCE) shows the idea spread widely."
+    },
+    "inventor": null,
+    "short_description": "A portable chair that collapses flat for storage.",
+    "description": "Ancient Egyptians made folding stools with X-shaped crossed legs, sometimes inlaid with ivory, and similar ones were used by Roman magistrates as the 'sella curulis'. Folding seating spread through medieval Europe for travelling nobles and clergy. Modern metal and wooden folding chairs use the same scissor principle.",
+    "why_unchanged": "Hinged crossed legs collapse flat and lock open under weight, a design that needs no improvement.",
+    "materials": [
+      "wood",
+      "steel",
+      "aluminium",
+      "plastic",
+      "canvas"
+    ],
+    "faqs": [
+      {
+        "question": "Why did Roman officials use folding chairs?",
+        "answer": "The curule seat was a folding chair that magistrates could carry with them, and it became a symbol of authority."
+      },
+      {
+        "question": "What is a faldstool?",
+        "answer": "A faldstool is a medieval folding seat used by bishops and kings, related to the word 'fauteuil'."
+      },
+      {
+        "question": "How old is the folding chair?",
+        "answer": "Folding stools are known from ancient Egypt about 4,000 years ago."
+      }
+    ],
+    "image": {
+      "search_query": "metal folding chair",
+      "wikimedia_commons_category": "Folding chairs",
+      "alt": "A folding chair, open and ready to use"
+    },
+    "tags": [
+      "furniture",
+      "seating",
+      "ancient"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "footstool",
+    "name": "Footstool",
+    "category": "Household & furniture",
+    "invention": {
+      "display": "c. 2000 BCE",
+      "year": -2000,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Ancient Egypt",
+      "modern_country": "Egypt",
+      "notes": "Footstools are well known from Egyptian royal burials, including Tutankhamun's tomb; they were used across the ancient Near East."
+    },
+    "inventor": null,
+    "short_description": "A low stool on which to rest the feet while sitting.",
+    "description": "Footstools in ancient Egypt raised the feet of rulers seated on high thrones, and Tutankhamun's footstools are decorated with images of defeated enemies. Through history they kept feet off cold floors and improved comfort. Footstools remain common household furniture.",
+    "why_unchanged": "A low platform for the feet is too simple to need redesign.",
+    "materials": [
+      "wood",
+      "upholstery",
+      "metal"
+    ],
+    "faqs": [
+      {
+        "question": "Why did kings have footstools?",
+        "answer": "Thrones were tall, so footstools supported the feet and symbolized power over subjects or enemies."
+      },
+      {
+        "question": "Are footstools good for posture?",
+        "answer": "A footrest can help shorter people sit with their feet supported and knees at a comfortable angle."
+      },
+      {
+        "question": "What is the difference between a footstool and an ottoman?",
+        "answer": "A footstool is usually small and on legs, while an ottoman is larger and upholstered, often doubling as a seat."
+      }
+    ],
+    "image": {
+      "search_query": "upholstered footstool",
+      "wikimedia_commons_category": "Footstools",
+      "alt": "A small upholstered footstool"
+    },
+    "tags": [
+      "furniture",
+      "seating",
+      "ancient"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "ottoman",
+    "name": "Ottoman",
+    "category": "Household & furniture",
+    "invention": {
+      "display": "Late 18th century",
+      "year": 1780,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Western Europe",
+      "modern_country": "France",
+      "notes": "The name and form were inspired by low cushioned seating in the Ottoman Empire, which became fashionable in Europe in the late 18th century."
+    },
+    "inventor": null,
+    "short_description": "A low, padded, backless seat or footrest, often with storage inside.",
+    "description": "Ottomans take their name from the Ottoman Empire, where low cushioned seating was common. Europeans adopted the form in the late 18th century, first as long divans and later as padded footrests and seats. Today's ottomans, often with hidden storage, follow the same simple padded design.",
+    "why_unchanged": "A padded block is a versatile seat, footrest and table in one simple piece.",
+    "materials": [
+      "wood",
+      "upholstery",
+      "leather",
+      "foam"
+    ],
+    "faqs": [
+      {
+        "question": "Why is it called an ottoman?",
+        "answer": "It is named after the Ottoman Empire, whose cushioned seating inspired it."
+      },
+      {
+        "question": "What is a storage ottoman?",
+        "answer": "It is an ottoman with a hinged or removable top concealing a storage space inside."
+      },
+      {
+        "question": "Can an ottoman replace a coffee table?",
+        "answer": "Yes; with a tray on top, a firm ottoman often serves as a coffee table."
+      }
+    ],
+    "image": {
+      "search_query": "leather ottoman",
+      "wikimedia_commons_category": "Ottomans (furniture)",
+      "alt": "A leather upholstered ottoman"
+    },
+    "tags": [
+      "furniture",
+      "seating",
+      "upholstery"
+    ],
+    "confidence": "medium"
+  }
+]

@@ -1,0 +1,1278 @@
+[
+  {
+    "slug": "paper-clip",
+    "name": "Paper clip",
+    "category": "Office, writing & reading",
+    "invention": {
+      "display": "c. 1890s",
+      "year": 1895,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Great Britain",
+      "modern_country": "United Kingdom",
+      "notes": "The double-loop 'Gem' design appeared in Britain in the late 19th century, apparently from the Gem Manufacturing Company; its designer is unknown. The popular claim that Norwegian Johan Vaaler invented it is a myth: his 1899/1901 patents describe a different, less practical clip. William Middlebrook's 1899 US patent covered a machine for making Gem-style clips."
+    },
+    "inventor": null,
+    "short_description": "A bent loop of steel wire that holds sheets of paper together by friction and spring tension.",
+    "description": "The familiar double-oval Gem clip spread from Britain to the United States around the turn of the 20th century and quickly displaced pins and ribbons for fastening papers. It works by gripping the sheets between its loops, so nothing is pierced and the clip can be removed and reused. Despite countless patented alternatives, the Gem shape remains the standard worldwide.",
+    "why_unchanged": "A single twisted wire already provides grip, reusability and near-zero cost, so no redesign has improved on it.",
+    "materials": [
+      "steel wire",
+      "plastic-coated wire"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the paper clip?",
+        "answer": "No single inventor can be credited. The Gem-style clip appeared in Britain in the 1890s, and the often-repeated story that Norway's Johan Vaaler invented it is a myth, since his patented design was different."
+      },
+      {
+        "question": "Why does a paper clip have two loops?",
+        "answer": "The inner and outer loops press against opposite sides of the paper, creating spring tension that holds the sheets without tearing them."
+      },
+      {
+        "question": "Is there a fun fact about paper clips?",
+        "answer": "During World War II, some Norwegians wore paper clips on their lapels as a quiet symbol of resistance and unity, which helped spread the myth of a Norwegian inventor."
+      }
+    ],
+    "image": {
+      "search_query": "silver paper clips on white paper",
+      "wikimedia_commons_category": "Paper clips",
+      "alt": "A few silver Gem paper clips lying on a sheet of paper"
+    },
+    "tags": [
+      "office",
+      "fastener",
+      "wire",
+      "industrial"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "binder-clip",
+    "name": "Binder clip",
+    "category": "Office, writing & reading",
+    "invention": {
+      "display": "1910",
+      "year": 1910,
+      "approximate": false,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "Washington, D.C.",
+      "modern_country": "United States",
+      "notes": "Patented by Louis E. Baltzley, reportedly to help his father, an author, hold manuscript pages together."
+    },
+    "inventor": "Louis E. Baltzley",
+    "short_description": "A spring-steel clamp with fold-back wire handles for holding thick stacks of paper.",
+    "description": "Louis E. Baltzley designed the binder clip around 1910 as a removable way to bind manuscript pages without punching or sewing them. A triangular spring-steel body grips the paper while two wire handles act as levers to open it and can be folded flat against the stack. It became a standard office fastener and is used today in a range of sizes.",
+    "why_unchanged": "A spring-steel jaw with removable lever handles is cheap, strong and reusable, leaving nothing to improve in the basic mechanism.",
+    "materials": [
+      "spring steel",
+      "steel wire"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the binder clip?",
+        "answer": "Louis E. Baltzley of Washington, D.C., invented it around 1910 and patented the design soon after."
+      },
+      {
+        "question": "Can you remove the handles of a binder clip?",
+        "answer": "Yes. Squeezing a handle lets it pop out of its slots, which is useful for permanently binding a stack or hanging items flat."
+      },
+      {
+        "question": "What are binder clips used for besides paper?",
+        "answer": "People use them as cable organizers, bag clips, phone stands and even hangers, thanks to their strong grip and folding handles."
+      }
+    ],
+    "image": {
+      "search_query": "black binder clips on documents",
+      "wikimedia_commons_category": "Binder clips",
+      "alt": "Black binder clips holding a stack of documents"
+    },
+    "tags": [
+      "office",
+      "fastener",
+      "clip",
+      "modern"
+    ],
+    "confidence": "high"
+  },
+  {
+    "slug": "bulldog-clip",
+    "name": "Bulldog clip",
+    "category": "Office, writing & reading",
+    "invention": {
+      "display": "Late 19th to early 20th century",
+      "year": 1900,
+      "approximate": true,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "Great Britain",
+      "modern_country": "United Kingdom",
+      "notes": "The spring-loaded metal clip with flat jaws is associated with British offices; the name was used as a trade name, but no reliable inventor or exact date is documented."
+    },
+    "inventor": null,
+    "short_description": "A heavy metal clip with a strong spring and flat jaws for clamping papers.",
+    "description": "The bulldog clip consists of two flat metal plates hinged by a coiled spring, often with a hole for hanging on a hook. It became a fixture of offices, workshops and kitchens in Britain and its former colonies. Unlike the binder clip, its jaws open with a single squeeze of the handles.",
+    "why_unchanged": "A spring hinge between two stiff jaws provides all the clamping force needed, so there was nothing to change.",
+    "materials": [
+      "steel",
+      "nickel-plated steel"
+    ],
+    "faqs": [
+      {
+        "question": "Why is it called a bulldog clip?",
+        "answer": "The name evokes the strong, tenacious bite of a bulldog and was used as a trade name in Britain."
+      },
+      {
+        "question": "How is a bulldog clip different from a binder clip?",
+        "answer": "A bulldog clip has two flat hinged jaws and a coiled spring, while a binder clip uses a triangular spring-steel body with removable wire handles."
+      },
+      {
+        "question": "What are bulldog clips used for?",
+        "answer": "Besides papers, they hold drawings to boards, clip artwork, close food bags and hang documents on hooks."
+      }
+    ],
+    "image": {
+      "search_query": "metal bulldog clip holding papers",
+      "wikimedia_commons_category": "Bulldog clips",
+      "alt": "A metal bulldog clip clamping a sheaf of papers"
+    },
+    "tags": [
+      "office",
+      "fastener",
+      "clip",
+      "spring"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "brass-paper-fastener",
+    "name": "Brass paper fastener",
+    "category": "Office, writing & reading",
+    "invention": {
+      "display": "1866",
+      "year": 1866,
+      "approximate": false,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "New York",
+      "modern_country": "United States",
+      "notes": "George W. McGill patented a bendable brass fastener for paper in 1866."
+    },
+    "inventor": "George W. McGill",
+    "short_description": "A small brass pin with a round head and two flat prongs that are pushed through paper and bent apart.",
+    "description": "George W. McGill patented his bendable brass paper fastener in 1866, and it became one of the first widely sold devices for holding papers together. The two prongs are pushed through a hole and folded outward behind the sheets. Today these split-pin fasteners are a staple of classrooms and crafts, used to make moving parts on cardboard models.",
+    "why_unchanged": "Two flat prongs that fold back are the simplest possible removable fastener, so the design never needed revision.",
+    "materials": [
+      "brass",
+      "brass-plated steel"
+    ],
+    "faqs": [
+      {
+        "question": "What is a brass paper fastener called?",
+        "answer": "It is also known as a brad, split pin, or paper fastener, and in some regions a 'butterfly clip'."
+      },
+      {
+        "question": "Who invented the brass paper fastener?",
+        "answer": "George W. McGill patented the bendable brass fastener in 1866; he also patented early stapling devices."
+      },
+      {
+        "question": "How are paper fasteners used in crafts?",
+        "answer": "Because the head lets parts rotate, children use them to make clocks, puppets with movable limbs and spinning wheels."
+      }
+    ],
+    "image": {
+      "search_query": "brass paper fasteners brads",
+      "wikimedia_commons_category": "Paper fasteners",
+      "alt": "A handful of round-headed brass paper fasteners"
+    },
+    "tags": [
+      "office",
+      "fastener",
+      "brass",
+      "industrial"
+    ],
+    "confidence": "high"
+  },
+  {
+    "slug": "treasury-tag",
+    "name": "Treasury tag",
+    "category": "Office, writing & reading",
+    "invention": {
+      "display": "19th century",
+      "year": 1850,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Great Britain",
+      "modern_country": "United Kingdom",
+      "notes": "Associated with British government offices, from which it takes its name; no inventor or precise date is recorded."
+    },
+    "inventor": null,
+    "short_description": "A short length of cord with a metal or plastic bar at each end, used to bind punched papers.",
+    "description": "The treasury tag is threaded through punched holes in documents, with its end bars lying flat to keep pages together while allowing them to be turned. Its name comes from its long use in British government departments such as the Treasury. It is still common in the UK for legal papers, exam scripts and files.",
+    "why_unchanged": "A cord with two toggles holds any number of pages loosely and costs almost nothing, so no improvement has been needed.",
+    "materials": [
+      "cotton cord",
+      "metal",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "Why is it called a treasury tag?",
+        "answer": "The name reflects its long use in British government offices such as HM Treasury for binding official papers."
+      },
+      {
+        "question": "How do you use a treasury tag?",
+        "answer": "Punch holes in the pages, push one end bar through, and the bars on both ends hold the stack together while letting pages turn."
+      },
+      {
+        "question": "Where are treasury tags still used?",
+        "answer": "They remain common in the UK for exam answer sheets, legal bundles and archive files."
+      }
+    ],
+    "image": {
+      "search_query": "treasury tags green cord metal ends",
+      "wikimedia_commons_category": "Treasury tags",
+      "alt": "Green treasury tags with metal end bars"
+    },
+    "tags": [
+      "office",
+      "fastener",
+      "binding",
+      "uk"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "paper-spindle",
+    "name": "Paper spindle",
+    "category": "Office, writing & reading",
+    "invention": {
+      "display": "19th century",
+      "year": 1850,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Europe and North America",
+      "modern_country": null,
+      "notes": "Spikes for holding papers were widely used in 19th-century offices, shops and newspapers; no inventor or place of origin is documented."
+    },
+    "inventor": null,
+    "short_description": "An upright metal spike on a weighted base onto which receipts and notes are impaled.",
+    "description": "The paper spindle, or spike, was a standard fixture in offices, restaurants and newsrooms for collecting receipts, orders and rejected copy. Papers are simply pushed down onto the point and kept in order of arrival. Its use gave rise to the newsroom phrase 'spiked' for a story that was rejected.",
+    "why_unchanged": "A pointed rod on a base is the simplest way to stack papers in order, so its form has never changed.",
+    "materials": [
+      "steel",
+      "cast iron",
+      "wood"
+    ],
+    "faqs": [
+      {
+        "question": "What does it mean when a story is spiked?",
+        "answer": "In newspaper slang a rejected story was impaled on the editor's spike, so 'spiked' came to mean killed or not published."
+      },
+      {
+        "question": "Where are paper spindles still used?",
+        "answer": "They are common in restaurant kitchens and shops for holding order tickets and receipts."
+      },
+      {
+        "question": "Are paper spindles safe?",
+        "answer": "Their sharp point has caused hand injuries, so many modern versions have a bent tip or a guard."
+      }
+    ],
+    "image": {
+      "search_query": "receipt spike paper spindle on desk",
+      "wikimedia_commons_category": "Spindles (office)",
+      "alt": "A metal paper spike holding a stack of receipts"
+    },
+    "tags": [
+      "office",
+      "record-keeping",
+      "receipts"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "pencil",
+    "name": "Pencil",
+    "category": "Office, writing & reading",
+    "invention": {
+      "display": "c. 1560s",
+      "year": 1565,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "England and continental Europe",
+      "modern_country": "United Kingdom",
+      "notes": "A large graphite deposit discovered at Borrowdale, Cumbria, in the mid-16th century supplied the first graphite pencils. Conrad Gessner described a wood-encased writing instrument in 1565; the wood-cased design was developed in Italy and Germany, and Nicolas-Jacques Conté's 1795 clay-graphite process created the modern lead."
+    },
+    "inventor": null,
+    "short_description": "A writing instrument with a core of graphite encased in wood.",
+    "description": "The pencil arose after pure graphite was discovered at Borrowdale in England in the 16th century and sticks of it were wrapped in string or wood. The familiar wooden casing with a glued-in core became standard in Europe, and in 1795 Nicolas-Jacques Conté's method of mixing graphite with clay allowed hardness grades. The hexagonal or round wood-cased pencil has remained essentially the same since.",
+    "why_unchanged": "A cheap graphite core protected by sharpenable wood writes anywhere and erases easily, which no redesign has bettered.",
+    "materials": [
+      "graphite",
+      "clay",
+      "cedar wood",
+      "paint"
+    ],
+    "faqs": [
+      {
+        "question": "Is pencil lead made of lead?",
+        "answer": "No. It is a mixture of graphite and clay; the name comes from early users who mistook graphite for a form of lead."
+      },
+      {
+        "question": "What do HB and 2B mean on a pencil?",
+        "answer": "H stands for hard and B for black; more clay makes a harder, lighter pencil, while more graphite makes a softer, darker one."
+      },
+      {
+        "question": "Why are many pencils painted yellow?",
+        "answer": "In the late 19th century, high-quality Chinese graphite was marketed in yellow pencils as a sign of quality, and the colour became a convention in North America."
+      }
+    ],
+    "image": {
+      "search_query": "wooden pencils graphite",
+      "wikimedia_commons_category": "Pencils",
+      "alt": "Several sharpened wooden pencils in a row"
+    },
+    "tags": [
+      "writing",
+      "graphite",
+      "wood",
+      "early-modern"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "pencil-with-attached-eraser",
+    "name": "Pencil with attached eraser",
+    "category": "Office, writing & reading",
+    "invention": {
+      "display": "1858",
+      "year": 1858,
+      "approximate": false,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Philadelphia",
+      "modern_country": "United States",
+      "notes": "Hymen Lipman received a US patent in 1858 for a pencil with an eraser attached; the patent was later ruled invalid in 1875 as a mere combination of existing items."
+    },
+    "inventor": "Hymen Lipman",
+    "short_description": "A wooden pencil with a rubber eraser held at the end by a metal band.",
+    "description": "Hymen Lipman patented the idea of fixing a piece of rubber to the end of a pencil in 1858. The design was soon held in place by a crimped metal ferrule, the form still sold today. The US Supreme Court invalidated the patent in 1875, which allowed every manufacturer to adopt it.",
+    "why_unchanged": "Putting the eraser where the hand already holds it is so convenient that the combination has never been redesigned.",
+    "materials": [
+      "wood",
+      "graphite",
+      "rubber",
+      "aluminium"
+    ],
+    "faqs": [
+      {
+        "question": "Who put the eraser on the pencil?",
+        "answer": "Hymen Lipman of Philadelphia patented the pencil with an attached eraser in 1858."
+      },
+      {
+        "question": "What is the metal band on a pencil called?",
+        "answer": "It is called a ferrule; it is crimped onto the wood to hold the eraser in place."
+      },
+      {
+        "question": "Why are pencils in Europe often sold without erasers?",
+        "answer": "Many European schools and artists prefer separate erasers, which are larger and do not wear down unevenly, so the eraser-tipped pencil is mainly a North American habit."
+      }
+    ],
+    "image": {
+      "search_query": "pencil with pink eraser and metal ferrule",
+      "wikimedia_commons_category": "Pencils with erasers",
+      "alt": "Close-up of a pencil's pink eraser and metal ferrule"
+    },
+    "tags": [
+      "writing",
+      "eraser",
+      "patent",
+      "industrial"
+    ],
+    "confidence": "high"
+  },
+  {
+    "slug": "mechanical-pencil",
+    "name": "Mechanical pencil",
+    "category": "Office, writing & reading",
+    "invention": {
+      "display": "1822",
+      "year": 1822,
+      "approximate": false,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "London",
+      "modern_country": "United Kingdom",
+      "notes": "Sampson Mordan and John Isaac Hawkins patented a propelling pencil in 1822. Lead holders existed earlier, including one described by Conrad Gessner in 1565 and an example recovered from HMS Pandora, which sank in 1791."
+    },
+    "inventor": "Sampson Mordan and John Isaac Hawkins",
+    "short_description": "A pencil whose thin lead is advanced through a metal or plastic barrel by a mechanism.",
+    "description": "Sampson Mordan and John Isaac Hawkins patented a propelling pencil in London in 1822, and Mordan's company made elegant silver versions for decades. The core idea is a refillable lead pushed forward by a screw or click mechanism, so the pencil never needs sharpening. Modern push-button versions with fine leads follow the same principle.",
+    "why_unchanged": "A refillable barrel that advances a constant-width lead solves the sharpening problem completely.",
+    "materials": [
+      "metal",
+      "plastic",
+      "graphite lead"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the mechanical pencil?",
+        "answer": "The first patent for a propelling pencil was granted to Sampson Mordan and John Isaac Hawkins in Britain in 1822, though simpler lead holders existed before."
+      },
+      {
+        "question": "Why use a mechanical pencil instead of a wooden one?",
+        "answer": "It keeps a consistently fine line, never needs sharpening and stays the same length."
+      },
+      {
+        "question": "What lead sizes are common?",
+        "answer": "The most common widths are 0.5 mm and 0.7 mm, with 0.3 mm and 0.9 mm also widely available."
+      }
+    ],
+    "image": {
+      "search_query": "mechanical pencil with lead",
+      "wikimedia_commons_category": "Mechanical pencils",
+      "alt": "A mechanical pencil with a thin lead extended"
+    },
+    "tags": [
+      "writing",
+      "graphite",
+      "mechanism",
+      "industrial"
+    ],
+    "confidence": "high"
+  },
+  {
+    "slug": "eraser",
+    "name": "Eraser",
+    "category": "Office, writing & reading",
+    "invention": {
+      "display": "1770",
+      "year": 1770,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "England",
+      "modern_country": "United Kingdom",
+      "notes": "In 1770 Joseph Priestley noted that natural rubber could rub out pencil marks, and London instrument maker Edward Nairne is credited with selling cubes of rubber for the purpose. Before that, bread crumbs were used."
+    },
+    "inventor": null,
+    "short_description": "A block of rubber or vinyl used to remove pencil marks from paper.",
+    "description": "Before rubber, people erased pencil marks with lumps of bread. In 1770 Joseph Priestley recorded that a gum from South America could rub out marks, giving the material the English name 'rubber', and instrument maker Edward Nairne sold small cubes of it. Vulcanized rubber in the 19th century made erasers durable, and synthetic vinyl erasers followed in the 20th century, but the simple handheld block is unchanged.",
+    "why_unchanged": "A soft block that lifts graphite by friction needs no mechanism, so only its material has evolved.",
+    "materials": [
+      "natural rubber",
+      "synthetic rubber",
+      "vinyl"
+    ],
+    "faqs": [
+      {
+        "question": "Why is rubber called rubber?",
+        "answer": "In English the material got its name in 1770 because it could 'rub out' pencil marks."
+      },
+      {
+        "question": "What did people use before erasers?",
+        "answer": "Bread crumbs were commonly used to remove pencil marks, and wax tablets could simply be smoothed over."
+      },
+      {
+        "question": "How does an eraser work?",
+        "answer": "The eraser's material is stickier than paper, so as you rub it picks up graphite particles and carries them away in crumbs."
+      }
+    ],
+    "image": {
+      "search_query": "pink rubber eraser on paper",
+      "wikimedia_commons_category": "Erasers",
+      "alt": "A pink rubber eraser beside pencil marks on paper"
+    },
+    "tags": [
+      "writing",
+      "rubber",
+      "correction",
+      "early-modern"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "pencil-sharpener",
+    "name": "Pencil sharpener",
+    "category": "Office, writing & reading",
+    "invention": {
+      "display": "19th century; prism form c. 1908",
+      "year": 1847,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "France and Germany",
+      "modern_country": "France",
+      "notes": "Bernard Lassimonne patented a pencil sharpener in France in 1847, and the familiar small prism-shaped handheld sharpener is often attributed to Theodor Paul Möbius in Germany around 1908. Attributions vary between sources."
+    },
+    "inventor": null,
+    "short_description": "A small device with an angled blade into which a pencil is twisted to sharpen it.",
+    "description": "Pencils were once sharpened with knives, until 19th-century inventors in France patented devices with a conical blade guide. The compact handheld version, a block with a tapered hole and a single screwed-on blade, became common in the early 20th century. The same design is sold in millions today, often with a shavings container added.",
+    "why_unchanged": "A conical hole and a single blade sharpen a pencil perfectly with nothing but a twist of the wrist.",
+    "materials": [
+      "metal",
+      "magnesium alloy",
+      "plastic",
+      "steel blade"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the pencil sharpener?",
+        "answer": "Several 19th-century French inventors patented sharpeners, including Bernard Lassimonne in 1847; the small handheld prism form is often credited to Germany around 1908."
+      },
+      {
+        "question": "How do you keep a sharpener working well?",
+        "answer": "Empty the shavings, keep the blade free of graphite, and replace or tighten the blade when it becomes dull."
+      },
+      {
+        "question": "Why do some sharpeners have two holes?",
+        "answer": "The larger hole fits thick pencils such as coloured or carpenter's pencils, while the smaller fits standard ones."
+      }
+    ],
+    "image": {
+      "search_query": "metal handheld pencil sharpener with shavings",
+      "wikimedia_commons_category": "Pencil sharpeners",
+      "alt": "A small metal pencil sharpener with wood shavings"
+    },
+    "tags": [
+      "writing",
+      "sharpening",
+      "blade",
+      "industrial"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "hand-crank-pencil-sharpener",
+    "name": "Hand-crank pencil sharpener",
+    "category": "Office, writing & reading",
+    "invention": {
+      "display": "1897",
+      "year": 1897,
+      "approximate": false,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Fall River, Massachusetts",
+      "modern_country": "United States",
+      "notes": "John Lee Love patented a portable crank-operated sharpener with a shavings receptacle in 1897. Desk-mounted crank sharpeners with rotating cutters became common in the early 20th century, and attributions for the exact design vary."
+    },
+    "inventor": null,
+    "short_description": "A desk-mounted sharpener in which a crank turns cutters around an inserted pencil.",
+    "description": "Crank-operated sharpeners appeared in the late 19th century; in 1897 John Lee Love patented a portable model that caught shavings in a receptacle. The classic school and office version, screwed to a desk or wall, uses two helical cutters that rotate around the pencil as the handle is turned. Its basic layout has been used in classrooms for more than a century.",
+    "why_unchanged": "Rotating helical cutters give a quick, even point with no skill required, so the crank mechanism has endured.",
+    "materials": [
+      "steel",
+      "cast metal",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "How does a crank sharpener work?",
+        "answer": "Turning the handle spins one or two spiral-edged cutters around the pencil, shaving the wood and graphite into a cone."
+      },
+      {
+        "question": "Who was John Lee Love?",
+        "answer": "He was an African American inventor from Fall River, Massachusetts, who patented a portable pencil sharpener in 1897."
+      },
+      {
+        "question": "Why are crank sharpeners mounted on walls in schools?",
+        "answer": "Fixing them in place lets many students use them quickly and keeps shavings in one container."
+      }
+    ],
+    "image": {
+      "search_query": "hand crank pencil sharpener classroom",
+      "wikimedia_commons_category": "Pencil sharpeners",
+      "alt": "A metal crank pencil sharpener mounted on a wall"
+    },
+    "tags": [
+      "writing",
+      "sharpening",
+      "mechanism",
+      "school"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "colored-pencil",
+    "name": "Colored pencil",
+    "category": "Office, writing & reading",
+    "invention": {
+      "display": "Early 20th century",
+      "year": 1910,
+      "approximate": true,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "Germany and Central Europe",
+      "modern_country": "Germany",
+      "notes": "Coloured drawing pencils were made by several European manufacturers in the late 19th and early 20th centuries; no single inventor or firm is reliably credited."
+    },
+    "inventor": null,
+    "short_description": "A pencil with a core of pigment bound in wax or oil instead of graphite.",
+    "description": "Coloured pencils became widely available from European pencil makers in the early 20th century, using pigments bound in wax or oil and encased in wood like an ordinary pencil. They became a standard tool for children, illustrators and mapmakers. The form is identical to the graphite pencil, with only the core changed.",
+    "why_unchanged": "It borrows the proven wood-cased pencil form, which needs no change to carry colour.",
+    "materials": [
+      "pigment",
+      "wax",
+      "cedar wood"
+    ],
+    "faqs": [
+      {
+        "question": "How are colored pencils different from crayons?",
+        "answer": "Colored pencils have a thin, harder core encased in wood, allowing fine detail, while crayons are solid wax sticks."
+      },
+      {
+        "question": "Can colored pencils be erased?",
+        "answer": "Lightly applied colour can often be lifted with a plastic eraser, but heavy wax-based layers are hard to remove."
+      },
+      {
+        "question": "What are watercolor pencils?",
+        "answer": "They have water-soluble cores, so colour laid down dry can be blended with a wet brush."
+      }
+    ],
+    "image": {
+      "search_query": "colored pencils in a row",
+      "wikimedia_commons_category": "Colored pencils",
+      "alt": "A row of sharpened colored pencils"
+    },
+    "tags": [
+      "writing",
+      "drawing",
+      "art",
+      "modern"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "carpenters-pencil",
+    "name": "Carpenter's pencil",
+    "category": "Office, writing & reading",
+    "invention": {
+      "display": "16th to 17th century",
+      "year": 1600,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Europe",
+      "modern_country": null,
+      "notes": "Flat, rectangular pencils were made from early in pencil history for marking on rough surfaces; no specific origin or inventor is documented."
+    },
+    "inventor": null,
+    "short_description": "A flat, rectangular pencil with a wide lead, used for marking wood and stone.",
+    "description": "The carpenter's pencil has a flat body so it does not roll off sloping surfaces and a broad lead that resists breaking on rough timber. It is usually sharpened with a knife into a chisel point that can draw thick or thin lines. Builders and joiners have used the same shape for centuries.",
+    "why_unchanged": "A flat body that cannot roll and a strong wide lead are exactly what builders need, so the shape persists.",
+    "materials": [
+      "wood",
+      "graphite"
+    ],
+    "faqs": [
+      {
+        "question": "Why is a carpenter's pencil flat?",
+        "answer": "The flat shape stops it rolling away on roofs and benches and makes the wide lead stronger."
+      },
+      {
+        "question": "How do you sharpen a carpenter's pencil?",
+        "answer": "Most people use a utility knife to carve a chisel-shaped point, although special sharpeners also exist."
+      },
+      {
+        "question": "What lead does a carpenter's pencil use?",
+        "answer": "Usually a soft, thick graphite lead that marks clearly on wood, though versions for stone and wet surfaces exist."
+      }
+    ],
+    "image": {
+      "search_query": "flat carpenter pencil on timber",
+      "wikimedia_commons_category": "Carpenter's pencils",
+      "alt": "A flat red carpenter's pencil lying on a plank"
+    },
+    "tags": [
+      "writing",
+      "construction",
+      "graphite"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "quill-pen",
+    "name": "Quill pen",
+    "category": "Office, writing & reading",
+    "invention": {
+      "display": "c. 6th to 7th century",
+      "year": 600,
+      "approximate": true,
+      "era": "Medieval"
+    },
+    "place_of_invention": {
+      "region": "Western Europe",
+      "modern_country": null,
+      "notes": "Isidore of Seville (early 7th century) is often cited for an early written reference to bird-feather pens; quills may have been used earlier, and they dominated European writing until the 19th century."
+    },
+    "inventor": null,
+    "short_description": "A pen made from a large bird feather whose hollow shaft is cut to a writing point.",
+    "description": "Quill pens, usually cut from goose flight feathers, replaced reed pens in Europe during the early Middle Ages and were used to write most medieval manuscripts and documents such as the Magna Carta and the US Declaration of Independence. The shaft is hardened, cut to a slit nib and dipped in ink. Calligraphers still cut and use quills in the traditional way.",
+    "why_unchanged": "A hollow feather shaft already holds ink and flexes like a nib, so its natural form needed no improvement.",
+    "materials": [
+      "goose feather",
+      "swan feather",
+      "turkey feather"
+    ],
+    "faqs": [
+      {
+        "question": "Which feathers make the best quills?",
+        "answer": "Primary flight feathers from geese were most common, with swan feathers prized for their size and crow feathers used for fine lines."
+      },
+      {
+        "question": "Where does the word pen come from?",
+        "answer": "It comes from the Latin penna, meaning feather."
+      },
+      {
+        "question": "Why do we have penknives?",
+        "answer": "Small folding knives were originally made to cut and re-sharpen quill pens, which is how the penknife got its name."
+      }
+    ],
+    "image": {
+      "search_query": "quill pen and inkwell",
+      "wikimedia_commons_category": "Quill pens",
+      "alt": "A white feather quill pen resting in an inkwell"
+    },
+    "tags": [
+      "writing",
+      "feather",
+      "medieval",
+      "calligraphy"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "reed-pen",
+    "name": "Reed pen",
+    "category": "Office, writing & reading",
+    "invention": {
+      "display": "c. 3rd century BCE",
+      "year": -250,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Egypt and the eastern Mediterranean",
+      "modern_country": "Egypt",
+      "notes": "Egyptian scribes used rush brushes from about 3000 BCE; the split-nib reed pen (Greek kalamos) came into use in Greco-Roman Egypt around the 3rd century BCE. Reed styluses for cuneiform are a separate tool."
+    },
+    "inventor": null,
+    "short_description": "A pen cut from a hollow reed stem with a split nib, dipped in ink to write.",
+    "description": "The reed pen was the main writing instrument of the Greco-Roman world, used on papyrus and later parchment. A length of reed is cut at an angle and split at the tip so ink flows to the writing edge. It is still used for Arabic calligraphy, where it is called a qalam.",
+    "why_unchanged": "A hollow reed naturally carries ink and can be cut to any nib width, so it needs no redesign.",
+    "materials": [
+      "reed",
+      "bamboo"
+    ],
+    "faqs": [
+      {
+        "question": "What is a qalam?",
+        "answer": "It is the Arabic name for the reed pen, still used by calligraphers to write Arabic script."
+      },
+      {
+        "question": "How is a reed pen cut?",
+        "answer": "The reed is cut at an angle with a knife, its tip shaped and split with a slit so ink is drawn down to the writing edge."
+      },
+      {
+        "question": "Did the ancient Egyptians use reed pens?",
+        "answer": "Early Egyptian scribes used rush stems chewed into brushes; the split reed pen became common in Egypt in the Greco-Roman period."
+      }
+    ],
+    "image": {
+      "search_query": "reed pen calligraphy qalam",
+      "wikimedia_commons_category": "Reed pens",
+      "alt": "A cut reed pen beside Arabic calligraphy"
+    },
+    "tags": [
+      "writing",
+      "reed",
+      "ancient",
+      "calligraphy"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "dip-pen",
+    "name": "Dip pen",
+    "category": "Office, writing & reading",
+    "invention": {
+      "display": "1820s (mass-produced steel nib)",
+      "year": 1822,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Birmingham",
+      "modern_country": "United Kingdom",
+      "notes": "Metal nibs date back to antiquity, but mass production of cheap steel nibs began in Birmingham in the 1820s with makers such as John Mitchell, Josiah Mason and Joseph Gillott; no single inventor is credited."
+    },
+    "inventor": null,
+    "short_description": "A pen with a replaceable metal nib on a holder, dipped in ink to write.",
+    "description": "Steel nibs pressed by machine in Birmingham in the 1820s made dip pens cheap, and they rapidly replaced quills for everyday writing in the 19th century. The nib is slotted into a wooden or plastic holder and dipped into an inkwell, holding enough ink for a few words. Calligraphers, illustrators and comic artists still use the same design.",
+    "why_unchanged": "A slit metal nib on a simple holder gives fine line control that artists still prefer.",
+    "materials": [
+      "steel",
+      "wood",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "Why do artists still use dip pens?",
+        "answer": "Flexible nibs produce lines that vary in width with pressure, and they work with inks that would clog fountain pens."
+      },
+      {
+        "question": "Where were steel nibs made?",
+        "answer": "Birmingham, England, was the world centre of steel nib production in the 19th century."
+      },
+      {
+        "question": "How often must you dip the pen?",
+        "answer": "Typically every few words or lines, depending on the nib size and the ink."
+      }
+    ],
+    "image": {
+      "search_query": "dip pen nib holder ink",
+      "wikimedia_commons_category": "Dip pens",
+      "alt": "A dip pen with a steel nib beside a bottle of ink"
+    },
+    "tags": [
+      "writing",
+      "nib",
+      "ink",
+      "industrial"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "inkwell",
+    "name": "Inkwell",
+    "category": "Office, writing & reading",
+    "invention": {
+      "display": "Antiquity (by the 1st century CE)",
+      "year": 50,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Roman Empire",
+      "modern_country": "Italy",
+      "notes": "Ink containers are known from ancient Egypt and China; Roman bronze and ceramic inkwells are found widely across the empire. The date given reflects Roman examples, not the first ink container."
+    },
+    "inventor": null,
+    "short_description": "A small container for holding ink into which a pen is dipped.",
+    "description": "Inkwells have been used wherever people wrote with dipped pens, from Roman scribes to Victorian schoolchildren. Typical designs have a narrow opening to limit spills and evaporation and a heavy base to prevent tipping. Many old school desks had a hole to hold one, and inkwells remain in use with dip pens and calligraphy.",
+    "why_unchanged": "A small, stable, narrow-mouthed pot is all a dip pen needs, so its form has not changed.",
+    "materials": [
+      "glass",
+      "ceramic",
+      "bronze",
+      "silver"
+    ],
+    "faqs": [
+      {
+        "question": "Why did old school desks have holes?",
+        "answer": "The hole held a ceramic inkwell so pupils could dip their pens without knocking the ink over."
+      },
+      {
+        "question": "What is a non-spill inkwell?",
+        "answer": "It has an inward-sloping funnel at the top so ink does not pour out if the well is tipped."
+      },
+      {
+        "question": "Are inkwells still made?",
+        "answer": "Yes, they are made for calligraphers and dip-pen artists as well as decorative desk sets."
+      }
+    ],
+    "image": {
+      "search_query": "glass inkwell with quill",
+      "wikimedia_commons_category": "Inkwells",
+      "alt": "A glass inkwell on a wooden desk"
+    },
+    "tags": [
+      "writing",
+      "ink",
+      "ancient",
+      "container"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "fountain-pen",
+    "name": "Fountain pen",
+    "category": "Office, writing & reading",
+    "invention": {
+      "display": "1884 (practical form)",
+      "year": 1884,
+      "approximate": false,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "New York",
+      "modern_country": "United States",
+      "notes": "Reservoir pens existed much earlier, including one reported for the Fatimid caliph al-Mu'izz in 973 and Petrache Poenaru's 1827 French patent. Lewis Waterman's 1884 patent for an improved capillary feed is widely seen as producing the first reliable fountain pen."
+    },
+    "inventor": null,
+    "short_description": "A nib pen with an internal ink reservoir that feeds ink by capillary action.",
+    "description": "Inventors experimented with self-filling pens for centuries, but early models leaked or skipped. In the 1880s improved feeds, notably Lewis Waterman's 1884 design, regulated ink flow with air channels and made the fountain pen practical. The basic parts, a nib, a feed and a reservoir in a capped barrel, are unchanged in modern pens.",
+    "why_unchanged": "A nib, feed and reservoir balance ink and air perfectly, so later changes only affected filling systems and materials.",
+    "materials": [
+      "gold",
+      "steel",
+      "plastic resin",
+      "celluloid"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the fountain pen?",
+        "answer": "Many people contributed; Petrache Poenaru patented one in 1827, and Lewis Waterman's 1884 feed made it reliable."
+      },
+      {
+        "question": "How does a fountain pen work?",
+        "answer": "Capillary action draws ink through narrow channels in the feed to the nib, while air enters to replace the ink used."
+      },
+      {
+        "question": "Why do fountain pen nibs have a hole?",
+        "answer": "The breather hole ends the slit, lets air in, and helps the nib flex without cracking."
+      }
+    ],
+    "image": {
+      "search_query": "fountain pen nib writing",
+      "wikimedia_commons_category": "Fountain pens",
+      "alt": "A fountain pen nib writing in cursive on paper"
+    },
+    "tags": [
+      "writing",
+      "nib",
+      "ink",
+      "industrial"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "ballpoint-pen",
+    "name": "Ballpoint pen",
+    "category": "Office, writing & reading",
+    "invention": {
+      "display": "1938",
+      "year": 1938,
+      "approximate": false,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "Budapest",
+      "modern_country": "Hungary",
+      "notes": "László Bíró patented his ballpoint in Hungary in 1938 and developed it further in Argentina from 1943. American John J. Loud had patented a ball-tip marker in 1888, but it was too coarse for writing."
+    },
+    "inventor": "László Bíró",
+    "short_description": "A pen that writes with a tiny rotating ball which transfers oil-based ink to paper.",
+    "description": "Hungarian journalist László Bíró, with his brother György, developed a pen with a small metal ball at its tip and quick-drying viscous ink, patenting it in 1938. After moving to Argentina he refined it, and the design spread worldwide after World War II, with Marcel Bich's cheap Bic Cristal of 1950 making it universal. The ball-in-socket tip and ink tube remain the core of every ballpoint.",
+    "why_unchanged": "A rolling ball that seals the ink and writes on almost any surface is cheap and reliable, leaving little to improve.",
+    "materials": [
+      "plastic",
+      "brass",
+      "tungsten carbide",
+      "oil-based ink"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the ballpoint pen?",
+        "answer": "László Bíró of Hungary is credited with the first practical ballpoint, patented in 1938."
+      },
+      {
+        "question": "Why do ballpoint pens sometimes skip?",
+        "answer": "The ball needs friction to roll; on greasy or glossy surfaces it slides instead, starving the tip of ink."
+      },
+      {
+        "question": "What do people in some countries call a ballpoint?",
+        "answer": "In Britain, Argentina and elsewhere it is often called a 'biro' after its inventor."
+      }
+    ],
+    "image": {
+      "search_query": "ballpoint pen on notebook",
+      "wikimedia_commons_category": "Ballpoint pens",
+      "alt": "A clear plastic ballpoint pen lying on a notebook"
+    },
+    "tags": [
+      "writing",
+      "pen",
+      "ink",
+      "modern"
+    ],
+    "confidence": "high"
+  },
+  {
+    "slug": "rollerball-pen",
+    "name": "Rollerball pen",
+    "category": "Office, writing & reading",
+    "invention": {
+      "display": "1963",
+      "year": 1963,
+      "approximate": false,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "Japan",
+      "modern_country": "Japan",
+      "notes": "The Japanese company Ohto is generally credited with introducing the first rollerball pen using water-based ink in 1963."
+    },
+    "inventor": null,
+    "short_description": "A pen with a ballpoint-style tip that uses liquid, water-based ink.",
+    "description": "The rollerball uses the same rolling-ball tip as a ballpoint, but with thinner water-based or gel ink that flows more freely. It was introduced by the Japanese firm Ohto in 1963 and later popularised worldwide. It writes with less pressure and a smoother, darker line.",
+    "why_unchanged": "It keeps the proven ball-in-socket tip, changing only the ink.",
+    "materials": [
+      "plastic",
+      "metal",
+      "water-based ink"
+    ],
+    "faqs": [
+      {
+        "question": "What is the difference between a rollerball and a ballpoint?",
+        "answer": "Both use a rolling ball, but a rollerball uses liquid water-based ink rather than thick oil-based ink, so it writes more smoothly."
+      },
+      {
+        "question": "Do rollerball pens dry out?",
+        "answer": "Yes, liquid ink evaporates faster, so rollerballs usually have caps that must be replaced."
+      },
+      {
+        "question": "Is a gel pen a rollerball?",
+        "answer": "Gel pens are a type of rollerball that use a pigmented gel ink."
+      }
+    ],
+    "image": {
+      "search_query": "rollerball pen writing",
+      "wikimedia_commons_category": "Rollerball pens",
+      "alt": "A capped rollerball pen beside handwritten notes"
+    },
+    "tags": [
+      "writing",
+      "pen",
+      "ink",
+      "modern",
+      "japan"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "felt-tip-marker",
+    "name": "Felt-tip marker",
+    "category": "Office, writing & reading",
+    "invention": {
+      "display": "1950s",
+      "year": 1952,
+      "approximate": true,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "United States",
+      "modern_country": "United States",
+      "notes": "Lee Newman patented a felt-tipped marking pen in 1910 and Sidney Rosenthal's Magic Marker of 1952 popularised the form; Yukio Horie of Pentel introduced the fine fibre-tip pen in 1962. Credit varies by type."
+    },
+    "inventor": null,
+    "short_description": "A pen with a porous felt or fibre tip that draws ink from a reservoir.",
+    "description": "Felt-tipped markers combine an ink reservoir with a porous tip that wicks ink to the surface. Sidney Rosenthal's Magic Marker of 1952 made them popular for signs and art, and Japan's Pentel introduced the fine-tip version in 1962. The capped barrel with a fibre nib is unchanged in today's markers.",
+    "why_unchanged": "A wick tip fed from a reservoir delivers bold, even colour with no moving parts.",
+    "materials": [
+      "plastic",
+      "felt",
+      "polyester fibre",
+      "ink"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the marker?",
+        "answer": "Lee Newman patented an early felt-tip pen in 1910, Sidney Rosenthal popularised it as the Magic Marker in 1952, and Pentel created the fine-tip pen in 1962."
+      },
+      {
+        "question": "Why do markers dry out?",
+        "answer": "The ink's solvent evaporates through the porous tip, so the cap must be replaced after use."
+      },
+      {
+        "question": "What is a permanent marker?",
+        "answer": "A marker using alcohol-based, water-resistant ink that bonds to many surfaces."
+      }
+    ],
+    "image": {
+      "search_query": "felt tip markers colorful",
+      "wikimedia_commons_category": "Markers (pens)",
+      "alt": "A set of colourful felt-tip markers"
+    },
+    "tags": [
+      "writing",
+      "marker",
+      "ink",
+      "modern"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "highlighter",
+    "name": "Highlighter",
+    "category": "Office, writing & reading",
+    "invention": {
+      "display": "1963",
+      "year": 1963,
+      "approximate": false,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "United States",
+      "modern_country": "United States",
+      "notes": "The Carter's Ink Company introduced the Hi-Liter in 1963; Frank Honn is sometimes named as the developer, but sources vary."
+    },
+    "inventor": null,
+    "short_description": "A broad-tipped marker with translucent fluorescent ink used to mark text.",
+    "description": "The highlighter was introduced in 1963 by the Carter's Ink Company as the Hi-Liter, a felt-tip pen with transparent ink that marked text without obscuring it. Fluorescent inks made it brighter in the 1970s. The chisel-tip marker in yellow remains one of the most familiar study tools.",
+    "why_unchanged": "A wide chisel tip and see-through ink do one job perfectly, so the design has stayed the same.",
+    "materials": [
+      "plastic",
+      "polyester fibre",
+      "fluorescent ink"
+    ],
+    "faqs": [
+      {
+        "question": "Why is yellow the most popular highlighter colour?",
+        "answer": "Yellow is bright and does not obscure text, and it does not show up when photocopied."
+      },
+      {
+        "question": "Why do highlighters glow?",
+        "answer": "Their fluorescent dyes absorb ultraviolet light and re-emit it as visible light, making the colour look brighter."
+      },
+      {
+        "question": "Does highlighting help you study?",
+        "answer": "Research suggests highlighting alone is a weak study technique; it works better combined with summarising or self-testing."
+      }
+    ],
+    "image": {
+      "search_query": "yellow highlighter on text",
+      "wikimedia_commons_category": "Highlighters",
+      "alt": "A yellow highlighter marking a line of printed text"
+    },
+    "tags": [
+      "writing",
+      "marker",
+      "study",
+      "modern"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "correction-fluid",
+    "name": "Correction fluid",
+    "category": "Office, writing & reading",
+    "invention": {
+      "display": "1956",
+      "year": 1956,
+      "approximate": false,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "Dallas, Texas",
+      "modern_country": "United States",
+      "notes": "Bette Nesmith Graham, a secretary, created a white tempera-based correction fluid in 1956, sold as Mistake Out and later Liquid Paper."
+    },
+    "inventor": "Bette Nesmith Graham",
+    "short_description": "An opaque white fluid painted over typing or writing mistakes to cover them.",
+    "description": "Typist Bette Nesmith Graham began painting over her errors with white tempera paint in the 1950s and founded a company to sell it, later renamed Liquid Paper. The small bottle with a brush in the cap became a staple of offices. Pen-style and tape versions followed, but the bottle-and-brush form remains.",
+    "why_unchanged": "A small bottle with a cap brush covers mistakes quickly and precisely, so it never needed a new design.",
+    "materials": [
+      "titanium dioxide",
+      "solvent",
+      "plastic bottle"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented correction fluid?",
+        "answer": "Bette Nesmith Graham, a Texas secretary, invented it in 1956."
+      },
+      {
+        "question": "Is there a fun fact about its inventor?",
+        "answer": "Bette Nesmith Graham's son was Michael Nesmith of the band The Monkees."
+      },
+      {
+        "question": "What is correction fluid made of?",
+        "answer": "It is mostly white titanium dioxide pigment mixed with a quick-drying solvent and resins."
+      }
+    ],
+    "image": {
+      "search_query": "correction fluid bottle brush",
+      "wikimedia_commons_category": "Correction fluid",
+      "alt": "A bottle of white correction fluid with its brush applicator"
+    },
+    "tags": [
+      "writing",
+      "correction",
+      "office",
+      "modern"
+    ],
+    "confidence": "high"
+  },
+  {
+    "slug": "stylus",
+    "name": "Stylus",
+    "category": "Office, writing & reading",
+    "invention": {
+      "display": "c. 3200 BCE",
+      "year": -3200,
+      "approximate": true,
+      "era": "Prehistoric"
+    },
+    "place_of_invention": {
+      "region": "Mesopotamia (Sumer)",
+      "modern_country": "Iraq",
+      "notes": "Reed styluses were used to impress cuneiform signs into clay tablets in Sumer from the late 4th millennium BCE; metal and bone styluses for wax tablets followed in Greece and Rome."
+    },
+    "inventor": null,
+    "short_description": "A pointed stick used to write by pressing or scratching into a surface.",
+    "description": "The stylus is one of the oldest writing tools: Sumerian scribes pressed cut reeds into wet clay to form cuneiform signs, and Romans scratched wax tablets with metal styluses whose flat end erased mistakes. The same pointed-stick form lives on in the styluses used with touchscreens today. Its job, guiding a precise point by hand, has never changed.",
+    "why_unchanged": "A pointed shaft held like a finger is the most direct way to mark a surface, so its form has persisted for five thousand years.",
+    "materials": [
+      "reed",
+      "bone",
+      "bronze",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "What was a stylus used for in ancient times?",
+        "answer": "Scribes used it to press cuneiform signs into clay or to scratch letters into wax tablets."
+      },
+      {
+        "question": "Why did Roman styluses have a flat end?",
+        "answer": "The flat end was used to smooth the wax and erase mistakes."
+      },
+      {
+        "question": "Is a touchscreen pen a stylus?",
+        "answer": "Yes, digital styluses continue the same idea of guiding a fine point by hand, now on a screen."
+      }
+    ],
+    "image": {
+      "search_query": "ancient roman stylus and wax tablet",
+      "wikimedia_commons_category": "Styli",
+      "alt": "A bronze Roman stylus beside a wax tablet"
+    },
+    "tags": [
+      "writing",
+      "ancient",
+      "clay",
+      "mesopotamia"
+    ],
+    "confidence": "medium"
+  }
+]

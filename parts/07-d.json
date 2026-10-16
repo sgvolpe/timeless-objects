@@ -1,0 +1,1266 @@
+[
+  {
+    "slug": "candelabrum",
+    "name": "Candelabrum",
+    "category": "Household & furniture",
+    "invention": {
+      "display": "c. 1st millennium BCE",
+      "year": -500,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Etruria and Rome",
+      "modern_country": "Italy",
+      "notes": "Tall bronze lamp and candle stands were made by Etruscans and Romans; the branched multi-candle form became common in medieval and Renaissance Europe. The seven-branched Jewish menorah is an ancient related form."
+    },
+    "inventor": null,
+    "short_description": "A decorative holder with several branches for multiple candles.",
+    "description": "Etruscan and Roman craftsmen made tall bronze stands to hold lamps or candles, giving us the Latin word candelabrum. Branched candle holders spread through medieval churches and Renaissance palaces, multiplying light from a single stand. Candelabra are still used for formal dining and ceremonies.",
+    "why_unchanged": "Several arms from one base multiply light while sharing one stable support.",
+    "materials": [
+      "silver",
+      "brass",
+      "bronze",
+      "iron"
+    ],
+    "faqs": [
+      {
+        "question": "What is the plural of candelabrum?",
+        "answer": "The traditional plural is candelabra, though 'candelabra' is often used as a singular today."
+      },
+      {
+        "question": "Is a menorah a candelabrum?",
+        "answer": "Yes; the menorah is a ritual candelabrum, with seven branches in the Temple form and nine in the Hanukkah form."
+      },
+      {
+        "question": "Why do candelabra appear at formal dinners?",
+        "answer": "They provide flattering light and a sense of occasion, a tradition from aristocratic dining."
+      }
+    ],
+    "image": {
+      "search_query": "silver candelabrum with candles",
+      "wikimedia_commons_category": "Candelabra",
+      "alt": "A silver candelabrum holding lit candles"
+    },
+    "tags": [
+      "lighting",
+      "fire",
+      "ancient"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "fire-screen",
+    "name": "Fire screen",
+    "category": "Household & furniture",
+    "invention": {
+      "display": "17th-18th century",
+      "year": 1700,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Europe",
+      "modern_country": "Various",
+      "notes": "Screens to shield people from the heat of open fires and guards to stop sparks became common household items in early modern Europe; exact origin unknown."
+    },
+    "inventor": null,
+    "short_description": "A panel or mesh placed in front of a fireplace to block sparks or heat.",
+    "description": "Pole screens and panel screens in 18th-century homes shielded faces from the fierce heat of open fires, important when wax-based cosmetics could melt. Mesh spark guards stop embers from flying onto floors. Fire screens are still standard accessories for open fireplaces.",
+    "why_unchanged": "A barrier between fire and room is all that is needed, so the form has not changed.",
+    "materials": [
+      "wrought iron",
+      "brass",
+      "steel mesh",
+      "glass"
+    ],
+    "faqs": [
+      {
+        "question": "What was a pole screen?",
+        "answer": "It was a small adjustable panel on a pole used to shield a person's face from the heat of the fire."
+      },
+      {
+        "question": "Why are mesh fire screens important?",
+        "answer": "They stop sparks and embers from flying out and starting fires or burning carpets."
+      },
+      {
+        "question": "Do fire screens need to be fire-proof?",
+        "answer": "Yes; modern spark guards are made of metal mesh or tempered glass to withstand heat."
+      }
+    ],
+    "image": {
+      "search_query": "fireplace screen",
+      "wikimedia_commons_category": "Fire screens",
+      "alt": "A metal fire screen in front of a fireplace"
+    },
+    "tags": [
+      "fire",
+      "hearth",
+      "early modern"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "fire-tongs",
+    "name": "Fire tongs",
+    "category": "Household & furniture",
+    "invention": {
+      "display": "Ancient",
+      "year": -500,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Mediterranean and Near East",
+      "modern_country": "Various",
+      "notes": "Tongs were used by metalworkers from the Bronze Age, and hearth tongs for handling fuel appear in Greek and Roman households; no single origin can be given."
+    },
+    "inventor": null,
+    "short_description": "Hinged metal tongs used to pick up and arrange logs or coals in a fire.",
+    "description": "Smiths used tongs to handle hot metal since the Bronze Age, and similar tongs were adopted for household hearths. Fire tongs let you lift and place logs or coals safely without touching them. They are part of standard fireplace tool sets today.",
+    "why_unchanged": "Two hinged arms grip securely at a distance from the heat, which cannot be simplified.",
+    "materials": [
+      "wrought iron",
+      "steel",
+      "brass"
+    ],
+    "faqs": [
+      {
+        "question": "What are fire tongs used for?",
+        "answer": "They pick up and move logs, coals and burning pieces to arrange the fire safely."
+      },
+      {
+        "question": "Are fire tongs the same as blacksmith tongs?",
+        "answer": "They share the same principle, but blacksmith tongs are heavier and made to hold hot metal firmly."
+      },
+      {
+        "question": "What does 'go at it hammer and tongs' mean?",
+        "answer": "It means doing something with great energy, from the vigorous work of a blacksmith."
+      }
+    ],
+    "image": {
+      "search_query": "fireplace tongs",
+      "wikimedia_commons_category": "Fireplace tools",
+      "alt": "A pair of iron fireplace tongs"
+    },
+    "tags": [
+      "fire",
+      "hearth",
+      "ancient"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "andirons",
+    "name": "Andirons",
+    "category": "Household & furniture",
+    "invention": {
+      "display": "Iron Age (c. 1st century BCE)",
+      "year": -100,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Iron Age Britain and Gaul",
+      "modern_country": "United Kingdom",
+      "notes": "Iron firedogs, such as the Welwyn and Capel Garmon examples from Iron Age Britain, are among the earliest known; clay firedogs were used earlier in Europe."
+    },
+    "inventor": null,
+    "short_description": "A pair of metal supports that hold logs off the floor of a fireplace.",
+    "description": "Andirons, also called firedogs, raise logs so air can circulate beneath them, helping the fire burn well. Iron Age Celtic peoples made elaborate iron firedogs with animal-head finials. Andirons remain standard in wood-burning fireplaces.",
+    "why_unchanged": "Raising logs on two simple supports improves airflow, and that is all they need to do.",
+    "materials": [
+      "wrought iron",
+      "cast iron",
+      "brass"
+    ],
+    "faqs": [
+      {
+        "question": "Why are andirons called firedogs?",
+        "answer": "Many old examples had animal-head decorations, and they 'sit' on either side of the fire like dogs."
+      },
+      {
+        "question": "Why do logs burn better on andirons?",
+        "answer": "Lifting logs allows air to flow underneath, giving the fire more oxygen."
+      },
+      {
+        "question": "What is the Capel Garmon firedog?",
+        "answer": "It is an elaborate Iron Age firedog found in Wales, now in the National Museum Wales."
+      }
+    ],
+    "image": {
+      "search_query": "cast iron andirons fireplace",
+      "wikimedia_commons_category": "Andirons",
+      "alt": "A pair of iron andirons in a fireplace"
+    },
+    "tags": [
+      "fire",
+      "hearth",
+      "iron age"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "paper-lantern",
+    "name": "Paper lantern",
+    "category": "Household & furniture",
+    "invention": {
+      "display": "Eastern Han dynasty (c. 2nd century CE)",
+      "year": 150,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "China",
+      "modern_country": "China",
+      "notes": "Paper lanterns followed the development of papermaking in Han China; the exact date of the first paper lantern is uncertain, and silk lanterns may have come first."
+    },
+    "inventor": null,
+    "short_description": "A lantern made of paper stretched over a frame of bamboo or wire.",
+    "description": "After papermaking was refined in Han dynasty China, paper stretched over bamboo frames was used to shield and diffuse candle flames. Lanterns became central to festivals such as the Lantern Festival marking the end of Chinese New Year. Paper lanterns are still made the same way and used for decoration around the world.",
+    "why_unchanged": "Paper on a light frame diffuses light beautifully and folds flat, needing no improvement.",
+    "materials": [
+      "paper",
+      "bamboo",
+      "wire",
+      "silk"
+    ],
+    "faqs": [
+      {
+        "question": "What is the Lantern Festival?",
+        "answer": "It is a Chinese festival held on the 15th day of the first lunar month, marking the end of New Year celebrations."
+      },
+      {
+        "question": "Are paper lanterns safe with candles?",
+        "answer": "Real flames can ignite paper, so LED lights are commonly used today."
+      },
+      {
+        "question": "What is a chōchin?",
+        "answer": "A chōchin is a traditional Japanese collapsible paper lantern, often hung outside shops and shrines."
+      }
+    ],
+    "image": {
+      "search_query": "red chinese paper lanterns",
+      "wikimedia_commons_category": "Paper lanterns",
+      "alt": "Red Chinese paper lanterns hanging"
+    },
+    "tags": [
+      "lighting",
+      "china",
+      "festival"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "kerosene-lamp",
+    "name": "Kerosene lamp",
+    "category": "Household & furniture",
+    "invention": {
+      "display": "1853",
+      "year": 1853,
+      "approximate": false,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Lviv (then Austrian Galicia)",
+      "modern_country": "Ukraine",
+      "notes": "Ignacy Łukasiewicz built a practical kerosene lamp in Lviv in 1853, after distilling kerosene from petroleum; Abraham Gesner had earlier produced kerosene from coal."
+    },
+    "inventor": "Ignacy Łukasiewicz",
+    "short_description": "A lamp that burns kerosene through a flat wick, shielded by a glass chimney.",
+    "description": "Polish pharmacist Ignacy Łukasiewicz distilled kerosene from crude oil and, in 1853, built a lamp to burn it, lighting a hospital operation in Lviv. Kerosene lamps quickly replaced whale-oil lamps and candles worldwide. The fuel tank, adjustable wick and glass chimney are still produced today.",
+    "why_unchanged": "An adjustable wick and glass chimney give a bright, steady flame with no further refinement needed.",
+    "materials": [
+      "glass",
+      "brass",
+      "steel",
+      "cotton wick"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the kerosene lamp?",
+        "answer": "Ignacy Łukasiewicz built the first practical kerosene lamp in Lviv in 1853."
+      },
+      {
+        "question": "What does the glass chimney do?",
+        "answer": "It creates an updraft that feeds air to the flame and shields it from drafts, making it bright and steady."
+      },
+      {
+        "question": "Are kerosene lamps still used?",
+        "answer": "Yes, in areas without electricity and as emergency or decorative lighting."
+      }
+    ],
+    "image": {
+      "search_query": "vintage kerosene lamp",
+      "wikimedia_commons_category": "Kerosene lamps",
+      "alt": "A vintage kerosene lamp with glass chimney"
+    },
+    "tags": [
+      "lighting",
+      "fire",
+      "industrial"
+    ],
+    "confidence": "high"
+  },
+  {
+    "slug": "wind-chime",
+    "name": "Wind chime",
+    "category": "Household & furniture",
+    "invention": {
+      "display": "Ancient (c. 1st millennium BCE)",
+      "year": -1000,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "China and the Roman world",
+      "modern_country": "Various",
+      "notes": "Bronze bells hung to ring in the wind were used in ancient China, and Romans hung bronze tintinnabula; the idea likely arose independently in several cultures."
+    },
+    "inventor": null,
+    "short_description": "A set of hanging tubes, rods or bells that ring when moved by the wind.",
+    "description": "Wind bells were hung from the eaves of Chinese temples and pagodas to ring in the breeze, and Romans hung bronze chimes believed to ward off evil. Today wind chimes made of metal tubes, bamboo or glass hang in gardens and porches. Their form remains simple hanging sounding pieces.",
+    "why_unchanged": "Free-hanging pieces struck by a central clapper make music from any breeze, with nothing to improve.",
+    "materials": [
+      "metal",
+      "bamboo",
+      "glass",
+      "wood"
+    ],
+    "faqs": [
+      {
+        "question": "How are wind chimes tuned?",
+        "answer": "The length, thickness and material of each tube determine its pitch, so tubes are cut to specific lengths."
+      },
+      {
+        "question": "What is a fūrin?",
+        "answer": "A fūrin is a Japanese glass or metal wind bell, traditionally hung in summer for its cooling sound."
+      },
+      {
+        "question": "Why did Romans hang wind chimes?",
+        "answer": "Roman tintinnabula were believed to ward off evil spirits and bring good luck."
+      }
+    ],
+    "image": {
+      "search_query": "metal wind chime",
+      "wikimedia_commons_category": "Wind chimes",
+      "alt": "A metal wind chime hanging from a porch"
+    },
+    "tags": [
+      "decor",
+      "sound",
+      "ancient"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "high-chair",
+    "name": "High chair",
+    "category": "Household & furniture",
+    "invention": {
+      "display": "18th century",
+      "year": 1750,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Europe and North America",
+      "modern_country": "Various",
+      "notes": "Tall children's chairs that let infants sit at the family table were made in Europe and colonial America by the 18th century; some earlier examples are claimed. Origins are uncertain."
+    },
+    "inventor": null,
+    "short_description": "A tall chair for a baby or toddler, often with a tray, used at mealtimes.",
+    "description": "High chairs raised small children to the height of the family table so they could eat with adults. Early versions were tall wooden chairs with long legs and a bar across the front. Modern versions add trays and straps but keep the same tall seat on splayed legs.",
+    "why_unchanged": "Lifting a child to table height with a safe seat and wide legs is an unchanged need.",
+    "materials": [
+      "wood",
+      "plastic",
+      "metal"
+    ],
+    "faqs": [
+      {
+        "question": "When can a baby use a high chair?",
+        "answer": "Usually when they can sit up on their own, often around six months."
+      },
+      {
+        "question": "Why do high chairs have splayed legs?",
+        "answer": "Wide-set legs make the tall chair more stable and less likely to tip."
+      },
+      {
+        "question": "Do high chairs need a harness?",
+        "answer": "Safety standards recommend using the restraint system to prevent falls."
+      }
+    ],
+    "image": {
+      "search_query": "wooden high chair",
+      "wikimedia_commons_category": "High chairs",
+      "alt": "A wooden child's high chair"
+    },
+    "tags": [
+      "furniture",
+      "baby",
+      "seating"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "boot-jack",
+    "name": "Boot jack",
+    "category": "Household & furniture",
+    "invention": {
+      "display": "17th-18th century",
+      "year": 1700,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Europe",
+      "modern_country": "Various",
+      "notes": "Bootjacks appear in Europe when tall riding boots were common; the exact origin is unknown."
+    },
+    "inventor": null,
+    "short_description": "A device with a U-shaped notch that holds the heel of a boot so it can be pulled off.",
+    "description": "Tight riding boots were hard to remove without help, so people used a board with a notch at one end to grip the heel. You stand on the back of the jack with one foot and pull the other foot free. Bootjacks are still used by riders, hikers and anyone wearing tall boots.",
+    "why_unchanged": "A notched lever and your own body weight do all the work, so the design is perfect as is.",
+    "materials": [
+      "wood",
+      "cast iron",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "How do you use a bootjack?",
+        "answer": "Place the heel of the boot in the notch, stand on the back of the jack with the other foot and pull your foot out."
+      },
+      {
+        "question": "Why were bootjacks needed?",
+        "answer": "Tight riding boots were hard to remove without help, especially when wet or muddy."
+      },
+      {
+        "question": "What are 'naughty Nellie' bootjacks?",
+        "answer": "They are cast-iron bootjacks shaped like a reclining woman, popular in the 19th century."
+      }
+    ],
+    "image": {
+      "search_query": "wooden boot jack",
+      "wikimedia_commons_category": "Bootjacks",
+      "alt": "A wooden bootjack on the floor"
+    },
+    "tags": [
+      "footwear",
+      "household",
+      "early modern"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "boot-scraper",
+    "name": "Boot scraper",
+    "category": "Household & furniture",
+    "invention": {
+      "display": "18th century",
+      "year": 1750,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Britain",
+      "modern_country": "United Kingdom",
+      "notes": "Iron boot scrapers became common beside doors in 18th-century Britain and elsewhere, when streets were muddy; exact origin unknown."
+    },
+    "inventor": null,
+    "short_description": "A metal blade fixed near a doorway for scraping mud off boots.",
+    "description": "In the 18th and 19th centuries, streets were often muddy and filthy, so iron scrapers were set into walls or steps beside front doors. Visitors scraped their soles on the blade before entering. Boot scrapers survive on many historic houses and are still sold for farm and garden doors.",
+    "why_unchanged": "A fixed metal edge scrapes mud off soles, and that simple job needs no improvement.",
+    "materials": [
+      "cast iron",
+      "wrought iron",
+      "steel"
+    ],
+    "faqs": [
+      {
+        "question": "Why do old houses have iron blades by the door?",
+        "answer": "They are boot scrapers, installed when streets were muddy so visitors could clean their boots."
+      },
+      {
+        "question": "Are boot scrapers still useful?",
+        "answer": "Yes, especially at farm, garden and hiking-trail entrances."
+      },
+      {
+        "question": "How is a boot scraper different from a doormat?",
+        "answer": "A scraper removes thick mud with a hard edge, while a doormat catches finer dirt."
+      }
+    ],
+    "image": {
+      "search_query": "iron boot scraper beside door",
+      "wikimedia_commons_category": "Boot scrapers",
+      "alt": "An iron boot scraper beside a house door"
+    },
+    "tags": [
+      "footwear",
+      "home fixture",
+      "georgian"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "windsor-chair",
+    "name": "Windsor chair",
+    "category": "Household & furniture",
+    "invention": {
+      "display": "Early 18th century",
+      "year": 1720,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Thames Valley, England",
+      "modern_country": "United Kingdom",
+      "notes": "The Windsor chair developed in the early 18th century in England, possibly named after the town of Windsor, through which many were shipped; the precise origin is uncertain."
+    },
+    "inventor": null,
+    "short_description": "A wooden chair with a solid seat into which spindles and legs are fitted.",
+    "description": "Windsor chairs have a thick, carved wooden seat into which the legs and the back spindles are separately socketed. They were made in England from the early 18th century and became immensely popular in colonial America. Windsor chairs are still made by hand and machine in the same way.",
+    "why_unchanged": "Socketing every part into a solid seat makes a light, strong chair that needs no further refinement.",
+    "materials": [
+      "wood"
+    ],
+    "faqs": [
+      {
+        "question": "Why is it called a Windsor chair?",
+        "answer": "It is thought to be named after Windsor, England, from where the chairs were shipped to London, though this is not certain."
+      },
+      {
+        "question": "What makes a Windsor chair distinctive?",
+        "answer": "Its solid seat into which legs and spindles are fitted separately, rather than a frame structure."
+      },
+      {
+        "question": "Were Windsor chairs used by America's founders?",
+        "answer": "Yes; Windsor chairs were used in Independence Hall in Philadelphia during the 18th century."
+      }
+    ],
+    "image": {
+      "search_query": "wooden windsor chair",
+      "wikimedia_commons_category": "Windsor chairs",
+      "alt": "A wooden Windsor chair with spindle back"
+    },
+    "tags": [
+      "furniture",
+      "seating",
+      "early modern"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "adirondack-chair",
+    "name": "Adirondack chair",
+    "category": "Household & furniture",
+    "invention": {
+      "display": "1903",
+      "year": 1903,
+      "approximate": false,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "Westport, New York",
+      "modern_country": "United States",
+      "notes": "Thomas Lee designed the chair at his summer home in 1903; carpenter Harry Bunnell patented a version as the 'Westport chair' in 1905."
+    },
+    "inventor": "Thomas Lee",
+    "short_description": "A wide outdoor chair with a slanted back, low seat and broad armrests.",
+    "description": "Thomas Lee designed the chair while on vacation in Westport, New York, in the Adirondack Mountains in 1903, seeking comfortable outdoor seating. His friend Harry Bunnell patented and sold it as the Westport chair. The slanted plank design remains a classic for porches and lawns.",
+    "why_unchanged": "Wide flat boards, a sloping back and broad arms make a stable, comfortable outdoor chair from simple lumber.",
+    "materials": [
+      "wood",
+      "recycled plastic"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the Adirondack chair?",
+        "answer": "Thomas Lee designed it in 1903 in Westport, New York."
+      },
+      {
+        "question": "Why are the armrests so wide?",
+        "answer": "The broad armrests hold drinks and books, making the chair ideal for relaxing outdoors."
+      },
+      {
+        "question": "Why is the seat slanted?",
+        "answer": "The slanted seat and back allow a relaxed reclining posture and stability on uneven ground."
+      }
+    ],
+    "image": {
+      "search_query": "adirondack chair on lawn",
+      "wikimedia_commons_category": "Adirondack chairs",
+      "alt": "A wooden Adirondack chair on a lawn"
+    },
+    "tags": [
+      "furniture",
+      "seating",
+      "outdoor"
+    ],
+    "confidence": "high"
+  },
+  {
+    "slug": "deck-chair",
+    "name": "Deck chair",
+    "category": "Household & furniture",
+    "invention": {
+      "display": "Late 19th century",
+      "year": 1880,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Britain",
+      "modern_country": "United Kingdom",
+      "notes": "Folding canvas deck chairs became popular on ocean liners and British seaside promenades in the late 19th century; several inventors patented versions and attribution is unclear."
+    },
+    "inventor": null,
+    "short_description": "A folding chair with a canvas seat slung on a wooden frame, used outdoors.",
+    "description": "Deck chairs became popular in the late 19th century on the decks of passenger liners and at British seaside resorts. The wooden frame folds flat, and a canvas sling forms both seat and back. The striped deck chair remains an icon of beach holidays.",
+    "why_unchanged": "A canvas sling on a folding frame is light, comfortable and stores flat.",
+    "materials": [
+      "wood",
+      "canvas",
+      "aluminium"
+    ],
+    "faqs": [
+      {
+        "question": "Why is it called a deck chair?",
+        "answer": "It was used on the decks of ocean liners in the late 19th century."
+      },
+      {
+        "question": "How do you set up a deck chair?",
+        "answer": "Unfold the frame and set the back bar into one of the notches to choose the recline angle."
+      },
+      {
+        "question": "What does 'rearranging deck chairs on the Titanic' mean?",
+        "answer": "It means doing something pointless in the face of an approaching disaster."
+      }
+    ],
+    "image": {
+      "search_query": "striped deck chairs on beach",
+      "wikimedia_commons_category": "Deck chairs",
+      "alt": "Striped canvas deck chairs on a beach"
+    },
+    "tags": [
+      "furniture",
+      "seating",
+      "outdoor"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "murphy-bed",
+    "name": "Murphy bed",
+    "category": "Household & furniture",
+    "invention": {
+      "display": "c. 1900",
+      "year": 1900,
+      "approximate": true,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "San Francisco, California",
+      "modern_country": "United States",
+      "notes": "William Lawrence Murphy developed the wall bed in San Francisco around 1900 and founded the Murphy Wall Bed Company; earlier folding beds existed, but his name became the generic term."
+    },
+    "inventor": "William Lawrence Murphy",
+    "short_description": "A bed hinged at one end that folds up into a wall or cabinet when not in use.",
+    "description": "According to company history, William Lawrence Murphy designed a bed that folded into a closet so his one-room apartment could double as a parlor. The design spread through apartments and hotels in the early 20th century. Murphy beds still use the same pivot-and-counterbalance principle.",
+    "why_unchanged": "A hinged bed balanced by springs or pistons hides away easily, so the idea has not changed.",
+    "materials": [
+      "wood",
+      "steel",
+      "springs"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the Murphy bed?",
+        "answer": "William Lawrence Murphy of San Francisco developed it around 1900."
+      },
+      {
+        "question": "Is a Murphy bed safe?",
+        "answer": "Modern Murphy beds use counterbalance systems and must be properly anchored to the wall to be safe."
+      },
+      {
+        "question": "Why are Murphy beds popular in small apartments?",
+        "answer": "Folding the bed away frees floor space so one room can serve as both bedroom and living room."
+      }
+    ],
+    "image": {
+      "search_query": "murphy wall bed",
+      "wikimedia_commons_category": "Murphy beds",
+      "alt": "A Murphy bed folding into a wall cabinet"
+    },
+    "tags": [
+      "furniture",
+      "sleep",
+      "space-saving"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "four-poster-bed",
+    "name": "Four-poster bed",
+    "category": "Household & furniture",
+    "invention": {
+      "display": "15th century",
+      "year": 1450,
+      "approximate": true,
+      "era": "Medieval"
+    },
+    "place_of_invention": {
+      "region": "Europe",
+      "modern_country": "Various",
+      "notes": "Beds with tall corner posts supporting a canopy and curtains became fashionable in late medieval and Tudor Europe; earlier canopy beds existed in antiquity."
+    },
+    "inventor": null,
+    "short_description": "A bed with four tall corner posts, often supporting a canopy and curtains.",
+    "description": "In late medieval and Tudor homes, four-poster beds held heavy curtains that kept out drafts and gave privacy in shared rooms. They were among the most valuable items in a household. Four-poster beds are still made as decorative statement pieces.",
+    "why_unchanged": "Four posts supporting a frame overhead is the simplest way to hang curtains around a bed.",
+    "materials": [
+      "oak",
+      "mahogany",
+      "iron",
+      "textile"
+    ],
+    "faqs": [
+      {
+        "question": "Why did four-poster beds have curtains?",
+        "answer": "Curtains kept out drafts in cold houses and gave privacy when several people shared a room."
+      },
+      {
+        "question": "What is the Great Bed of Ware?",
+        "answer": "It is a huge carved oak four-poster bed from about 1590, now in the Victoria and Albert Museum in London."
+      },
+      {
+        "question": "Is a canopy bed the same as a four-poster?",
+        "answer": "A canopy bed has a cloth covering on top; most four-posters can support a canopy, but not all have one."
+      }
+    ],
+    "image": {
+      "search_query": "oak four poster bed",
+      "wikimedia_commons_category": "Four-poster beds",
+      "alt": "A carved oak four-poster bed"
+    },
+    "tags": [
+      "furniture",
+      "sleep",
+      "medieval"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "charpai",
+    "name": "Charpai",
+    "category": "Household & furniture",
+    "invention": {
+      "display": "Medieval period or earlier",
+      "year": 1300,
+      "approximate": true,
+      "era": "Medieval"
+    },
+    "place_of_invention": {
+      "region": "South Asia",
+      "modern_country": "India",
+      "notes": "Woven rope beds have been used in South Asia for many centuries; the 14th-century traveller Ibn Battuta described them. Their true age is uncertain."
+    },
+    "inventor": null,
+    "short_description": "A light bed of a wooden frame strung with woven rope or tape.",
+    "description": "The charpai, meaning 'four feet', is a wooden frame strung with rope, jute or cotton tape in a crisscross weave. It is light, cool to sleep on in hot weather and easy to carry outdoors. Charpais are still used in homes and roadside eateries across India and Pakistan.",
+    "why_unchanged": "A strung frame is cool, light and easily repaired, ideal for hot climates.",
+    "materials": [
+      "wood",
+      "jute",
+      "cotton tape",
+      "coconut fibre rope"
+    ],
+    "faqs": [
+      {
+        "question": "What does charpai mean?",
+        "answer": "It comes from Hindi-Urdu words meaning 'four feet'."
+      },
+      {
+        "question": "Why are charpais good in hot climates?",
+        "answer": "The open weave lets air flow underneath, keeping the sleeper cool."
+      },
+      {
+        "question": "Where are charpais used today?",
+        "answer": "They are common in rural homes and in dhabas, roadside restaurants in India and Pakistan."
+      }
+    ],
+    "image": {
+      "search_query": "charpai rope bed",
+      "wikimedia_commons_category": "Charpai",
+      "alt": "A traditional charpai rope bed"
+    },
+    "tags": [
+      "furniture",
+      "sleep",
+      "south asia"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "wall-sconce",
+    "name": "Wall sconce",
+    "category": "Household & furniture",
+    "invention": {
+      "display": "Medieval period",
+      "year": 1400,
+      "approximate": true,
+      "era": "Medieval"
+    },
+    "place_of_invention": {
+      "region": "Europe",
+      "modern_country": "Various",
+      "notes": "Wall brackets holding torches, candles or lamps were used in castles and churches throughout the Middle Ages; no single origin is known."
+    },
+    "inventor": null,
+    "short_description": "A light fixture attached to a wall, originally holding a candle or torch.",
+    "description": "Medieval castles and churches used iron brackets on walls to hold torches and candles, saving floor and table space. Later sconces had a reflective backplate to amplify candlelight. Electric sconces today keep the same wall-mounted form.",
+    "why_unchanged": "Mounting a light on the wall frees space and spreads light, a need that has not changed.",
+    "materials": [
+      "iron",
+      "brass",
+      "silver",
+      "glass"
+    ],
+    "faqs": [
+      {
+        "question": "What does 'sconce' mean?",
+        "answer": "It comes from an Old French word for a lantern, derived from Latin 'absconsa', meaning hidden or covered."
+      },
+      {
+        "question": "Why did old sconces have mirrors?",
+        "answer": "A mirrored or polished backplate reflected candlelight, making the room brighter."
+      },
+      {
+        "question": "Where are sconces used today?",
+        "answer": "They are common in hallways, bathrooms and on either side of beds or mirrors."
+      }
+    ],
+    "image": {
+      "search_query": "candle wall sconce",
+      "wikimedia_commons_category": "Sconces",
+      "alt": "A brass candle wall sconce"
+    },
+    "tags": [
+      "lighting",
+      "fire",
+      "medieval"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "chandelier",
+    "name": "Chandelier",
+    "category": "Household & furniture",
+    "invention": {
+      "display": "Medieval period",
+      "year": 1350,
+      "approximate": true,
+      "era": "Medieval"
+    },
+    "place_of_invention": {
+      "region": "Europe",
+      "modern_country": "Various",
+      "notes": "Early chandeliers were wooden crosses or iron rings holding candles in medieval churches and halls; crystal chandeliers developed in the 17th and 18th centuries."
+    },
+    "inventor": null,
+    "short_description": "A hanging light fixture with several branches for candles or bulbs.",
+    "description": "Medieval chandeliers were simple wooden crosses or iron hoops with spikes for candles, hung from the ceiling to light large rooms. Brass and later crystal chandeliers became symbols of luxury in the 17th and 18th centuries. Electric chandeliers keep the branched hanging design.",
+    "why_unchanged": "Hanging many lights from one point spreads illumination across a large room, so the design endures.",
+    "materials": [
+      "brass",
+      "crystal",
+      "iron",
+      "wood",
+      "glass"
+    ],
+    "faqs": [
+      {
+        "question": "How were candle chandeliers lit?",
+        "answer": "They were often lowered with a rope or pulley so candles could be lit and replaced."
+      },
+      {
+        "question": "Why do chandeliers have crystals?",
+        "answer": "Crystals refract and reflect light, multiplying the glow of the candles or bulbs."
+      },
+      {
+        "question": "Where does the word chandelier come from?",
+        "answer": "It comes from French, from 'chandelle', meaning candle."
+      }
+    ],
+    "image": {
+      "search_query": "crystal chandelier",
+      "wikimedia_commons_category": "Chandeliers",
+      "alt": "A crystal chandelier hanging from a ceiling"
+    },
+    "tags": [
+      "lighting",
+      "fire",
+      "medieval"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "fly-whisk",
+    "name": "Fly whisk",
+    "category": "Household & furniture",
+    "invention": {
+      "display": "c. 3000 BCE",
+      "year": -3000,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Ancient Egypt",
+      "modern_country": "Egypt",
+      "notes": "Fly whisks of animal hair on handles appear in ancient Egyptian art and were used across Africa and Asia; they likely arose in many places."
+    },
+    "inventor": null,
+    "short_description": "A tuft of animal hair or fibre on a handle, waved to drive away flies.",
+    "description": "Fly whisks were used in ancient Egypt, where they also became symbols of royal authority. In many African and Asian cultures they remain both practical tools and signs of status or religious office. The tuft-on-a-handle design has never changed.",
+    "why_unchanged": "A light tuft on a handle waves insects away without harming anything.",
+    "materials": [
+      "horsehair",
+      "yak hair",
+      "palm fibre",
+      "wood"
+    ],
+    "faqs": [
+      {
+        "question": "Why are fly whisks symbols of power?",
+        "answer": "In ancient Egypt and many African cultures, fly whisks were carried by rulers and elders as signs of authority."
+      },
+      {
+        "question": "What is a chowrie?",
+        "answer": "A chowrie is a South Asian fly whisk, often of yak tail, used in religious and royal ceremonies."
+      },
+      {
+        "question": "Do people still use fly whisks?",
+        "answer": "Yes; they are used in hot regions and by riders and herders to drive off flies."
+      }
+    ],
+    "image": {
+      "search_query": "horsehair fly whisk",
+      "wikimedia_commons_category": "Fly whisks",
+      "alt": "A horsehair fly whisk with a wooden handle"
+    },
+    "tags": [
+      "insects",
+      "ancient",
+      "ceremony"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "flypaper",
+    "name": "Flypaper",
+    "category": "Household & furniture",
+    "invention": {
+      "display": "1880s",
+      "year": 1887,
+      "approximate": true,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Grand Rapids, Michigan",
+      "modern_country": "United States",
+      "notes": "Sticky fly-catching papers were sold in Europe and the US in the 19th century; the Thum family's 'Tanglefoot' brand, launched in Grand Rapids in the 1880s, made it widespread. No single inventor is clearly credited."
+    },
+    "inventor": null,
+    "short_description": "A strip or sheet of paper coated with sticky material that traps flies.",
+    "description": "Before screens and sprays, sticky paper hung from ceilings or laid on tables was one of the main ways to control flies. In the 1880s the Thum brothers of Grand Rapids sold 'Tanglefoot' sticky flypaper widely. Hanging spiral flypaper ribbons are still sold today.",
+    "why_unchanged": "A sticky surface catches insects without chemicals or mechanism.",
+    "materials": [
+      "paper",
+      "resin",
+      "castor oil",
+      "sugar"
+    ],
+    "faqs": [
+      {
+        "question": "How does flypaper attract flies?",
+        "answer": "It is coated with a sticky mixture, often with a sweet scent, that lures flies who then get stuck."
+      },
+      {
+        "question": "Is flypaper toxic?",
+        "answer": "Modern flypaper is generally non-toxic, relying on stickiness rather than poison, though early versions sometimes contained arsenic."
+      },
+      {
+        "question": "Where should flypaper be hung?",
+        "answer": "Near windows, lights or places where flies gather, away from where people walk."
+      }
+    ],
+    "image": {
+      "search_query": "hanging flypaper strip",
+      "wikimedia_commons_category": "Flypaper",
+      "alt": "A strip of flypaper hanging from a ceiling"
+    },
+    "tags": [
+      "insects",
+      "pest control",
+      "industrial"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "carpet-sweeper",
+    "name": "Carpet sweeper",
+    "category": "Household & furniture",
+    "invention": {
+      "display": "1876 (patent)",
+      "year": 1876,
+      "approximate": false,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Grand Rapids, Michigan",
+      "modern_country": "United States",
+      "notes": "Melville R. Bissell patented an improved carpet sweeper in 1876; earlier sweeper patents exist, but Bissell's design made it a household staple."
+    },
+    "inventor": "Melville R. Bissell",
+    "short_description": "A manually pushed device with rotating brushes that sweeps dirt from carpets into a container.",
+    "description": "Melville Bissell, who ran a crockery shop in Grand Rapids, patented a carpet sweeper in 1876, reportedly because he was allergic to the dusty straw used for packing. Rollers turn a cylindrical brush that throws dirt into a box. Manual carpet sweepers are still sold for quick, quiet clean-ups.",
+    "why_unchanged": "Wheels driving a rotary brush need no power and pick up crumbs quickly, so the design has stayed.",
+    "materials": [
+      "plastic",
+      "wood",
+      "metal",
+      "bristles"
+    ],
+    "faqs": [
+      {
+        "question": "How does a carpet sweeper work?",
+        "answer": "As you push it, the wheels spin a brush roller that flicks dirt into a container inside the housing."
+      },
+      {
+        "question": "Why use a carpet sweeper instead of a vacuum?",
+        "answer": "It is quiet, light, needs no electricity and is handy for quick clean-ups."
+      },
+      {
+        "question": "Who invented the carpet sweeper?",
+        "answer": "Melville R. Bissell patented his influential design in 1876, building a company that still bears his name."
+      }
+    ],
+    "image": {
+      "search_query": "manual carpet sweeper",
+      "wikimedia_commons_category": "Carpet sweepers",
+      "alt": "A manual carpet sweeper on a rug"
+    },
+    "tags": [
+      "cleaning",
+      "patent",
+      "industrial"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "cushion",
+    "name": "Cushion",
+    "category": "Household & furniture",
+    "invention": {
+      "display": "Ancient (c. 2000 BCE)",
+      "year": -2000,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Ancient Egypt and the Near East",
+      "modern_country": "Various",
+      "notes": "Stuffed cushions for seats appear in ancient Egyptian and Near Eastern art; they were made independently in many cultures."
+    },
+    "inventor": null,
+    "short_description": "A soft bag of fabric stuffed with filling, used for sitting or leaning on.",
+    "description": "Cushions softened hard wooden and stone seats in ancient Egypt, Mesopotamia and the classical world. Floor cushions remain central to seating in many cultures, from Japan to the Middle East. The stuffed fabric bag remains unchanged.",
+    "why_unchanged": "A filled fabric bag makes any surface comfortable, so its form needs no change.",
+    "materials": [
+      "cotton",
+      "linen",
+      "feathers",
+      "foam",
+      "polyester"
+    ],
+    "faqs": [
+      {
+        "question": "What is a zabuton?",
+        "answer": "A zabuton is a Japanese floor cushion used for sitting on tatami."
+      },
+      {
+        "question": "What is the difference between a cushion and a pillow?",
+        "answer": "A cushion is generally for seating or decoration, while a pillow supports the head in bed."
+      },
+      {
+        "question": "How do you keep cushions plump?",
+        "answer": "Fluff them regularly, rotate them and air them to help the filling recover."
+      }
+    ],
+    "image": {
+      "search_query": "sofa cushions",
+      "wikimedia_commons_category": "Cushions",
+      "alt": "Several colourful cushions on a sofa"
+    },
+    "tags": [
+      "textile",
+      "seating",
+      "ancient"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "bolster",
+    "name": "Bolster",
+    "category": "Household & furniture",
+    "invention": {
+      "display": "Medieval period",
+      "year": 1200,
+      "approximate": true,
+      "era": "Medieval"
+    },
+    "place_of_invention": {
+      "region": "Europe and Asia",
+      "modern_country": "Various",
+      "notes": "Long cylindrical pillows were used in medieval Europe beneath standard pillows, and bolsters have long been used in South and Southeast Asia; their origin is unknown."
+    },
+    "inventor": null,
+    "short_description": "A long, firm cylindrical pillow.",
+    "description": "In medieval and early modern Europe, a long bolster ran across the head of the bed beneath ordinary pillows. In Southeast Asia, the 'Dutch wife' or hug pillow helped sleepers stay cool. Bolsters are still used for support in beds, sofas and yoga.",
+    "why_unchanged": "A firm cylinder supports the neck, back or legs, a shape that cannot be improved.",
+    "materials": [
+      "cotton",
+      "kapok",
+      "feathers",
+      "foam",
+      "buckwheat husks"
+    ],
+    "faqs": [
+      {
+        "question": "What is a bolster used for?",
+        "answer": "It is used for neck and back support, as decoration on beds and sofas, and as a prop in yoga."
+      },
+      {
+        "question": "What is a 'Dutch wife'?",
+        "answer": "It is a name for a long bolster or hug pillow used in hot climates to keep limbs apart and cool."
+      },
+      {
+        "question": "What does 'to bolster' mean?",
+        "answer": "It means to support or strengthen something, from the bolster's role as support."
+      }
+    ],
+    "image": {
+      "search_query": "cylindrical bolster pillow",
+      "wikimedia_commons_category": "Bolsters",
+      "alt": "A cylindrical bolster pillow on a bed"
+    },
+    "tags": [
+      "bedding",
+      "textile",
+      "medieval"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "kilim",
+    "name": "Kilim",
+    "category": "Household & furniture",
+    "invention": {
+      "display": "Ancient",
+      "year": -500,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Anatolia, Persia and Central Asia",
+      "modern_country": "Turkey",
+      "notes": "Flat-woven rugs are very old in Anatolia, Persia and Central Asia, but few early examples survive and the date of origin is disputed."
+    },
+    "inventor": null,
+    "short_description": "A flat-woven rug with no pile, made by tightly interweaving coloured wefts.",
+    "description": "Kilims are made on a loom by tightly packing coloured weft threads to hide the warps, creating a flat, reversible rug. They have been woven for centuries by nomadic and village weavers in Anatolia, Persia, the Caucasus and Central Asia. Traditional patterns and techniques are still passed down today.",
+    "why_unchanged": "Flat tapestry weaving produces a durable, lightweight rug with only a simple loom.",
+    "materials": [
+      "wool",
+      "cotton",
+      "goat hair"
+    ],
+    "faqs": [
+      {
+        "question": "What is the difference between a kilim and a carpet?",
+        "answer": "A kilim is flat-woven with no pile, while a carpet has a raised surface of knotted tufts."
+      },
+      {
+        "question": "Why do kilims have slits?",
+        "answer": "Many are woven with a slit-tapestry technique, leaving small gaps where colour areas meet."
+      },
+      {
+        "question": "Are kilims reversible?",
+        "answer": "Yes; most kilims look nearly the same on both sides."
+      }
+    ],
+    "image": {
+      "search_query": "turkish kilim rug",
+      "wikimedia_commons_category": "Kilims",
+      "alt": "A colourful Turkish kilim rug"
+    },
+    "tags": [
+      "textile",
+      "floor",
+      "ancient"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "mosquito-coil",
+    "name": "Mosquito coil",
+    "category": "Household & furniture",
+    "invention": {
+      "display": "1902 (coil form)",
+      "year": 1902,
+      "approximate": false,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "Wakayama Prefecture",
+      "modern_country": "Japan",
+      "notes": "Eiichiro Ueyama developed pyrethrum incense sticks in the 1890s; the spiral coil, which burns longer, was introduced around 1902, an idea attributed to his wife Yuki."
+    },
+    "inventor": "Eiichiro Ueyama",
+    "short_description": "A spiral of insect-repellent paste that smoulders slowly to keep mosquitoes away.",
+    "description": "Japanese businessman Eiichiro Ueyama made incense sticks containing pyrethrum, a natural insecticide from chrysanthemum flowers. Around 1902 the spiral shape was introduced so the coil could burn for hours in a compact form. Mosquito coils are still widely used in Asia, Africa and Latin America.",
+    "why_unchanged": "A spiral packs a long burn into a small space and needs no electricity.",
+    "materials": [
+      "pyrethrum",
+      "wood powder",
+      "binder"
+    ],
+    "faqs": [
+      {
+        "question": "Why is a mosquito coil shaped like a spiral?",
+        "answer": "The spiral lets a long strip burn for hours while staying compact and stable."
+      },
+      {
+        "question": "What is in a mosquito coil?",
+        "answer": "Traditionally pyrethrum powder from chrysanthemum flowers, though many modern coils use synthetic pyrethroids."
+      },
+      {
+        "question": "Are mosquito coils safe indoors?",
+        "answer": "Their smoke can irritate lungs, so they are best used outdoors or in well-ventilated spaces."
+      }
+    ],
+    "image": {
+      "search_query": "burning mosquito coil",
+      "wikimedia_commons_category": "Mosquito coils",
+      "alt": "A green mosquito coil burning on a stand"
+    },
+    "tags": [
+      "insects",
+      "japan",
+      "modern"
+    ],
+    "confidence": "medium"
+  }
+]

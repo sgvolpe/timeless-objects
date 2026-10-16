@@ -1,0 +1,1269 @@
+[
+  {
+    "slug": "lipstick-tube",
+    "name": "Lipstick tube",
+    "category": "Personal care & health",
+    "invention": {
+      "display": "1923",
+      "year": 1923,
+      "approximate": false,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "Nashville, Tennessee",
+      "modern_country": "United States",
+      "notes": "James Bruce Mason Jr. patented the swivel-up lipstick tube in 1923; sliding metal lipstick cases had appeared around 1915 (often credited to Maurice Levy)."
+    },
+    "inventor": "James Bruce Mason Jr.",
+    "short_description": "A cylindrical case with a twist mechanism that raises and lowers a stick of lipstick.",
+    "description": "Lip color is ancient, but for centuries it was sold in pots or wrapped in paper. Metal push-up cases appeared in the 1910s, and in 1923 James Bruce Mason Jr. patented the swivel mechanism that raises the stick by twisting the base. Nearly every lipstick today still uses this twist-up tube.",
+    "why_unchanged": "A twist mechanism inside a capped tube protects the stick and dispenses it neatly, so there was no need for change.",
+    "materials": [
+      "aluminum",
+      "brass",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the twist-up lipstick tube?",
+        "answer": "James Bruce Mason Jr. of Nashville patented the swivel lipstick tube in 1923."
+      },
+      {
+        "question": "How was lipstick sold before tubes?",
+        "answer": "It was sold in small pots, as paper-wrapped sticks or in slide-up metal cases."
+      },
+      {
+        "question": "Why do lipstick tips come in different shapes?",
+        "answer": "Bullet, slanted and flat tips give different control over lining and filling in the lips."
+      }
+    ],
+    "image": {
+      "search_query": "lipstick tube open",
+      "wikimedia_commons_category": "Lipsticks",
+      "alt": "An open lipstick in a metal tube"
+    },
+    "tags": [
+      "cosmetics",
+      "patent",
+      "modern"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "mascara-wand",
+    "name": "Mascara wand",
+    "category": "Personal care & health",
+    "invention": {
+      "display": "1957",
+      "year": 1957,
+      "approximate": false,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "United States",
+      "modern_country": "United States",
+      "notes": "Helena Rubinstein's 'Mascara-Matic' (1957) is widely cited as the first tube with a built-in spiral wand; earlier mascara came in cakes applied with a small brush."
+    },
+    "inventor": null,
+    "short_description": "A small spiral brush attached to the cap of a mascara tube.",
+    "description": "For decades mascara was sold as a solid cake that had to be moistened and applied with a tiny brush. In 1957 Helena Rubinstein's company introduced a tube of liquid mascara with a built-in spiral wand. Bristle shapes vary, but the wand-in-tube format has remained standard ever since.",
+    "why_unchanged": "A spiral brush that stores inside its own tube coats lashes evenly and stays clean, so the format endures.",
+    "materials": [
+      "nylon",
+      "plastic",
+      "steel wire"
+    ],
+    "faqs": [
+      {
+        "question": "How was mascara applied before the wand?",
+        "answer": "It came as a pressed cake that was moistened, often with water, and applied with a small brush."
+      },
+      {
+        "question": "Why are mascara wands twisted?",
+        "answer": "The wire is twisted around the bristles to hold them firmly and create a spiral that catches and separates lashes."
+      },
+      {
+        "question": "How long does mascara last once opened?",
+        "answer": "Most guidelines suggest replacing it after about three months to reduce the risk of eye infection."
+      }
+    ],
+    "image": {
+      "search_query": "mascara wand brush",
+      "wikimedia_commons_category": "Mascara",
+      "alt": "A mascara wand with a spiral brush"
+    },
+    "tags": [
+      "cosmetics",
+      "eyes",
+      "modern"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "eyebrow-pencil",
+    "name": "Eyebrow pencil",
+    "category": "Personal care & health",
+    "invention": {
+      "display": "Early 20th century",
+      "year": 1915,
+      "approximate": true,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "Europe and North America",
+      "modern_country": null,
+      "notes": "Wood-cased cosmetic pencils became common in the early 20th century; earlier people darkened brows with burnt matches, soot or kohl. No single inventor is documented."
+    },
+    "inventor": null,
+    "short_description": "A wood-cased or retractable pencil with a soft colored core for filling in brows.",
+    "description": "People have darkened their eyebrows with soot, kohl and burnt cork for centuries. In the early 20th century cosmetic makers adapted the wood-cased writing pencil to hold soft, waxy pigment, creating the eyebrow pencil. It is still sharpened and used in the same way.",
+    "why_unchanged": "A pencil gives fine, controllable lines and a built-in protective casing, so the format needed no change.",
+    "materials": [
+      "wood",
+      "wax",
+      "pigment",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "What did people use before eyebrow pencils?",
+        "answer": "Common substitutes included burnt matches, cork, soot, kohl and charcoal."
+      },
+      {
+        "question": "Can an eyebrow pencil be used as eyeliner?",
+        "answer": "Some can, but eyeliner formulas are usually softer and tested for use near the eye."
+      },
+      {
+        "question": "Why do some brow pencils have a spoolie?",
+        "answer": "The spiral brush blends the pencil strokes and brushes brow hairs into place."
+      }
+    ],
+    "image": {
+      "search_query": "eyebrow pencil cosmetic",
+      "wikimedia_commons_category": "Eyebrow pencils",
+      "alt": "An eyebrow pencil"
+    },
+    "tags": [
+      "cosmetics",
+      "pencil",
+      "modern"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "perfume-bottle",
+    "name": "Perfume bottle",
+    "category": "Personal care & health",
+    "invention": {
+      "display": "c. 1500 BCE",
+      "year": -1500,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Ancient Egypt and Mesopotamia",
+      "modern_country": null,
+      "notes": "Core-formed glass vessels for scented oils appear in Egypt and Mesopotamia in the mid-2nd millennium BCE; perfume containers of stone and clay are older."
+    },
+    "inventor": null,
+    "short_description": "A small stoppered bottle for holding perfume or scented oil.",
+    "description": "Ancient Egyptians and Mesopotamians stored scented oils in small vessels of stone, clay and, from about 1500 BCE, core-formed glass. Glassblowing, developed in the Roman world, made small perfume flasks cheaper and more common. Today's perfume bottles are often elaborate designer objects, but they remain small stoppered glass vessels.",
+    "why_unchanged": "A small sealed glass vessel protects volatile scent from air and light, which is all that is required.",
+    "materials": [
+      "glass",
+      "crystal",
+      "ceramic"
+    ],
+    "faqs": [
+      {
+        "question": "Why are perfume bottles usually glass?",
+        "answer": "Glass does not react with the fragrance and seals well, preserving the scent."
+      },
+      {
+        "question": "Why are some perfume bottles dark?",
+        "answer": "Tinted glass protects fragrances from light, which can break down their ingredients."
+      },
+      {
+        "question": "Are vintage perfume bottles collectible?",
+        "answer": "Yes; bottles made by companies such as Lalique and Baccarat are highly sought after by collectors."
+      }
+    ],
+    "image": {
+      "search_query": "glass perfume bottle",
+      "wikimedia_commons_category": "Perfume bottles",
+      "alt": "A glass perfume bottle"
+    },
+    "tags": [
+      "cosmetics",
+      "glass",
+      "ancient"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "perfume-atomizer",
+    "name": "Perfume atomizer",
+    "category": "Personal care & health",
+    "invention": {
+      "display": "c. 1907",
+      "year": 1907,
+      "approximate": true,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "Toledo, Ohio",
+      "modern_country": "United States",
+      "notes": "Dr. Allen DeVilbiss developed a squeeze-bulb atomizer for medical use in the late 19th century; his son Thomas DeVilbiss adapted it for perfume in the early 20th century."
+    },
+    "inventor": null,
+    "short_description": "A bottle fitted with a squeeze bulb or pump that sprays perfume in a fine mist.",
+    "description": "The DeVilbiss family of Toledo, Ohio, first made atomizers to spray medicine into the throat and nose. The design was adapted for perfume in the early 20th century, letting users apply a fine mist instead of dabbing. Many modern fragrances use pump sprays, but the bulb atomizer is still made in the same form.",
+    "why_unchanged": "Squeezing a bulb to push air through a narrow tube is a simple, reliable way to turn liquid into mist.",
+    "materials": [
+      "glass",
+      "rubber",
+      "silk mesh",
+      "metal"
+    ],
+    "faqs": [
+      {
+        "question": "How does an atomizer work?",
+        "answer": "Air from the squeezed bulb rushes across the top of a narrow tube, drawing up liquid and breaking it into tiny droplets."
+      },
+      {
+        "question": "Was the atomizer invented for perfume?",
+        "answer": "No; it was first designed to spray medicines into the throat and nose."
+      },
+      {
+        "question": "Why does a spray use less perfume than dabbing?",
+        "answer": "The fine mist spreads a small amount of fragrance over a wider area."
+      }
+    ],
+    "image": {
+      "search_query": "vintage perfume atomizer bulb",
+      "wikimedia_commons_category": "Perfume atomizers",
+      "alt": "A vintage perfume atomizer with a tasseled bulb"
+    },
+    "tags": [
+      "cosmetics",
+      "glass",
+      "modern"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "folding-fan",
+    "name": "Folding fan",
+    "category": "Personal care & health",
+    "invention": {
+      "display": "c. 8th–9th century",
+      "year": 800,
+      "approximate": true,
+      "era": "Medieval"
+    },
+    "place_of_invention": {
+      "region": "Japan",
+      "modern_country": "Japan",
+      "notes": "The folding fan is traditionally credited to Japan, where wooden-slat hiōgi date to around the Nara–Heian periods; it later spread to China and Europe."
+    },
+    "inventor": null,
+    "short_description": "A hand-held fan made of pleated material on ribs that fold together.",
+    "description": "The folding fan is generally believed to have originated in Japan, where early versions were made of thin wooden slats. It spread to China and, via trade, to Europe, where it became a fashionable accessory in the 17th and 18th centuries. Folding fans are still made with the same ribs and pleated leaf.",
+    "why_unchanged": "Ribs that fan out and fold flat make a fan that is compact to carry and easy to use.",
+    "materials": [
+      "paper",
+      "silk",
+      "bamboo",
+      "wood"
+    ],
+    "faqs": [
+      {
+        "question": "Where was the folding fan invented?",
+        "answer": "Most historians credit Japan with inventing the folding fan, around the 8th–9th century."
+      },
+      {
+        "question": "Was there a 'language of the fan'?",
+        "answer": "Nineteenth-century booklets described a fan language for flirting, but historians consider it largely a playful invention rather than a real code."
+      },
+      {
+        "question": "How do you fold a fan correctly?",
+        "answer": "Close it gently along its existing pleats, guard sticks outermost, to avoid tearing the leaf."
+      }
+    ],
+    "image": {
+      "search_query": "japanese folding fan sensu",
+      "wikimedia_commons_category": "Folding fans",
+      "alt": "An open paper folding fan"
+    },
+    "tags": [
+      "cooling",
+      "paper",
+      "medieval",
+      "japan"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "hand-fan",
+    "name": "Hand fan",
+    "category": "Personal care & health",
+    "invention": {
+      "display": "c. 3000 BCE",
+      "year": -3000,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Ancient Egypt",
+      "modern_country": "Egypt",
+      "notes": "Rigid fans of feathers and leaves appear in early Egyptian art and tombs; hand fans were probably used independently in many hot regions much earlier."
+    },
+    "inventor": null,
+    "short_description": "A fixed, flat fan on a handle waved to create a cooling breeze.",
+    "description": "Rigid hand fans of palm leaf, feathers or woven fibers are depicted in ancient Egyptian art, and ceremonial ostrich-feather fans were found in Tutankhamun's tomb. Similar fans developed independently in China, India and elsewhere. Simple palm and paper fans of the same flat, handled form are still common in hot climates.",
+    "why_unchanged": "A flat surface on a handle moves air efficiently, and no part of it needs improving.",
+    "materials": [
+      "palm leaf",
+      "paper",
+      "feathers",
+      "bamboo",
+      "wood"
+    ],
+    "faqs": [
+      {
+        "question": "How old is the hand fan?",
+        "answer": "Rigid fans appear in ancient Egyptian art and burials, and probably existed even earlier."
+      },
+      {
+        "question": "What is the difference between a hand fan and a folding fan?",
+        "answer": "A rigid hand fan has a fixed blade, while a folding fan collapses along its ribs."
+      },
+      {
+        "question": "Are fans used in ceremonies?",
+        "answer": "Yes; large feather fans were status symbols in ancient Egypt and are still used in some religious and royal ceremonies."
+      }
+    ],
+    "image": {
+      "search_query": "palm leaf hand fan",
+      "wikimedia_commons_category": "Hand fans",
+      "alt": "A woven palm-leaf hand fan"
+    },
+    "tags": [
+      "cooling",
+      "natural",
+      "ancient"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "roll-on-deodorant",
+    "name": "Roll-on deodorant",
+    "category": "Personal care & health",
+    "invention": {
+      "display": "1952",
+      "year": 1952,
+      "approximate": false,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "United States",
+      "modern_country": "United States",
+      "notes": "Bristol-Myers launched Ban roll-on in 1952, inspired by the ballpoint pen; Helen Barnett Diserens is often credited with developing it, but sources vary."
+    },
+    "inventor": null,
+    "short_description": "A bottle with a rotating ball at the top that rolls liquid deodorant onto the skin.",
+    "description": "Roll-on deodorant was introduced in the US in 1952 under the Ban brand, borrowing the rolling-ball principle of the newly popular ballpoint pen. The ball picks up liquid from the bottle and spreads a thin, even layer. The roll-on remains a major format today with essentially the same mechanism.",
+    "why_unchanged": "A rolling ball in the bottle's neck applies an even layer without spills, so the mechanism was never changed.",
+    "materials": [
+      "plastic",
+      "glass"
+    ],
+    "faqs": [
+      {
+        "question": "What inspired roll-on deodorant?",
+        "answer": "It was inspired by the ballpoint pen, which uses a rolling ball to spread ink."
+      },
+      {
+        "question": "What is the difference between deodorant and antiperspirant?",
+        "answer": "Deodorant masks or neutralizes odor, while antiperspirant reduces sweating, usually using aluminum salts."
+      },
+      {
+        "question": "Why should roll-on dry before dressing?",
+        "answer": "Letting it dry prevents marks on clothing and helps the product work effectively."
+      }
+    ],
+    "image": {
+      "search_query": "roll-on deodorant bottle",
+      "wikimedia_commons_category": "Roll-on deodorants",
+      "alt": "A roll-on deodorant bottle"
+    },
+    "tags": [
+      "hygiene",
+      "plastic",
+      "modern"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "toilet-paper-roll",
+    "name": "Toilet paper roll",
+    "category": "Personal care & health",
+    "invention": {
+      "display": "1871",
+      "year": 1871,
+      "approximate": false,
+      "era": "Industrial"
+    },
+    "place_of_invention": {
+      "region": "Albany, New York",
+      "modern_country": "United States",
+      "notes": "Paper for hygiene was used in China centuries earlier, and Joseph Gayetty sold flat packaged sheets in 1857; Seth Wheeler patented wrapping paper on a roll in 1871 and perforated rolls in 1891."
+    },
+    "inventor": "Seth Wheeler",
+    "short_description": "A long strip of soft paper wound on a cardboard core and perforated into sheets.",
+    "description": "Paper for personal hygiene is recorded in China as early as the 6th century, and in 1857 Joseph Gayetty sold flat 'medicated paper' in the US. Seth Wheeler of Albany patented paper on a roll in 1871 and the perforated roll in 1891. The perforated roll on a core is still the standard worldwide.",
+    "why_unchanged": "A perforated roll dispenses one sheet at a time from a compact holder, which is hard to improve.",
+    "materials": [
+      "paper",
+      "cardboard"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the toilet paper roll?",
+        "answer": "Seth Wheeler of Albany, New York, patented rolled and perforated toilet paper in 1871 and 1891."
+      },
+      {
+        "question": "Should toilet paper hang over or under?",
+        "answer": "Wheeler's 1891 patent drawings show the paper hanging over the front of the roll."
+      },
+      {
+        "question": "What did people use before toilet paper?",
+        "answer": "Methods varied widely: leaves, moss, corn cobs, sponges on sticks, water and old newspapers."
+      }
+    ],
+    "image": {
+      "search_query": "toilet paper roll",
+      "wikimedia_commons_category": "Toilet paper",
+      "alt": "A roll of toilet paper"
+    },
+    "tags": [
+      "hygiene",
+      "paper",
+      "patent",
+      "industrial"
+    ],
+    "confidence": "high"
+  },
+  {
+    "slug": "facial-tissue",
+    "name": "Facial tissue",
+    "category": "Personal care & health",
+    "invention": {
+      "display": "1924",
+      "year": 1924,
+      "approximate": false,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "Neenah, Wisconsin",
+      "modern_country": "United States",
+      "notes": "Kimberly-Clark introduced Kleenex in 1924 as a makeup remover; it was marketed as a disposable handkerchief from around 1930."
+    },
+    "inventor": null,
+    "short_description": "A soft, disposable paper sheet for wiping the nose or face.",
+    "description": "Kimberly-Clark developed a soft creped paper from a material used as a filter in First World War gas masks. It launched Kleenex in 1924 as a cold-cream remover, but customers used it to blow their noses, so it was rebranded as a disposable handkerchief. The interfolded pop-up box followed in the late 1920s, and tissues have barely changed since.",
+    "why_unchanged": "A soft, disposable sheet in a pop-up box is about as simple and hygienic as it gets.",
+    "materials": [
+      "paper",
+      "cellulose"
+    ],
+    "faqs": [
+      {
+        "question": "What were tissues first sold for?",
+        "answer": "Kleenex was originally marketed in 1924 for removing makeup and cold cream."
+      },
+      {
+        "question": "Why are tissues interfolded in the box?",
+        "answer": "Interfolding means pulling out one tissue lifts the next, so they pop up one at a time."
+      },
+      {
+        "question": "Why does 'Kleenex' mean tissue?",
+        "answer": "The brand became so dominant that its name turned into a generic word, much like 'aspirin'."
+      }
+    ],
+    "image": {
+      "search_query": "box of facial tissues",
+      "wikimedia_commons_category": "Facial tissues",
+      "alt": "A tissue pulled from a box"
+    },
+    "tags": [
+      "hygiene",
+      "paper",
+      "modern"
+    ],
+    "confidence": "high"
+  },
+  {
+    "slug": "tampon",
+    "name": "Tampon",
+    "category": "Personal care & health",
+    "invention": {
+      "display": "1931",
+      "year": 1931,
+      "approximate": false,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "Denver, Colorado",
+      "modern_country": "United States",
+      "notes": "Absorbent plugs were used for menstruation in antiquity; Earle Haas filed the patent for the modern applicator tampon in 1931 (granted 1933), later sold as Tampax."
+    },
+    "inventor": "Earle Haas",
+    "short_description": "A small plug of absorbent material inserted to absorb menstrual flow.",
+    "description": "Absorbent inserts for menstruation have been made from papyrus, wool and other materials since ancient times. In 1931 the Colorado physician Earle Haas designed a compressed cotton tampon with a cardboard applicator tube and a removal string. He sold the patent to Gertrude Tendrich, who founded Tampax, and the design is still standard.",
+    "why_unchanged": "A compressed absorbent core with an applicator and string solved insertion, absorption and removal together.",
+    "materials": [
+      "cotton",
+      "rayon",
+      "cardboard",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the modern tampon?",
+        "answer": "Dr. Earle Haas designed the applicator tampon in 1931, patented in 1933 and sold as Tampax."
+      },
+      {
+        "question": "What is toxic shock syndrome?",
+        "answer": "It is a rare but serious bacterial illness linked to tampon use; changing tampons every 4–8 hours reduces the risk."
+      },
+      {
+        "question": "Were tampons used in ancient times?",
+        "answer": "Ancient medical texts describe inserted absorbent materials, though how commonly they were used is uncertain."
+      }
+    ],
+    "image": {
+      "search_query": "tampon with applicator",
+      "wikimedia_commons_category": "Tampons",
+      "alt": "A wrapped tampon"
+    },
+    "tags": [
+      "health",
+      "menstrual",
+      "patent",
+      "modern"
+    ],
+    "confidence": "high"
+  },
+  {
+    "slug": "menstrual-cup",
+    "name": "Menstrual cup",
+    "category": "Personal care & health",
+    "invention": {
+      "display": "1937",
+      "year": 1937,
+      "approximate": false,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "United States",
+      "modern_country": "United States",
+      "notes": "Earlier menstrual cup patents date from the 1860s, but the American actress Leona Chalmers patented the design closest to modern cups in 1937."
+    },
+    "inventor": "Leona Chalmers",
+    "short_description": "A flexible, reusable cup worn internally to collect menstrual fluid.",
+    "description": "Leona Chalmers patented a bell-shaped reusable rubber cup in 1937. Rubber shortages during the Second World War and social taboos limited its success, and the idea was revived in the late 1980s. Today's medical-grade silicone cups keep the same bell shape with a short stem.",
+    "why_unchanged": "A soft bell-shaped cup forms a seal and holds fluid, so later improvements were only in materials.",
+    "materials": [
+      "medical-grade silicone",
+      "rubber",
+      "TPE"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the menstrual cup?",
+        "answer": "Leona Chalmers patented the modern design in 1937, though earlier patents for similar devices exist."
+      },
+      {
+        "question": "How long can a menstrual cup be worn?",
+        "answer": "Most manufacturers say up to 12 hours, depending on flow."
+      },
+      {
+        "question": "How long does a menstrual cup last?",
+        "answer": "With proper care, a silicone cup can last several years."
+      }
+    ],
+    "image": {
+      "search_query": "silicone menstrual cup",
+      "wikimedia_commons_category": "Menstrual cups",
+      "alt": "A silicone menstrual cup"
+    },
+    "tags": [
+      "health",
+      "menstrual",
+      "reusable",
+      "modern"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "condom",
+    "name": "Condom",
+    "category": "Personal care & health",
+    "invention": {
+      "display": "1564 (first description)",
+      "year": 1564,
+      "approximate": false,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Italy",
+      "modern_country": "Italy",
+      "notes": "The anatomist Gabriele Falloppio described a linen sheath against syphilis in a work published in 1564; earlier use is debated. Rubber condoms followed vulcanization in the 1850s, and latex in the 1920s."
+    },
+    "inventor": null,
+    "short_description": "A thin sheath worn during sex to prevent pregnancy and sexually transmitted infections.",
+    "description": "The first undisputed description of a condom comes from the Italian anatomist Gabriele Falloppio, who recommended a linen sheath to prevent syphilis. Later condoms were made of animal gut, then vulcanized rubber in the 19th century and latex from the 1920s. The thin sheath remains one of the most effective and widely used means of protection.",
+    "why_unchanged": "A thin, close-fitting sheath is the simplest effective barrier, so only materials have changed.",
+    "materials": [
+      "latex",
+      "polyurethane",
+      "polyisoprene",
+      "lambskin"
+    ],
+    "faqs": [
+      {
+        "question": "When were condoms first described?",
+        "answer": "Gabriele Falloppio described a linen sheath for preventing syphilis in a work published in 1564."
+      },
+      {
+        "question": "When did latex condoms appear?",
+        "answer": "Latex condoms appeared in the 1920s and were thinner, stronger and longer-lasting than rubber ones."
+      },
+      {
+        "question": "Do condoms expire?",
+        "answer": "Yes; materials degrade over time, so it is important to check the expiry date and store them away from heat."
+      }
+    ],
+    "image": {
+      "search_query": "condom packet",
+      "wikimedia_commons_category": "Condoms",
+      "alt": "A sealed condom packet"
+    },
+    "tags": [
+      "health",
+      "latex",
+      "early modern"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "pacifier",
+    "name": "Pacifier",
+    "category": "Personal care & health",
+    "invention": {
+      "display": "c. 1900",
+      "year": 1900,
+      "approximate": true,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "United States",
+      "modern_country": "United States",
+      "notes": "Rag 'sugar teats' and coral teethers were used for centuries; rubber pacifiers appeared in the late 19th century, and a 1900 US patent for a 'baby comforter' is often cited as an early modern design."
+    },
+    "inventor": null,
+    "short_description": "A rubber or silicone teat on a shield and handle, given to babies to suck.",
+    "description": "For centuries babies were soothed with sugar teats, cloth bundles filled with sweetened bread or sugar. Rubber pacifiers with a nipple, a shield and a ring handle appeared in the late 19th and early 20th centuries. Modern pacifiers use silicone and orthodontic shapes, but the three-part design is the same.",
+    "why_unchanged": "A soft teat with a shield that cannot be swallowed and a handle to grip meets every need.",
+    "materials": [
+      "silicone",
+      "latex",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "What did babies use before pacifiers?",
+        "answer": "Parents used sugar teats, cloth knots filled with sugar or bread, and teethers of coral or ivory."
+      },
+      {
+        "question": "Why does a pacifier have air holes in the shield?",
+        "answer": "The holes let air flow if the shield gets pressed against the face, and are a safety requirement in many countries."
+      },
+      {
+        "question": "Do pacifiers affect teeth?",
+        "answer": "Long-term use beyond toddlerhood can affect tooth alignment, so dentists often recommend weaning by age two to four."
+      }
+    ],
+    "image": {
+      "search_query": "baby pacifier",
+      "wikimedia_commons_category": "Pacifiers",
+      "alt": "A baby pacifier"
+    },
+    "tags": [
+      "baby care",
+      "rubber",
+      "modern"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "teething-ring",
+    "name": "Teething ring",
+    "category": "Personal care & health",
+    "invention": {
+      "display": "17th–18th century",
+      "year": 1700,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Europe",
+      "modern_country": null,
+      "notes": "Teethers of coral, ivory and bone, often set in silver rattles, were common in early modern Europe; simple rings for chewing are likely older."
+    },
+    "inventor": null,
+    "short_description": "A ring that a teething baby can safely chew to soothe sore gums.",
+    "description": "Wealthy European families gave babies coral or ivory teethers, often attached to silver whistles and bells, which were thought to have protective powers. Simpler rings of bone and wood were used by others. Modern teething rings are made of rubber or silicone, sometimes chilled, but they keep the same ring shape.",
+    "why_unchanged": "A ring is easy for tiny hands to hold and safe to chew, so the shape has stayed.",
+    "materials": [
+      "silicone",
+      "rubber",
+      "wood",
+      "coral",
+      "ivory"
+    ],
+    "faqs": [
+      {
+        "question": "Why are teething rings ring-shaped?",
+        "answer": "A ring is easy for a baby to grasp and has no small parts that could break off."
+      },
+      {
+        "question": "Why were old teethers made of coral?",
+        "answer": "Coral was believed to ward off evil and illness, as well as being smooth and hard."
+      },
+      {
+        "question": "Is it okay to freeze a teething ring?",
+        "answer": "Chilling in the fridge is fine, but health advice usually warns against freezing because it can become hard enough to hurt gums."
+      }
+    ],
+    "image": {
+      "search_query": "silicone teething ring baby",
+      "wikimedia_commons_category": "Teethers",
+      "alt": "A silicone teething ring"
+    },
+    "tags": [
+      "baby care",
+      "early modern"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "chamber-pot",
+    "name": "Chamber pot",
+    "category": "Personal care & health",
+    "invention": {
+      "display": "c. 6th century BCE",
+      "year": -550,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Ancient Greece (Athens)",
+      "modern_country": "Greece",
+      "notes": "Ceramic chamber pots, including a child's potty from Athens, are known from ancient Greece; similar vessels were used in many cultures."
+    },
+    "inventor": null,
+    "short_description": "A bowl-shaped pot with a handle kept in the bedroom for use as a toilet at night.",
+    "description": "Ceramic chamber pots appear in ancient Greece, including a child's potty-chair from Athens dating to the 6th century BCE. They remained essential in homes until indoor plumbing became common in the 19th and 20th centuries. Chamber pots and children's potties are still made in the same handled bowl form.",
+    "why_unchanged": "A sturdy handled bowl with a wide rim is all the job demands.",
+    "materials": [
+      "ceramic",
+      "enamelware",
+      "metal",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "When did people stop using chamber pots?",
+        "answer": "In many Western homes they faded out with indoor plumbing in the late 19th and 20th centuries, but they remained in use elsewhere longer."
+      },
+      {
+        "question": "Where were chamber pots kept?",
+        "answer": "They were usually kept under the bed or inside a cabinet called a commode."
+      },
+      {
+        "question": "Is a child's potty a chamber pot?",
+        "answer": "Essentially yes; the training potty is a modern descendant of the chamber pot."
+      }
+    ],
+    "image": {
+      "search_query": "antique enamel chamber pot",
+      "wikimedia_commons_category": "Chamber pots",
+      "alt": "An enamel chamber pot with a handle"
+    },
+    "tags": [
+      "hygiene",
+      "ceramic",
+      "ancient"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "bedpan",
+    "name": "Bedpan",
+    "category": "Personal care & health",
+    "invention": {
+      "display": "Early modern (date uncertain)",
+      "year": 1600,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Europe",
+      "modern_country": null,
+      "notes": "Vessels for bedridden patients are mentioned from antiquity, but the flat, wedge-shaped bedpan is documented in Europe from about the 16th–17th century."
+    },
+    "inventor": null,
+    "short_description": "A shallow receptacle placed under a bedridden person for toileting.",
+    "description": "Caring for patients who cannot leave their beds has always required some receptacle. Pewter and ceramic bedpans with a flat profile and handle were in use in Europe by the early modern period. Hospitals now use plastic, stainless steel or disposable pulp bedpans, but the slipper shape remains.",
+    "why_unchanged": "A low, wide vessel that slides under the body is the only shape that works for a person lying down.",
+    "materials": [
+      "stainless steel",
+      "plastic",
+      "pulp",
+      "pewter",
+      "ceramic"
+    ],
+    "faqs": [
+      {
+        "question": "What is a slipper bedpan?",
+        "answer": "It is a low-profile bedpan with a thin front edge, designed for patients who cannot lift their hips."
+      },
+      {
+        "question": "What were early bedpans made of?",
+        "answer": "Older bedpans were made of pewter, brass, ceramic or porcelain."
+      },
+      {
+        "question": "Are bedpans still used?",
+        "answer": "Yes, they remain standard in hospitals and home care, increasingly as disposable pulp liners."
+      }
+    ],
+    "image": {
+      "search_query": "stainless steel bedpan",
+      "wikimedia_commons_category": "Bedpans",
+      "alt": "A stainless-steel bedpan"
+    },
+    "tags": [
+      "medical",
+      "hygiene",
+      "early modern"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "mosquito-net",
+    "name": "Mosquito net",
+    "category": "Personal care & health",
+    "invention": {
+      "display": "5th century BCE (described)",
+      "year": -450,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Ancient Egypt",
+      "modern_country": "Egypt",
+      "notes": "Herodotus described Egyptians sleeping under nets to avoid gnats; nets were probably used in many regions earlier."
+    },
+    "inventor": null,
+    "short_description": "A fine mesh curtain hung around a bed to keep out mosquitoes.",
+    "description": "The Greek historian Herodotus wrote that people in Egypt slept under nets to protect themselves from biting insects. Nets of fine fabric have been used across Asia, Africa and the Mediterranean ever since. Today insecticide-treated nets are a key tool against malaria, but the hanging mesh canopy is unchanged.",
+    "why_unchanged": "A fine mesh canopy blocks insects while letting air through, which is exactly what is needed.",
+    "materials": [
+      "polyester",
+      "cotton",
+      "nylon"
+    ],
+    "faqs": [
+      {
+        "question": "How do mosquito nets help prevent malaria?",
+        "answer": "They stop mosquitoes, which bite mostly at night, from reaching people while they sleep; insecticide-treated nets also kill mosquitoes."
+      },
+      {
+        "question": "What is an insecticide-treated net?",
+        "answer": "It is a net treated with a long-lasting insecticide, making it more effective than an untreated barrier."
+      },
+      {
+        "question": "How old are mosquito nets?",
+        "answer": "Herodotus described nets being used against biting insects in Egypt in the 5th century BCE."
+      }
+    ],
+    "image": {
+      "search_query": "mosquito net bed",
+      "wikimedia_commons_category": "Mosquito nets",
+      "alt": "A white mosquito net over a bed"
+    },
+    "tags": [
+      "health",
+      "textile",
+      "ancient"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "wax-earplug",
+    "name": "Wax earplug",
+    "category": "Personal care & health",
+    "invention": {
+      "display": "1907",
+      "year": 1907,
+      "approximate": false,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "Berlin",
+      "modern_country": "Germany",
+      "notes": "Earplugs of wax are mentioned in antiquity (Odysseus's crew in Homer); Maximilian Negwer began producing Ohropax wax-and-cotton earplugs in 1907."
+    },
+    "inventor": "Maximilian Negwer",
+    "short_description": "A small ball of wax and cotton molded into the outer ear to block noise.",
+    "description": "In Homer's Odyssey, Odysseus plugs his crew's ears with beeswax to protect them from the Sirens. In 1907 the Berlin pharmacist Maximilian Negwer began selling Ohropax, mouldable balls of wax and cotton wool. These are still produced, alongside foam and silicone earplugs.",
+    "why_unchanged": "Soft wax molds itself to each ear, so a simple ball gives a custom seal without any design changes.",
+    "materials": [
+      "wax",
+      "cotton",
+      "silicone",
+      "foam"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented wax earplugs?",
+        "answer": "Wax was used to plug ears in antiquity, but Maximilian Negwer created the commercial Ohropax earplug in 1907."
+      },
+      {
+        "question": "Why use wax rather than foam earplugs?",
+        "answer": "Wax molds over the ear canal opening and suits people who find foam inside the canal uncomfortable."
+      },
+      {
+        "question": "What does 'Ohropax' mean?",
+        "answer": "It combines German 'Ohr' (ear) with Latin 'pax' (peace)."
+      }
+    ],
+    "image": {
+      "search_query": "wax earplugs",
+      "wikimedia_commons_category": "Earplugs",
+      "alt": "Several wax earplugs"
+    },
+    "tags": [
+      "health",
+      "noise",
+      "patent",
+      "modern"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "hot-water-bottle",
+    "name": "Hot water bottle",
+    "category": "Personal care & health",
+    "invention": {
+      "display": "1903",
+      "year": 1903,
+      "approximate": false,
+      "era": "Modern"
+    },
+    "place_of_invention": {
+      "region": "Zagreb",
+      "modern_country": "Croatia",
+      "notes": "Warming pans and stone bottles were used earlier; Eduard Penkala is credited with the rubber hot water bottle around 1903."
+    },
+    "inventor": "Eduard Penkala",
+    "short_description": "A flexible rubber bag filled with hot water and used for warmth or pain relief.",
+    "description": "People warmed beds with heated stones, copper bed warmers and stoneware bottles for centuries. Around 1903 the Croatian inventor Eduard Penkala developed a rubber hot water bottle, which was soft and safe to hold against the body. The ribbed rubber bottle with a screw stopper has changed little since.",
+    "why_unchanged": "A flexible rubber bag with a screw stopper holds heat safely, so there was nothing to fix.",
+    "materials": [
+      "rubber",
+      "PVC",
+      "fabric cover"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented the rubber hot water bottle?",
+        "answer": "The Croatian engineer Eduard Penkala is credited with inventing it around 1903."
+      },
+      {
+        "question": "Why should you not use boiling water?",
+        "answer": "Boiling water can damage the rubber and cause burns; manufacturers recommend hot, not boiling, water."
+      },
+      {
+        "question": "Do hot water bottles expire?",
+        "answer": "Many are stamped with a manufacture date; a common guideline is to replace them every two to three years."
+      }
+    ],
+    "image": {
+      "search_query": "rubber hot water bottle",
+      "wikimedia_commons_category": "Hot water bottles",
+      "alt": "A red rubber hot water bottle"
+    },
+    "tags": [
+      "health",
+      "rubber",
+      "warmth",
+      "modern"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "eyeglasses",
+    "name": "Eyeglasses",
+    "category": "Personal care & health",
+    "invention": {
+      "display": "c. 1286",
+      "year": 1286,
+      "approximate": true,
+      "era": "Medieval"
+    },
+    "place_of_invention": {
+      "region": "Pisa, Italy",
+      "modern_country": "Italy",
+      "notes": "A 1306 sermon by Giordano da Pisa said spectacles had been invented about twenty years earlier; the inventor is unknown, and claims for Salvino degli Armati are considered a hoax."
+    },
+    "inventor": null,
+    "short_description": "A pair of lenses held in a frame in front of the eyes to correct vision.",
+    "description": "Eyeglasses were invented in northern Italy around 1286, initially as convex lenses for reading, held on the nose without arms. Concave lenses for nearsightedness followed in the 15th century, and side arms resting on the ears became common in the 18th century. The two-lenses-in-a-frame design has remained basically the same.",
+    "why_unchanged": "Two lenses held in front of the eyes is the simplest way to correct vision, so only frames and materials evolved.",
+    "materials": [
+      "glass",
+      "polycarbonate",
+      "metal",
+      "acetate"
+    ],
+    "faqs": [
+      {
+        "question": "Who invented eyeglasses?",
+        "answer": "Nobody knows for certain; a sermon from 1306 dates their invention to about 1286 in Italy."
+      },
+      {
+        "question": "When did glasses get arms?",
+        "answer": "Temple arms over the ears became widespread in the 18th century; before that glasses were perched on the nose or held."
+      },
+      {
+        "question": "Who invented bifocals?",
+        "answer": "Benjamin Franklin is often credited with bifocals in the 1780s, though the claim is debated."
+      }
+    ],
+    "image": {
+      "search_query": "pair of eyeglasses",
+      "wikimedia_commons_category": "Eyeglasses",
+      "alt": "A pair of eyeglasses on a table"
+    },
+    "tags": [
+      "vision",
+      "optics",
+      "medieval"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "slug": "monocle",
+    "name": "Monocle",
+    "category": "Personal care & health",
+    "invention": {
+      "display": "18th century",
+      "year": 1725,
+      "approximate": true,
+      "era": "Early Modern"
+    },
+    "place_of_invention": {
+      "region": "Germany and Austria",
+      "modern_country": null,
+      "notes": "The antiquarian Philipp von Stosch is said to have used a single lens in the early 18th century; the monocle became fashionable in the 19th century in Germany, Britain and elsewhere."
+    },
+    "inventor": null,
+    "short_description": "A single corrective lens held in place by the muscles around one eye.",
+    "description": "Single lenses held to the eye were used by scholars in the 18th century, and the monocle as a lens held by the eye socket became fashionable in 19th-century Prussia and Britain. It became a symbol of the upper class and military officers. Though rare today, monocles are still made in the same round form.",
+    "why_unchanged": "A single lens gripped by the eye socket has no frame to improve.",
+    "materials": [
+      "glass",
+      "metal",
+      "cord"
+    ],
+    "faqs": [
+      {
+        "question": "How does a monocle stay in place?",
+        "answer": "It is held between the cheek and brow by the muscles around the eye, sometimes with a ridged rim for grip."
+      },
+      {
+        "question": "Why was the monocle associated with aristocrats?",
+        "answer": "In the 19th century it was fashionable among upper-class men and officers, especially in Prussia and Britain."
+      },
+      {
+        "question": "Are monocles still made?",
+        "answer": "Yes, a few opticians still make prescription monocles, mostly for enthusiasts."
+      }
+    ],
+    "image": {
+      "search_query": "monocle lens chain",
+      "wikimedia_commons_category": "Monocles",
+      "alt": "A monocle on a chain"
+    },
+    "tags": [
+      "vision",
+      "optics",
+      "early modern"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "magnifying-glass",
+    "name": "Magnifying glass",
+    "category": "Personal care & health",
+    "invention": {
+      "display": "c. 1250",
+      "year": 1250,
+      "approximate": true,
+      "era": "Medieval"
+    },
+    "place_of_invention": {
+      "region": "England",
+      "modern_country": "United Kingdom",
+      "notes": "Roger Bacon described using lenses to magnify writing in the 1260s; lenses and reading stones were known earlier, and no single inventor is credited."
+    },
+    "inventor": null,
+    "short_description": "A convex lens, usually in a frame with a handle, used to enlarge small details.",
+    "description": "The magnifying power of curved glass was known in antiquity, and the 11th-century scholar Ibn al-Haytham studied lenses in detail. In the 13th century Roger Bacon described using a lens segment to make letters appear larger. The handled magnifying glass became a familiar tool and remains unchanged.",
+    "why_unchanged": "A convex lens on a handle magnifies by pure optics, so there is nothing to redesign.",
+    "materials": [
+      "glass",
+      "acrylic",
+      "metal",
+      "plastic"
+    ],
+    "faqs": [
+      {
+        "question": "How does a magnifying glass work?",
+        "answer": "Its convex lens bends light rays so that an object appears larger when viewed within the lens's focal length."
+      },
+      {
+        "question": "Can a magnifying glass start a fire?",
+        "answer": "Yes; it can focus sunlight into a hot point, a technique used since antiquity, so it should not be left in the sun."
+      },
+      {
+        "question": "Why is the magnifying glass a symbol of detectives?",
+        "answer": "Sherlock Holmes popularized it as a tool for examining clues closely."
+      }
+    ],
+    "image": {
+      "search_query": "magnifying glass",
+      "wikimedia_commons_category": "Magnifying glasses",
+      "alt": "A handled magnifying glass"
+    },
+    "tags": [
+      "vision",
+      "optics",
+      "medieval"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "reading-stone",
+    "name": "Reading stone",
+    "category": "Personal care & health",
+    "invention": {
+      "display": "c. 1000",
+      "year": 1000,
+      "approximate": true,
+      "era": "Medieval"
+    },
+    "place_of_invention": {
+      "region": "Europe and the Islamic world",
+      "modern_country": null,
+      "notes": "Ibn al-Haytham's Book of Optics (c. 1021) discussed magnification by curved glass; polished glass or crystal domes used for reading are associated with medieval Europe. Dating is approximate."
+    },
+    "inventor": null,
+    "short_description": "A dome-shaped lens laid directly on text to magnify it for reading.",
+    "description": "Reading stones were hemispheres of polished crystal or glass that, placed on a page, enlarged the letters. They are associated with medieval monks and scholars whose eyesight was failing. Glass dome magnifiers based on the same idea are still sold for reading and stamp collecting.",
+    "why_unchanged": "A dome that sits directly on the page stays in focus without being held, so the design is complete.",
+    "materials": [
+      "glass",
+      "rock crystal",
+      "acrylic"
+    ],
+    "faqs": [
+      {
+        "question": "What is a reading stone?",
+        "answer": "It is a hemisphere of glass or crystal placed on text to magnify it, an early form of magnifier."
+      },
+      {
+        "question": "Who used reading stones?",
+        "answer": "They are associated with medieval monks and scholars who needed help reading as their eyesight weakened."
+      },
+      {
+        "question": "Are dome magnifiers still used?",
+        "answer": "Yes; acrylic dome magnifiers are popular with people with low vision and with collectors."
+      }
+    ],
+    "image": {
+      "search_query": "dome magnifier reading stone",
+      "wikimedia_commons_category": "Reading stones",
+      "alt": "A glass reading stone on a page of text"
+    },
+    "tags": [
+      "vision",
+      "optics",
+      "medieval"
+    ],
+    "confidence": "low"
+  },
+  {
+    "slug": "eye-patch",
+    "name": "Eye patch",
+    "category": "Personal care & health",
+    "invention": {
+      "display": "Antiquity (date uncertain)",
+      "year": 0,
+      "approximate": true,
+      "era": "Ancient"
+    },
+    "place_of_invention": {
+      "region": "Mediterranean and beyond",
+      "modern_country": null,
+      "notes": "Covering an injured or lost eye with cloth is ancient and universal; no specific origin can be documented."
+    },
+    "inventor": null,
+    "short_description": "A small pad or shield worn over one eye, held with a strap or adhesive.",
+    "description": "People have covered injured or missing eyes with cloth since ancient times. In the 20th century eye patches also became a medical treatment for amblyopia (lazy eye), forcing the weaker eye to work. The simple fabric patch on a strap is still common.",
+    "why_unchanged": "A small shield on a strap covers one eye completely, which is the whole purpose.",
+    "materials": [
+      "fabric",
+      "leather",
+      "adhesive gauze"
+    ],
+    "faqs": [
+      {
+        "question": "Why are eye patches used for lazy eye?",
+        "answer": "Covering the stronger eye forces the brain to use the weaker eye, helping its vision develop."
+      },
+      {
+        "question": "Did pirates really wear eye patches?",
+        "answer": "Some sailors who lost eyes wore patches, but the image is largely a literary and film stereotype."
+      },
+      {
+        "question": "Are adhesive eye patches better for children?",
+        "answer": "Adhesive patches are harder for children to remove, which can make amblyopia treatment more effective."
+      }
+    ],
+    "image": {
+      "search_query": "black eye patch",
+      "wikimedia_commons_category": "Eye patches",
+      "alt": "A black fabric eye patch"
+    },
+    "tags": [
+      "medical",
+      "eyes",
+      "ancient"
+    ],
+    "confidence": "low"
+  }
+]
